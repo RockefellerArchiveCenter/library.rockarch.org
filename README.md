@@ -4,7 +4,7 @@ A web application which provides the front-end user interface for the online dis
 
 ## Dependencies
 
-* [Python](https://www.python.org/downloads/) (Tested on 2.7, 3.7.)
+* [Python](https://www.python.org/downloads/) (Tested on 3.7.)
 * [Ruby 2.5.0](https://www.ruby-lang.org/en/) or higher
 * [Jekyll 4.1.1](https://jekyllrb.com/) or higher
 * [Node.js 12.18.3](https://nodejs.org/en/) or higher
