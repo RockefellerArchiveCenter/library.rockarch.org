@@ -1,0 +1,806 @@
+{
+  "leader": "04873cam a2200613 a 4500",
+  "fields": [
+    {
+      "001": "ocn742305975"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104115112.0"
+    },
+    {
+      "008": "110721s2012\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2011029190"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "YDX"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "GTA"
+          },
+          {
+            "d": "EEK"
+          },
+          {
+            "d": "A9Z"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CHVBK"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "MAC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "NJK"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "EUM"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "LUN"
+          }
+        ]
+      }
+    },
+    {
+      "066": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "(2"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GBB203676"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GBB203676."
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "016009413"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "773428619"
+          },
+          {
+            "a": "775411154"
+          },
+          {
+            "a": "1058085213"
+          },
+          {
+            "a": "1060844600"
+          },
+          {
+            "a": "1062146210"
+          },
+          {
+            "a": "1064133721"
+          },
+          {
+            "a": "1074307554"
+          },
+          {
+            "a": "1081051162"
+          },
+          {
+            "a": "1084877828"
+          },
+          {
+            "a": "1088448793"
+          },
+          {
+            "a": "1166858025"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780231146289"
+          },
+          {
+            "q": "(cloth ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0231146280"
+          },
+          {
+            "q": "(cloth ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780231517935"
+          },
+          {
+            "q": "(e-book)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0231517939"
+          },
+          {
+            "q": "(e-book)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780231146296"
+          },
+          {
+            "q": "(paperback)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0231146299"
+          },
+          {
+            "q": "(paperback)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)742305975"
+          },
+          {
+            "z": "(OCoLC)773428619"
+          },
+          {
+            "z": "(OCoLC)775411154"
+          },
+          {
+            "z": "(OCoLC)1058085213"
+          },
+          {
+            "z": "(OCoLC)1060844600"
+          },
+          {
+            "z": "(OCoLC)1062146210"
+          },
+          {
+            "z": "(OCoLC)1064133721"
+          },
+          {
+            "z": "(OCoLC)1074307554"
+          },
+          {
+            "z": "(OCoLC)1081051162"
+          },
+          {
+            "z": "(OCoLC)1084877828"
+          },
+          {
+            "z": "(OCoLC)1088448793"
+          },
+          {
+            "z": "(OCoLC)1166858025"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV97.F62"
+          },
+          {
+            "b": "P37 2012"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "305.896073"
+          },
+          {
+            "b": "PAR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Parmar, Inderjeet."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Foundations of the American century :"
+          },
+          {
+            "b": "the Ford, Carnegie, and Rockefeller Foundations in the rise of American power /"
+          },
+          {
+            "c": "Inderjeet Parmar."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Columbia University Press,"
+          },
+          {
+            "c": "\u00a92012."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 356 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 267-339) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The significance of foundations in U.S. foreign policy -- American foundation leaders -- Laying the foundations of globalism, 1930-1945 -- Promoting Americanism, combating anti-Americanism, and developing a Cold War American studies network -- The Ford Foundation in Indonesia and the Asian studies network -- Ford, Rockefeller, and Carnegie in Nigeria and the African studies network -- The major foundations, Latin American studies, and Chile in the Cold War -- American power and the major foundations in the post-Cold War era -- Conclusion."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Inderjeet Parmar reveals the complex interrelations, shared mindsets, and collaborative efforts of influential public and private organizations in the building of American hegemony. Focusing on the involvement of the Ford, Rockefeller, and Carnegie foundations in U.S. foreign affairs, Parmar marks the transformation of America from an 'isolationist' nation into the world's only superpower, all in the name of benevolent stewardship. The author begins in the 1920s with the establishment of these foundations and their system of top-down, elitist, scientific giving, which focused more on effecting social, political, and economic change than in solving modern society's structural problems. Consulting rare documents and other archival materials, he recounts how the American intellectuals, academics, and policy makers affiliated with these organizations institutionalized such elitism, which then bled into the machinery of U.S. foreign policy and became regarded as the essence of modernity. America hoped to replace Britain in the role of global hegemon and created the necessary political, ideological, military, and institutional capacity to do so, yet far from being objective, the Ford, Rockefeller, and Carnegie foundations often advanced U.S. interests at the expense of other nations. Incorporating case studies of American philanthropy in Nigeria, Chile, and Indonesia to support his argument, Parmar boldly exposes the knowledge networks underwriting American dominance in the twentieth century.-- Book Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "506": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Electronic version is restricted to subscribing institutions."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ford Foundation"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Carnegie Foundation for the Advancement of Teaching"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller Foundation"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Carnegie Foundation for the Advancement of Teaching."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00513988"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ford Foundation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00533904"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockefeller Foundation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00528303"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Foreign relations"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Diplomatic relations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01907412"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "u": "http://site.ebrary.com/lib/sydney/docDetail.action?docID=10547015"
+          },
+          {
+            "z": "Ebrary"
+          }
+        ]
+      }
+    },
+    {
+      "880": {
+        "ind1": "2",
+        "ind2": "4",
+        "subfields": [
+          {
+            "6": "610-00/(2/r"
+          },
+          {
+            "a": "\u05e4\u05d5\u05e8\u05d3 (\u05de\u05db\u05d5\u05e0\u05d9\u05d5\u05ea)"
+          }
+        ]
+      }
+    },
+    {
+      "880": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "6": "600-00/(2/r"
+          },
+          {
+            "a": "\u05e8\u05d5\u05e7\u05e4\u05dc\u05e8, \u05d2'\u05d5\u05df."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 296 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000017503"
+          }
+        ]
+      }
+    }
+  ]
+}

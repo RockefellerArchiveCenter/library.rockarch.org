@@ -1,0 +1,575 @@
+{
+  "leader": "05089cam a2200505Ia 4500",
+  "fields": [
+    {
+      "001": "ocm41439653\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106113509.0"
+    },
+    {
+      "008": "990513s1999\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   99032388 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "PGC"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "ILU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MNI"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "EUX"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "U9X"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "007823077"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1022677816"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871542447"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871542441"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)41439653"
+          },
+          {
+            "z": "(OCoLC)1022677816"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "JV6465"
+          },
+          {
+            "b": ".H25 1999"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "304.873"
+          },
+          {
+            "b": "HAN"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The handbook of international migration :"
+          },
+          {
+            "b": "the American experience /"
+          },
+          {
+            "c": "Charles Hirschman, Philip Kasinitz, Josh DeWind, editors."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a91999."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiv, 502 pages ;"
+          },
+          {
+            "c": "26 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 433-486) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction. International migration and immigration research : the state of the field -- pt. 1. Theories and concepts of international migration. Immigration theory for a new century : problems and opportunities / Alejandro Portes -- Why does immigration occur? : a theoretical synthesis / Douglas S. Massey -- The role of gender, households, and social networks in the migration process : a review and appraisal / Patricia R. Pessar -- Matters of state : theorizing immigration policy / Aristide R. Zolberg -- Transmigrants and nation-states : something old and something new in the U.S. immigrant experience / Nina Glick Schiller -- Theories of international migration and immigration : a preliminary reconnaissance of ideal types / Charles Hirschman -- pt. 2. Immigrant adaptation, assimilation, and incorporation. Rethinking assimilation theory for a new era of immigration / Richard Alba and Victor Nee -- Toward a reconciliation of \"assimilation\" and \"pluralism\" : the interplay of acculturation and ethnic retention / Herbert J. Green -- Assimilation and its discontents : ironies and paradoxes / Rube\u0301n G. Rumbaut -- Segmented assimilation : issues, controversies, and recent research on the new second generation / Min Zhou."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Social and linguistic aspects of assimilation today / David E. Lo\u0301pez -- Immigrants, past and present : a reconsideration / Joel Perlmann and Roger Waldinger -- Immigrants' socioeconomic progress post-1965 : forging mobility or survival? / Rebeca Raijman and Marta Tienda -- The immigrant family : cultural legacies and cultural changes / Nancy Foner -- pt. 3. The American response to immigration. Liberty, coercion, and the making of Americans / Gary Gerstle -- Immigration and political incorporation in the contemporary United States / David Plotke -- Historical perspectives on the economic consequences of immigration into the United States / Susan B. Carter and Richard Sutch -- Immigration and the receiving economy / Rachel M. Friedberg and Jennifer Hunt -- Fiscal impacts of immigrants and the shrinking welfare state / Thomas J. Espenshade and Gregory A. Huber -- Face the nation : race, immigration, and the rise of nativism in late-twentieth-century / George J. Sa\u0301nchez."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Instead of a sequel, or, how I lost my subject / John Higham -- Immigration reform and the browning of America : tensions, conflicts, and community instability in metropolitan Los Angeles / James H. Johnson Jr., Walter C. Farrell Jr., and Chandra Guinn -- Urban political conflicts and alliances : New York and Los Angeles compared / John Hull Mollenkopf -- U.S. immigration and changing relations between African Americans and Latinos / Nestor Rodriguez."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The Handbook of International Migration gathers the best of this scholarship in one volume to present a comprehensive overview of the state of immigration research in this country, bringing coherence and fresh insight to this fast growing field.\" \"The contributors to The Handbook of International Migration draw upon the best social science theory and demographic research to examine the effects and implications of immigration in the United States.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Emigration and immigration."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Immigrants"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Emigration and immigration."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00908690"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Immigrants."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00967712"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hirschman, Charles."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Kasinitz, Philip,"
+          },
+          {
+            "d": "1957-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DeWind, Josh."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/fy0709/99032388.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/99032388-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/99032388-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 640 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000039712"
+          }
+        ]
+      }
+    }
+  ]
+}

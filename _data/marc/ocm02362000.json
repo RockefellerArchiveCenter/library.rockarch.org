@@ -1,0 +1,651 @@
+{
+  "leader": "03611cam a2200529 i 4500",
+  "fields": [
+    {
+      "001": "ocm02362000\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106161014.0"
+    },
+    {
+      "008": "760305s1976\\\\\\\\mau\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   75044725 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "HF9"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GB7633762"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "771541031"
+          },
+          {
+            "2": "can"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000000617396"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "16369374"
+          },
+          {
+            "a": "187327559"
+          },
+          {
+            "a": "492377459"
+          },
+          {
+            "a": "1145206010"
+          },
+          {
+            "a": "1153188994"
+          },
+          {
+            "a": "1166544308"
+          },
+          {
+            "a": "1224891769"
+          },
+          {
+            "a": "1231471103"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0669004170"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780669004175"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)2362000"
+          },
+          {
+            "z": "(OCoLC)16369374"
+          },
+          {
+            "z": "(OCoLC)187327559"
+          },
+          {
+            "z": "(OCoLC)492377459"
+          },
+          {
+            "z": "(OCoLC)1145206010"
+          },
+          {
+            "z": "(OCoLC)1153188994"
+          },
+          {
+            "z": "(OCoLC)1166544308"
+          },
+          {
+            "z": "(OCoLC)1224891769"
+          },
+          {
+            "z": "(OCoLC)1231471103"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E169.12"
+          },
+          {
+            "b": ".Q23"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E169.12"
+          },
+          {
+            "b": ".Q23"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "309.173092"
+          },
+          {
+            "b": "QUA"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Qualities of"
+          },
+          {
+            " ": "life."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lexington, Mass. :"
+          },
+          {
+            "b": "Lexington Books,"
+          },
+          {
+            "c": "\u00a91976."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxiv, 475 pages :"
+          },
+          {
+            "b": "graphs ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Critical choices for Americans ;"
+          },
+          {
+            "v": "v. 7"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Papers prepared for the Commission on Critical Choices for Americans."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Quality of life\" is an awesomely sweeping concept, involving all those concerns traditionally associated with \"standard of living\" and the much more amorphous questions of attitude, value, meaning and purpose. There is no GNP for measuring the quality of life. To define it for an individual is most difficult; to define it for the life of a society, perhaps impossible. In a nation that has prized diversity, each person pursues happiness in very different ways. The essays in this volume cover both the philosophic perceptions so deeply infused with the quality of life and the more pragmatic elements which most people recognize as being in some way related to quality. The contributors ask: What is the quality of life? How is it perceived? What contributes to it? Can quality be measured? They offer a detailed analysis of the measurement of quality: a place to live; a job to earn one's keep; education to prepare for life; health to maintain it; a life of dignity and identity after one leaves the work force, as well as the institutional arrangements through which all of this will or will not be accomplished. The work is a stimulating, thought-provoking examination of an area of great concern in America today. The goal of quality in the lives of all Americans deserves all the inventiveness and courage of which this nation is capable. -- Provided by publisher"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Civilization"
+          },
+          {
+            "y": "1945-"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Social conditions"
+          },
+          {
+            "y": "1945-"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Quality of life"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Civilization."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00862898"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Quality of life."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01085009"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social conditions"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919811"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Since 1945"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Commission on Critical Choices for Americans."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Qualities of life."
+          },
+          {
+            "d": "Lexington, Mass. : Lexington Books, \u00a91976"
+          },
+          {
+            "w": "(OCoLC)568754485"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Qualities of life."
+          },
+          {
+            "d": "Lexington, Mass. : Lexington Books, \u00a91976"
+          },
+          {
+            "w": "(OCoLC)609068062"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Critical choices for Americans ;"
+          },
+          {
+            "v": "v. 7."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 446 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014731"
+          }
+        ]
+      }
+    }
+  ]
+}

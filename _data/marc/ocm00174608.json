@@ -1,0 +1,484 @@
+{
+  "leader": "01748cam a2200373 a 4500",
+  "fields": [
+    {
+      "001": "ocm00174608\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220708093632.0"
+    },
+    {
+      "008": "711123s1962\\\\\\\\mdu\\\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   62018508 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "SLU"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "WY@"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "GDC"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "COO"
+          },
+          {
+            "d": "GZN"
+          },
+          {
+            "d": "OPT"
+          },
+          {
+            "d": "PEX"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "JHS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GB6302094"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "006994679"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1154200621"
+          },
+          {
+            "a": "1205128241"
+          },
+          {
+            "a": "1205578922"
+          },
+          {
+            "a": "1221616870"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)174608"
+          },
+          {
+            "z": "(OCoLC)1154200621"
+          },
+          {
+            "z": "(OCoLC)1205128241"
+          },
+          {
+            "z": "(OCoLC)1205578922"
+          },
+          {
+            "z": "(OCoLC)1221616870"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HC165"
+          },
+          {
+            "b": ".D7"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HC165 .D7"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "338.917308"
+          },
+          {
+            "b": "ALL"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Alliance for Progress :"
+          },
+          {
+            "b": "problems and perspectives /"
+          },
+          {
+            "c": "edited by John C. Dreier."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Baltimore, MA :"
+          },
+          {
+            "b": "Johns Hopkins Press,"
+          },
+          {
+            "c": "\u00a91962."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xviii, 146 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Books on foreign affairs"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "1."
+          },
+          {
+            "t": "The Alliance for Progress : historic roots /"
+          },
+          {
+            "r": "Milton S. Eisenhower --"
+          },
+          {
+            "g": "2."
+          },
+          {
+            "t": "Economic aspects of the Alliance /"
+          },
+          {
+            "r": "Rau\u0301l Prebisch --"
+          },
+          {
+            "g": "3."
+          },
+          {
+            "t": "The Alliance and political goals /"
+          },
+          {
+            "r": "Jose\u0301 Figueres --"
+          },
+          {
+            "g": "4."
+          },
+          {
+            "t": "Social change and the Alliance /"
+          },
+          {
+            "r": "Teodoro Moscoso --"
+          },
+          {
+            "g": "5."
+          },
+          {
+            "t": "The Alliance in the context of world affairs /"
+          },
+          {
+            "r": "Dean Rusk."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Alliance for Progress."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Alliance for Progress."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00647903"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Dreier, John C."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Alliance for Progress."
+          },
+          {
+            "d": "Baltimore, Ma. : Johns Hopkins Press, \u00a91962"
+          },
+          {
+            "w": "(OCoLC)583786365"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Books on foreign affairs"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 688 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016172"
+          }
+        ]
+      }
+    }
+  ]
+}

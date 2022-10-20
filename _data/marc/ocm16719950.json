@@ -1,0 +1,635 @@
+{
+  "leader": "02926cam a2200469Ia 4500",
+  "fields": [
+    {
+      "001": "ocm16719950\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211230111023.0"
+    },
+    {
+      "008": "870919s1970\\\\\\\\nyu\\\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "   38027962 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HAC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "HAC"
+          },
+          {
+            "d": "JYJ"
+          },
+          {
+            "d": "LF8"
+          },
+          {
+            "d": "IHE"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BHL"
+          },
+          {
+            "d": "AZK"
+          },
+          {
+            "d": "PHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SMHSM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "S#L"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CGN"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "27477087"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0824204123"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780824204129"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)16719950"
+          },
+          {
+            "z": "(OCoLC)27477087"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "PS668"
+          },
+          {
+            "b": ".B3 1969-70"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "815.008"
+          },
+          {
+            "b": "REP"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Representative American speeches, 1969-1970 /"
+          },
+          {
+            "c": "edited by Lester Thonssen."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "H.W. Wilson,"
+          },
+          {
+            "c": "1970."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "208 pages ;"
+          },
+          {
+            "c": "20 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Reference shelf ;"
+          },
+          {
+            "v": "vol. 42, no. 4"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The pursuit of peace /"
+          },
+          {
+            "r": "Richard M. Nixon --"
+          },
+          {
+            "t": "War without end /"
+          },
+          {
+            "r": "Frank Church --"
+          },
+          {
+            "t": "The impact on the American economy of the Vietnamization program /"
+          },
+          {
+            "r": "John T. Connor --"
+          },
+          {
+            "t": "Address before the Midwest Regional Republican Committee /"
+          },
+          {
+            "r": "Spiro T. Agnew --"
+          },
+          {
+            "t": "An address before the International Radio and Television Society /"
+          },
+          {
+            "r": "Frank Stanton --"
+          },
+          {
+            "t": "A theology of the Earth /"
+          },
+          {
+            "r": "Rene\u0301 Dubos --"
+          },
+          {
+            "t": "The environment: can man prosper and survive? /"
+          },
+          {
+            "r": "Edmund S. Muskie --"
+          },
+          {
+            "t": "The positive power of science /"
+          },
+          {
+            "r": "Glenn T. Seaborg --"
+          },
+          {
+            "t": "Protest, past and present /"
+          },
+          {
+            "r": "J. Bronowski --"
+          },
+          {
+            "t": "Declaration of conscience, twenty years later /"
+          },
+          {
+            "r": "Margaret Chase Smith --"
+          },
+          {
+            "t": "A requiem for Joe College /"
+          },
+          {
+            "r": "William J. McGill --"
+          },
+          {
+            "t": "Do not refuse us /"
+          },
+          {
+            "r": "Martha J. Sara --"
+          },
+          {
+            "t": "A time for reconstruction /"
+          },
+          {
+            "r": "William M. Birenbaum --"
+          },
+          {
+            "t": "Beyond the dilemma /"
+          },
+          {
+            "r": "Kenneth B. Clark --"
+          },
+          {
+            "t": "Indian affairs, what has been done and what needs to be done /"
+          },
+          {
+            "r": "Wendell Chino --"
+          },
+          {
+            "t": "Lincoln's rhetorical triumph at Cooper Union /"
+          },
+          {
+            "r": "Everett Lee Hunt."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A collection of speeches given during 1969 and 1970 addressing the following topics: the continuing agony of the Vietnam War; broadcast journalism; national conscience and the environment; patterns of change; and a fresh look at an 1860 address made by Abraham Lincoln. Contains primary source material."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Speeches, addresses, etc., American"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Politics and government"
+          },
+          {
+            "y": "1969-1974"
+          },
+          {
+            "v": "Sources."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Speeches, addresses, etc., American."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01129325"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Speeches."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01774286"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Sources."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423900"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Speeches."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Thonssen, Lester,"
+          },
+          {
+            "d": "1904-"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Reference shelf ;"
+          },
+          {
+            "v": "v. 42, no. 4."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 191 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014894"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "leader": "02496cam a2200385 i 4500",
+  "fields": [
+    {
+      "001": "ocm00088073\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105151111.0"
+    },
+    {
+      "008": "700805s1970\\\\\\\\nyuac\\\\\\\\\\\\\\\\\\001\\0aeng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   76110744 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "MCW"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "S3O"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "TWS"
+          },
+          {
+            "d": "INT"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "BDP"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "009896211"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "087794024X"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780877940241"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)88073"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "6.95"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E840.8.M8"
+          },
+          {
+            "b": "A3"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "E840.8 M87 A3"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "328.730710924"
+          },
+          {
+            "b": "MUR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Murphy, George,"
+          },
+          {
+            "d": "1902-1992."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "\"Say ... didn't you used to be George Murphy?\" /"
+          },
+          {
+            "c": "by George Murphy, with Victor Lasky."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[New York] :"
+          },
+          {
+            "b": "Bartholomew House,"
+          },
+          {
+            "c": "1970."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "438 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"That nice young man who once danced with Shirley Temple\" -- \"The flags were waving\" -- Yale : \"The wrong attitude\" -- Julie : \"Those bells began to ring\" -- The nightclub circuit -- \"By special request of Her Majesty\" -- Broadway -- The joints of old New York -- Of Thee I Sing -- Roberta --  Hollywood -- \"The black bull of Gower Street\" -- \"Lonesome George\" at Metro -- The labor racketeers : \"Anyone who resigns goes out feet first\" -- Louis B. Mayer -- War and politics : \"George, you'd better take over\" -- The communists : Using \"muscle\" -- 1948 : Big-time national politics -- The Eisenhower campaign -- I win the battle against cancer -- \"The Ziegfeld of the Republican Party\" -- 1964 : \"Boy did they laugh when I decided to run\" -- The United States Senate."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"He not only used to be George Murphy, he still is - only now he's playing the most demanding and important role of his colorful career, as the senior U.S. Senator from California . . . George Murphy's candid life story abounds in anecdotes that name names and offer rich insight into the fascinating worlds of entertainment and politics. Didn't you used to be George Murphy? is the autobiography of an authentic star performer - a delightful and revealing account of the American dream come true.\" -- Book jacket."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Murphy, George,"
+          },
+          {
+            "d": "1902-1992."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Murphy, George,"
+          },
+          {
+            "d": "1902-1992"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01451443"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lasky, Victor."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 398 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014485"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "leader": "04192cam a2200505Ia 4500",
+  "fields": [
+    {
+      "001": "ocn544474578"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106161156.0"
+    },
+    {
+      "008": "100217s2010\\\\\\\\nyuabf\\\\\\b\\\\\\\\001\\0\\eng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2010006559"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NIC/DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "YDX"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "COO"
+          },
+          {
+            "d": "PUL"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "MIX"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CHVBK"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "QE2"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CTL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "FWR"
+          },
+          {
+            "d": "GDC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ZHC"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GBB092831"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "015618848"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1201927268"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780801445101"
+          },
+          {
+            "q": "(cloth ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0801445108"
+          },
+          {
+            "q": "(cloth ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)544474578"
+          },
+          {
+            "z": "(OCoLC)1201927268"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "GF504.N7"
+          },
+          {
+            "b": "S77 2010"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "GF504.N52"
+          },
+          {
+            "b": "S77 2010"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "304.2809747"
+          },
+          {
+            "b": "STR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Stradling, David."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The nature of New York :"
+          },
+          {
+            "b": "an environmental history of the Empire State /"
+          },
+          {
+            "c": "David Stradling."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ithaca, N.Y. :"
+          },
+          {
+            "b": "Cornell University Press,"
+          },
+          {
+            "c": "2010."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 277 pages, 8 unnumbered pages of plates :"
+          },
+          {
+            "b": "illustrations (some color), maps ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "This comes of settling a country : European colonization and the market's arrival -- This wilderness becomes a fertile plain : engineering the Empire State -- We are still in Eden : romanticism, tourism, and the power of culture -- Tainted and unwholesome atmospheres : urban environments, government, and reform -- A sound conservation program : Theodore Roosevelt, Franklin Roosevelt, and the power of individuals -- Tracing man's progress in making the planet uninhabitable : environmental interest groups and postwar threats -- We live in this filth : the urban crisis, environmental justice, and threats from beyond -- Epilogue : finding places in history."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "This book traces the history of New York through changes to its natural environment including wilderness and lakes but also cities and canals. While the author feels strongly about such things as urban sprawl and Love Canal, he strikes a balance between the desire to return the world to a pristine state and finding the best ways for people to positively affect their environment. Starting with Native Americans on the eve of colonization, he looks at indigenous species and those brought by the Europeans. The drive for profit characterizes the next stage of development, especially with the creation of the Erie Canal. Next he turns to the images of New York nature by artists and poets, particularly the Hudson River school, and their role in romanticizing the landscape. The disregard for both people and the land by Gilded Age industrialists comes next, along with the growth of governmental controls. The conservation movement, beginning in the early 1800s but coming to fruition under President Theodore Roosevelt, a New Yorker, is examined. The reflection in New York of post-war ecological movements rounds out the study, with a postscript tying the environment to the goals of improved living conditions in urban environments and the role of women in ecological movements, with the example of Lois Gibbs and the scandal of Love Canal. He closes by noting some beautiful \"natural\" settings in Upstate New York that are the result of human intervention."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human ecology"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "x": "Environmental conditions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Environmentalism"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ecology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901476"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Environmentalism."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00913543"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human ecology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00962941"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01210280"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Stradling, David."
+          },
+          {
+            "t": "Nature of New York."
+          },
+          {
+            "d": "Ithaca, N.Y. : Cornell University Press, 2010"
+          },
+          {
+            "w": "(OCoLC)760758342"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Book review (H-Net)"
+          },
+          {
+            "u": "http://www.h-net.org/reviews/showrev.php?id=31416"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 312 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018436"
+          }
+        ]
+      }
+    }
+  ]
+}

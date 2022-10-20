@@ -1,0 +1,895 @@
+{
+  "leader": "04842cam a2200481Ia 4500",
+  "fields": [
+    {
+      "001": "ocm00301190\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220103113404.0"
+    },
+    {
+      "008": "720504s1953\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   53011496 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "URB"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "HRH"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "WLU"
+          },
+          {
+            "d": "YT6"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)301190"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "PS659"
+          },
+          {
+            "b": ".A75"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "810.82"
+          },
+          {
+            "b": "AME"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The American Legion reader :"
+          },
+          {
+            "b": "fiction, articles, humor, cartoons from the American Legion magazine /"
+          },
+          {
+            "c": "selected by Victor Lasky."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Hawthorn Books,"
+          },
+          {
+            "c": "\u00a91953."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 499 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "I: OF THEE WE SING."
+          },
+          {
+            "t": "Preamble to the constitution of the American Legion --"
+          },
+          {
+            "t": "Speak up for America! /"
+          },
+          {
+            "r": "Eugene Lyons --"
+          },
+          {
+            "t": "The flag that wouldn't stay down /"
+          },
+          {
+            "r": "Kenneth Foree --"
+          },
+          {
+            "t": "To the boy back home /"
+          },
+          {
+            "r": "John J. Shea"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "II: FICTION."
+          },
+          {
+            "t": "They'll never know /"
+          },
+          {
+            "r": "Maurice Zolotow --"
+          },
+          {
+            "t": "Communications interrupted /"
+          },
+          {
+            "r": "Clarence Budington Kelland --"
+          },
+          {
+            "t": "Don't think about McGovern /"
+          },
+          {
+            "r": "Budd Schulberg"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "III: PEOPLE."
+          },
+          {
+            "t": "Mayne Reid : Yankee soldier /"
+          },
+          {
+            "r": "Vincent Starrett --"
+          },
+          {
+            "t": "Joyce Kilmer -- soldier /"
+          },
+          {
+            "r": "Emmett Watson --"
+          },
+          {
+            "t": "First flight /"
+          },
+          {
+            "r": "Orville Wright --"
+          },
+          {
+            "t": "The broken wing /"
+          },
+          {
+            "r": "Eddie Rickenbacker --"
+          },
+          {
+            "t": "Over the top /"
+          },
+          {
+            "r": "Richard E. Byrd --"
+          },
+          {
+            "t": "American all the way /"
+          },
+          {
+            "r": "Robert Francis --"
+          },
+          {
+            "t": "China will never forget Chennault /"
+          },
+          {
+            "r": "Gretta Palmer --"
+          },
+          {
+            "t": "Whose little man? /"
+          },
+          {
+            "r": "Victor Lasky --"
+          },
+          {
+            "t": "He lobbies against communism /"
+          },
+          {
+            "r": "Irene Corbally Kuhn"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "IV: PERSPECTIVE."
+          },
+          {
+            "t": "The most important date of the century /"
+          },
+          {
+            "r": "Lewis K. Gough --"
+          },
+          {
+            "t": "My country /"
+          },
+          {
+            "r": "Will Durant --"
+          },
+          {
+            "t": "Dog nature is just human nature /"
+          },
+          {
+            "r": "Albert Payson Terhune --"
+          },
+          {
+            "t": "What is freedom /"
+          },
+          {
+            "r": "Harry Emerson Fosdick --"
+          },
+          {
+            "t": "The why of trade unionism /"
+          },
+          {
+            "r": "Wiliam Green --"
+          },
+          {
+            "t": "The road from yesterday /"
+          },
+          {
+            "r": "David Lawrence"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "V: MORE FICTION."
+          },
+          {
+            "t": "Nothing personal, Sergeant /"
+          },
+          {
+            "r": "Frederick Hazlitt Brennan --"
+          },
+          {
+            "t": "Tobacco shop /"
+          },
+          {
+            "r": "Zone Gale --"
+          },
+          {
+            "t": "Too old to fight /"
+          },
+          {
+            "r": "Barnaby Conrad"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "VI: VETERANS AND DEFENSE."
+          },
+          {
+            "t": "Ten years later / Grantland Rice --"
+          },
+          {
+            "t": "The citizen soldier and his role in our national military policy /"
+          },
+          {
+            "r": "Douglas McArthur --"
+          },
+          {
+            "t": "Forrestal was right /"
+          },
+          {
+            "r": "George Fielding Eliot --"
+          },
+          {
+            "t": "They don't talk about the war /"
+          },
+          {
+            "r": "Josh M. Drake, Jr."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "VII: ADVENTURE."
+          },
+          {
+            "t": "Incident at Hampton Roads /"
+          },
+          {
+            "r": "Eric Sevareid --"
+          },
+          {
+            "t": "Father Jubilo and the wild Indians /"
+          },
+          {
+            "r": "William LaVarre --"
+          },
+          {
+            "t": "\"The camels are coming!\" /"
+          },
+          {
+            "r": "Robert Ginsburgh --"
+          },
+          {
+            "t": "Where the curtain falls /"
+          },
+          {
+            "r": "Jan Valtin"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "VIII: OF THE HUMAN SPIRIT."
+          },
+          {
+            "t": "Talk about troubles! /"
+          },
+          {
+            "r": "Daniel Poling --"
+          },
+          {
+            "t": "I won over paralysis /"
+          },
+          {
+            "r": "Donald W. Carruthers, Jr. --"
+          },
+          {
+            "t": "By word of mouth /"
+          },
+          {
+            "r": "Alexander Woollcott --"
+          },
+          {
+            "t": "Known but to God /"
+          },
+          {
+            "r": "Mancel Talcott"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "X: HUMOR."
+          },
+          {
+            "t": "The battle the army lost /"
+          },
+          {
+            "r": "Vernon Pizer --"
+          },
+          {
+            "t": "My annual report /"
+          },
+          {
+            "r": "James Norman Hall --"
+          },
+          {
+            "t": "The private war of Corporal Partch /"
+          },
+          {
+            "r": "Virgil F. Partch --"
+          },
+          {
+            "t": "\"I think I'll survive -- \" /"
+          },
+          {
+            "r": "Harold L. Elfenbein --"
+          },
+          {
+            "t": "You can't tell 'em without uniforms /"
+          },
+          {
+            "r": "Maurice S. Sheehy --"
+          },
+          {
+            "t": "Private Wumperdopp of the new army /"
+          },
+          {
+            "r": "Larry Siegel --"
+          },
+          {
+            "t": "Genius unlimited /"
+          },
+          {
+            "r": "Frederick C. Othman"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "XI: AMERICANS AT WAR."
+          },
+          {
+            "t": "Return to Gettysburg /"
+          },
+          {
+            "r": "Richard Barnitz --"
+          },
+          {
+            "t": "Reilly's battery /"
+          },
+          {
+            "r": "Fairfax Downey -- The glory that was Gussie /"
+          },
+          {
+            "r": "A. C. M. Azoy --"
+          },
+          {
+            "t": "Now that was an air war /"
+          },
+          {
+            "r": "Arch Whitehouse --"
+          },
+          {
+            "t": "Sailors over the Rhine /"
+          },
+          {
+            "r": "W. W. Chaplin --"
+          },
+          {
+            "t": "How AMG took over /"
+          },
+          {
+            "r": "William L. White --"
+          },
+          {
+            "t": "Twenty-four hours in Korea /"
+          },
+          {
+            "r": "Frank H. Rentfrow"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "XII: SPORTS AND SPORTSMEN."
+          },
+          {
+            "t": "How to play a fish /"
+          },
+          {
+            "r": "Pete Barrett --"
+          },
+          {
+            "t": "Keep that GI condition! /"
+          },
+          {
+            "r": "Lou Little --"
+          },
+          {
+            "t": "Are they ruining our dogs? /"
+          },
+          {
+            "r": "Henry P. Davis --"
+          },
+          {
+            "t": "Fishing /"
+          },
+          {
+            "r": "Zane Grey"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "XIII: ESPIONAGE AND INTELLIGENCE. The men who spy for America /"
+          },
+          {
+            "r": "Donald Robinson --"
+          },
+          {
+            "t": "Before the Armistice -- and behind it /"
+          },
+          {
+            "r": "Thomas M. Johnson --"
+          },
+          {
+            "t": "The Yamanouchi riddle /"
+          },
+          {
+            "r": "Carl Mydans --"
+          },
+          {
+            "t": "Behind \"The Rosenberg Case\" /"
+          },
+          {
+            "r": "S. Andil Fineberg"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "XIV: HOW TO LIVE."
+          },
+          {
+            "t": "How you can get a job for six cents /"
+          },
+          {
+            "r": "Robert Yelton Robb --"
+          },
+          {
+            "t": "My two-dollar ulcer cure /"
+          },
+          {
+            "r": "John Reese --"
+          },
+          {
+            "t": "This is New York /"
+          },
+          {
+            "r": "Walter Winchell ;"
+          },
+          {
+            "r": "James A. Farley ;"
+          },
+          {
+            "r": "John Kieran ;"
+          },
+          {
+            "r": "Sherman Billingsley ;"
+          },
+          {
+            "r": "Billy Rose --"
+          },
+          {
+            "t": "So you've got an idea /"
+          },
+          {
+            "r": "Joseph C. Keeley --"
+          },
+          {
+            "t": "Knowing Paris /"
+          },
+          {
+            "r": "Booth Tarkington"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "XV: AND MORE FICTION."
+          },
+          {
+            "t": "The tank that learned to think /"
+          },
+          {
+            "r": "Bill Brown --"
+          },
+          {
+            "t": "Armistice Day /"
+          },
+          {
+            "r": "Robert E. Sherwood."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "American literature"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "American literature."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00807113"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lasky, Victor."
+          }
+        ]
+      }
+    },
+    {
+      "730": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American Legion magazine."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "American Legion reader."
+          },
+          {
+            "d": "New York : Hawthorn Books, \u00a91953"
+          },
+          {
+            "w": "(OCoLC)652240597"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 338 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016556"
+          }
+        ]
+      }
+    }
+  ]
+}

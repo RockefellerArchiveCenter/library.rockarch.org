@@ -1,0 +1,688 @@
+{
+  "leader": "03240cam a22004931a 4500",
+  "fields": [
+    {
+      "001": "ocm00573400\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105170404.0"
+    },
+    {
+      "008": "730307s1950\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   50014649 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "SLU"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "ZNL"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "TBS"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "UEJ"
+          },
+          {
+            "d": "PEX"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "CEF"
+          },
+          {
+            "d": "WSU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "VSI"
+          },
+          {
+            "d": "VVJ"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GB5101683"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "001386096"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "006980384"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "276260"
+          },
+          {
+            "a": "976519990"
+          },
+          {
+            "a": "1000876725"
+          },
+          {
+            "a": "1154174183"
+          },
+          {
+            "a": "1157075428"
+          },
+          {
+            "a": "1200999064"
+          },
+          {
+            "a": "1201631415"
+          },
+          {
+            "a": "1205362947"
+          },
+          {
+            "a": "1205581521"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "9781501740695"
+          },
+          {
+            "q": "(ebook)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)573400"
+          },
+          {
+            "z": "(OCoLC)276260"
+          },
+          {
+            "z": "(OCoLC)976519990"
+          },
+          {
+            "z": "(OCoLC)1000876725"
+          },
+          {
+            "z": "(OCoLC)1154174183"
+          },
+          {
+            "z": "(OCoLC)1157075428"
+          },
+          {
+            "z": "(OCoLC)1200999064"
+          },
+          {
+            "z": "(OCoLC)1201631415"
+          },
+          {
+            "z": "(OCoLC)1205362947"
+          },
+          {
+            "z": "(OCoLC)1205581521"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "UB270"
+          },
+          {
+            "b": ".G42"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "327.12"
+          },
+          {
+            "b": "GEL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gellhorn, Walter,"
+          },
+          {
+            "d": "1906-1995."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Security, loyalty, and science /"
+          },
+          {
+            "c": "Walter Gellhorn."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ithaca, N.Y. :"
+          },
+          {
+            "b": "Cornell University Press,"
+          },
+          {
+            "c": "1950."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 300 pages ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cornell studies in civil liberty"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 245-281) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Keeping secrets --"
+          },
+          {
+            "t": "Identifying an atomic energy secret --"
+          },
+          {
+            "t": "The AEC's process of declassification or \"de-secretization\" --"
+          },
+          {
+            "t": "How scientific data become military secrets --"
+          },
+          {
+            "t": "The declassification of military-scientific secrets --"
+          },
+          {
+            "t": "The balance sheet of secrecy --"
+          },
+          {
+            "t": "The predictably unpredictable uses of scientific knowledge --"
+          },
+          {
+            "t": "The compartmentalization of scientific work --"
+          },
+          {
+            "t": "Loss of criticism --"
+          },
+          {
+            "t": "The psychological consequences of secrecy --"
+          },
+          {
+            "t": "Effects of secrecy on recruitment and training --"
+          },
+          {
+            "t": "The proper limits of secrecy --"
+          },
+          {
+            "t": "The standards and mechanics of security clearance --"
+          },
+          {
+            "t": "Personnel security in the Atomic Energy Commission --"
+          },
+          {
+            "t": "Personnel security in the military services --"
+          },
+          {
+            "t": "Scientists employed by the military --"
+          },
+          {
+            "t": "Scientists employed privately on military contracts --"
+          },
+          {
+            "t": "The composition of the IERB --"
+          },
+          {
+            "t": "Centralization of IERB proceedings --"
+          },
+          {
+            "t": "The spreading of security requirements."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The loyalty of federal scientists --"
+          },
+          {
+            "t": "The loyalty order --"
+          },
+          {
+            "t": "Guides to disloyalty --"
+          },
+          {
+            "t": "The Attorney General's Black List --"
+          },
+          {
+            "t": "The discovery of disloyalty --"
+          },
+          {
+            "t": "Social results of the Loyalty Program --"
+          },
+          {
+            "t": "The universities and security searches --"
+          },
+          {
+            "t": "The need for fair procedures --"
+          },
+          {
+            "t": "A fair opportunity to defend --"
+          },
+          {
+            "t": "Findings and decisions --"
+          },
+          {
+            "t": "Action on applicants for employment --"
+          },
+          {
+            "t": "Concluding thoughts."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Loyalty."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Scientists"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Loyalty."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01003283"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Scientists."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01108895"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Gellhorn, Walter, 1906-1995."
+          },
+          {
+            "t": "Security, loyalty, and science."
+          },
+          {
+            "d": "Ithaca, N.Y. : Cornell University Press, 1950"
+          },
+          {
+            "w": "(OCoLC)651555947"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cornell studies in civil liberty."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 564 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014359"
+          }
+        ]
+      }
+    }
+  ]
+}

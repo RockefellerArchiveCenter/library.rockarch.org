@@ -1,0 +1,536 @@
+{
+  "leader": "02100cam a2200433Ii 4500",
+  "fields": [
+    {
+      "001": "ocm02626262\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220705135950.0"
+    },
+    {
+      "008": "761216s1943\\\\\\\\nyuc\\\\\\\\\\b\\\\\\\\000\\0beng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a  44000152 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Columbia Univ. Libraries"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "TXU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "YSM"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "MDAVP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TJC"
+          },
+          {
+            "d": "DCHUA"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "84043450"
+          },
+          {
+            "a": "154303231"
+          },
+          {
+            "a": "978013064"
+          },
+          {
+            "a": "1001864123"
+          },
+          {
+            "a": "1018078543"
+          },
+          {
+            "a": "1037719556"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)2626262"
+          },
+          {
+            "z": "(OCoLC)84043450"
+          },
+          {
+            "z": "(OCoLC)154303231"
+          },
+          {
+            "z": "(OCoLC)978013064"
+          },
+          {
+            "z": "(OCoLC)1001864123"
+          },
+          {
+            "z": "(OCoLC)1018078543"
+          },
+          {
+            "z": "(OCoLC)1037719556"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "CT275.P8486"
+          },
+          {
+            "b": "F6"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "923.773"
+          },
+          {
+            "b": "FLE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Flexner, Abraham,"
+          },
+          {
+            "d": "1866-1959."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Henry S. Pritchett :"
+          },
+          {
+            "b": "a biography /"
+          },
+          {
+            "c": "by Abraham Flexner."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Columbia University Press,"
+          },
+          {
+            "c": "1943."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "4 preliminary leaves, 211 pages :"
+          },
+          {
+            "b": "frontispiece, portraits ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Chronological list of bulletins published by the Carnegie Foundation for the Advancement of Teaching, 1907-1930\": pages 199-200"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Selected list of Pritchett's miscellaneous papers and addresses\": pages 201-202"
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151208"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Pritchett, Henry S."
+          },
+          {
+            "q": "(Henry Smith),"
+          },
+          {
+            "d": "1857-1939."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Carnegie Foundation for the Advancement of Teaching."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Universities and colleges."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Pritchett, Henry S"
+          },
+          {
+            "q": "(Henry Smith),"
+          },
+          {
+            "d": "1857-1939"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Education"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Universities"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "United States"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Pritchett, Henry S."
+          },
+          {
+            "q": "(Henry Smith),"
+          },
+          {
+            "d": "1857-1939."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00244824"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Carnegie Foundation for the Advancement of Teaching."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00513988"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Flexner, Abraham, 1866-1959."
+          },
+          {
+            "t": "Henry S. Pritchett."
+          },
+          {
+            "d": "New York, Columbia University Press, 1943"
+          },
+          {
+            "w": "(OCoLC)988209900"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 210 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013596"
+          }
+        ]
+      }
+    }
+  ]
+}

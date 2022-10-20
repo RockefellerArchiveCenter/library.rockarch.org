@@ -1,0 +1,577 @@
+{
+  "leader": "12143cam a2200481Ia 4500",
+  "fields": [
+    {
+      "001": "ocm00230179\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106162141.0"
+    },
+    {
+      "008": "720128s1956\\\\\\\\wiub\\\\\\\\\\b\\\\\\\\101\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   55008486 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "CDL"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "XND"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "CGU"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LUE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)230179"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HD105"
+          },
+          {
+            "b": ".C67 1951"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HD1245.I67"
+          },
+          {
+            "b": "1951"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E110"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E200"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "333.16"
+          },
+          {
+            "b": "INT"
+          }
+        ]
+      }
+    },
+    {
+      "111": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "International Conference on Land Tenure and Related Problems in World Agriculture"
+          },
+          {
+            "d": "(1951 :"
+          },
+          {
+            "c": "University of Wisconsin)"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Land tenure :"
+          },
+          {
+            "b": "proceedings of the International Conference on Land Tenure and Related Problems in World Agriculture, held at Madison, Wisconsin, 1951 /"
+          },
+          {
+            "c": "edited by Kenneth H. Parsons, Raymond J. Penn, and Philip M. Raup."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Madison, Wis. :"
+          },
+          {
+            "b": "University of Wisconsin Press,"
+          },
+          {
+            "c": "1956."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxiv, 739 pages :"
+          },
+          {
+            "b": "map ;"
+          },
+          {
+            "c": "27 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 699-712) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Preface -- The contributors -- List of tables -- Land reform and agricultural development / Kenneth H. Parsons -- Land and the future / Willard L. Thorp -- It can be solved / Clarence J. McCormick -- Land and independence-America's experience / Henry G Bennett -- Land reform and economic development / Dennis A. FitzGerald -- Issues in the background of the conference / Philip M. Raup -- Opening remarks by the chairman / Noble Clark -- Economic and social improvements through international co-operation / Grove Hambidge -- The United Nations and land reform / J.S. Harris -- World land tenure problems and the food and agriculture organization / Thomas F. Carroll -- Opening remarks by the chairman / Afif Tannous -- Land tenure in Syria / Akram El-Ricaby -- The land tenure situation in Iran / Assadollah Alam -- The land tenure system of Egypt / Mohamed Abdel Wahab Ezzat -- Practical proposals for the solution of land tenure problems in Lebanon / Najib Alamuddin -- The significance of some aspects of Islamic culture for tenure adjustments: a comment / Elsayed Gaballah -- Major aspects of land tenure and rural social structure in Israel / Alfred Bonne\u0301 -- The program of agricultural development in Turkey / Ibrahim Atif Sargut -- Conditions of farming in Pakistan / M.H. Sufi -- The land tenure situation in Pakistan / S.M. Akhtar -- Problems in countries iwth heavy pressure of population on land: the case of India / M.L. Dantwala."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Agrarian reform in the state of Uttar Pradesh, India / Aditya Nath Jha -- Land tenure and Agrarian problems of Burma / Ba Thein -- Co-operation, credit and capital in the agriculture of Thailand / Theb Semthiti -- Some aspects of land tenure in Cambodia / Tep Youth -- The attitude of the Malayan peasant toward the tenure problem of Malaya, with special reference to the state of Kedah / Salim Akib -- The rice economy of southeast Asia: a comment / Lauriston Sharp -- The historical backgrounds of the tenure problems of southeast Asia: a comment / Karl Pelzer -- Farm ownership and tenancy in the Philippines / Jose E. Velmonte -- Land settlement in the Philippines / Luis Lichauco -- The population of southeast Asia / Irene B. Taeuber -- Population and the land tenure problem / Irene B. Taeuber -- Land reform and its development in China since 1927 / Tseng Hsiao -- The rent reduction and land purchase program in Formosa / Hui-sun Tang -- Land reform in Japan / Keiki Owada -- Land reform in Japan: a comment / Wolf I. Ladejinsky -- Opening remarks by the chairman / Daniel A. Chapman -- Some problems of land tenure in contemporary Africa / Melville J. Herskovits -- Some problems of land tenure in contemporary Africa: a comment / William Bascom -- Agrarian reform and economic development / Edmundo Flores -- Land tenure problems in Chile / Jose\u0301 Ramo\u0301n Astorga -- Agricultural production and some land tenure problems in Uruguay / Eduardo Llovet."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Review of the tenure situation in Paraguay and an integrated land reform program / Claudio Romero -- The problem of land ownership in Peru / Francisco Ponce de Leo\u0301n -- Land tenure problems rooted in the ethnic history of Latin America / Alberto Arca-Parro\u0301 -- Some aspects of land tenure in Brazil / Joao Gonc\u0327alves deSouza -- Land tenure problems of Colombia / Pedro Bernal -- Social welfare and tenure problems in the Agrarian reform program of Venezuela / George W. Hill, Gregorio Beltra\u0301n, and Cristina Marin\u0303o -- The national agrarian institute and land tenure relations in Venezuela / Armando Tamayo -- Agricultural co-operation in Mexico in relation to small landholdings / Marco Antonio Dura\u0301n -- Land tenure and land distribution in Cuba / Manuel Rodri\u0301guez-Cabrera -- Tenure innovations and agricultural production in Puerto Rico / Luis Rivera Santos -- Social security for landless workers: the experience of Brazl / Joao Conc\u0327alves deSouza -- Social security problems of sharecroppers and farm laborers. report of the working party / Lowry Nelson -- Opening remarks by the chairman / Eduardo Neale-Silva -- Transferring agricultural technology from developed to underdeveloped areas / Jams G. Maddox -- An evaluation of Mexico's principal types of farm operation and of their significance to other Latin American countries / Henry S. Sterling -- Principles of tenure in England and Wales / James J. MacGregor -- Land tenure issues in western Europe since the French revolution / Constantin C. von Dietze -- Tenure Issues in the Scandinavian countries / G.R. Ytterborn -- The Italian agrarian reform / Manlio Rossi-Doria -- Some of the problems of land tenure in Eastern Europe / Michael B. Petrovich."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Collectivization of agriculture in Soviet Russia / Lazar Volin -- The significance of land tenure in the development of events in Russia: a comment / Dimitri Pronin -- Tenure problems of the American Indian / John Provinse -- National land policy and the development of agriculture: the American experience / Maurice M. Kelso -- The land tenure and agricultural development in the south / John H. Bondurant and Frank J. Welch -- The land settlement program of Finland / Kaarlo Uolevi Pihkala -- Land tenure problems in the resettlement of refugees in western Germany / Siegfried H. Palmer -- Indian experiments in land reclamation and the resettlement of populations / Aditya Nath Jha -- Appraisng experiences in the resettlement of populations / George W. Hill and Carl C. Taylor -- Financing land settlement in recent German history / Siegfried H. Palmer -- Financial aspects of land reform in the far east / Arthur Bunce -- Problems of financing land distribution. report of the working party / John K. Galbraith and Walter A. Morton -- Providing credit for family-size farms. report of the working party chairman / John K. Galbraith and Walter A. Morton -- Providing credit for family-size farms. report of the working party / William Murray -- The influence of western concepts on Indian tenure: introductory comment / B. Natarajan -- Equitable tenancy arrangement in a progressive agriculture: the British experience / John Stuart Hill -- Landlord-tenant relations and French law / Albert Alexandre Costa -- The place of tenancy in the agriculture of the Netherlands / Cornelis D. Scheer -- Equitable tenancy arrangements in the United States / H.C.M. Case -- Improving farm economies through regulation of land-lord-tenant relations. report of the working part / John F. Timmons."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Land consolidation procedures: a comparative analysis. excerpt from the report of the working party / Constantin C. von Dietze -- Important aspects of consolidation in France. / Jean Roche -- Fragmentation of land holdings and measures for consolidation in Greece / Euthymios Papageorgiou -- Reallocation of land in the Netherlands / Philine R. Vanderpol -- Aspects of consolidation work in the Netherlands / Jan M. van Rossem -- Aspects of land consolidation in Japan / Setsuro Hyodo -- Consolidation of holdings in Sweden / G.R. Ytterborn -- Aspects of land consolidation in Germany / Otto Schiller -- The role of inheritance in the tenure process. abstract of the report of the working party / Jacob H. Beuscher, Constantin C. von Dietze, and Charles L. Stewart -- Land reform and agricultural production. report of the working party / Rainer Schickele -- Appraising the adequacy of land tenure systems for agricultural production / Thomas F. Carroll -- The possibilities of co-operative farming / SM Akhtar -- Co-operative farming in India / M.S. Menon -- A comparison of collective and co-operative farming / Otto Schiller -- A comparison of the management problems of individual and collective farms. report of the working party / Kenneth J. Bachman -- The possibilities of co-operatives as means for strengthening the position of the independent farmer / Henry H. Bakken and Marvin A. Schaars -- Machine-tractor stations in Soviet Russia / Lazar Volin -- Experiences in Operation of farm machinery co-operatives in Germany / Otto Schiller -- The Dutch experience with farm machinery co-operatives / Cornelis D. Scheer."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Farm machinery co-operatives and custom services for providing capital equipment to small and medium-size farms / Preston E. McNall -- Management problems of low-income farms. / William E. Hendrix -- The management of public lands / Marion Clawson -- The management of public land in Iran / Mohammad Reza Ghavam -- The management of public land in Libya / J.E. le Riche -- Organization and administration of the state domain lands in Cambodia / Tep Youth -- The management of public lands in Costa Rica / Manuel M. de San Roma\u0301n -- Public regulation of land use in Mexico / Antonio Tapia -- The principles of public land management in the United States / Marion Clawson -- Taxation and public regulation of private land uses / Harold M. Groves and Raymond J. Penn -- Methods of title registration and the making of cadastral and boundary surveys / Earl G. Harrington and Jacob H. Beuscher -- Cadastral surveying as a basic tool in land management / Earl G. Harrington -- On the making of tenure research surveys. excerpt from the report of the working party / Joseph Ackerman and Joe R. Motheral -- The collection and use of agricultural statistics on tenure / Marshall Harris and Charles L. Stewart -- The function of problem formulation: comment on two possible projects in tenure research / Don Kanel -- Channeling the desire for improvement in tenure status / John H. Kolb -- Influencing rural people. selections from the report of the working party. / Charles E. Rogers and Dorothy Cochran -- Farewell in Madison / Edwin B. Fred -- International group thinking. a statement at the closing session in Washington / Henry C. Taylor -- Report of the sterring committee / Akram El-Ricaby -- Notes -- Index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Land tenure"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Land tenure."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991362"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Parsons, Kenneth H."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Penn, Raymond J."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Raup, Philip M."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "International Conference on Land Tenure and Related Problems in World Agriculture (1951 : University of Wisconsin)."
+          },
+          {
+            "t": "Land tenure."
+          },
+          {
+            "d": "Madison, Wis. : University of Wisconsin Press, 1956"
+          },
+          {
+            "w": "(OCoLC)606559818"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "International Conference on Land Tenure and Related Problems in World Agriculture (1951 : University of Wisconsin)."
+          },
+          {
+            "t": "Land tenure."
+          },
+          {
+            "d": "Madison, Wis. : University of Wisconsin Press, 1956"
+          },
+          {
+            "w": "(OCoLC)609294257"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "International Conference on Land Tenure and Related Problems in World Agriculture (1951 : University of Wisconsin)."
+          },
+          {
+            "t": "Land tenure."
+          },
+          {
+            "d": "Madison, Wis. : University of Wisconsin Press, 1956"
+          },
+          {
+            "w": "(OCoLC)610107051"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 352 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015322"
+          }
+        ]
+      }
+    }
+  ]
+}

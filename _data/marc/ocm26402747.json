@@ -1,0 +1,643 @@
+{
+  "leader": "05942cam a2200517 a 4500",
+  "fields": [
+    {
+      "001": "ocm26402747\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220705145717.0"
+    },
+    {
+      "008": "920727s1993\\\\\\\\mau\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   92026625 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "CNCGM"
+          },
+          {
+            "d": "NZAUC"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "PSM"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "NLA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "FWR"
+          },
+          {
+            "d": "BDP"
+          },
+          {
+            "d": "UKBTH"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKUOP"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GB9366997"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "015": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GB93Y6000"
+          },
+          {
+            "2": "bnb"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "067-46263"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "29635432"
+          },
+          {
+            "a": "1166839574"
+          },
+          {
+            "a": "1200081464"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0674626389"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780674626386"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780674626393"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0674626397"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)26402747"
+          },
+          {
+            "z": "(OCoLC)29635432"
+          },
+          {
+            "z": "(OCoLC)1166839574"
+          },
+          {
+            "z": "(OCoLC)1200081464"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV95"
+          },
+          {
+            "b": ".S585 1993"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HV95"
+          },
+          {
+            "b": "S554"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "362.073"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "362(73)"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "361.6"
+          },
+          {
+            "b": "SMI"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Smith, Steven Rathgeb,"
+          },
+          {
+            "d": "1951-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nonprofits for hire :"
+          },
+          {
+            "b": "the welfare state in the age of contracting /"
+          },
+          {
+            "c": "Steven Rathgeb Smith and Michael Lipsky."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cambridge, Mass. :"
+          },
+          {
+            "b": "Harvard University Press,"
+          },
+          {
+            "c": "1993."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 292 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 245-283) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pt. I. The Turn to Nonprofits. 1. Contracting for Services in the Welfare State. The Scope of Nonprofit Service Organizations. Issues for the Welfare State. 2. Nonprofit Organizations and Community. Nonprofits as Manifestations of Community. Community and the Theory of Nonprofit Organizations. Toward a Political Explanation of Nonprofit Organizations. Three Types of Nonprofit Service Agencies -- pt. II. The Contracting Regime. 3. The Political Economy of Nonprofit Revenues. Historical Background. Impact at the Service Delivery Level. The Reagan Era and a Changing Federal Role. 4. Guardians of Community and Issues of Governance. Boards of Directors. Executive Directors. Boards, Executives, and Community. 5. Service Providers for the Welfare State. Professionalization. Deprofessionalization and Government Funding. Volunteers and Organizational Capacity. The New Street-level Bureaucrats. 6. Services and Clients under Contracting. Imperatives of Public and Nonprofit Service Organizations. Significance of Differences between Government and Nonprofits. Changes in Practices under Contracting. 7. Dilemmas of Management in Nonprofit Organizations. Understanding the Nonprofit Organization. Cash Flow. The Dance of Contract Renewal. The Question of Goal Succession -- pt. III. Implications for the Welfare State. 8. The New Politics of the Contracting Regime. Individual Agencies in the Political Process. The Rise of Associations of Nonprofit Providers. The Corporatist Politics of the Contracting Regime. The Nonprofit Sector under Attack. 9. Privatization in Human Services: A Critique. Why Does Government Contract with Nonprofit Agencies? Performance Assessment. The Irony of Privatization through Contracting. 10. Government, Nonprofit Agencies, and the Welfare State. Issues of Citizenship. Contracting as Symbolic Politics. Toward a Balanced Approach to Communal Provision."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Few Americans realize that over half the revenues of the voluntary service organizations in this country come from federal and state governments. The image of the voluntary agency as neighbor helping neighbor - a thousand small independent points of light - is deceptive, for it masks the increasing dependence of nonprofit service organizations on government funding. In recent years, government's primary response to the growing problems of homelessness, hunger, child abuse, health care, and AIDS has been generated through nonprofit agencies funded by taxpayer money. As part of the widespread movement for privatization, these agencies represent revolutionary changes in the welfare state. Steven Smith and Michael Lipsky demonstrate that this transformation of providing social services through nonprofit agencies has benefits and drawbacks. As government funding of nonprofit groups increases, their management, staffing, clientele, and policies often change significantly. They may no longer be primarily responsive to their communities of origin but instead reflect government priorities. Although the appeal of contracting lies in the possibility of lower costs and greater efficiency, present contracting policies, the authors show, may actually increase overall costs in the long run and encourage instability among service agencies. Smith and Lipsky conclude that for the potential salutary effects of contracting to be realized, governments must reform current contracting procedures and invest in the operational and capital needs of both nonprofit and public agencies. Given the breadth of government funding of nonprofit agencies, this first study of the social, political, and organizational effects of this service strategy is an essential contribution to the current debate on the future of the welfare state."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social service"
+          },
+          {
+            "x": "Contracting out"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social service"
+          },
+          {
+            "x": "Contracting out."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01123212"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lipsky, Michael."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Smith, Steven Rathgeb, 1951-"
+          },
+          {
+            "t": "Nonprofits for hire."
+          },
+          {
+            "d": "Cambridge, Mass. : Harvard University Press, 1993"
+          },
+          {
+            "w": "(OCoLC)622525545"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/hbz/toc/ht005043248.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=005424981&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 566 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019089"
+          }
+        ]
+      }
+    }
+  ]
+}

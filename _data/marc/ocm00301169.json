@@ -1,0 +1,677 @@
+{
+  "leader": "06628cam a2200577 i 4500",
+  "fields": [
+    {
+      "001": "ocm00301169\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220708091700.0"
+    },
+    {
+      "008": "720504s1947\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   47011199 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "URB"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "IUD"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "ZZAND"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DGU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CTD"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GOU"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "DCHUA"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CAT10912130"
+          },
+          {
+            "2": "DNAL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "101636699"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "012176452"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "318308592"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)301169"
+          },
+          {
+            "z": "(OCoLC)318308592"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "nlmcopyc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Q171"
+          },
+          {
+            "b": ".W38"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Q 171"
+          },
+          {
+            "b": "S4165 1947"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "330"
+          },
+          {
+            "b": "W37"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "X300"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "X400"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "504"
+          },
+          {
+            "b": "SCI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The scientists speak /"
+          },
+          {
+            "c": "edited by Warren Weaver."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Boni & Gaer,"
+          },
+          {
+            "c": "[1947]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 369 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A series of radio talks, presenting aspects of modern science, given as intermission programs during New York Philharmonic-Symphony broadcasts."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Preface -- Chapter 1: Science and complexity / Warren Weaver -- Chapter 2: The science of the earth -- The face of our continent / Eliot Blackwelder -- The science of the atmosphere / Francis W. Reichelderfer -- Oceanography / Columbus O'Donnell Iselin -- Forecasting earthquakes / James Bernard Macelwane -- Minerals in relation to war and peace / C.K. Leith -- Chapter 3: The science of the sky -- The exploration of space / Edwin P. Hubble -- The 200-inch camera / Ira Sprague Bowen -- The utility of meteors / Harlow Shapley -- Are the planets habitable? / Henry Norris Russell -- Chapter 4: The science of new materials and improved processes -- Lightweight metals / Zay Jeffries -- Today's glass / George V. McCauley -- Bouncing molecules / Willis A. Gibbons -- The story of 100-octane gas / Robert E. Wilson -- Cows, movies, and color photography / C.E.K. Mees -- Chapter 5: New instrumental techniques -- new chemicals -- The story of the electron microscope / James Hillier -- Fingerprints in medicine / Cornelius P. Rhoads -- The spectroscope -- a master key to new material / George R. Harrison -- DDT / Milton Charles Winternitz -- The story of Streptomycin / Selman A. Waksman -- Chapter 6: Atoms and molecules -- Within the atom / Hans Albrecht Bethe -- The atomic nucleus / Isador I. Rabi -- A view of the molecular world / John G. Kirkwood -- Molecular architecture and medical progress / Linus Pauling -- Isotopes and atomic research / Harold Clayton Urey -- The atomic age / J. Robert Oppenheimer."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chapter 7: Physics and mathematics -- Effects of high pressure / Percy W. Bridgman -- Polarized light / Edwin H. Land -- Science and standards / Edward U. Condon -- Physics and art / Herbert E. Ives -- Mathematics and the laws of nature / Hermann Weyl -- Chapter 8: Chemistry and living things -- The Golden age of biochemistry / Robert R. Williams and Roger J. Williams -- Protein chemistry and medicine / Vincent du Vigneaud -- Blood and blood derivatives / Edwin Joseph Cohn -- Some acids which are necessary for life / William Cumming Rose -- The quick and the dead / John Howard Northrop -- At the twilight zone of life / Wendell M. Stanley -- Viruses -- master parasites / George Packer Berry -- The time factor in chemistry / Hugh Stott Taylor and Henry Eyring -- Chapter 9: Plants and animals -- Ambassador to the penguins / Robert Cushman Murphy -- Chimpanzees as servants of science / Robert M. Yerkes -- Plant roots and human problems / Philip R. White -- Bacteria -- friends or foes / Edwin Broun Fred -- Fungi -- friends or foes / Elvin Charles Stakman -- Hybrid corn / Lewis J. Stadler -- Living light / Edmund Newton Harvey -- Plants hold the basic patents / Edmund W. Sinnott -- Chapter 10: Fundamental Biology -- The science of heredity / T.S. Painter -- Genes, vitamins, and nutrition / George W. Beadle -- Living cells in action / Carl Caskey Speidel -- Growth / William Jacob Robbins -- The structural basis of life / Francis O. Schmitt -- Light on the blood capillaries / George W. Corner -- Chapter 11: The science of ourselves -- The human eye / Selig Hecht -- How much can we see? / Brian O'Brien -- The science of hearing / Harvey Fletcher -- The muscle machinery / Wallace Osgood Fenn -- Our internal environment / James L. Gamble -- The science of the individual / Earnest A. Hooton."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chapter 12: Science and health -- Agents of infectious disease / Ernest William Goodpasture -- Epidemics / Stanhope Bayne-Jones -- Resistance to disease / Michael Heidelberger -- Anemia / George Richards Minot -- Medical benefits from atomic energy / James Franck -- Atomic energy and medicine / Stafford L. Warren -- Chapter 13: The natural and the social sciences -- The new geography / Isaiah Bowman -- The changing world population / Frank w. Notestein -- Our northern neighbor, China / George B. Cressey -- Energy and the development of civilization / Leslie A. White -- Chapter 14: Science and the war -- Science at the front / Karl Taylor Compton -- Aviation medicine / Detlev W. Bronk -- Microwaves / Lee Alvin DuBridge -- Direct lift aircraft / Igor Sikorsky -- Medical research during the war / Alfred Newton Richards -- Progress in aviation / Jerome C. Hunsaker -- Chapter 15: The long-term values -- Science and our nation's future / Arthur H. Compton -- Unforeseeable results of research / Irving Langmuir -- The role of chemical research / Roger Adams -- Science and history / Henry E. Sigerist -- A layman looks at science / Raymond B. Fosdick -- Bibliography."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 353-369)."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Science."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Radio addresses, debates, etc."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Science"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Radio addresses, debates, etc."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01087167"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Science."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01108176"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Address"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Popular Work"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Radio addresses, debates, etc."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Speeches."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Weaver, Warren,"
+          },
+          {
+            "d": "1894-1978,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Weaver, Warren, 1894-1978."
+          },
+          {
+            "t": "Scientists speak."
+          },
+          {
+            "d": "New York, Boni & Gaer [1947]"
+          },
+          {
+            "w": "(OCoLC)594593616"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "u": "https://old.library.georgetown.edu/reserves/005846327.pdf"
+          },
+          {
+            "z": "CONNECT TO TABLE OF CONTENTS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 442 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019599"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019595"
+          }
+        ]
+      }
+    }
+  ]
+}

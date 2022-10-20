@@ -1,0 +1,681 @@
+{
+  "leader": "03730cam a2200457Ia 4500",
+  "fields": [
+    {
+      "001": "ocm44131733\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220630172119.0"
+    },
+    {
+      "008": "000516s2000\\\\\\\\waua\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   00040659 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "NTG"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0964752182"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780964752184"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)44131733"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-wa"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "TF25.E94"
+          },
+          {
+            "b": "W66 2000"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "385.0979771"
+          },
+          {
+            "b": "WOO"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Woodhouse, Philip R.,"
+          },
+          {
+            "d": "1938-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Everett and Monte Cristo Railway /"
+          },
+          {
+            "c": "Phil Woodhouse, Daryl Jacobson, Bill Petersen."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Arlington, WA :"
+          },
+          {
+            "b": "Oso Pub.,"
+          },
+          {
+            "c": "\u00a92000."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v, 234 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "A Land Rich in Resources --"
+          },
+          {
+            "t": "The 3S Railway --"
+          },
+          {
+            "t": "Construction Begins --"
+          },
+          {
+            "t": "The Trout Stream in the Canyon --"
+          },
+          {
+            "t": "Hardware for the Railroad --"
+          },
+          {
+            "t": "The Wild West --"
+          },
+          {
+            "t": "The Rucker Brothers --"
+          },
+          {
+            "t": "Chinese Labor --"
+          },
+          {
+            "t": "The \"Hundred-Year Storm\" --"
+          },
+          {
+            "t": "The Railroad's Early Years --"
+          },
+          {
+            "t": "Silverton --"
+          },
+          {
+            "t": "Another Fierce Winter --"
+          },
+          {
+            "t": "Preparing for Prosperity --"
+          },
+          {
+            "t": "The Rockefeller Reorganization --"
+          },
+          {
+            "t": "More of Nature's Wrath --"
+          },
+          {
+            "t": "A Rebuilt Rail Car --"
+          },
+          {
+            "t": "The Floods of 1896 --"
+          },
+          {
+            "t": "A Brighter Outlook --"
+          },
+          {
+            "t": "Lime --"
+          },
+          {
+            "t": "The Storms of 1897."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "t": "The Kissing Tunnel --"
+          },
+          {
+            "t": "Times of Confusion --"
+          },
+          {
+            "t": "The Rockefeller Power Play --"
+          },
+          {
+            "t": "The Northern Pacific Takes Over --"
+          },
+          {
+            "t": "The Smelter Trust --"
+          },
+          {
+            "t": "New Management --"
+          },
+          {
+            "t": "A New Beginning --"
+          },
+          {
+            "t": "Mining Ends at Monte Cristo --"
+          },
+          {
+            "t": "Quieter Times --"
+          },
+          {
+            "t": "More Troubles --"
+          },
+          {
+            "t": "New Business, New Struggles --"
+          },
+          {
+            "t": "Toward a More Substantial Line --"
+          },
+          {
+            "t": "The Northern Pacific Pulls Back --"
+          },
+          {
+            "t": "Restored Service to Monte Cristo --"
+          },
+          {
+            "t": "The Timber Industry and the Railroad --"
+          },
+          {
+            "t": "The Silverton Nursery --"
+          },
+          {
+            "t": "The Hartford Eastern --"
+          },
+          {
+            "t": "More Winter Problems."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "t": "Safety First --"
+          },
+          {
+            "t": "World War I --"
+          },
+          {
+            "t": "Keeping the Line Open --"
+          },
+          {
+            "t": "Competition from the Automobile --"
+          },
+          {
+            "t": "The Inn at Big Four --"
+          },
+          {
+            "t": "A Real Power Play --"
+          },
+          {
+            "t": "New Owners --"
+          },
+          {
+            "t": "Abandonment --"
+          },
+          {
+            "t": "Epilogue: The Everett and Monte Cristo Railroad Today --"
+          },
+          {
+            "t": "A Driving Tour: Hartford to Barlow Pass --"
+          },
+          {
+            "t": "Roster of Equipment --"
+          },
+          {
+            "t": "Everett and Monte Cristo Railway --"
+          },
+          {
+            "t": "Locomotives --"
+          },
+          {
+            "t": "Passenger Cars --"
+          },
+          {
+            "t": "Freight Cars --"
+          },
+          {
+            "t": "Maintenance-of-Way Equipment --"
+          },
+          {
+            "t": "Hartford Eastern Railway --"
+          },
+          {
+            "t": "Gas Cars --"
+          },
+          {
+            "t": "Bridges and Other Landmarks."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "t": "Bridges --"
+          },
+          {
+            "t": "Milepost Listing of Bridges and Other Landmarks --"
+          },
+          {
+            "t": "A Monte Cristo Gallery --"
+          },
+          {
+            "t": "Selected Depot Maps and Drawings --"
+          },
+          {
+            "t": "Everett Depot Area --"
+          },
+          {
+            "t": "Everett Smelter and Vicinity --"
+          },
+          {
+            "t": "Lowell Depot Area --"
+          },
+          {
+            "t": "Hartford Eastern Railway Connection to the Northern Pacific Railway --"
+          },
+          {
+            "t": "Granite Falls --"
+          },
+          {
+            "t": "Robe Wye and Vicinity --"
+          },
+          {
+            "t": "Monte Cristo circa 1904 --"
+          },
+          {
+            "t": "Water Tower --"
+          },
+          {
+            "t": "Turntable."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Tells the story of the Everett and Monte Cristo railroad line, one of the most troublesome lines ever built on American soil, covering its heyday as it hauled millions of tons of ore and later billions of board feet of timber, and its downfall as prey to natural disaster on an epic scale. Includes some 200 b&w historical photos. Author information is not given. Annotation copyrighted by Book News Inc., Portland, OR."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Everett & Monte Cristo Railway."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Railroads"
+          },
+          {
+            "z": "Washington (State)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Everett & Monte Cristo Railway."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00632744"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Railroads."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01088711"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Washington (State)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204703"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Jacobson, Daryl,"
+          },
+          {
+            "d": "1944-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Petersen, Bill,"
+          },
+          {
+            "d": "1945-"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 20 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019497"
+          }
+        ]
+      }
+    }
+  ]
+}

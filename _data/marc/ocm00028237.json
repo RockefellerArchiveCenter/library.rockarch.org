@@ -1,0 +1,634 @@
+{
+  "leader": "02668cam a2200409 i 4500",
+  "fields": [
+    {
+      "001": "ocm00028237\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220701144141.0"
+    },
+    {
+      "008": "691114s1969\\\\\\\\mauc\\\\\\\\\\b\\\\\\\\001\\0beng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   73079391 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "VOV"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "EUM"
+          },
+          {
+            "d": "IAD"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BUB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ALMSI"
+          },
+          {
+            "d": "OPT"
+          },
+          {
+            "d": "FQG"
+          },
+          {
+            "d": "BDP"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "VYM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "B3G"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "123088624"
+          },
+          {
+            "a": "976447392"
+          },
+          {
+            "a": "976780452"
+          },
+          {
+            "a": "988662860"
+          },
+          {
+            "a": "1051316489"
+          },
+          {
+            "a": "1056049851"
+          },
+          {
+            "a": "1056811699"
+          },
+          {
+            "a": "1078481383"
+          },
+          {
+            "a": "1080131600"
+          },
+          {
+            "a": "1145265586"
+          },
+          {
+            "a": "1153219686"
+          },
+          {
+            "a": "1160070986"
+          },
+          {
+            "a": "1166535662"
+          },
+          {
+            "a": "1224879867"
+          },
+          {
+            "a": "1231477267"
+          },
+          {
+            "a": "1271105279"
+          },
+          {
+            "a": "1277092876"
+          },
+          {
+            "a": "1282101221"
+          },
+          {
+            "a": "1295745259"
+          },
+          {
+            "a": "1298267894"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)28237"
+          },
+          {
+            "z": "(OCoLC)123088624"
+          },
+          {
+            "z": "(OCoLC)976447392"
+          },
+          {
+            "z": "(OCoLC)976780452"
+          },
+          {
+            "z": "(OCoLC)988662860"
+          },
+          {
+            "z": "(OCoLC)1051316489"
+          },
+          {
+            "z": "(OCoLC)1056049851"
+          },
+          {
+            "z": "(OCoLC)1056811699"
+          },
+          {
+            "z": "(OCoLC)1078481383"
+          },
+          {
+            "z": "(OCoLC)1080131600"
+          },
+          {
+            "z": "(OCoLC)1145265586"
+          },
+          {
+            "z": "(OCoLC)1153219686"
+          },
+          {
+            "z": "(OCoLC)1160070986"
+          },
+          {
+            "z": "(OCoLC)1166535662"
+          },
+          {
+            "z": "(OCoLC)1224879867"
+          },
+          {
+            "z": "(OCoLC)1231477267"
+          },
+          {
+            "z": "(OCoLC)1271105279"
+          },
+          {
+            "z": "(OCoLC)1277092876"
+          },
+          {
+            "z": "(OCoLC)1282101221"
+          },
+          {
+            "z": "(OCoLC)1295745259"
+          },
+          {
+            "z": "(OCoLC)1298267894"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E748.S63"
+          },
+          {
+            "b": "J6"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "E748 S55a J68"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "E748.S63 J6"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "973.9150924"
+          },
+          {
+            "b": "JOS"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Josephson, Matthew,"
+          },
+          {
+            "d": "1899-1978."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Al Smith :"
+          },
+          {
+            "b": "hero of the cities : a political portrait drawing on the papers of Frances Perkins /"
+          },
+          {
+            "c": "[by] Matthew and Hannah Josephson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Boston :"
+          },
+          {
+            "b": "Houghton Mifflin,"
+          },
+          {
+            "c": "1969."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xx, 505 pages :"
+          },
+          {
+            "b": "portraits ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 485-491)."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Freshly examined and balanced if admiring account of Smith, his background, political development from ward politician to New York governor and presidential candidate, legislative and administrative contributions, unhappy close of his political career, and his person and personality."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Smith, Alfred Emanuel,"
+          },
+          {
+            "d": "1873-1944."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Smith, Alfred Emanuel,"
+          },
+          {
+            "d": "1873-1944"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00005148"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Josephson, Hannah,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Perkins, Frances,"
+          },
+          {
+            "d": "1880-1965."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Josephson, Matthew, 1899-1978."
+          },
+          {
+            "t": "Al Smith: hero of the cities."
+          },
+          {
+            "d": "Boston, Houghton Mifflin, 1969"
+          },
+          {
+            "w": "(OCoLC)558220930"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Josephson, Matthew, 1899-1978."
+          },
+          {
+            "t": "Al Smith: hero of the cities."
+          },
+          {
+            "d": "Boston, Houghton Mifflin, 1969"
+          },
+          {
+            "w": "(OCoLC)608062824"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1120 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014212"
+          }
+        ]
+      }
+    }
+  ]
+}
