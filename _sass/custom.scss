@@ -123,11 +123,6 @@ h2:not(:first-child) {
   box-sizing: border-box;
   margin-left: 0;
   padding-right: 15px;
-  @media screen and (min-width: $break-md) {
-    @include grid-column(6);
-    margin-left: 0;
-    padding-right: 15px;
-  }
 }
 
 .list--unstyled {
