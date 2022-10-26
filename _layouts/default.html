@@ -20,7 +20,7 @@
         </div>
       </div>
       {% capture object_id %}{{page.id}}{% endcapture %}
-      {% assign object = site.data.resource[object_id] %}
+      {% assign object = site.data.marc[object_id] %}
     {% endif %}
     {% comment %}Displays home page on root URL{% endcomment %}
     {% if page.dir == "/" %}
@@ -35,6 +35,6 @@
       </div>
     </div>
     {% include footer.html %}
-    {% include request_modal.html %}
+    {% include request_modal.html object=object %}
   </body>
 </html>
