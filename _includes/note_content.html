@@ -1,11 +1,3 @@
-{%- case {{note.jsonmodel_type}} -%}
-{%- when 'note_multipart' -%}
-  {%- for subnote in note.subnotes -%}
-    {%- if subnote.jsonmodel_type == 'note_text' -%}
-      {%- assign content = subnote.content -%}
-    {%- endif -%}
-  {%- endfor -%}
-{%- when 'note_singlepart' -%}
-  {%- assign content = note.content -%}
-{%- endcase -%}
-{{ content }}
+{% comment %}Returns note content{% endcomment %}
+{%- capture field -%}{{include.field}}{%- endcapture -%}
+{{- include.object.fields | map: field | map: "subfields" | map: "a" -}}

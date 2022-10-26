@@ -1,0 +1,9 @@
+{% comment %}Formats publication information{% endcomment %}
+{%- assign publication_info = include.object.fields | map: "264" | map: "subfields" | compact -%}
+{% if publication_info.size == 0 %}
+  {%- assign publication_info = include.object.fields | map: "260" | map: "subfields" | compact -%}
+{% endif %}
+{%- capture output -%}
+  {{publication_info | map: "a"}} {{publication_info | map: "b"}} {{publication_info | map: "c"}}
+{%- endcapture -%}
+{{- output -}}

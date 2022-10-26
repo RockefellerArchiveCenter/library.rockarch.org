@@ -1,12 +1,18 @@
-<ul class="list--unstyled">
-{% for subject in object.subjects %}
-  {%- capture subject_title -%}{%- include title_from_ref.html object=subject -%}{%- endcapture -%}
-  <li>{{subject_title | strip_newlines | escape}}</li>
-{% endfor %}
-{%- for agent in object.linked_agents -%}
-  {% if agent.role == "subject" %}
-    {%- capture agent_title -%}{%- include title_from_ref.html object=agent -%}{%- endcapture -%}
-    <li>{{agent_title | strip_newlines | escape}}</li>
+{% comment %}Creates a delimited list of subjects{% endcomment %}
+{%- assign everything = "" | split: ',' -%}
+{%- assign subjects = "" | split: ',' -%}
+{%- assign fields = "600,610,611,650,651" | split: "," -%}
+
+{%- for field in fields -%}
+  {%- assign list = include.object.fields | map: field  -%}
+  {%- assign everything = everything | concat: list -%}
+{%- endfor -%}
+
+{%- for topic in everything -%}
+  {% if topic %}
+    {% capture subject_title %}{% include subject_title.html object=topic %}{% endcapture %}
+    {% assign subjects = subjects | push: subject_title %}
   {% endif %}
 {%- endfor -%}
-</ul>
+
+{{- subjects | join: include.separator | strip_newlines | escape -}}
