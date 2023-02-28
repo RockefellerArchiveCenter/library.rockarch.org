@@ -1,5 +1,5 @@
 {
-  "leader": "03032cas a22006611i 4500",
+  "leader": "03022cas a22006731i 4500",
   "fields": [
     {
       "001": "ocm01759017\\"
@@ -8,7 +8,7 @@
       "003": "OCoLC"
     },
     {
-      "005": "20220225124110.0"
+      "005": "20220712094219.0"
     },
     {
       "008": "751101d18772009dcu\\x\\\\\\\\\\\\\\\\\\0\\\\\\a0eng\\\\"
@@ -453,7 +453,7 @@
         "ind2": "4",
         "subfields": [
           {
-            "a": "506"
+            "a": "509.22"
           },
           {
             "b": "NAT"
@@ -514,16 +514,7 @@
             "a": "Washington :"
           },
           {
-            "b": "National Academy of Sciences ;"
-          },
-          {
-            "a": "New York ;"
-          },
-          {
-            "a": "London :"
-          },
-          {
-            "b": "Columbia University Press,"
+            "b": "National Academy of Sciences,"
           },
           {
             "c": "1877-"
@@ -664,6 +655,17 @@
         "subfields": [
           {
             "a": "Vols. 1-35, 1877-1961, in v. 36 (1962); v. 1-40, 1877-1969, in v. 40 (1969); v. 1-63, 1877-1994, in v. 63 (1994)."
+          }
+        ]
+      }
+    },
+    {
+      "588": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Volume 83 (2003)"
           }
         ]
       }
@@ -854,9 +856,6 @@
           },
           {
             "u": "http://www.nasonline.org/publications/biographical-memoirs/online-collection.html"
-          },
-          {
-            "7": "0"
           }
         ]
       }
@@ -938,7 +937,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "h": "NO HOLDINGS IN NYRVC - 632 OTHER HOLDINGS"
+            "h": "NO HOLDINGS IN NYRVC - 622 OTHER HOLDINGS"
           }
         ]
       }
@@ -949,10 +948,10 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "No barcode"
+            "a": "00000000012934"
           },
           {
-            "v": "v. 39"
+            "v": "Volume 83"
           }
         ]
       }

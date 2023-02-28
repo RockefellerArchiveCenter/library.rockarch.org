@@ -1,0 +1,578 @@
+{
+  "leader": "02516cam a22004811i 4500",
+  "fields": [
+    {
+      "001": "ocm00518158\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221206175349.0"
+    },
+    {
+      "008": "721214s1961\\\\\\\\nyuaf\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   61012117 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "CNTRU"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OKN"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CAM"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "UWW"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "INU"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1008412330"
+          },
+          {
+            "a": "1087362087"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)518158"
+          },
+          {
+            "z": "(OCoLC)1008412330"
+          },
+          {
+            "z": "(OCoLC)1087362087"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "N5311"
+          },
+          {
+            "b": ".M68 1961"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "709.011"
+          },
+          {
+            "b": "MOV"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Movius, Hallam L."
+          },
+          {
+            "q": "(Hallam Leonard),"
+          },
+          {
+            "d": "1907-1987."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Three regions of primitive art /"
+          },
+          {
+            "c": "Hallam L. Movius, Jr., S. Kooijman [and] George Kubler."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Museum of Primitive Art :"
+          },
+          {
+            "b": "Distributed by University Publishers,"
+          },
+          {
+            "c": "1961."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "75 pages :"
+          },
+          {
+            "b": "illustrations, plates ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York (N.Y.). Museum of Primitive Art. Lecture series ;"
+          },
+          {
+            "v": "no. 2"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Foreword, by R. Goldwater.--Aspects of Upper Palaeolithic art, by H.L.M., Jr.--The art areas of western New Guinea, by S. Kooijman.--Rival approaches to American antiquity, by G. Kubler."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Indian art."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art"
+          },
+          {
+            "z": "New Guinea."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Paleolithic period"
+          },
+          {
+            "x": "Art."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00815177"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Indian art."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00969029"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Paleolithic period."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01051501"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New Guinea."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01241921"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423702"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Movius, Hallam L. (Hallam Leonard), 1907-1987."
+          },
+          {
+            "t": "Three regions of primitive art."
+          },
+          {
+            "d": "New York, Museum of Primitive Art; distributed by University Publishers, 1961"
+          },
+          {
+            "w": "(OCoLC)603547224"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Movius, Hallam L. (Hallam Leonard), 1907-1987."
+          },
+          {
+            "t": "Three regions of primitive art."
+          },
+          {
+            "d": "New York, Museum of Primitive Art; distributed by University Publishers, 1961"
+          },
+          {
+            "w": "(OCoLC)609983354"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Lecture series (Museum of Primitive Art (New York, N.Y.)) ;"
+          },
+          {
+            "v": "no. 2."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=016033187&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 432 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011228"
+          },
+          {
+            "b": "Copy 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011224"
+          },
+          {
+            "b": "Copy 2"
+          }
+        ]
+      }
+    }
+  ]
+}

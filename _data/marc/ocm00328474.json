@@ -1,0 +1,677 @@
+{
+  "leader": "04485cam a2200541 i 4500",
+  "fields": [
+    {
+      "001": "ocm00328474\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230106092601.0"
+    },
+    {
+      "008": "680608s1965\\\\\\\\paua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   64023602 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "HEI"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "WAU"
+          },
+          {
+            "d": "MTG"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "TPH"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "TWP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "FLARE"
+          },
+          {
+            "d": "ZIH"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0007363"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "009009257"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "14490677"
+          },
+          {
+            "a": "220309948"
+          },
+          {
+            "a": "622446505"
+          },
+          {
+            "a": "976936061"
+          },
+          {
+            "a": "1060529325"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)328474"
+          },
+          {
+            "z": "(OCoLC)14490677"
+          },
+          {
+            "z": "(OCoLC)220309948"
+          },
+          {
+            "z": "(OCoLC)622446505"
+          },
+          {
+            "z": "(OCoLC)976936061"
+          },
+          {
+            "z": "(OCoLC)1060529325"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC115"
+          },
+          {
+            "b": ".D75 1965"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.92"
+          },
+          {
+            "b": "DUB "
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Dubos, Rene\u0301 J."
+          },
+          {
+            "q": "(Rene\u0301 Jules),"
+          },
+          {
+            "d": "1901-1982."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Bacterial and mycotic infections of man /"
+          },
+          {
+            "c": "edited by Re\u0301ne J. Dubos [and] James G. Hirsch."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Fourth edition."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Philadelphia :"
+          },
+          {
+            "b": "Lippincott,"
+          },
+          {
+            "c": "[\u00a91965]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 1025 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "26 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151204"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1. The evolution of medical microbiology / Rene Dubos -- 2. The evolution of microbial diseases / Rene Dubos -- 3. Morphology and chemical anatomy of bacteria / Claes Weibull -- 4. Beacterial genetics / Norton D. Zinder -- 5. Bacterial metabolism / Bernard L. Horecker -- 6. Mechanisms of action of antimicrobial agents / Jack L. Strominger -- 7. Pathogenic properties of bacteria / Colin M. MacLeod and Alan W. Bernheimer -- 8. Host resistance to infectious diseases / James G. Hirsch -- 9. The role of anatomy, complement and other humoral factors in host bresistance to infections / H.J. Muller-Eberhard -- 10. Phagocytic cells / Zanvil A. Cohn and James G. Hirsch -- 11. The allergic state / Merrill W. Chase -- 12. Endotoxins / Chandler A. stetson -- 13. General host responses to infections / Ivan L. Bennett -- 14. Bacteria indigenous to man / Theodor Rosebury -- 15. The Hemolytic streptococci / Maclyn McCarty -- 16. The pneumococci / Colin M. MacLeod -- 17. Staphylococci and other micrococci / Strephen I. Morse -- 18. The meningococci / F. S. Cheever -- 19. The gonococcus / James D. Thayer and Warfield Garson -- 20. The diphtheria bacilli / Alwin M. Pappenheimer, Jr. -- 21. The mycobacteria / Gardner Middlebrook -- 22. The anthrax bacillus / George G. Wright -- 23. The clostridia / Max Sterne and W. E. van Heyningen -- 24. The spirochetes / Thomas B. Turner -- 25. The enteric bacteria / Herbert R. Morgan -- 26. the cholera vibrios / Kenneth Goodner -- 27. Pasteurella and francisella / K. F. Meyer -- 28. The brucellae / Sanford S. Elberg -- 29. The hemophilus group / Hattie E. Alexander -- 30. The bordetella group / William L. Bradford -- 31. Listeria and erysipelothrix / R. W. Reed -- 32. Streptobacillus moniliforms / Harry E. Morton -- 33. Bacteroides / Harry E. Morton -- 34. The bartonella group / David Weinman -- 35. The pleuropneumonia and pleuneumonialike organisms / Harry E. Morton -- 36. Mycoplasma pneumoniae infections / John H. Dingle and William S. Jordan -- 37. Medical mycology / Norman F. Conant -- 38. The principles of epidemiology as applied to infectious diseases / Gaylord W. Anderson -- 39. Prevention of infections / Geoffrey Edsall and Herbert L. Ley, Jr. -- 40. Treatment of infectious diseases / Paul B. Beeson."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Communicable diseases."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical mycology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Pathogenic bacteria."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Allergy."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Microbiology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mycoses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Communicable Diseases"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Microbiology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Mycoses"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Mycoses."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01031346"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Microbiology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01019576"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Allergy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00805549"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Communicable diseases."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00869883"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical mycology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014378"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Pathogenic bacteria."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01054930"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hirsch, James G.,"
+          },
+          {
+            "d": "1922-1987."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Dubos, Rene\u0301 J. (Rene\u0301 Jules), 1901-1982."
+          },
+          {
+            "t": "Bacterial and mycotic infections of man."
+          },
+          {
+            "b": "4th ed."
+          },
+          {
+            "d": "Philadelphia, Lippincott [\u00a91965]"
+          },
+          {
+            "w": "(OCoLC)599674105"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 373 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011989"
+          }
+        ]
+      }
+    }
+  ]
+}

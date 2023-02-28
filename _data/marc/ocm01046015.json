@@ -1,5 +1,5 @@
 {
-  "leader": "02523cam a2200613 i 4500",
+  "leader": "02461cam a2200589 i 4500",
   "fields": [
     {
       "001": "ocm01046015\\"
@@ -115,34 +115,6 @@
           },
           {
             "d": "LUN"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "GB7605440"
-          },
-          {
-            "2": "bnb"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "761531408"
-          },
-          {
-            "2": "can"
           }
         ]
       }
@@ -362,7 +334,7 @@
     {
       "083": {
         "ind1": "0",
-        "ind2": "0",
+        "ind2": "\\",
         "subfields": [
           {
             "a": "West Africa. Tropical regions. Population. Growth. Social aspects"

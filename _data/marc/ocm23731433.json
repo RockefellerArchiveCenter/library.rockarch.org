@@ -1,5 +1,5 @@
 {
-  "leader": "02520cam a2200421 a 4500",
+  "leader": "02748cam a2200469 i 4500",
   "fields": [
     {
       "001": "ocm23731433\\"
@@ -8,10 +8,10 @@
       "003": "OCoLC"
     },
     {
-      "005": "20220104150722.0"
+      "005": "20230104153549.0"
     },
     {
-      "008": "910416s1991\\\\\\\\nyuaf\\\\\\\\b\\\\\\\\001\\0ceng\\\\"
+      "008": "910416t19911991nyuaf\\\\\\\\b\\\\\\\\001\\0ceng\\\\"
     },
     {
       "010": {
@@ -34,6 +34,9 @@
           },
           {
             "b": "eng"
+          },
+          {
+            "e": "rda"
           },
           {
             "c": "DLC"
@@ -124,6 +127,9 @@
           },
           {
             "d": "OCLCO"
+          },
+          {
+            "d": "HUL"
           }
         ]
       }
@@ -224,6 +230,9 @@
           },
           {
             "d": "1926-"
+          },
+          {
+            "e": "author."
           }
         ]
       }
@@ -246,15 +255,15 @@
       }
     },
     {
-      "260": {
+      "264": {
         "ind1": "\\",
-        "ind2": "\\",
+        "ind2": "1",
         "subfields": [
           {
             "a": "New York :"
           },
           {
-            "b": "Scribner ;"
+            "b": "Charles Scribner's Sons ;"
           },
           {
             "a": "Toronto :"
@@ -269,7 +278,18 @@
             "b": "Maxwell Macmillan International,"
           },
           {
-            "c": "\u00a91991."
+            "c": "[1991]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91991"
           }
         ]
       }
@@ -280,7 +300,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "xvi, 624 pages and 24 pages of plates :"
+            "a": "xvi, 624 pages, 24 unnumbered pages of plates :"
           },
           {
             "b": "illustrations ;"
@@ -376,6 +396,40 @@
       }
     },
     {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Capitalists and financiers"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philanthropists"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
       "651": {
         "ind1": "\\",
         "ind2": "0",
@@ -426,6 +480,17 @@
     {
       "655": {
         "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Biography"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
         "ind2": "7",
         "subfields": [
           {
@@ -460,7 +525,10 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "Johnson, Peter J."
+            "a": "Johnson, Peter J.,"
+          },
+          {
+            "e": "author."
           }
         ]
       }
@@ -508,7 +576,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "h": "NO HOLDINGS IN NYRVC - 597 OTHER HOLDINGS"
+            "h": "NO HOLDINGS IN NYRVC - 576 OTHER HOLDINGS"
           }
         ]
       }
@@ -519,7 +587,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "No barcode."
+            "a": "no barcode"
           }
         ]
       }

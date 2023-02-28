@@ -1,0 +1,812 @@
+{
+  "leader": "03985cam a2200577 i 4500",
+  "fields": [
+    {
+      "001": "ocm27379663\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211118135007.0"
+    },
+    {
+      "008": "930106t19931993caua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   93000051 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DNLM/DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "WEA"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "RMC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "NZWWM"
+          },
+          {
+            "d": "TEX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "VZD"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EUQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9301885"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "27383663"
+          },
+          {
+            "a": "28748789"
+          },
+          {
+            "a": "775977829"
+          },
+          {
+            "a": "794975403"
+          },
+          {
+            "a": "795105367"
+          },
+          {
+            "a": "992416481"
+          },
+          {
+            "a": "1064079601"
+          },
+          {
+            "a": "1066932890"
+          },
+          {
+            "a": "1078515113"
+          },
+          {
+            "a": "1080159219"
+          },
+          {
+            "a": "1080762522"
+          },
+          {
+            "a": "1084934928"
+          },
+          {
+            "a": "1086229346"
+          },
+          {
+            "a": "1089599046"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1555425445"
+          },
+          {
+            "q": "(alkaline paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781555425449"
+          },
+          {
+            "q": "(alkaline paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)27379663"
+          },
+          {
+            "z": "(OCoLC)27383663"
+          },
+          {
+            "z": "(OCoLC)28748789"
+          },
+          {
+            "z": "(OCoLC)775977829"
+          },
+          {
+            "z": "(OCoLC)794975403"
+          },
+          {
+            "z": "(OCoLC)795105367"
+          },
+          {
+            "z": "(OCoLC)992416481"
+          },
+          {
+            "z": "(OCoLC)1064079601"
+          },
+          {
+            "z": "(OCoLC)1066932890"
+          },
+          {
+            "z": "(OCoLC)1078515113"
+          },
+          {
+            "z": "(OCoLC)1080159219"
+          },
+          {
+            "z": "(OCoLC)1080762522"
+          },
+          {
+            "z": "(OCoLC)1084934928"
+          },
+          {
+            "z": "(OCoLC)1086229346"
+          },
+          {
+            "z": "(OCoLC)1089599046"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "R727.3"
+          },
+          {
+            "b": ".T5 1993"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "W 84.7"
+          },
+          {
+            "b": "T531 1993"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "610.696"
+          },
+          {
+            "b": "THR"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Through the patient's eyes :"
+          },
+          {
+            "b": "understanding and promoting patient-centered care /"
+          },
+          {
+            "c": "Margaret Gerteis, Susan Edman-Levitan, Jennifer Daley, and Thomas L. Delbanco, editors."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Understanding and promoting patient-centered care"
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "First edition."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "San Francisco :"
+          },
+          {
+            "b": "Jossey-Bass,"
+          },
+          {
+            "c": "[1993]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91993"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxvii, 317 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Jossey-Bass health series"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The Picker/Commonwealth Program for Patient-Centered Care\"--Page facint ser. title page."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and indexes."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Introduction: medicine and health from the patient's perspective /"
+          },
+          {
+            "r": "Margaret Gerteis, Susan Edgman-Levitan, Jennifer Daley, Thomas L. Delbanco --"
+          },
+          {
+            "g": "pt. I. The Dimensions of Patient-centered Care:"
+          },
+          {
+            "t": "Treating patients as individuals /"
+          },
+          {
+            "r": "Kimberly D. Allshouse ;"
+          },
+          {
+            "t": "Coordinating care and integrating services /"
+          },
+          {
+            "r": "Margaret Gerteis ;"
+          },
+          {
+            "t": "Overcoming the barrier of words /"
+          },
+          {
+            "r": "Jennifer Daley ;"
+          },
+          {
+            "t": "Innovations in patient-centered education /"
+          },
+          {
+            "r": "Beth Ellers ;"
+          },
+          {
+            "t": "Enhancing physical comfort /"
+          },
+          {
+            "r": "Janice D. Walker ;"
+          },
+          {
+            "t": "Providing effective emotional support /"
+          },
+          {
+            "r": "Susan Edgman-Levitan ;"
+          },
+          {
+            "t": "Involving and supporting family and friends /"
+          },
+          {
+            "r": "Beth Ellers ;"
+          },
+          {
+            "t": "Facilitating the transition out of the hospital /"
+          },
+          {
+            "r": "Beth Ellers, Janice D. Walker --"
+          },
+          {
+            "g": ". pt. II. Promoting a Patient-centered Health Care Environment:"
+          },
+          {
+            "t": "Culture, leadership, and service in the patient-centered hospital /"
+          },
+          {
+            "r": "Margaret Gerteis, Marc J. Roberts ;"
+          },
+          {
+            "t": "Promoting the doctor's involvement in care /"
+          },
+          {
+            "r": "Thomas L. Delbanco ;"
+          },
+          {
+            "t": "Rebuilding public trust and confidence /"
+          },
+          {
+            "r": "Thomas W. Moloney, Barbara Paul."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Physician and patient."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Patient Care Planning."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Patient Satisfaction."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Professional-Patient Relations."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Physician and patient."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01062819"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gerteis, Margaret,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Edgman-Levitan,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Daley, Jennifer,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Delbanco, Thomas L.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Picker/Commonwealth Program for Patient-Centered Care."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Through the patient's eyes."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "San Francisco : Jossey-Bass, \u00a91993"
+          },
+          {
+            "w": "(OCoLC)665113823"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Jossey-Bass health series."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/onix06/93000051.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/bowker/toc/9781555425449.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy0705/93000051-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/description/wiley035/93000051.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 605 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012666"
+          }
+        ]
+      }
+    }
+  ]
+}

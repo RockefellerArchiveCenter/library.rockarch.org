@@ -1,0 +1,779 @@
+{
+  "leader": "10182cam a22005411i 4500",
+  "fields": [
+    {
+      "001": "ocm00953897\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230126132824.0"
+    },
+    {
+      "008": "731207s1967\\\\\\\\txu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   67063020 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "WPG"
+          },
+          {
+            "d": "SNM"
+          },
+          {
+            "d": "UPP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "BRA"
+          },
+          {
+            "d": "HDC"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "I8M"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CNO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "NJK"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000001218096"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "640098003"
+          },
+          {
+            "a": "844560292"
+          },
+          {
+            "a": "1001189598"
+          },
+          {
+            "a": "1152831488"
+          },
+          {
+            "a": "1154283773"
+          },
+          {
+            "a": "1154295473"
+          },
+          {
+            "a": "1165347109"
+          },
+          {
+            "a": "1170738899"
+          },
+          {
+            "a": "1175691076"
+          },
+          {
+            "a": "1175693056"
+          },
+          {
+            "a": "1175715465"
+          },
+          {
+            "a": "1175722506"
+          },
+          {
+            "a": "1175727061"
+          },
+          {
+            "a": "1175731627"
+          },
+          {
+            "a": "1205380605"
+          },
+          {
+            "a": "1205488882"
+          },
+          {
+            "a": "1205541096"
+          },
+          {
+            "a": "1205577274"
+          },
+          {
+            "a": "1221280664"
+          },
+          {
+            "a": "1229593480"
+          },
+          {
+            "a": "1276019835"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)953897"
+          },
+          {
+            "z": "(OCoLC)640098003"
+          },
+          {
+            "z": "(OCoLC)844560292"
+          },
+          {
+            "z": "(OCoLC)1001189598"
+          },
+          {
+            "z": "(OCoLC)1152831488"
+          },
+          {
+            "z": "(OCoLC)1154283773"
+          },
+          {
+            "z": "(OCoLC)1154295473"
+          },
+          {
+            "z": "(OCoLC)1165347109"
+          },
+          {
+            "z": "(OCoLC)1170738899"
+          },
+          {
+            "z": "(OCoLC)1175691076"
+          },
+          {
+            "z": "(OCoLC)1175693056"
+          },
+          {
+            "z": "(OCoLC)1175715465"
+          },
+          {
+            "z": "(OCoLC)1175722506"
+          },
+          {
+            "z": "(OCoLC)1175727061"
+          },
+          {
+            "z": "(OCoLC)1175731627"
+          },
+          {
+            "z": "(OCoLC)1205380605"
+          },
+          {
+            "z": "(OCoLC)1205488882"
+          },
+          {
+            "z": "(OCoLC)1205541096"
+          },
+          {
+            "z": "(OCoLC)1205577274"
+          },
+          {
+            "z": "(OCoLC)1221280664"
+          },
+          {
+            "z": "(OCoLC)1229593480"
+          },
+          {
+            "z": "(OCoLC)1276019835"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "cl-----"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F1409.9"
+          },
+          {
+            "b": ".C54 1967"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F1409.9"
+          },
+          {
+            "b": ".C54"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "980.033"
+          },
+          {
+            "b": "LAT"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Latin American history :"
+          },
+          {
+            "b": "essays on its study and teaching, 1898-1965 /"
+          },
+          {
+            "c": "compiled and edited by Howard F. Cline."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Austin,"
+          },
+          {
+            "b": "Published for the Conference on Latin American History by the University of Texas Press"
+          },
+          {
+            "c": "[1967]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2 volumes (xiv, 813 pages) ;"
+          },
+          {
+            "c": "27 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Conference on Latin American History. Publications ;"
+          },
+          {
+            "v": "no. 1"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v. 1. 1898-1945.--v. 2. 1946-1965."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v. 1. The Nature of History / George W. Pierson, and others -- Latin American History: Development of Its Study and Teaching in the United States since 1898 / Howard F. Cline -- William Hickling Prescott: The Man and the Historian / Robin A. Humphreys -- The First Lecturer on Hispanic American Diplomatic History in the United States [Daniel de Leon] / Lewis Hanke -- Hubert Howe Bancroft, Historian of Western America / John Walton Caughey -- The Neglected Half of American History / Bernard Moses -- Bernard Moses: Pioneer in Latin American Scholarship / James E. Watson -- The Relation of American History to Other Fields of Historical Study / Edward Gaylord Bourne -- Edward Gaylord Bourne's Spain in America / Benjamin Keen -- The Possibilities of South American History and Politics as a Field for Research / Hiram Bingham -- The Contribution of the Romance Nations to the History of the Americas / William R. Shepherd -- Some Notes on the Study of South American History / Paul Samuel Reinsch -- A Frank Word about South American History / John F. O'Hara -- The Church in Spanish American History / Julius G. Klein -- The Historian of the Spanish Empire [Roger B. Merriman] / Garrett Mattingly -- Clarence Henry Haring, 1885-1960 / Howard F. Cline."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A New American Historical Journal / J. Franklin Jameson -- The Founding of the Review / Charles E. Chapman -- The Hispanic American Historical Review / William Spence Robertson -- Thirty Years of the Hispanic American Historical Review / Lesley Byrd Simpson -- Reflections on Traditionalism in the Historiography of Hispanic America / Howard F. Cline -- Discussion of Lesley Byrd Simpson, \"Thirty Years of the Hispanic American Historical Review\" / Charles W. Hackett -- A Soviet Criticism of the Hispanic American Historical Review / J. Gregory Oswald -- A Survey of the Hispanic American Historical Review, 1956-1958 / I.R. Lavretskii -- Editor's Note: The Lavretskii Article / Donald E. Worcester -- Early Views, 1911 / Herbert Eugene Bolton -- The Epic of Greater America / Herbert Eugene Bolton -- Herbert Eugene Bolton / John W. Caughey -- Development of Bolton's Theory / Lewis Hanke -- A General View of the Colonial History of the New World / Silvio Zavala -- History of the New World / Charles C. Griffin -- History of the New World Program: Assessment / Charles Gibson -- The Americas in the Atlantic Triangle / Arthur P. Whitaker."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Imperial Perspectives on the Borderlands / Howard F. Cline -- A Symposium on the Teaching of the History of Hispanic America in Educational Institutions of the United States / James Alexander Robertson -- A Topical Analysis of the College Texts on Hispanic American History / Stetson Conn -- Hispanic America / Isaac Joslin Cox -- The Handbook of Latin American Studies / Clarence H. Haring -- The Handbook of Latin American Studies: Its First Fifteen Years / Charmion Shelby -- Handbook of Latin American Studies, Nos. 1-21 / Nathan A. Haverstock -- The Handbook of Latin American Studies: Recent Developments / Earl J. Pariseau -- Founding / N. Andrew N. Cleven, A. Curtis Wilgus, M.W. Williams -- Reconstitution / Lillian E. Fisher -- Brazil as a Field for Historical Study / William R. Shepherd -- Research Possibilities in the Cultural History of Spain in America / John Tate Lanning -- A Survey of Personnel and Activities in Latin American Aspects of the Humanities and Social Sciences at Twenty Universities of the United States / Irving A. Leonard -- The Development of Latin-American Studies in the United States, 1939-1945 / Lewis Hanke -- Latin American History Textbooks / James F. King, Samuel Everett."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Some Recent Trends and Findings in the History of the Spanish Colonial Empire in America / Francis Borgia Steck -- A Revisionist Approach to Hispanic American Studies / Richard Pattee -- A Reconsideration of Spanish Colonial Culture / John Tate Lanning -- Negro History in Continental Spanish America / James Ferguson King -- Regionalism in the National History of Mexico / Harry Bernstein."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v. 2. Developments of the Past Decade in the Writing of Latin American History / Arthur P. Whitaker -- The Tradition of Latin American History in the United States: A Preliminary View / Clifton B. Kroeber -- Latin American Courses in the United States / Jorge Basadre -- Report of the Committee on the Twenty-Fifth Anniversary / Donald E. Worcester, John P. Harrison, Bernard E. Bobb -- Research in Latin American Economics and Economic History / Miron Burgin -- The Fall of the Spanish American Empire / Robin A. Humphreys -- Economic and Social Aspects of the Era of Spanish-American Independence / Charles C. Griffin -- Latin American Economics: The Field and Its Problems / Sanford A. Mosk-- Mexico's Forgotten Century / Lesley Byrd Simpson -- Toward a Theory of Spanish American Government / Richard M. Morse -- Trends of United States Studies in Latin American History / Charles Gibson, Benjamin Keen -- History: Needs and Prospects / Robert N. Burr -- The Tasks Ahead for Latin American Historians / Stanley J. Stein."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Research Opportunities: Mexico and Central America / Robert A. Naylor -- Research Opportunities: The Bolivarian Nations / J. Leon Helguera -- Research Opportunities: Southern South America / Thomas F. McGann -- United States Historiography of Latin America / Howard F. Cline -- Latin American Historiography: Status and Research Opportunities / Stanley J. Stein -- The Colonial Period in Latin American History / Charles Gibson -- Latin American History Since 1825 / Arthur P. Whitaker -- Four Bibliographical Tools Needed for Latin American History / Robin A. Humphreys -- Ethnohistory: A Progress Report on the Handbook of Middle American Indians / Howard F. Cline -- Ethnohistory: Mesoamerica / Henry B. Nicholson -- Latin America / Howard F. Cline -- History / Charles Gibson -- The Hispanist in the American Historical Association / John Tate Lanning -- The Conference: A Fecund Decade, 1954-1964 / Howard F. Cline -- The Ford Foundation Grant Program of the Conference: A Special Report / Howard F. Cline -- Language as a Key to Latin American Historiography / Richard M. Morse -- Latin American Economics: Needs and Prospects / Sanford A. Mosk -- Some Characteristcs of Latin American Urban History / Richard M. Morse -- An Essay on Regionalism and Nationalism in Latin American Historiography / Charles C. Griffin."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The unity of Brazilian History / Alexander Marchant -- Some Themes of Brazilian History / Richard M. Morse -- New Demographic Research on the Sixteenth Century in Mexico / Woodrow Borah, Sherburne F. Cook -- The Intellectual History of Eighteenth-Century Spanish America / Arthur P. Whitaker -- The Clergy and the Enlightenment in Latin America: An Analysis / Karl Schmitt -- Authority and Flexibility in the Spanish Imperial Bureaucracy / John Leddy Phelan -- Social Structure and Social Change in New Spain / Lyle N. McAlister -- Whither the Latin American Middle Sectors? / John J. Johnson -- Civil-Military Relations in Latin America / Lyle N. McAlister -- The Changing Role of the Military in Latin America / Edwin Lieuwen -- The Changing Role of the Military in Colombia / J. Leon Helguera -- The Changing Role of the Military in Argentina / Robert A. Potash -- History in British Studies of Latin America / John H. Parry and others -- Universities and Latin American Studies / Melvin J. Fox."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Latin America"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "x": "Study and teaching."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Latin America"
+          },
+          {
+            "x": "Historiography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History"
+          },
+          {
+            "x": "education."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Historiography."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00958221"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902499"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Latin America."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01245945"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cline, Howard Francis,"
+          },
+          {
+            "e": "compiler,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Conference on Latin American History."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Cline, Howard Francis."
+          },
+          {
+            "t": "Latin American history."
+          },
+          {
+            "d": "Austin, Published for the Conference on Latin American History by the University of Texas Press [1967]"
+          },
+          {
+            "w": "(OCoLC)592409500"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Publication (Conference on Latin American History) ;"
+          },
+          {
+            "v": "no. 1."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 842 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000017470"
+          },
+          {
+            "v": "v. 2"
+          }
+        ]
+      }
+    }
+  ]
+}

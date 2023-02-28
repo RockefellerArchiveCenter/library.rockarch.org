@@ -1,0 +1,579 @@
+{
+  "leader": "02191cam a22004931i 4500",
+  "fields": [
+    {
+      "001": "ocm01002386\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221209104158.0"
+    },
+    {
+      "008": "740910s1957\\\\\\\\vaua\\\\\\\\\\b\\\\\\\\000\\0aeng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   57013498 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "BRL"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "SHS"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "WRM"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YBM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "014123086"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "500210178"
+          },
+          {
+            "a": "987053721"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1002386"
+          },
+          {
+            "z": "(OCoLC)500210178"
+          },
+          {
+            "z": "(OCoLC)987053721"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-va"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F229"
+          },
+          {
+            "b": ".F56 1957"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "B F546f"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "975.5"
+          },
+          {
+            "b": "FIT"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Fithian, Philip Vickers,"
+          },
+          {
+            "d": "1747-1776."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Journal & letters of Philip Vickers Fithian, 1773-1774 :"
+          },
+          {
+            "b": "a plantation tutor of the Old Dominion /"
+          },
+          {
+            "c": "edited with an introduction by Hunter Dickinson Farish. Illustrated by Fritz Kredel."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Journal and letters of Philip Vickers Fithian, 1773-1774"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Williamsburg, Va.,"
+          },
+          {
+            "b": "Colonial Williamsburg,"
+          },
+          {
+            "c": "1957."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxxii, 270 p."
+          },
+          {
+            "b": "illus."
+          },
+          {
+            "c": "25 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Williamsburg Restoration historical studies ;"
+          },
+          {
+            "v": "v. 3"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bibliographical references included in \"Notes\" (p. [237]-248)."
+          }
+        ]
+      }
+    },
+    {
+      "561": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "p. 183 (Paperback)."
+          },
+          {
+            "5": "DLC"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Carter family."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Virginia"
+          },
+          {
+            "x": "Social life and customs"
+          },
+          {
+            "y": "To 1775."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "3",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Carter family."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00218302"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Manners and customs."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01007815"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Virginia."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204597"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "To 1775"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Farish, Hunter Dickinson,"
+          },
+          {
+            "d": "1897-1945,"
+          },
+          {
+            "e": "editor,"
+          },
+          {
+            "e": "writer of introduction."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Kredel, Fritz,"
+          },
+          {
+            "d": "1900-1973,"
+          },
+          {
+            "e": "illustrator."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ralph Ellison Collection (Library of Congress)"
+          },
+          {
+            "5": "DLC"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Fithian, Philip Vickers, 1747-1776."
+          },
+          {
+            "t": "Journal & letters of Philip Vickers Fithian, 1773-1774."
+          },
+          {
+            "b": "New ed."
+          },
+          {
+            "d": "Williamsburg, Va., Colonial Williamsburg, 1957"
+          },
+          {
+            "w": "(OCoLC)1181968186"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Williamsburg Restoration historical studies ;"
+          },
+          {
+            "v": "v. 3."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 310 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000017926"
+          }
+        ]
+      }
+    }
+  ]
+}

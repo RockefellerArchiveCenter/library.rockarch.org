@@ -1,0 +1,673 @@
+{
+  "leader": "04701cam a22005531i 4500",
+  "fields": [
+    {
+      "001": "ocm14606829\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211118143138.0"
+    },
+    {
+      "008": "850513s1959\\\\\\\\mau\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   59015743 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC/ICU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "CGU"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "ZZAND"
+          },
+          {
+            "d": "INNDH"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "IAD"
+          },
+          {
+            "d": "UIU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "RDF"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CAT11047796"
+          },
+          {
+            "2": "DNAL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "05321310R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "002723917"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "526541"
+          },
+          {
+            "a": "551110"
+          },
+          {
+            "a": "314518004"
+          },
+          {
+            "a": "318328461"
+          },
+          {
+            "a": "753675536"
+          },
+          {
+            "a": "758089847"
+          },
+          {
+            "a": "1079258422"
+          },
+          {
+            "a": "1167242481"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)14606829"
+          },
+          {
+            "z": "(OCoLC)526541"
+          },
+          {
+            "z": "(OCoLC)551110"
+          },
+          {
+            "z": "(OCoLC)314518004"
+          },
+          {
+            "z": "(OCoLC)318328461"
+          },
+          {
+            "z": "(OCoLC)753675536"
+          },
+          {
+            "z": "(OCoLC)758089847"
+          },
+          {
+            "z": "(OCoLC)1079258422"
+          },
+          {
+            "z": "(OCoLC)1167242481"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QH431"
+          },
+          {
+            "b": ".O78"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QH 431"
+          },
+          {
+            "b": "O82g 1959"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "443"
+          },
+          {
+            "b": "Os12"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "X300"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "575 J5"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "575.21"
+          },
+          {
+            "b": "OSB"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Osborne, Richard H."
+          },
+          {
+            "q": "(Richard Hazelet)"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Genetic basis of morphological variation :"
+          },
+          {
+            "b": "an evaluation and application of the twin study method /"
+          },
+          {
+            "c": "by Richard H. Osborne and Frances V. De George."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cambridge, Mass. :"
+          },
+          {
+            "b": "Published for the Commonwealth Fund by Harvard University Press,"
+          },
+          {
+            "c": "1959."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxii, 204 pages ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Part one: Introduction -- Part two: An evaluation of the twin study method -- Part three: The design of the study of normal morphological variation -- Part four: The analysis of morphological variation -- Part five: Summary and conclusions."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The study reported here explores the possibilities of investigating the important question of genetic and environmental interaction by genetic methods utilizing the techniques of morphological description and measurement. The complex nature of man's genetic variation and some of the problems which are unique to human studies are reviewed. The twin method is then evaluated, within the context of our understanding of the phenomenon of human twinning, for its usefulness in detecting genetic variability and analyzing genetic and environmental interaction. With this background, the twin method is then applied to the study of different descriptions and measurements of morphological variation. Because this is a preliminary study, emphasis has been placed upon the methods of investigation and upon providing an empirical basis for the application of genetic and morphological studies to different human problems. It is hoped that the methods presented here and the results of this analysis will suggest further twin research and morphological studies in genetics, anthropology, and the medical sciences. While the present study was designed for the analysis of genetic and environmental effects on what may be termed \"normal\" morphological variation, selection of the subjects on the basis of medical histories and examinations has made it possible to extend considerably the scope of the investigation. Most of the data relating to medical information have been reported elsewhere. Those aspects which have a bearing on the evaluation of the twin method or the analysis of morphological variables are reported here. Extensive data available from the records of the Columbia-Presbyterian Medical Center also have been incorporated. The Twin Study Project was carried out under the auspices of the Institute for the Study of Human Variation in Columbia University, and was conducted within the facilities of the Columbia-Presbyterian Medical Center. The collection of the data was started in September 1952 with a poll of all new admissions to Vanderbilt Clinic, for twins; it was completed in March 1956\"--Preface. (PsycINFO Database Record (c) 2010 APA, all rights reserved)."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Heredity, Human."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Twins."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Anthropometry."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Variation (Biology)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Anthropometry."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00810253"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Heredity, Human."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00955419"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Twins."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01159851"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Variation (Biology)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01164189"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Ecology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Genetics, Medical."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Twins."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "De George, Frances V.,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Osborne, Richard H. (Richard Hazelet)."
+          },
+          {
+            "t": "Genetic basis of morphological variation."
+          },
+          {
+            "d": "Cambridge, Mass., Published for the Commonwealth Fund by Harvard University Press, 1959"
+          },
+          {
+            "w": "(OCoLC)595215685"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 410 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,438 @@
+{
+  "leader": "03123cam a2200385 i 4500",
+  "fields": [
+    {
+      "001": "ocm00365188\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221212170845.0"
+    },
+    {
+      "008": "720725s1946\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   46004442 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "CRU"
+          },
+          {
+            "d": "UBC"
+          },
+          {
+            "d": "ULB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "RCC"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "SEO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "YS@"
+          },
+          {
+            "d": "HCO"
+          },
+          {
+            "d": "FQM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000013704189"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)365188"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "b": "G48 1946"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "AC5.R42"
+          },
+          {
+            "b": "R43 1946"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "0",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "AC5"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "WZ 350 G394 1946"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "810.82"
+          },
+          {
+            "b": "REA"
+          }
+        ]
+      }
+    },
+    {
+      "130": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Reader's digest."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Getting the most out of life;"
+          },
+          {
+            "b": "an anthology from the Reader's digest."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Pleasantville, N.Y.,"
+          },
+          {
+            "b": "The Reader's Digest Association, Inc."
+          },
+          {
+            "c": "[1946]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "3 preliminary leaves, 250 pages"
+          },
+          {
+            "b": "color illustrations"
+          },
+          {
+            "c": "20 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The turning point of my career / A.J. Cronin -- Making habits work for you / William James -- Don't be a \"duck\" / J.P. McEvoy -- You won't be snubbed / Henry Morton Robinson -- My child was crippled / Anonymous -- Your mind can keep you young / George Lawton -- Have you an educated heart? / Gelett Burgess -- Mealtime madness / Howard Vincent O'Brien -- On being a real person / Harry Emerson Fosdick -- What makes a husband easy to live with? / Symposium -- If you need a drink -- don't take it / Charles Stevenson -- You become someone alone / Mary Ellen Chase -- \"We have with us tonight--\" / Dale Carnegie -- Seven reasons why a scientist believes in God / A. Cressy Morrison -- Savings of a lifetime / Margaret Culkin Banning -- Do the thing you fear / Henry C. Link -- Family session, inc. / Frances Newton -- You can sleep / J.P. McEvoy -- How to win friends and influence people / Dale Carnegie -- Why we all have \"ups and downs\" / Myron Stearns -- The sexual relationship in marriage / Frederick Harris -- Three days to see / Helen Keller -- Prayer is power / Alexis Carrel -- Take a deep breath / Helen Durham -- How your mind may make you ill / Elsie McCormick -- Try giving yourself away / Anonymous -- Father forgets / W. Livingston Larned -- How to keep out of the psychiatrist's hands / Harry Emerson Fosdick -- Education begins at home / Charles F. Kettering -- How I found freedom from fear / Margaret Lee Runbeck -- It's more fun to be fit / Gene Tunney -- The quest of our lives / I.A.R. Wylie -- Turn your sickness into an asset / Louis E. Bisch -- Peace of mind / Joshua Loth Liebman -- What makes a woman beautiful / John Robert Powers -- Live in \"day-tight compartments\" / Dale Carnegie -- The magic ingredient / Hugh MacNair Kahler -- How to live on 24 hours a day / Arnold Bennett."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Conduct of life."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Lifestyles."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Life Style"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Life"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Lifestyles."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00998417"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conduct of life."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00874563"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 292 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010304"
+          }
+        ]
+      }
+    }
+  ]
+}

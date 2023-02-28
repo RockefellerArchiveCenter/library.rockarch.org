@@ -1,0 +1,664 @@
+{
+  "leader": "03028cam a2200553 i 4500",
+  "fields": [
+    {
+      "001": "ocm04055857\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20210809120702.0"
+    },
+    {
+      "008": "780621s1977\\\\\\\\mdu\\\\\\\\\\\\b\\\\\\f001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   78601573 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "HEW"
+          },
+          {
+            "d": "UCH"
+          },
+          {
+            "d": "NJN"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "AMAZN"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "IXA"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7706870"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "3153697"
+          },
+          {
+            "a": "14382838"
+          },
+          {
+            "a": "1069284285"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)4055857"
+          },
+          {
+            "z": "(OCoLC)3153697"
+          },
+          {
+            "z": "(OCoLC)14382838"
+          },
+          {
+            "z": "(OCoLC)1069284285"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "017-040-00404-4"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "R151"
+          },
+          {
+            "b": ".B63"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "W 84 AA1"
+          },
+          {
+            "b": "B7i 1977"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "362.10973"
+          },
+          {
+            "b": "BOW"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bowers, John Z.,"
+          },
+          {
+            "d": "1913-1993."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "An introduction to American medicine, 1975 /"
+          },
+          {
+            "c": "by John Z. Bowers."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Rockville, Md.] :"
+          },
+          {
+            "b": "U.S. Dept. of Health, Education, and Welfare, Public Health Service National Institutes of Health ;"
+          },
+          {
+            "a": "Washington :"
+          },
+          {
+            "b": "For sale by the Supt. of Docs., U.S. Govt. Print. Off.,"
+          },
+          {
+            "c": "1977."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxi, 221 pages :"
+          },
+          {
+            "b": "graphs ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DHEW publication ;"
+          },
+          {
+            "v": "no. (NIH) 77-1283"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"A publication of the Geographic Health Studies John E. Fogarty International Center for Advanced Study in the Health Sciences.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 209-211) and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medicine"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical care"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "6",
+        "subfields": [
+          {
+            "a": "Soins me\u0301dicaux"
+          },
+          {
+            "z": "E\u0301tats-Unis."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "6",
+        "subfields": [
+          {
+            "a": "Sante\u0301, Services de"
+          },
+          {
+            "z": "E\u0301tats-Unis."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "6",
+        "subfields": [
+          {
+            "a": "Me\u0301decine"
+          },
+          {
+            "x": "E\u0301tude et enseignement"
+          },
+          {
+            "z": "E\u0301tats-Unis."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "6",
+        "subfields": [
+          {
+            "a": "Me\u0301decine"
+          },
+          {
+            "z": "E\u0301tats-Unis."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical care."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01013753"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014893"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ciencias Da Saude."
+          },
+          {
+            "2": "larpcal"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Delivery of Health Care."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D003695"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Education, Medical."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D004501"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D014481"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "John E. Fogarty International Center for Advanced Study in the Health Sciences."
+          },
+          {
+            "b": "Geographic Health Studies."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Bowers, John Z., 1913-"
+          },
+          {
+            "t": "Introduction to American medicine, 1975."
+          },
+          {
+            "d": "[Rockville, Md.] : U.S. Dept. of Health, Education, and Welfare, Public Health Service National Institutes of Health ; Washington : for sale by the Supt. of Docs., U.S. Govt. Print. Off., 1977"
+          },
+          {
+            "w": "(OCoLC)561511622"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Bowers, John Z., 1913-"
+          },
+          {
+            "t": "Introduction to American medicine, 1975."
+          },
+          {
+            "d": "[Rockville, Md.] : U.S. Dept. of Health, Education, and Welfare, Public Health Service National Institutes of Health ; Washington : for sale by the Supt. of Docs., U.S. Govt. Print. Off., 1977"
+          },
+          {
+            "w": "(OCoLC)622847289"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "DHEW publication ;"
+          },
+          {
+            "v": "no. (NIH) 77-1283."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 227 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012343"
+          }
+        ]
+      }
+    }
+  ]
+}

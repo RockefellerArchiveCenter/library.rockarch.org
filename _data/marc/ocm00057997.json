@@ -1,0 +1,344 @@
+{
+  "leader": "01398cam a2200325 i 4500",
+  "fields": [
+    {
+      "001": "ocm00057997\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221228135102.0"
+    },
+    {
+      "008": "700225s1969\\\\\\\\txuabch\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   76228699 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)57997"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "CS71.R67"
+          },
+          {
+            "b": "D63 1969"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "929.20973"
+          },
+          {
+            "b": "DOD"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Dodson, Lois."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Fread and Rockefeller families :"
+          },
+          {
+            "b": "in the good old days and the present days, 1590-1969 /"
+          },
+          {
+            "c": "written by Mrs. C.T. Dodson ; illustrated by Oneida Uzzell."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Austin, Tex.] :"
+          },
+          {
+            "b": "[Printed by the Aus-Tex Duplicators, Inc.],"
+          },
+          {
+            "c": "[1969]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 170 pages :"
+          },
+          {
+            "b": "illustrations, coats of arms, facsimiles, maps, portraits ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Fread family."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller family."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "3",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Fread family."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00361676"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "3",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockefeller family."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00214542"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Dodson, Lois."
+          },
+          {
+            "t": "Fread and Rockefeller families."
+          },
+          {
+            "d": "[Austin, Tex., Printed by the Aus-Tex Duplicators, inc., 1969]"
+          },
+          {
+            "w": "(OCoLC)608491070"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/fy0614/76228699.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 34 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018190"
+          }
+        ]
+      }
+    }
+  ]
+}

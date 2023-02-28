@@ -1,0 +1,508 @@
+{
+  "leader": "02351cam a2200445Ii 4500",
+  "fields": [
+    {
+      "001": "on1050450375"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221206172829.0"
+    },
+    {
+      "008": "180905s1959\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   60011987 "
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1014217961"
+          },
+          {
+            "a": "1089603936"
+          },
+          {
+            "a": "1172150954"
+          },
+          {
+            "a": "1260334157"
+          },
+          {
+            "a": "1268358242"
+          },
+          {
+            "a": "1304318705"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1050450375"
+          },
+          {
+            "z": "(OCoLC)1014217961"
+          },
+          {
+            "z": "(OCoLC)1089603936"
+          },
+          {
+            "z": "(OCoLC)1172150954"
+          },
+          {
+            "z": "(OCoLC)1260334157"
+          },
+          {
+            "z": "(OCoLC)1268358242"
+          },
+          {
+            "z": "(OCoLC)1304318705"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CDS"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "CDS"
+          },
+          {
+            "d": "ZEM"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "BRL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "OLT"
+          },
+          {
+            "d": "LUN"
+          },
+          {
+            "d": "CNCCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "N6490"
+          },
+          {
+            "b": ".S37 1959"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7.035.9"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "72.035.9"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "709.03"
+          },
+          {
+            "b": "ART"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art nouveau :"
+          },
+          {
+            "b": "art and design at the turn of the century /"
+          },
+          {
+            "c": "edited by Peter Selz and Mildred Constantine ; with articles by Greta Daniel, Alan M. Fern, Henry-Russell Hitchcock and Peter Selz."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Museum of Modern Art,"
+          },
+          {
+            "c": "1959."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Garden City, New York :"
+          },
+          {
+            "b": "Distributed by Doubleday & Company,"
+          },
+          {
+            "c": "1959."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91959"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "192 pages :"
+          },
+          {
+            "b": "illustrations (1 color) ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Issued in conjunction with the Art Nouveau exhibition at the Museum of Modern Art [and 3 others]\"--Page 6."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Exhibition held at the Museum June 6-September 6, 1960."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"A bibliography of art nouveau / by James Grady\": pages 152-161."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction / by Peter Selz -- Graphic design / by Alan M. Fern -- Painting and sculpture, prints and drawings / by Peter Selz -- Decorative arts / by Greta Daniel -- Architecture / by Henry-Russell Hitchcock."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Finite"
+          },
+          {
+            "c": "2017"
+          },
+          {
+            "5": "UoY/pageAction.mdimport.createImmediateJob.xml.do?pageViewMode=Edit&xmlFileName=mdimport.createImmediateJob.xml#"
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Finite"
+          },
+          {
+            "c": "2017"
+          },
+          {
+            "5": "UoY/pageAction.mdimport.createImmediateJob.xml.do?pageViewMode=EditxmlFileName=mdimport.createImmediateJob.xml#"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art nouveau."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art nouveau."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00815666"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Selz, Peter,"
+          },
+          {
+            "d": "1919-2019,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Constantine, Mildred,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Museum of Modern Art (New York, N.Y.),"
+          },
+          {
+            "e": "organizer."
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 22 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011262"
+          }
+        ]
+      }
+    }
+  ]
+}

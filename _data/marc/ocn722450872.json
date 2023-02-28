@@ -1,5 +1,5 @@
 {
-  "leader": "05124cam a2200613Ia 4500",
+  "leader": "05178cam a2200625Ia 4500",
   "fields": [
     {
       "001": "ocn722450872"
@@ -8,7 +8,7 @@
       "003": "OCoLC"
     },
     {
-      "005": "20220105144318.0"
+      "005": "20230103162506.0"
     },
     {
       "008": "110505s2012\\\\\\\\nju\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
@@ -151,20 +151,12 @@
           },
           {
             "d": "OCLCA"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "GBB199394"
           },
           {
-            "2": "bnb"
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
           }
         ]
       }
@@ -520,35 +512,7 @@
     {
       "650": {
         "ind1": "\\",
-        "ind2": "2",
-        "subfields": [
-          {
-            "a": "Financial Management"
-          },
-          {
-            "x": "history."
-          }
-        ]
-      }
-    },
-    {
-      "650": {
-        "ind1": "\\",
-        "ind2": "2",
-        "subfields": [
-          {
-            "a": "Fund Raising"
-          },
-          {
-            "x": "history."
-          }
-        ]
-      }
-    },
-    {
-      "650": {
-        "ind1": "\\",
-        "ind2": "2",
+        "ind2": "0",
         "subfields": [
           {
             "a": "Altruism."
@@ -562,10 +526,49 @@
         "ind2": "2",
         "subfields": [
           {
+            "a": "Financial Management"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Fund Raising"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Altruism"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
             "a": "Charities"
           },
           {
-            "x": "history."
+            "x": "history"
           }
         ]
       }
@@ -579,7 +582,24 @@
             "a": "Organizations, Nonprofit"
           },
           {
-            "x": "history."
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Altruism."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00806239"
           }
         ]
       }
@@ -759,7 +779,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "h": "NO HOLDINGS IN NYRVC - 532 OTHER HOLDINGS"
+            "h": "NO HOLDINGS IN NYRVC - 533 OTHER HOLDINGS"
           }
         ]
       }
@@ -770,7 +790,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "00000000018703"
+            "a": "00000000018706"
           }
         ]
       }

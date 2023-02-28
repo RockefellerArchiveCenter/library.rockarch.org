@@ -1,5 +1,5 @@
 {
-  "leader": "04591cam a2200661 i 4500",
+  "leader": "04549cam a2200637 i 4500",
   "fields": [
     {
       "001": "ocn869460524"
@@ -8,7 +8,7 @@
       "003": "OCoLC"
     },
     {
-      "005": "20220104135359.0"
+      "005": "20230103154140.0"
     },
     {
       "008": "140115s2014\\\\\\\\ilua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\c"
@@ -121,34 +121,6 @@
           },
           {
             "d": "OCLCO"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "GBB479976"
-          },
-          {
-            "2": "bnb"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "GBB482215"
-          },
-          {
-            "2": "bnb"
           }
         ]
       }
@@ -350,28 +322,6 @@
       }
     },
     {
-      "060": {
-        "ind1": "0",
-        "ind2": "0",
-        "subfields": [
-          {
-            "a": "2014 L-327"
-          }
-        ]
-      }
-    },
-    {
-      "060": {
-        "ind1": "1",
-        "ind2": "0",
-        "subfields": [
-          {
-            "a": "WZ 70 JC6"
-          }
-        ]
-      }
-    },
-    {
       "082": {
         "ind1": "0",
         "ind2": "0",
@@ -448,7 +398,7 @@
             "b": "illustrations ;"
           },
           {
-            "c": "24 cm."
+            "c": "24 cm"
           }
         ]
       }
@@ -581,6 +531,20 @@
     },
     {
       "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medicine"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
         "ind1": "1",
         "ind2": "2",
         "subfields": [
@@ -588,7 +552,7 @@
             "a": "Medicine, Chinese Traditional"
           },
           {
-            "x": "history."
+            "x": "history"
           }
         ]
       }
@@ -602,7 +566,7 @@
             "a": "Social Change"
           },
           {
-            "x": "history."
+            "x": "history"
           }
         ]
       }
@@ -613,7 +577,7 @@
         "ind2": "2",
         "subfields": [
           {
-            "a": "History of Medicine."
+            "a": "History of Medicine"
           }
         ]
       }
@@ -624,7 +588,7 @@
         "ind2": "2",
         "subfields": [
           {
-            "a": "History, 19th Century."
+            "a": "History, 19th Century"
           }
         ]
       }
@@ -635,7 +599,7 @@
         "ind2": "2",
         "subfields": [
           {
-            "a": "History, 20th Century."
+            "a": "History, 20th Century"
           }
         ]
       }
@@ -646,7 +610,18 @@
         "ind2": "2",
         "subfields": [
           {
-            "a": "China."
+            "a": "China"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Medicine, Chinese Traditional"
           }
         ]
       }
@@ -764,7 +739,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "h": "NO HOLDINGS IN NYRVC - 179 OTHER HOLDINGS"
+            "h": "NO HOLDINGS IN NYRVC - 177 OTHER HOLDINGS"
           }
         ]
       }
@@ -775,7 +750,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "No barcode."
+            "a": "no barcode"
           }
         ]
       }

@@ -1,0 +1,794 @@
+{
+  "leader": "03657cam a2200541 i 4500",
+  "fields": [
+    {
+      "001": "ocm02548977\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221220152601.0"
+    },
+    {
+      "008": "761109t19391939nyu\\\\\\\\\\\\b\\\\\\\\000\\j\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   39009819 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "AZS"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "AZS"
+          },
+          {
+            "d": "TXR"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "IBS"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "YYP"
+          },
+          {
+            "d": "AQ5"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OSU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "CASUM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7410588"
+          },
+          {
+            "a": "1166940323"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)2548977"
+          },
+          {
+            "z": "(OCoLC)7410588"
+          },
+          {
+            "z": "(OCoLC)1166940323"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "PS648.F28"
+          },
+          {
+            "b": "T45 1939"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "813.0872"
+          },
+          {
+            "b": "THI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Thicker than water :"
+          },
+          {
+            "b": "stories of family life /"
+          },
+          {
+            "c": "edited by W. Robert Wunsch and Edna Albers for the Commission on Human Relations."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "D. Appleton-Century Company, Incorporated,"
+          },
+          {
+            "c": "[1939]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91939"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xvi, 359 pages ;"
+          },
+          {
+            "c": "21 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Progressive Education Association publications. Commission on human relations"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 353-359)."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Preface /"
+          },
+          {
+            "r": "Alice V. Keliher, Chairman --"
+          },
+          {
+            "t": "Introduction /"
+          },
+          {
+            "r": "A.V.K., E.A., W.R.W. --"
+          },
+          {
+            "t": "One with Shakespeare /"
+          },
+          {
+            "r": "by Martha Foley --"
+          },
+          {
+            "t": "Mother knows best /"
+          },
+          {
+            "r": "by Edna Ferber --"
+          },
+          {
+            "t": "White on black /"
+          },
+          {
+            "r": "by Tess Slesinger --"
+          },
+          {
+            "t": "Sherrel /"
+          },
+          {
+            "r": "by Whit Burnett --"
+          },
+          {
+            "t": "The rainy day, the good mother and the brown suit /"
+          },
+          {
+            "r": "by Dorothy Canfield --"
+          },
+          {
+            "t": "Wife of the hero /"
+          },
+          {
+            "r": "by Sally Benson --"
+          },
+          {
+            "t": "The fat of the land /"
+          },
+          {
+            "r": "by Anzia Yezierska --"
+          },
+          {
+            "t": "The apostate /"
+          },
+          {
+            "r": "by George Milburn --"
+          },
+          {
+            "t": "Mr. Reginald Peacock's day /"
+          },
+          {
+            "r": "by Katherine Mansfield --"
+          },
+          {
+            "t": "Uprooted /"
+          },
+          {
+            "r": "by Ruth Suckow --"
+          },
+          {
+            "t": "Man's day /"
+          },
+          {
+            "r": "by Frederick Scribner --"
+          },
+          {
+            "t": "Mother to dinner /"
+          },
+          {
+            "r": "by Tess Slesinger --"
+          },
+          {
+            "t": "The only child /"
+          },
+          {
+            "r": "by Booth Tarkington --"
+          },
+          {
+            "t": "The red hat /"
+          },
+          {
+            "r": "by Morley Callaghan --"
+          },
+          {
+            "t": "The gay old dog /"
+          },
+          {
+            "r": "by Edna Ferber --"
+          },
+          {
+            "t": "My father sits in the dark /"
+          },
+          {
+            "r": "by Jerome Weidman --"
+          },
+          {
+            "t": "At sundown /"
+          },
+          {
+            "r": "by William Saroyan --"
+          },
+          {
+            "t": "It's an old story /"
+          },
+          {
+            "r": "by Steve Goodman --"
+          },
+          {
+            "t": "Fruit tramp /"
+          },
+          {
+            "r": "by Dan Mainwaring --"
+          },
+          {
+            "t": "The New York visit /"
+          },
+          {
+            "r": "by Leane Zugsmith --"
+          },
+          {
+            "t": "The oratory contest /"
+          },
+          {
+            "r": "by James T. Farrell --"
+          },
+          {
+            "t": "I'm a fool /"
+          },
+          {
+            "r": "by Sherwood Anderson --"
+          },
+          {
+            "t": "Five ripe pears /"
+          },
+          {
+            "r": "by William Saroyan --"
+          },
+          {
+            "t": "The disinherited /"
+          },
+          {
+            "r": "by Jo Pagano --"
+          },
+          {
+            "t": "Selected bibliography of other short stories and short plays on family life --"
+          },
+          {
+            "t": "Library of selected stories and plays."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Collection of short stories selected primarily for the contributions the authors have made in illuminating some aspects of family life and family member relationships.\"--Page ix"
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also available online."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Families"
+          },
+          {
+            "v": "Fiction."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Families."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nuclear families."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Family"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Nuclear Family"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Nuclear families."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01747886"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Families."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01728849"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Short stories, American."
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Fiction."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423787"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Short stories."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01726740"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Short stories, American."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01750175"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Short stories."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wunsch, William Robert,"
+          },
+          {
+            "d": "1896-"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Albers, Edna,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Progressive Education Association (U.S.)."
+          },
+          {
+            "b": "Commission on Human Relations,"
+          },
+          {
+            "e": "sponsoring body."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "D. Appleton-Century Company,"
+          },
+          {
+            "e": "publisher."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Thicker than water."
+          },
+          {
+            "d": "New York : Appleton-Century, 1939"
+          },
+          {
+            "w": "(OCoLC)558460034"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Publications (Progressive Education Association (U.S.). Commission on Human Relations)"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 240 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010121"
+          }
+        ]
+      }
+    }
+  ]
+}

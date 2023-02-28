@@ -1,5 +1,5 @@
 {
-  "leader": "01906cam a2200457 a 4500",
+  "leader": "01850cam a2200433 a 4500",
   "fields": [
     {
       "001": "ocm12345128\\"
@@ -106,31 +106,6 @@
           },
           {
             "d": "OCLCO"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "GB8540449"
-          },
-          {
-            "2": "bnb"
-          }
-        ]
-      }
-    },
-    {
-      "015": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "b8540449"
           }
         ]
       }
@@ -267,7 +242,7 @@
     {
       "083": {
         "ind1": "0",
-        "ind2": "0",
+        "ind2": "\\",
         "subfields": [
           {
             "a": "Population. Control. Influence of Ford Foundation, 1960-1984"

@@ -1,0 +1,951 @@
+{
+  "leader": "04935cam a2200673 a 4500",
+  "fields": [
+    {
+      "001": "ocm24430176\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211008120736.0"
+    },
+    {
+      "008": "910904s1992\\\\\\\\coua\\\\\\\\\\bs\\\\\\101\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   91030506 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9111056"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "BA14388823"
+          },
+          {
+            "2": "JP-ToKJK"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "012666175"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "24375867"
+          },
+          {
+            "a": "27815060"
+          },
+          {
+            "a": "28063415"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0813383919"
+          },
+          {
+            "q": "(hb ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780813383910"
+          },
+          {
+            "q": "(hb ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0813383927"
+          },
+          {
+            "q": "(pb ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780813383927"
+          },
+          {
+            "q": "(pb ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)24430176"
+          },
+          {
+            "z": "(OCoLC)24375867"
+          },
+          {
+            "z": "(OCoLC)27815060"
+          },
+          {
+            "z": "(OCoLC)28063415"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DNLM/DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "IAI"
+          },
+          {
+            "d": "CCH"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "IBS"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "FC@"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CASUM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "ERF"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HQ796"
+          },
+          {
+            "b": ".C8195 1991"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WS 462"
+          },
+          {
+            "b": "C814a 1991"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "305.2350973"
+          },
+          {
+            "b": "ADO"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Adolescents at risk :"
+          },
+          {
+            "b": "medical and social perspectives /"
+          },
+          {
+            "c": "Cornell University Medical College Seventh Conference on Health Policy ; edited by David E. Rogers and Eli Ginzberg."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Boulder :"
+          },
+          {
+            "b": "Westview Press,"
+          },
+          {
+            "c": "1992."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 168 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Etiologies of adolescents at risk /"
+          },
+          {
+            "r": "Jerome Kagan --"
+          },
+          {
+            "t": "Risk behavior in adolescence : a psychosocial framework for understanding and action /"
+          },
+          {
+            "r": "Richard Jessor --"
+          },
+          {
+            "t": "Adolescent sexuality : negative outcomes of a normative behavior /"
+          },
+          {
+            "r": "Charles E. Irwin, Jr., and Mary-Ann Shafer --"
+          },
+          {
+            "t": "Alcohol and other drug use and abuse in adolescents /"
+          },
+          {
+            "r": "Hoover Adger, Jr. --"
+          },
+          {
+            "t": "AIDS and adolescence : a challenge to both treatment and prevention /"
+          },
+          {
+            "r": "Stephen C. Joseph --"
+          },
+          {
+            "t": "Not fear, nor quarantine, but science : preparation for a decade of research to advance knowledge about and control of violence in youths /"
+          },
+          {
+            "r": "Felton Earls --"
+          },
+          {
+            "t": "Providing primary care to the adolescent /"
+          },
+          {
+            "r": "J. Emilio Carrillo --"
+          },
+          {
+            "t": "Adolescents at risk : a summary of work in the field-programs and policies /"
+          },
+          {
+            "r": "Joy G. Dryfoos --"
+          },
+          {
+            "t": "Adolescents at risk : new directions /"
+          },
+          {
+            "r": "David Mechanic."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Etiologies of adolescents at risk / Jerome Kagan -- Risk behavior in adolescence : a psychosocial framework for understanding and action / Richard Jessor -- Adolescent sexuality : negative outcomes of a normative behavior / Charles E. Irwin, Jr., and Mary-Ann Shafer -- Alcohol and other drug use and abuse in adolescents / Hoover Adger, Jr. -- AIDS and adolescence : achallenge to both treatment and prevention / Stephen C. Joseph -- Not fear, nor quarantine, but science : preparation for a decade of research to advance knowledge about and control of violence in youths / Felton Earls -- Providing primary care to the adolescent / J. Emilio Carrillo -- Adolescents at risk : a summary of work in the field-programs and policies / Joy G. Dryfoos -- Adolescents at risk : new directions / David Mechanic."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Teenagers"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Teenagers with social disabilities"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Teenagers"
+          },
+          {
+            "x": "Health and hygiene"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Teenagers"
+          },
+          {
+            "x": "Mental health"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Adolescent psychology"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Adolescent."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D000293"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Alcoholism."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D000437"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Risk Factors."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D012307"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Sexual Behavior."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D012725"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Substance-Related Disorders."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D019966"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Violence."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D014754"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Adolescent psychology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00797018"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Teenagers."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01145551"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Teenagers"
+          },
+          {
+            "x": "Health and hygiene."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01145591"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Teenagers"
+          },
+          {
+            "x": "Mental health."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01145622"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Teenagers with social disabilities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01145686"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Congress."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D016423"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rogers, David E."
+          },
+          {
+            "q": "(David Elliott),"
+          },
+          {
+            "d": "1926-1994."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ginzberg, Eli,"
+          },
+          {
+            "d": "1911-2002."
+          }
+        ]
+      }
+    },
+    {
+      "711": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cornell University Medical College Conference on Health Policy"
+          },
+          {
+            "n": "(7th :"
+          },
+          {
+            "d": "1991 :"
+          },
+          {
+            "c": "New York, N.Y.)."
+          },
+          {
+            "e": "issuing body."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Cornell University Medical College Conference on Health Policy (7th : 1991 : New York, N.Y.)."
+          },
+          {
+            "t": "Adolescents at risk."
+          },
+          {
+            "d": "Boulder : Westview Press, 1992"
+          },
+          {
+            "w": "(OCoLC)647696893"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 191 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013338"
+          }
+        ]
+      }
+    }
+  ]
+}

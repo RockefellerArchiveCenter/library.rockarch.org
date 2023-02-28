@@ -1,0 +1,620 @@
+{
+  "leader": "02349cam a22004691i 4500",
+  "fields": [
+    {
+      "001": "ocm00551711\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230105160645.0"
+    },
+    {
+      "008": "711124s1965\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   65012149 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "CWS"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "SGE"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "EUX"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SXB"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ZD0"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CES"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0027244"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "223367535"
+          },
+          {
+            "a": "1160018660"
+          },
+          {
+            "a": "1272136103"
+          },
+          {
+            "a": "1272841481"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)551711"
+          },
+          {
+            "z": "(OCoLC)223367535"
+          },
+          {
+            "z": "(OCoLC)1160018660"
+          },
+          {
+            "z": "(OCoLC)1272136103"
+          },
+          {
+            "z": "(OCoLC)1272841481"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "QH431"
+          },
+          {
+            "b": "C66 1965"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "573.21"
+          },
+          {
+            "b": "CON"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The control of human heredity and evolution /"
+          },
+          {
+            "c": "edited by T.M. Sonneborn."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Macmillan,"
+          },
+          {
+            "c": "[1965]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 127 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Edited record of a symposium held on April 6, 1963, at Ohio Wesleyan University.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Directed genetic change : perspectives from molecular genetics /"
+          },
+          {
+            "r": "S.E. Luria --"
+          },
+          {
+            "t": "Perspectives from physiological genetics /"
+          },
+          {
+            "r": "Edward L. Tatum --"
+          },
+          {
+            "t": "Investigations in human genetics with cultivated human cells : a summary of present knowledge /"
+          },
+          {
+            "r": "Robert DeMars --"
+          },
+          {
+            "t": "Prospects for genetics analysis in man /"
+          },
+          {
+            "r": "G. Pontecorvo --"
+          },
+          {
+            "t": "Means and aims in human genetic betterment /"
+          },
+          {
+            "r": "Hermann J. Muller."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human genetics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Heredity."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Evolution."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical genetics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Genetics, Medical"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Genetics"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical genetics."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014133"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Heredity."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00955412"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Evolution."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00917265"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human genetics."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00963075"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Electronic books."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sonneborn, T. M."
+          },
+          {
+            "q": "(Tracy Morton),"
+          },
+          {
+            "d": "1905-1981,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ohio Wesleyan University."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Sonneborn, T.M. (Tracy Morton), 1905-1981."
+          },
+          {
+            "t": "Control of human heredity and evolution."
+          },
+          {
+            "d": "New York, Macmillan [1965]"
+          },
+          {
+            "w": "(OCoLC)594837681"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 608 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013100"
+          }
+        ]
+      }
+    }
+  ]
+}

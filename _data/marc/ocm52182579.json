@@ -1,5 +1,5 @@
 {
-  "leader": "04405cam a2200673Ia 4500",
+  "leader": "04295cam a2200637Ia 4500",
   "fields": [
     {
       "001": "ocm52182579\\"
@@ -8,7 +8,7 @@
       "003": "OCoLC"
     },
     {
-      "005": "20220301114730.0"
+      "005": "20230104094209.0"
     },
     {
       "008": "030328s2004\\\\\\\\enkabc\\\\\\b\\\\\\\\001\\0\\eng\\\\"
@@ -121,6 +121,18 @@
           },
           {
             "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
           }
         ]
       }
@@ -265,51 +277,15 @@
       }
     },
     {
-      "060": {
-        "ind1": "0",
-        "ind2": "0",
-        "subfields": [
-          {
-            "a": "2003 O-379"
-          }
-        ]
-      }
-    },
-    {
-      "060": {
-        "ind1": "1",
-        "ind2": "0",
-        "subfields": [
-          {
-            "a": "WA 11.1"
-          },
-          {
-            "b": "F231c 2004"
-          }
-        ]
-      }
-    },
-    {
       "082": {
         "ind1": "0",
-        "ind2": "4",
+        "ind2": "0",
         "subfields": [
           {
-            "a": "610.72"
+            "a": "610.72073"
           },
           {
             "b": "FAR"
-          }
-        ]
-      }
-    },
-    {
-      "049": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "NYRV"
           }
         ]
       }
@@ -467,23 +443,6 @@
       }
     },
     {
-      "583": {
-        "ind1": "1",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "Self-Renewing"
-          },
-          {
-            "c": "2017"
-          },
-          {
-            "5": "UoY"
-          }
-        ]
-      }
-    },
-    {
       "610": {
         "ind1": "2",
         "ind2": "0",
@@ -566,7 +525,7 @@
             "z": "United States"
           },
           {
-            "x": "International coooperation."
+            "x": "International cooperation."
           }
         ]
       }
@@ -580,7 +539,7 @@
             "a": "Rockefeller Foundation"
           },
           {
-            "b": "International Health Division."
+            "b": "International Health Division"
           }
         ]
       }
@@ -594,10 +553,7 @@
             "a": "Foundations"
           },
           {
-            "x": "history."
-          },
-          {
-            "0": "(DNLM)D005582Q000266"
+            "x": "history"
           }
         ]
       }
@@ -611,10 +567,7 @@
             "a": "Public Health"
           },
           {
-            "x": "history."
-          },
-          {
-            "0": "(DNLM)D011634Q000266"
+            "x": "history"
           }
         ]
       }
@@ -628,10 +581,7 @@
             "a": "Communicable Disease Control"
           },
           {
-            "x": "history."
-          },
-          {
-            "0": "(DNLM)D003140Q000266"
+            "x": "history"
           }
         ]
       }
@@ -642,10 +592,7 @@
         "ind2": "2",
         "subfields": [
           {
-            "a": "History, 20th Century."
-          },
-          {
-            "0": "(DNLM)D049673"
+            "a": "History, 20th Century"
           }
         ]
       }
@@ -659,10 +606,7 @@
             "a": "International Cooperation"
           },
           {
-            "x": "history."
-          },
-          {
-            "0": "(DNLM)D007391Q000266"
+            "x": "history"
           }
         ]
       }
@@ -676,10 +620,7 @@
             "a": "Research"
           },
           {
-            "x": "history."
-          },
-          {
-            "0": "(DNLM)D012106Q000266"
+            "x": "history"
           }
         ]
       }
@@ -700,6 +641,26 @@
           },
           {
             "0": "(OCoLC)fst00555214"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Research"
+          },
+          {
+            "x": "International cooperation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01095203"
           }
         ]
       }
@@ -827,7 +788,7 @@
             "3": "Table of contents"
           },
           {
-            "u": "http://catdir.loc.gov/catdir/toc/fy043/2003048691.html"
+            "u": "https://www.loc.gov/catdir/toc/fy043/2003048691.html"
           }
         ]
       }
@@ -861,10 +822,28 @@
       }
     },
     {
-      "912": {
+      "994": {
         "ind1": "\\",
         "ind2": "\\",
-        "subfields": []
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 170 OTHER HOLDINGS"
+          }
+        ]
       }
     },
     {
@@ -874,20 +853,6 @@
         "subfields": [
           {
             "a": "no barcode"
-          }
-        ]
-      }
-    },
-    {
-      "994": {
-        "ind1": "\\",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "C0"
-          },
-          {
-            "b": "NYRVC"
           }
         ]
       }

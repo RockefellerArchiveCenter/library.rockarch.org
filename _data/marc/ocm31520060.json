@@ -1,0 +1,481 @@
+{
+  "leader": "04053cam a2200409 a 4500",
+  "fields": [
+    {
+      "001": "ocm31520060\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230104111920.0"
+    },
+    {
+      "008": "941026s1995\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   94042800 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "COCUF"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9602122"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "34558003"
+          },
+          {
+            "a": "1167057743"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780195062984"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0195062981"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)31520060"
+          },
+          {
+            "z": "(OCoLC)34558003"
+          },
+          {
+            "z": "(OCoLC)1167057743"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "R735"
+          },
+          {
+            "b": ".B66 1995"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "610.711"
+          },
+          {
+            "b": "BON"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bonner, Thomas Neville."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Becoming a physician :"
+          },
+          {
+            "b": "medical education in Britain, France, Germany, and the United States, 1750-1945 /"
+          },
+          {
+            "c": "Thomas Neville Bonner."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Oxford University Press,"
+          },
+          {
+            "c": "1995."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 412 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 349-404) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1. An Uncertain Enterprise: Learning to Heal in the Enlightenment -- 2. Changing Patterns of Medical Study Before 1800 -- 3. Lives of Medical Students and Their Teachers (Late Eighteenth and Early Nineteenth Century) -- 4. The Clinical Impulse and National Response, 1780-1830 -- 5. Science and Medical Study: Early Nineteenth Century -- 6. A Bird's Eye View of Medical Education in 1830 -- 7. Toward New Goals for Medical Education, 1830-1850 -- 8. Between Clinic and Laboratory: Students and Teaching at Midcentury -- 9. The Spread of Laboratory Teaching, 1850-1870 -- 10. The Laboratory Versus the Clinic: The Fight for the Curriculum, 1870-1890 -- 11. Toward a University Standard of Medical Education, 1890-1920 -- 12. Changing Student Populations in the Late Nineteenth and Early Twentieth Century -- 13. Consolidation, Stability, and New Upheavals, 1920-1945 -- 14. A Closing Word."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Written by eminent education scholar Thomas Neville Bonner, Becoming a Physician is a groundbreaking, comprehensive history of Western medical education. The only work of its kind, it covers the United States, Great Britain, France, and Germany. Challenging previous portrayals of medical education as a story of steady and sometimes heroic progress, Bonner bases his study within the context of social, political, and intellectual transformations that occurred in Europe and North America between the Enlightenment and Nazi Germany. Comparative in focus, Becoming a Physician also reveals both the similarities and differences in how medical knowledge has been disseminated within the four countries and how these approaches have reflected and affected the individual cultures."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Viewing the late eighteenth century as a critical watershed in the development of medical education, Bonner begins by describing how earlier practices evolved in the 1800s with the introduction of clinical practices. He then traces the growth of laboratory teaching in the nineteenth century and the twentieth-century preoccupation with establishing a university standard of medical education. Throughout this fascinating work, Bonner pays particular attention to the students themselves. He not only depicts the changing nature of the medical population, but he also chronicles their daily lives and discusses the religious, gender, class, and racial restrictions imposed upon them. Highly readable and sweeping in scope, Becoming a Physician challenges readers to look at this vital subject from new perspectives."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical education"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Education, Medical"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014024"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy0604/94042800-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 456 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012657"
+          }
+        ]
+      }
+    }
+  ]
+}

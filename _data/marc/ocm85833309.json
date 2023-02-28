@@ -1,5 +1,5 @@
 {
-  "leader": "03228cam a2200529 a 4500",
+  "leader": "03247cam a2200541 a 4500",
   "fields": [
     {
       "001": "ocm85833309\\"
@@ -8,7 +8,7 @@
       "003": "OCoLC"
     },
     {
-      "005": "20220104145736.0"
+      "005": "20220630130202.0"
     },
     {
       "008": "070309s2007\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
@@ -177,17 +177,6 @@
           },
           {
             "c": "Mitch Nauffts, editor."
-          }
-        ]
-      }
-    },
-    {
-      "246": {
-        "ind1": "3",
-        "ind2": "\\",
-        "subfields": [
-          {
-            "a": "Philanthropy in the twenty-first century"
           }
         ]
       }
@@ -621,6 +610,17 @@
     {
       "655": {
         "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Interview"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
         "ind2": "7",
         "subfields": [
           {
@@ -697,7 +697,7 @@
         "ind2": "\\",
         "subfields": [
           {
-            "h": "NO HOLDINGS IN NYRVC - 132 OTHER HOLDINGS"
+            "h": "NO HOLDINGS IN NYRVC - 121 OTHER HOLDINGS"
           }
         ]
       }
@@ -708,7 +708,24 @@
         "ind2": "\\",
         "subfields": [
           {
-            "a": "No barcode."
+            "a": "00000000013901"
+          },
+          {
+            "b": "Copy 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013897"
+          },
+          {
+            "b": "Copy 2"
           }
         ]
       }

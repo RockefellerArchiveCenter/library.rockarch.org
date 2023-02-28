@@ -1,0 +1,505 @@
+{
+  "leader": "02526cam a2200409 i 4500",
+  "fields": [
+    {
+      "001": "ocm01202137\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221227140337.0"
+    },
+    {
+      "008": "750306s1943\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   43016445 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "IAU"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OHI"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "SWW"
+          },
+          {
+            "d": "BRL"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "NZ1"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "J9U"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "003153463"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "50502450"
+          },
+          {
+            "a": "972340258"
+          },
+          {
+            "a": "1078488071"
+          },
+          {
+            "a": "1080174696"
+          },
+          {
+            "a": "1223390243"
+          },
+          {
+            "a": "1223427690"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1202137"
+          },
+          {
+            "z": "(OCoLC)50502450"
+          },
+          {
+            "z": "(OCoLC)972340258"
+          },
+          {
+            "z": "(OCoLC)1078488071"
+          },
+          {
+            "z": "(OCoLC)1080174696"
+          },
+          {
+            "z": "(OCoLC)1223390243"
+          },
+          {
+            "z": "(OCoLC)1223427690"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-ph---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "DU29"
+          },
+          {
+            "b": ".R58 1943"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "990"
+          },
+          {
+            "b": "ROM"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Romulo, Carlos P."
+          },
+          {
+            "q": "(Carlos Pen\u0303a),"
+          },
+          {
+            "d": "1899-1985."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mother America :"
+          },
+          {
+            "b": "a living story of democracy /"
+          },
+          {
+            "c": "by Carlos P. Romulo"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Garden City, N.Y. :"
+          },
+          {
+            "b": "Doubleday, Doran,"
+          },
+          {
+            "c": "1943"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xvi, 234 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"First edition.\""
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction : Why America? -- What imperialism means to the Far East -- The Oriental looks to democracy -- The Philippines under imperialism -- Revolution against Spain -- Revolution against America -- America in the Philippines -- Material advantages -- Of higher values -- His ways are peculiar -- The white man in the Orient -- The Japanese mind -- Our third fight for freedom -- Details of democracy -- Problems of other people -- Countries in jeopardy -- Voices of the Far East -- Pattern for the Pacific -- Position of the Philippines -- Spiritual pattern -- Appendices: I. The Constitution of the Philippine Republic ; II. The Jones Act ; III. The Tydings-McDuffie Independence Act (with the amendment) ; IV. Constitution of the Philippines ; V. The mind of a new commonwealth."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Eastern question (Far East)"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philippines"
+          },
+          {
+            "x": "Politics and government."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Eastern question (Far East)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901182"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Philippines."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205261"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Romulo, Carlos P. (Carlos Pen\u0303a), 1899-1985."
+          },
+          {
+            "t": "Mother America, a living story of democracy."
+          },
+          {
+            "d": "Garden City, N.Y., Doubleday, Doran, 1943"
+          },
+          {
+            "w": "(OCoLC)574365223"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 567 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018059"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "leader": "02830cam a22004571i 4500",
+  "fields": [
+    {
+      "001": "ocm01868397\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221221133340.0"
+    },
+    {
+      "008": "751202t19271927nyuaef\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   27023972 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "TNH"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "DGN"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "FLWVS"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "ZVP"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "009607613"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "217000255"
+          },
+          {
+            "a": "1008029028"
+          },
+          {
+            "a": "1051597267"
+          },
+          {
+            "a": "1136164117"
+          },
+          {
+            "a": "1277151565"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1868397"
+          },
+          {
+            "z": "(OCoLC)217000255"
+          },
+          {
+            "z": "(OCoLC)1008029028"
+          },
+          {
+            "z": "(OCoLC)1051597267"
+          },
+          {
+            "z": "(OCoLC)1136164117"
+          },
+          {
+            "z": "(OCoLC)1277151565"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "NK450"
+          },
+          {
+            "b": ".R53 1927"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "745.075"
+          },
+          {
+            "b": "RIC"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Richards, Charles R."
+          },
+          {
+            "q": "(Charles Russell),"
+          },
+          {
+            "d": "1865-1936,"
+          },
+          {
+            "e": "author."
+          },
+          {
+            "4": "aut"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Industrial art and the museum /"
+          },
+          {
+            "c": "by Charles R. Richards ..."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "The Macmillan Company,"
+          },
+          {
+            "c": "1927."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91927"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "J.J. Little and Ives Company"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vi pages, 1 leaf, 102 pages, plates :"
+          },
+          {
+            "b": "illustrations, plans ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "still image"
+          },
+          {
+            "b": "sti"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Principal works consulted\": pages 101-102."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Part I."
+          },
+          {
+            "g": "I."
+          },
+          {
+            "t": "Beginnings of the industrial art museum ;"
+          },
+          {
+            "g": "II."
+          },
+          {
+            "t": "The industrial art museums of Germany ;"
+          },
+          {
+            "g": "III."
+          },
+          {
+            "t": "The museums of Paris ;"
+          },
+          {
+            "g": "IV."
+          },
+          {
+            "t": "The Victoria and Albert Museum ;"
+          },
+          {
+            "g": "V."
+          },
+          {
+            "t": "The museum and industrial art in America --"
+          },
+          {
+            "t": "Part II. Industrial art museums in other European countries."
+          },
+          {
+            "t": "Austria ;"
+          },
+          {
+            "t": "Hungary ;"
+          },
+          {
+            "t": "Czechoslovakia ;"
+          },
+          {
+            "t": "Switzerland ;"
+          },
+          {
+            "t": "Belgium ;"
+          },
+          {
+            "t": "Holland ;"
+          },
+          {
+            "t": "Denmark ;"
+          },
+          {
+            "t": "Sweden --"
+          },
+          {
+            "t": "Part III. Special museums."
+          },
+          {
+            "t": "Textile Museum at Lyons, France ;"
+          },
+          {
+            "t": "Museum of the Textile School, Crefeld, Germany ;"
+          },
+          {
+            "t": "East Asiatic Museum, Cologne, Germany ;"
+          },
+          {
+            "t": "Wall Paper Museum, Cassel, Germany ;"
+          },
+          {
+            "t": "German Museum for Art in Commerce and Industry, Hagen, Germany."
+          }
+        ]
+      }
+    },
+    {
+      "561": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gift of Lessing J. Rosenwald, 1943-1975."
+          },
+          {
+            "5": "DLC"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art museums."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Decorative arts."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art museums."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00815631"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Decorative arts."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00889315"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lessing J. Rosenwald Reference Collection (Library of Congress)"
+          },
+          {
+            "5": "DLC"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Richards, Charles R. (Charles Russell), 1865-1936."
+          },
+          {
+            "t": "Industrial art and the museum."
+          },
+          {
+            "d": "New York, The Macmillan Company, 1927"
+          },
+          {
+            "w": "(OCoLC)592760183"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Richards, Charles R. (Charles Russell), 1865-1936."
+          },
+          {
+            "t": "Industrial art and the museum."
+          },
+          {
+            "d": "New York, The Macmillan Company, 1927"
+          },
+          {
+            "w": "(OCoLC)593927968"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Richards, Charles R. (Charles Russell), 1865-1936."
+          },
+          {
+            "t": "Industrial art and the museum."
+          },
+          {
+            "d": "New York, The Macmillan Company, 1927"
+          },
+          {
+            "w": "(OCoLC)607854250"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 236 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010537"
+          }
+        ]
+      }
+    }
+  ]
+}

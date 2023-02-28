@@ -1,0 +1,703 @@
+{
+  "leader": "04568cam a2200589 a 4500",
+  "fields": [
+    {
+      "001": "ocm33078141\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211008092517.0"
+    },
+    {
+      "008": "950727s1996\\\\\\\\dcu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   95037621 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "CWS"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "UKV3G"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "BDP"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9601766"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "34663671"
+          },
+          {
+            "a": "59666276"
+          },
+          {
+            "a": "1166464169"
+          },
+          {
+            "a": "1166540636"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0815700105"
+          },
+          {
+            "q": "(cl ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780815700104"
+          },
+          {
+            "q": "(cl ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0815700091"
+          },
+          {
+            "q": "(pa ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780815700098"
+          },
+          {
+            "q": "(pa ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)33078141"
+          },
+          {
+            "z": "(OCoLC)34663671"
+          },
+          {
+            "z": "(OCoLC)59666276"
+          },
+          {
+            "z": "(OCoLC)1166464169"
+          },
+          {
+            "z": "(OCoLC)1166540636"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RA395.A3"
+          },
+          {
+            "b": "P756 1996"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RA395 A3"
+          },
+          {
+            "b": "P76"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "1996 A-636"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WA 540 AA1"
+          },
+          {
+            "b": "P962 1996"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.4"
+          },
+          {
+            "b": "PRO"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The problem that won't go away :"
+          },
+          {
+            "b": "reforming U.S. health care financing /"
+          },
+          {
+            "c": "Henry J. Aaron, editor."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, DC :"
+          },
+          {
+            "b": "Brookings Institution,"
+          },
+          {
+            "c": "\u00a91996."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 298 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The problem that won't go away / Henry J. Aaron -- Clinton's health reform in historical perspective / Hugh Heclo -- The rise and resounding demise of the Clinton health security plan / Theda Skocpol -- The debate that wasn't : the public and the Clinton health care plan / Daniel Yankelovich -- Interest groups in the health care debate / Graham K. Wilson -- Estimating the effects of reform / Linda Bilheimer and Robert Reischauer -- Market-based reform : what to regulate and by whom? / Alain C. Enthoven and Sara J. Singer -- How does antitrust enforcement fit in? / Steven C. Sunshine -- Steps toward universal coverage / Judith Feder and Larry Levitt -- The conservative agenda / Stuart M. Butler -- Cutting costs and improving health / David M. Cutler -- Bite-sized chunks of health care reform : where medicare fits in / Gail R. Wilensky -- Using tax credits for health insurance and medical savings accounts."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Mark V. Pauly and John C. Goodman."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "In The Problem That Won't Go Away, economists, political scientists, sociologists, public opinion experts, and government staff recount the history of the Clinton health plan, present several alternative strategies the administration might have pursued, and conclude that none was likely to achieve the administration's goals of universal coverage and cost containment. Many support the view that the administration, Congress, and the nation lacked the political consensus and the information to credibly describe the effects of any single bill to reform the U.S. health care system. In that case, was the only option available to the administration to reach for goals far more modest than those it sought?"
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Health care financing as a national political issue will not go away. Pressure to cut public spending to balance the budget means that medicare and medicaid will stay in the legislative spotlight; the retirement of the baby-boom generation in the beginning of the next century promises large increases in the cost of medicare; and a flood of new and costly medical technologies will continue to put financial pressure on everyone responsible for paying for health insurance. But, as this book illustrates, the nature of the debate in the years after the demise of the Clinton plan will be altogether different from that of the past several decades."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Health care reform"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical care"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Finance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National health insurance"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Health care reform."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00952850"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical care"
+          },
+          {
+            "x": "Finance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01013800"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National health insurance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01033555"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Health Care Reform."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Health Services"
+          },
+          {
+            "x": "economics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "National Health Insurance, United States."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Collected Work."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Aaron, Henry J."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Problem that won't go away."
+          },
+          {
+            "d": "Washington, DC : Brookings Institution, \u00a91996"
+          },
+          {
+            "w": "(OCoLC)752398123"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 641 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013463"
+          }
+        ]
+      }
+    }
+  ]
+}
