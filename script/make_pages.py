@@ -25,7 +25,7 @@ def construct_title(field_data):
     title_data = dict_value_from_list(field_data, "245")
     title = dict_value_from_list(title_data['subfields'], 'a').rstrip(' /')
     subtitle = dict_value_from_list(title_data['subfields'], 'b').rstrip(' /')
-    return f"{title} {subtitle}" if subtitle else title
+    return "{} {}".format(title, subtitle) if subtitle else title
 
 def make_pages():
     """Creates Markdown pages for each JSON file found in DATA_DIR.
@@ -41,9 +41,9 @@ def make_pages():
             obj_id = dict_value_from_list(data["fields"], "001").rstrip("\\")
         with open(join(PAGE_DIR, "{}.md".format(obj_id)), "w") as page:
             page.write("---\nlayout: item\n")
-            page.write(f"title: \"{clean_string(title)}\" \n")
-            page.write(f"id: {obj_id}\n")
-            page.write(f"permalink: {OBJ_PREFIX}/{obj_id}/\n")
+            page.write("title: \"{}\" \n".format(clean_string(title)))
+            page.write("id: {}\n".format(obj_id))
+            page.write("permalink: {}/{}/\n".format(OBJ_PREFIX, obj_id))
             page.write("---")
 
 
