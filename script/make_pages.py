@@ -13,7 +13,7 @@ PAGE_DIR = abspath(join(__file__, pardir, pardir, OBJ_PREFIX))
 def clean_string(string):
     """Removes unwanted characters from a string."""
     replaced = string.strip().replace("\n", "").replace('"', '\\"')
-    return replaced.encode("utf-8")
+    return replaced
 
 def dict_value_from_list(list, key):
     """Given a key, returns the value for that key in a list of dictionaries."""
@@ -23,8 +23,8 @@ def dict_value_from_list(list, key):
 def construct_title(field_data):
     """Constructs a display title."""
     title_data = dict_value_from_list(field_data, "245")
-    title = dict_value_from_list(title_data['subfields'], 'a').encode('utf-8').rstrip(' /')
-    subtitle = dict_value_from_list(title_data['subfields'], 'b').encode('utf-8').rstrip(' /')
+    title = dict_value_from_list(title_data['subfields'], 'a').rstrip(' /')
+    subtitle = dict_value_from_list(title_data['subfields'], 'b').rstrip(' /')
     return "{} {}".format(title, subtitle) if subtitle else title
 
 def make_pages():
