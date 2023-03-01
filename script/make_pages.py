@@ -18,7 +18,7 @@ def clean_string(string):
 def dict_value_from_list(list, key):
     """Given a key, returns the value for that key in a list of dictionaries."""
     val = next((d for d in list if d.get(key)), {}).get(key, "")
-    return val.encode("utf-8")
+    return val
 
 def construct_title(field_data):
     """Constructs a display title."""
