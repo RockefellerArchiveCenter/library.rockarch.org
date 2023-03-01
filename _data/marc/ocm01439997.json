@@ -1,0 +1,506 @@
+{
+  "leader": "02340cam a22004331  4500",
+  "fields": [
+    {
+      "001": "ocm01439997\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211014115428.0"
+    },
+    {
+      "008": "810622s1934\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   35000954 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "ZHM"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "YYP"
+          },
+          {
+            "d": "TEF"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "CEF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "02831510R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "011514297"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "314519125"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1439997"
+          },
+          {
+            "z": "(OCoLC)314519125"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HQ750.A1"
+          },
+          {
+            "b": "I68"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV 689"
+          },
+          {
+            "b": "S977t 1934"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "362.20425"
+          },
+          {
+            "b": "SWI"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Swift, Sarah Howard."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Training in psychiatric social work at the Institute for child guidance, 1927-1933,"
+          },
+          {
+            "c": "by Sarah H. Swift; foreword by Lawson G. Lowrey, M.D."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York,"
+          },
+          {
+            "b": "The Commonwealth fund; London, H. Milford, Oxford University Press,"
+          },
+          {
+            "c": "1934."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 177 pages"
+          },
+          {
+            "b": "illustrations"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction : changes in concepts of training in psychiatric social work -- The training program at the Institute for Child Guidance -- Utilization of case material in training -- Group conferences on cases : training values -- Supervisor and student -- Volume and quality of student work -- Examples of individual training experience -- Appendix: Adjusted averages of the New York School Special Study Group."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "committed to retain"
+          },
+          {
+            "c": "20170930"
+          },
+          {
+            "d": "20421231"
+          },
+          {
+            "f": "HathiTrust"
+          },
+          {
+            "u": "https://www.hathitrust.org/shared_print_program"
+          },
+          {
+            "5": "PU"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Institute for Child Guidance, New York."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social work education."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Psychiatric social work."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Institute for Child Guidance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Psychiatric social work."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01081132"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social work education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01123461"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Swift, Sarah Howard."
+          },
+          {
+            "t": "Training in psychiatric social work at the Institute for child guidance, 1927-1933."
+          },
+          {
+            "d": "New York, The Commonwealth fund; London, H. Milford, Oxford university press, 1934"
+          },
+          {
+            "w": "(OCoLC)573433368"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 125 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcod second copy"
+          }
+        ]
+      }
+    }
+  ]
+}

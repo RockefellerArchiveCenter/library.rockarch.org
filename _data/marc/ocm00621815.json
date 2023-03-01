@@ -1,0 +1,469 @@
+{
+  "leader": "01677cam a2200409 i 4500",
+  "fields": [
+    {
+      "001": "ocm00621815\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104143421.0"
+    },
+    {
+      "008": "730419s1972\\\\\\\\caua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   72078524 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "GXM"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CASUM"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0344015"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "12923732"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)621815"
+          },
+          {
+            "z": "(OCoLC)12923732"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC848.I6"
+          },
+          {
+            "b": "A44"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WC 16"
+          },
+          {
+            "b": "A427e 1972"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "616.3623"
+          },
+          {
+            "b": "ALL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Allen, J. Garrott"
+          },
+          {
+            "q": "(Joseph Garrott),"
+          },
+          {
+            "d": "1912-1992."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The epidemiology of posttransfusion hepatitis;"
+          },
+          {
+            "b": "basic blood and plasma tabulations"
+          },
+          {
+            "c": "[by] J. Garrott Allen."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Stanford, Calif.,"
+          },
+          {
+            "c": "1972."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 359 pages"
+          },
+          {
+            "b": "illustrations"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Blood"
+          },
+          {
+            "x": "Transfusion"
+          },
+          {
+            "x": "Complications."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Hepatitis B."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Hepatitis B"
+          },
+          {
+            "x": "epidemiology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Transfusion Reaction"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Blood"
+          },
+          {
+            "x": "Transfusion"
+          },
+          {
+            "x": "Complications."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00834614"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Hepatitis B."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00955199"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Tables"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Allen, J. Garrott (Joseph Garrott), 1912-1992."
+          },
+          {
+            "t": "Epidemiology of posttransfusion hepatitis."
+          },
+          {
+            "d": "Stanford, Calif., 1972"
+          },
+          {
+            "w": "(OCoLC)599250766"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Allen, J. Garrott (Joseph Garrott), 1912-1992."
+          },
+          {
+            "t": "Epidemiology of posttransfusion hepatitis."
+          },
+          {
+            "d": "Stanford, Calif., 1972"
+          },
+          {
+            "w": "(OCoLC)609268618"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 84 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "leader": "03331cam a2200649 a 4500",
+  "fields": [
+    {
+      "001": "ocn320622107"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221229143849.0"
+    },
+    {
+      "008": "090423s2009\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2009017068"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "OHX"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NJK"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781433105807"
+          },
+          {
+            "q": "(hardcover ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1433105802"
+          },
+          {
+            "q": "(hardcover ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781433105807"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)320622107"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-ii---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "GE160.I4"
+          },
+          {
+            "b": "S77 2009"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "333.709542"
+          },
+          {
+            "b": "STR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Strahorn, Eric A.,"
+          },
+          {
+            "d": "1965-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "An environmental history of postcolonial North India :"
+          },
+          {
+            "b": "the Himalayan Tarai in Uttar Pradesh and Uttaranchal /"
+          },
+          {
+            "c": "Eric A. Strahorn."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Peter Lang,"
+          },
+          {
+            "c": "\u00a92009."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "168 pages ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Postcolonial studies,"
+          },
+          {
+            "x": "1942-6100 ;"
+          },
+          {
+            "v": "v. 2"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The ecology of the Tarai -- The production of exoticism -- G.B. Pant and the U.P. government -- Realizing the ideal -- Outside the official paradigm -- The changing Tarai landscape."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tarai (India and Nepal)"
+          },
+          {
+            "x": "Environmental conditions."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tarai (India and Nepal)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Land use"
+          },
+          {
+            "x": "Social aspects"
+          },
+          {
+            "z": "Tarai (India and Nepal)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Land use"
+          },
+          {
+            "x": "Political aspects"
+          },
+          {
+            "z": "Tarai (India and Nepal)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Land use"
+          },
+          {
+            "x": "Economic aspects"
+          },
+          {
+            "z": "Tarai (India and Nepal)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Uttar Pradesh (India)"
+          },
+          {
+            "x": "Environmental conditions."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Uttarakhand (India)"
+          },
+          {
+            "x": "Environmental conditions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Landscapes"
+          },
+          {
+            "z": "India"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Postcolonialism"
+          },
+          {
+            "x": "Environmental aspects"
+          },
+          {
+            "z": "India."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "India"
+          },
+          {
+            "x": "Politics and government"
+          },
+          {
+            "y": "1947-"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ecology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901476"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Land use"
+          },
+          {
+            "x": "Economic aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991485"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Land use"
+          },
+          {
+            "x": "Political aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991558"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Land use"
+          },
+          {
+            "x": "Social aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991566"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Landscapes."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01735625"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Asia"
+          },
+          {
+            "z": "Tarai."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01310042"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "India."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01210276"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "India"
+          },
+          {
+            "z": "Uttar Pradesh."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01210277"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "India"
+          },
+          {
+            "z": "Uttarakhand."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01892340"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Since 1947"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Postcolonial studies (New York, N.Y.) ;"
+          },
+          {
+            "v": "v. 2."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=017758204&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=serviceetdoc_library=BVB01etdoc_number=017758204etline_number=0001etfunc_code=DB_RECORDSetservice_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=017758204&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 78 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018494"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "leader": "01859cas a2200457Ia 4500",
+  "fields": [
+    {
+      "001": "ocm07412783\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220713073106.0"
+    },
+    {
+      "008": "810512d19301933xx\\\\x\\\\\\\\\\\\\\\\\\0\\\\\\a0eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYG"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NYG"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "23952958"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7412783"
+          },
+          {
+            "z": "(OCoLC)23952958"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "LB2342"
+          },
+          {
+            "b": ".N27"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "379.118"
+          },
+          {
+            "b": "NAT"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "National Committee on Standard Reports for Institutions of Higher Education (U.S.)"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Bulletin /"
+          },
+          {
+            "c": "National Committee on Standard Reports for Institutions of Higher Education."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Place of publication not identified] :"
+          },
+          {
+            "b": "The Committee]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "8 volumes ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "310": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Irregular."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "362": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[No. 1]-No. 8."
+          }
+        ]
+      }
+    },
+    {
+      "362": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ceased with no. 8."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Each no. has also a distinctive title."
+          }
+        ]
+      }
+    },
+    {
+      "515": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No. 1-2, 4 issued without series title or number."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "588": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No. 3."
+          }
+        ]
+      }
+    },
+    {
+      "588": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No. 8."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Accounting"
+          },
+          {
+            "v": "Periodicals."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Finance"
+          },
+          {
+            "v": "Periodicals."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Finance"
+          },
+          {
+            "v": "Bibliography"
+          },
+          {
+            "v": "Periodicals."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Accounting."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01161599"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Finance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01161770"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Bibliographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919895"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Periodicals."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411641"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "National Committee on Standard Reports for Institutions of Higher Education (U.S.)."
+          },
+          {
+            "t": "Bulletin"
+          },
+          {
+            "w": "(OCoLC)557584132"
+          }
+        ]
+      }
+    },
+    {
+      "936": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No. 3"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 19 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019753"
+          },
+          {
+            "v": "Numbers 1-8"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "leader": "01708cam a2200373I  4500",
+  "fields": [
+    {
+      "001": "ocm19346145\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211012095258.0"
+    },
+    {
+      "008": "890311s1925\\\\\\\\nyu\\\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   26011993 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WAU"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)19346145"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HQ771.U6"
+          },
+          {
+            "b": "D5 1925"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "362.210973"
+          },
+          {
+            "b": "DIR"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Directory of psychiatric clinic for children in the United States."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Psychiatric clinics"
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Clinics, Psychiatric"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Joint Committee on Methods of Preventing Delinquency,"
+          },
+          {
+            "c": "1925."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "99 pages ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Joint Committee on Methods of Preventing Delinquency. Publication"
+          },
+          {
+            "v": "no. 7"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Joint Committee on Methods of Preventing Delinquency was discontinued in 1927 and its publishing activities transferred to the newly created Division of Publications of the Commonwealth Fund. cf. Foreword to the 2d edition of the Directory."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Child development."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Child psychology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Child development."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00854393"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Child psychology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00854540"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Psychiatric clinics"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Joint Committee on Methods of Preventing Delinquency (N.Y.),"
+          },
+          {
+            "e": "issuing body."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Directory of psychiatric clinic for children in the United States."
+          },
+          {
+            "d": "New York, Joint Committee on Methods of Preventing Delinquency, 1925"
+          },
+          {
+            "w": "(OCoLC)760994655"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 11 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

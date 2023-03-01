@@ -1,0 +1,361 @@
+{
+  "leader": "01511cam a2200337Ii 4500",
+  "fields": [
+    {
+      "001": "ocm00307105\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220712120547.0"
+    },
+    {
+      "008": "720512m19249999nju\\\\\\\\\\\\\\\\\\\\\\000\\0\\lat\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   25010727 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "CUY"
+          },
+          {
+            "d": "UBY"
+          },
+          {
+            "d": "VA@"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)307105"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "PA78.U6"
+          },
+          {
+            "b": "A7"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "330.153"
+          },
+          {
+            "b": "AME"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American Classical League."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The classical investigation conducted by the Advisory committee of the American classical league ..."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Princeton :"
+          },
+          {
+            "b": "Princeton University Press,"
+          },
+          {
+            "c": "1924-"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volumes ;"
+          },
+          {
+            "c": "21 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Part I: General Report: A summary of results with recommendations for the organization of the course in secondary Latin and for improvement in methods of teaching."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Classical education."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Latin language"
+          },
+          {
+            "x": "Study and teaching."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Classical education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00863477"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Latin language"
+          },
+          {
+            "x": "Study and teaching."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00993236"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "American Classical League."
+          },
+          {
+            "t": "Classical investigation conducted by the Advisory committee of the American classical league ."
+          },
+          {
+            "d": "Princeton, Princeton University Press, 1924-"
+          },
+          {
+            "w": "(OCoLC)558687231"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 201 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019506"
+          },
+          {
+            "v": "Part 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019861"
+          },
+          {
+            "v": "Part 3"
+          }
+        ]
+      }
+    }
+  ]
+}

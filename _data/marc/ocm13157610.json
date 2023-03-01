@@ -1,0 +1,486 @@
+{
+  "leader": "02553cam a2200421 i 4500",
+  "fields": [
+    {
+      "001": "ocm13157610\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221207160632.0"
+    },
+    {
+      "008": "860130s1986\\\\\\\\nyuab\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   86001252 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "IHV"
+          },
+          {
+            "d": "TXJDC"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "777479777"
+          },
+          {
+            "a": "809732738"
+          },
+          {
+            "a": "1008530931"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0810907879"
+          },
+          {
+            "q": "(hardcover)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780810907874"
+          },
+          {
+            "q": "(hardcover)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)13157610"
+          },
+          {
+            "z": "(OCoLC)777479777"
+          },
+          {
+            "z": "(OCoLC)809732738"
+          },
+          {
+            "z": "(OCoLC)1008530931"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-va"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F234.W7"
+          },
+          {
+            "b": "K67 1986"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "975.54252"
+          },
+          {
+            "b": "KOP"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Kopper, Philip,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Colonial Williamsburg /"
+          },
+          {
+            "c": "by Philip Kopper ; original photography by Langdon Clay."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Harry N. Abrams, Inc. ;"
+          },
+          {
+            "a": "[Williamsburg, VA] :"
+          },
+          {
+            "b": "In association with the Colonial Williamsburg Foundation,"
+          },
+          {
+            "c": "1986."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "320 pages :"
+          },
+          {
+            "b": "illustrations (some color), maps ;"
+          },
+          {
+            "c": "32 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The most detailed, comprehensive book on Colonial Williamsburg ever produced. In a broad-ranging ... text by Philip Kopper, we follow the history of this magnificent restoration from colonial days right up to the present\"--Dust jacket flap."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Foreword / by Charles R. Longsworth -- What year is this? -- The historical watershed -- The colonial period: jewel in the crown of empire. Francis Nicholson and his grand plan ; The cornerstones of Williamsburg ; A capital becomes a town ; The lives of Williamsburg -- The phoenix years: decline and resurrection. Slumber time ; The visionary and the angel ; The secret start ; The first restorers ; The growing years -- The modern era: a once and future Williamsburg. A family place, an American enterprise ; A manifold museum (I): the galleries ; A manifold museum (II): collections and collectors ; Living Williamsburg -- Sojourn in an antique place."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Colonial Williamsburg (Williamsburg, Va.)"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Williamsburg (Va.)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Virginia"
+          },
+          {
+            "z": "Williamsburg."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205036"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Virginia"
+          },
+          {
+            "z": "Williamsburg"
+          },
+          {
+            "z": "Colonial Williamsburg."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01327781"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Clay, Langdon,"
+          },
+          {
+            "d": "1949-"
+          },
+          {
+            "e": "photographer."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Colonial Williamsburg Foundation."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 668 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000017970"
+          }
+        ]
+      }
+    }
+  ]
+}

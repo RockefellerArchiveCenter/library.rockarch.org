@@ -1,0 +1,479 @@
+{
+  "leader": "01840cam a2200433Ii 4500",
+  "fields": [
+    {
+      "001": "ocm63980851\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220712114629.0"
+    },
+    {
+      "008": "891026m19379999xx\\ac\\\\\\\\\\\\\\\\\\000\\0ceng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "COO"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "COO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UCO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "83820221"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)63980851"
+          },
+          {
+            "z": "(OCoLC)83820221"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "KF355.N4"
+          },
+          {
+            "b": "H57 1937"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.7613497471"
+          },
+          {
+            "b": "HIS"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Histories of the predecessor firms of Milbank, Tweed, Hope & Webb :"
+          },
+          {
+            "b": "a merger of Masten & Nichols with Murray, Aldrich & Webb, March 1, 1931."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Place of publication not identified] :"
+          },
+          {
+            "b": "[Firm?],"
+          },
+          {
+            "c": "1937-"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volumes :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cover title: Milbank, Tweed, Hope & Webb."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "On spine: MTH & W MA & W."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Part I privately printed in a limited ed. of numbered copies."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pt. I. Murray, Aldrich & Webb: random jottings from a long memory / by George Welwood Murray."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Milbank, Tweed, Hope & Webb."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Murray, Aldrich & Webb."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Law partnership"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Lawyers"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Law partnership."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00994075"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Lawyers."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00994346"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204333"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Murray, George Welwood,"
+          },
+          {
+            "d": "1856-1943."
+          },
+          {
+            "t": "Murray, Aldrich & Webb."
+          }
+        ]
+      }
+    },
+    {
+      "740": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Milbank, Tweed, Hope & Webb."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 2 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014166"
+          },
+          {
+            "v": "Part 1"
+          }
+        ]
+      }
+    }
+  ]
+}

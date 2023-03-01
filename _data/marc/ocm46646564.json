@@ -1,0 +1,375 @@
+{
+  "leader": "01208cam a2200349 i 4500",
+  "fields": [
+    {
+      "001": "ocm46646564\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211117033636.0"
+    },
+    {
+      "008": "010402s1935\\\\\\\\nyu\\\\\\\\\\\\\\\\\\\\\\100\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "VVK"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "VVK"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "TEF"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UZ0"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "61579567"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)46646564"
+          },
+          {
+            "z": "(OCoLC)61579567"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RB115"
+          },
+          {
+            "b": ".N38 1935"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WB 15"
+          },
+          {
+            "b": "N277s 1935"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.01"
+          },
+          {
+            "b": "NAT"
+          }
+        ]
+      }
+    },
+    {
+      "049": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYRV"
+          }
+        ]
+      }
+    },
+    {
+      "111": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "National Conference on Nomenclature of Disease."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Standard classified nomenclature of disease /"
+          },
+          {
+            "c": "compiled by The National Conference on Nomenclature of Disease ; edited by H.B. Logie."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[2. ed.]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "N.Y. :"
+          },
+          {
+            "b": "Commonwealth Fund,"
+          },
+          {
+            "c": "1935."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxi, 870 pages ;"
+          },
+          {
+            "c": "20 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nosology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "0",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "General Surgery."
+          },
+          {
+            "0": "(DNLM)D013502"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Terminology as Topic."
+          },
+          {
+            "0": "(DNLM)D009626"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Nosology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01039530"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Terminology."
+          },
+          {
+            "0": "(DNLM)D020502"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Logie, H. B.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "C0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    }
+  ]
+}

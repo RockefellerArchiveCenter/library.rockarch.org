@@ -1,0 +1,341 @@
+{
+  "leader": "01174cam a2200325 a 4500",
+  "fields": [
+    {
+      "001": "ocm42306757\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221220173106.0"
+    },
+    {
+      "008": "990907s1985\\\\\\\\it\\a\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "MIU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "MIU"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)42306757"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "e-it---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "DG975.C71"
+          },
+          {
+            "b": "C65 1985"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "945.23"
+          },
+          {
+            "b": "COM"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Como and its lake :"
+          },
+          {
+            "b": "the artistic and architectural treasures, villas and gardens /"
+          },
+          {
+            "c": "testo: Ville e Giardini, Carlo Ferrario ; I Capolavori d'Arte della citta,  Sandro Chierichetti."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Como :"
+          },
+          {
+            "b": "A. Brunner & C.,"
+          },
+          {
+            "c": "1985."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "63 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Como, Lake (Italy)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Travel"
+          },
+          {
+            "v": "Guidebooks."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Travel."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01155558"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Italy"
+          },
+          {
+            "z": "Lake Como."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01333906"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Guidebooks."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423871"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ferrario, Carlo."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chierichetti, Sandro."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 7 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010161"
+          }
+        ]
+      }
+    }
+  ]
+}

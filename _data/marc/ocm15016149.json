@@ -1,0 +1,677 @@
+{
+  "leader": "03406cam a2200577 i 4500",
+  "fields": [
+    {
+      "001": "ocm15016149\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106160509.0"
+    },
+    {
+      "008": "861202t19871987nyu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   86031203 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "MLN"
+          },
+          {
+            "d": "OTP"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "ALAUL"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ZLM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ALAUL"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "008446706"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1017184754"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0853457174"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780853457176"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0853457182"
+          },
+          {
+            "q": "(hard)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780853457183"
+          },
+          {
+            "q": "(hard)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1853830003"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781853830006"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)15016149"
+          },
+          {
+            "z": "(OCoLC)1017184754"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "d------"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HQ1240.5.D44"
+          },
+          {
+            "b": "S46 1987"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "HQ1240.5.D44"
+          },
+          {
+            "b": "S46 1987"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "305.42091724"
+          },
+          {
+            "b": "SEN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sen, Gita,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Development, crises, and alternative visions :"
+          },
+          {
+            "b": "Third World women's perspectives /"
+          },
+          {
+            "c": "Gita Sen and Caren Grown."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Third World women's perspectives"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Monthly Review Press,"
+          },
+          {
+            "c": "[1987]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91987"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "116 pages ;"
+          },
+          {
+            "c": "21 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New feminist library"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Written by Gita Sen and Caren Grown for the project Development Alternatives with Women for a New Era (DAWN).\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 107-116.)."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "I. Gender and Class in Development Experience -- From the Vantage Point of Poor Women -- The Colonial Heritage -- Resource Inequalities and 'Open' Economic Policies -- Basic Needs Strategies -- The Development Project Experience -- Population Programmes and Reproductive Rights -- II. Systematic Crises, Reproduction Failures, and Women's Potential. -- The Food-Fuel-Water Crises -- The Balance of Payments and Debt Crises -- Militarization and Violence -- A Crises of Culture --- III. Alternative Visions, Strategies, and Methods. -- Visions -- Strategies -- Empowering Ourselves Through Organizations: Types and Methods."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Book synthesizes and analyzes three decades of economic, political, and cultural policies and politics toward third world women. Focusing on the impact of the current global economic and political crises - debt, famine, militarization, and fundamentalism - the authors show how, through organization, poor women have begun to mobilize creative and effective development strategies to pull themselves and their families out of immiserating circumstances.\" -- Back cover."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Women in development"
+          },
+          {
+            "z": "Developing countries."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Women"
+          },
+          {
+            "z": "Developing countries"
+          },
+          {
+            "x": "Social conditions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Women in development."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01177865"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Women"
+          },
+          {
+            "x": "Social conditions."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01176947"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Developing countries."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01242969"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Grown, Caren."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Development Alternatives with Women for a New Era (Project)"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Sen, Gita."
+          },
+          {
+            "t": "Development, crises, and alternative visions."
+          },
+          {
+            "d": "New York : Monthly Review Press, \u00a91987"
+          },
+          {
+            "w": "(OCoLC)569725605"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New feminist library."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 518 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000026449"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "leader": "02526cam a2200469Ii 4500",
+  "fields": [
+    {
+      "001": "ocm00517696\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220701122844.0"
+    },
+    {
+      "008": "721214s1963\\\\\\\\mx\\\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   65066571 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "CSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OZZ"
+          },
+          {
+            "d": "KFH"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "CEF"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DCHUA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1077945113"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)517696"
+          },
+          {
+            "z": "(OCoLC)1077945113"
+          }
+        ]
+      }
+    },
+    {
+      "041": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "eng"
+          },
+          {
+            "h": "spa"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HF1428"
+          },
+          {
+            "b": ".B313"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "382.9"
+          },
+          {
+            "b": "BAR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Baranyai, L."
+          },
+          {
+            "q": "(Leopold)"
+          }
+        ]
+      }
+    },
+    {
+      "240": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Convenios de estabilizacio\u0301n de las materias primas."
+          },
+          {
+            "l": "English"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "International commodity agreements /"
+          },
+          {
+            "c": "[by] L. Baranyai and J.C. Mills."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Me\u0301xico :"
+          },
+          {
+            "b": "Centro de Estudios Monetarios Latino-americanos,"
+          },
+          {
+            "c": "1963."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "190 pages ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Studies C.E.M.L.A."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Translation of: Convenios de estabilizacio\u0301n de las materias primas."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Issued without the text of the international agreements."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 181-185)."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The purpose of this study is to clarify the complicated aspects of international commodity agreements, past and present, and help to stimulate discussion of this important subject of general interest."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "In view of the magnitude of the problems facing the primary producing regions, in particular Latin America, and with the increasing realization among industrialized countries of the need to lessen fluctuations in commodity trade, it seems reasonable to believe that the stabilization measures described in this book will be utilized to an increasing extent in the future."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "International economic relations."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Commercial treaties."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Produce trade."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Commercial treaties."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00869654"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "International economic relations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00976891"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Produce trade."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01078136"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Mills, J. C."
+          },
+          {
+            "q": "(Joseph C.),"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Baranyai, L. (Leopold)."
+          },
+          {
+            "t": "International commodity agreements."
+          },
+          {
+            "d": "Me\u0301xico, Centro de Estudios Monetarios Latino-americanos, 1963"
+          },
+          {
+            "w": "(OCoLC)572677822"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Studies C.E.M.L.A."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 151 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019921"
+          }
+        ]
+      }
+    }
+  ]
+}

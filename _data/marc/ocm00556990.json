@@ -1,0 +1,507 @@
+{
+  "leader": "01961cam a22004211i 4500",
+  "fields": [
+    {
+      "001": "ocm00556990\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221227101212.0"
+    },
+    {
+      "008": "730212s1966\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   65028818 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013884029"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CAT10227132"
+          },
+          {
+            "2": "DNAL"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "976961494"
+          },
+          {
+            "a": "1288977305"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)556990"
+          },
+          {
+            "z": "(OCoLC)976961494"
+          },
+          {
+            "z": "(OCoLC)1288977305"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "S533"
+          },
+          {
+            "b": ".K45 1966"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "630.71173"
+          },
+          {
+            "b": "KEL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Kellogg, Charles E."
+          },
+          {
+            "q": "(Charles Edwin),"
+          },
+          {
+            "d": "1902-1980."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The college of agriculture:"
+          },
+          {
+            "b": "science in the public service /"
+          },
+          {
+            "c": "[by] Charles E. Kellogg and David C. Knapp."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "McGraw-Hill,"
+          },
+          {
+            "c": "[1966]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xvi, 237 pages ;"
+          },
+          {
+            "c": "21 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Carnegie series in American education"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 216-221)."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The colleges of agriculture now and the challenge of change --"
+          },
+          {
+            "t": "Choices of mission and direction --"
+          },
+          {
+            "t": "Higher education in agriculture --"
+          },
+          {
+            "t": "Alternative higher education in agriculture --"
+          },
+          {
+            "t": "The quest for new truth --"
+          },
+          {
+            "t": "Extending knowledge to the public --"
+          },
+          {
+            "t": "Planning for change."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Agricultural colleges"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Agricultural colleges."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00800574"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Knapp, David C.,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Kellogg, Charles E. (Charles Edwin), 1902-"
+          },
+          {
+            "t": "College of agriculture."
+          },
+          {
+            "d": "New York, McGraw-Hill [1966]"
+          },
+          {
+            "w": "(OCoLC)595767075"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Carnegie series in American education."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 223 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011804"
+          }
+        ]
+      }
+    }
+  ]
+}

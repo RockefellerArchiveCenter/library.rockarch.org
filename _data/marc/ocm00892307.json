@@ -1,0 +1,526 @@
+{
+  "leader": "01687cam a22004451i 4500",
+  "fields": [
+    {
+      "001": "ocm00892307\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230127083527.0"
+    },
+    {
+      "008": "730410s1956\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   56010867 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "CUY"
+          },
+          {
+            "d": "FN2"
+          },
+          {
+            "d": "KEU"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "HRY"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "HUELT"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "HUL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1152777"
+          },
+          {
+            "a": "1222882303"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)892307"
+          },
+          {
+            "z": "(OCoLC)1152777"
+          },
+          {
+            "z": "(OCoLC)1222882303"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "NA7205"
+          },
+          {
+            "b": ".P68"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "728.370222"
+          },
+          {
+            "b": "PRA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Pratt, Dorothy."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "A guide to early American homes /"
+          },
+          {
+            "c": "[by] Dorothy & Richard Pratt."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Early American homes"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "McGraw-Hill,,"
+          },
+          {
+            "c": "[1956]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2 volumes :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "26 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[1] North.--[2] South."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Architecture, Domestic"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Historic buildings"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Museums."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Museums"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Museums"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Architecture, Domestic."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00813666"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Historic buildings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00957723"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Museums."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01030128"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Pratt, Richard,"
+          },
+          {
+            "d": "1891-1973,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Pratt, Dorothy."
+          },
+          {
+            "t": "Guide to early American homes."
+          },
+          {
+            "d": "New York, McGraw-Hill [1956]"
+          },
+          {
+            "w": "(OCoLC)567909622"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 782 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010899"
+          },
+          {
+            "v": "v. 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010903"
+          },
+          {
+            "v": "v. 2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "leader": "01700cam a2200409 a 4500",
+  "fields": [
+    {
+      "001": "ocm00169880\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220630114756.0"
+    },
+    {
+      "008": "740514s1967\\\\\\\\cauac\\\\\\\\\\\\\\\\\\000\\0beng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   67009103 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "OKS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)169880"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HD9999.R154"
+          },
+          {
+            "b": "R37"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "001.0924"
+          },
+          {
+            "b": "WIS"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The wisdom of Sarnoff and the world of RCA."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1st ed."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Beverly Hills, Calif. :"
+          },
+          {
+            "b": "Wisdom Society for the Advancement of Knowledge, Learning and Research in Education,"
+          },
+          {
+            "c": "\u00a91967."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "480 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The wisdom books ;"
+          },
+          {
+            "v": "v. 1"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Sarnoff, David,"
+          },
+          {
+            "d": "1891-1971."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Radio"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Television"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Sarnoff, David,"
+          },
+          {
+            "d": "1891-1971."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00169209"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Radio."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01087053"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Television."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01146535"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wisdom Society for the Advancement of Knowledge, Learning and Research in Education."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Wisdom of Sarnoff and the world of RCA."
+          },
+          {
+            "b": "[1st ed."
+          },
+          {
+            "d": "Beverly Hills, Wisdom Society for the Advancement of Knowledge, Learning and Research in Education, 1967]"
+          },
+          {
+            "w": "(OCoLC)654452524"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Wisdom books ;"
+          },
+          {
+            "v": "v. 1."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 77 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019527"
+          }
+        ]
+      }
+    }
+  ]
+}

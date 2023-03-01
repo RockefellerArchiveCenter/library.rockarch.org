@@ -1,0 +1,712 @@
+{
+  "leader": "05969cam a2200589 a 4500",
+  "fields": [
+    {
+      "001": "ocm25746725\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220708115650.0"
+    },
+    {
+      "008": "920407s1993\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   92014233 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "AKR"
+          },
+          {
+            "d": "EYD"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "PSM"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000011442898"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "27462656"
+          },
+          {
+            "a": "1167117038"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871542226"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871542229"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)25746725"
+          },
+          {
+            "z": "(OCoLC)27462656"
+          },
+          {
+            "z": "(OCoLC)1167117038"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HC110.I5"
+          },
+          {
+            "b": "U47 1993"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "339.20973"
+          },
+          {
+            "b": "UNE"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Uneven tides :"
+          },
+          {
+            "b": "rising inequality in America /"
+          },
+          {
+            "c": "edited by Sheldon Danziger and Peter Gottschalk."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a91993."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 287 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The trend in inequality among families, individuals, and workers in the United States: A twenty-five year perspective / Lynn A. Karoly -- Industrial change and the rising importance of skill / Kevin M. Murphy and Finis Welch -- How much has de-unionization contributed to the rise in male earnings inequality? / Richard B. Freeman -- Family structure, family size, and family income: Accounting for changes in the economic well-being of children, 1968-1986 / Peter Gottschalk and Sheldon Danziger -- Working wives and family income inequality among married couples / Maria Cancian, Sheldon Danziger, and Peter Gottschalk -- Growing inequality in the 1980s: The role of federal taxes and cash transfers / Edward M. Gramlich, Richard Kasten, and Frank Sammartino -- The minimum wage and earnings and income inequality / Michael W. Horrigan and Ronald B. Mincy."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Economic inequality has been on the rise in America for more than two decades. This socially divisive trend emerged from the sluggish economy of the 1970s and continued through the booming 1980s, when surging tides clearly failed to lift all ships. Instead, escalating inequality in both individual earnings and family income widened the gulf between rich and poor and led to the much-publicized decline of the middle class. Uneven Tides brings together a distinguished group of economists to confront the crucial questions about this unprecedented rise in inequality. Just how large and pervasive was it? What were its principal causes? And why did it continue in the 1980s, when previous periods of national economic growth have generally reduced inequality? Reviewing the best current evidence, the experts in Uneven Tides show that rising inequality is a complex phenomenon, the result of a web of circumstances inherent in the nation's current economic, social, and political situation. Once attributed to the rising supply of inexperienced workers - as baby boomers, new immigrants, and women entered the labor market - the growing inequality in individual earnings is revealed in Uneven Tides to be the direct result of the economy's increasing demand for skilled workers. The authors explore many of the possible causes of this trend, including the employment shift from manufacturing to the service sector, the heightened importance of technology in the workplace, the decline of unionization, and intensified efforts to compete in a global marketplace. Uneven Tides also examines the equally dramatic growth in the inequality of family income, and reviews the effects of family size, the age and education of household heads, and the rise of both two-earner and single-parent families. Although these demographic shifts played a role, what emerges most clearly is an understanding of the powerful influence of both market forces and public policy, as increasingly regressive taxes and declining public support for the poor and unemployed amplified the effect of market forces on income. With the rise in inequality now much in the headlines, it is clear that our nation's ability to reverse these shifting currents requires deeper understanding of their causes and consequences. Uneven Tides gets beyond the news stories to a clear analysis of the changing fortunes of America's families. It should be required reading for anyone with a serious interest in the economic underpinnings of the country's social problems."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Income"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Income distribution"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Wages"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Labor market"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tax incidence"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Economic conditions"
+          },
+          {
+            "y": "1981-2001."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Economic history."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901974"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Income."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00968635"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Income distribution."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00968670"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Labor market."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00990036"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Tax incidence."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01143794"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Wages."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01169492"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1981-2001"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Danziger, Sheldon."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gottschalk, Peter,"
+          },
+          {
+            "d": "1942-"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/hbz/toc/ht005045292.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=1232008&custom_att_2=simple_viewer"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/92014233-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/92014233-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "3": "Inhaltsverzeichnis"
+          },
+          {
+            "u": "http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=1232008&custom%5Fatt%5F2=simple%5Fviewer"
+          },
+          {
+            "y": "Uneven tides"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 606 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015904"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,880 @@
+{
+  "leader": "05010cam a2200553 i 4500",
+  "fields": [
+    {
+      "001": "ocm29877871\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106143911.0"
+    },
+    {
+      "008": "940204t19941994nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   94004542 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BUR"
+          },
+          {
+            "d": "PSM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "TCJ"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "IIB"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CNO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "MOF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "VSI"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "TXA"
+          },
+          {
+            "d": "OKX"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "UWK"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NNM"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "XMC"
+          },
+          {
+            "d": "UNOMP"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "011697863"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "000045192044"
+          },
+          {
+            "2": "AU"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1012022964"
+          },
+          {
+            "a": "1054953303"
+          },
+          {
+            "a": "1058003505"
+          },
+          {
+            "a": "1120812005"
+          },
+          {
+            "a": "1167187009"
+          },
+          {
+            "a": "1200986549"
+          },
+          {
+            "a": "1200990759"
+          },
+          {
+            "a": "1200995778"
+          },
+          {
+            "a": "1201004730"
+          },
+          {
+            "a": "1201007687"
+          },
+          {
+            "a": "1201588443"
+          },
+          {
+            "a": "1201619132"
+          },
+          {
+            "a": "1201622686"
+          },
+          {
+            "a": "1201632495"
+          },
+          {
+            "a": "1201837016"
+          },
+          {
+            "a": "1201859555"
+          },
+          {
+            "a": "1201899780"
+          },
+          {
+            "a": "1201981484"
+          },
+          {
+            "a": "1201998120"
+          },
+          {
+            "a": "1202009281"
+          },
+          {
+            "a": "1202018584"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0465026214"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780465026210"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "0465026338"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "9780465026333"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)29877871"
+          },
+          {
+            "z": "(OCoLC)1012022964"
+          },
+          {
+            "z": "(OCoLC)1054953303"
+          },
+          {
+            "z": "(OCoLC)1058003505"
+          },
+          {
+            "z": "(OCoLC)1120812005"
+          },
+          {
+            "z": "(OCoLC)1167187009"
+          },
+          {
+            "z": "(OCoLC)1200986549"
+          },
+          {
+            "z": "(OCoLC)1200990759"
+          },
+          {
+            "z": "(OCoLC)1200995778"
+          },
+          {
+            "z": "(OCoLC)1201004730"
+          },
+          {
+            "z": "(OCoLC)1201007687"
+          },
+          {
+            "z": "(OCoLC)1201588443"
+          },
+          {
+            "z": "(OCoLC)1201619132"
+          },
+          {
+            "z": "(OCoLC)1201622686"
+          },
+          {
+            "z": "(OCoLC)1201632495"
+          },
+          {
+            "z": "(OCoLC)1201837016"
+          },
+          {
+            "z": "(OCoLC)1201859555"
+          },
+          {
+            "z": "(OCoLC)1201899780"
+          },
+          {
+            "z": "(OCoLC)1201981484"
+          },
+          {
+            "z": "(OCoLC)1201998120"
+          },
+          {
+            "z": "(OCoLC)1202009281"
+          },
+          {
+            "z": "(OCoLC)1202018584"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HQ76.2.U52"
+          },
+          {
+            "b": "N53 1994"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "305.389664097471"
+          },
+          {
+            "b": "CHA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chauncey, George,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gay New York :"
+          },
+          {
+            "b": "gender, urban culture, and the makings of the gay male world, 1890-1940 /"
+          },
+          {
+            "c": "George Chauncey."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Basic Books,"
+          },
+          {
+            "c": "[1994]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91994"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 478 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 365-457) and index."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "This groundbreaking work shatters the myth that before the 1960s gay life existed only in the closet where gay men were isolated, invisible, and self-hating. Based on years of research and access to a rich trove of public and private documents, this is a look at a gay world that was not supposed to have existed. Focusing on New York City, the gay capital of the nation for nearly a century, Chauncey recreates the saloons, speakeasies, and cafeterias where gay men gathered, the intimate parties and immense drag balls where they celebrated, and the highly visible residential enclaves they built in Greenwich Village, Harlem, and Times Square. He offers new perspectives on the gay rights revolution of our time by showing that the oppression the gay and lesbian movement attacked in the 1960s was not an unchanging phenomenon--it had intensified in the 1920s and 1930s as a direct response to the visibility of the gay world in those years.--From publisher description."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Part I. Male (Homo)Sexual Practices and Identities in the Early Twentieth Century. Ch. 1.The Bowery as Haven and Spectacle ; Ch. 2. The Fairy as an Intermediate Sex ; Ch. 3. Trade, Wolves, and the Boundaries of Normal Manhood ; Ch. 4. The Forging of Queer Identities and the Emergence of Heterosexuality in Middle-Class Culture -- Part II. The Making of the Gay Male World. Ch. 5. Urban Culture and the Policing of the \"City of Bachelors\" ; Ch. 6. Lots of Friends at the YMCA: Rooming Houses, Cafeterias, and Other Gay Social Centers ; Ch. 7. \"Privacy Could Only Be Had in Public\": Forging a Gay World in the Streets ; Ch. 8. The Social World of the Baths ; Ch. 9. Building Gay Neighborhood Enclaves: The Village and Harlem -- Part III. The Politics of Gay Culture. Ch. 10. The Double Life, Camp Culture, and the Making of a Collective Identity ; Ch. 11. \"Pansies on Parade\": Prohibition and the Spectacle of the Pansy ; Ch. 12. The Exclusion of Homosexuality from the Public Sphere in the 1930s -- Epilogue: The Strange Career of the Closet."
+          }
+        ]
+      }
+    },
+    {
+      "586": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lambda Literary Award, 1995."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gay men"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Male homosexuality"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gay culture"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Homosexuality, Male"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Gay culture."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01201219"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Gay men."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00939117"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Male homosexuality."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01430687"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204333"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Chauncey, George."
+          },
+          {
+            "t": "Gay New York."
+          },
+          {
+            "d": "New York : Basic Books, \u00a91994"
+          },
+          {
+            "w": "(OCoLC)646972132"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "z": "Available from ACLS Humanities:"
+          },
+          {
+            "u": "http://hdl.handle.net/2027/heb.00516"
+          },
+          {
+            "z": "Rutgers restricted"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1132 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014756"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "leader": "01818cam a2200385 i 4500",
+  "fields": [
+    {
+      "001": "ocm00482770\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220630143746.0"
+    },
+    {
+      "008": "720717t19701969pau\\\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   72101013 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "XXB"
+          },
+          {
+            "d": "CLU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)482770"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "KF5599"
+          },
+          {
+            "b": ".P7"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "343.73025"
+          },
+          {
+            "b": "PRA"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "A practical guide to the legal and appraisal aspects of condemnation /"
+          },
+          {
+            "c": "Sidney Z. Searles, editor."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[1st ed.]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Philadelphia :"
+          },
+          {
+            "b": "Joint Committee on Continuing Legal Education of the American Law Institute and the American Bar Association,"
+          },
+          {
+            "c": "[1970? c1969]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 485 pages ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The text is based on the revised transcript of a series of lectures presented in 1967 at the House of the Association of the Bar of the City of New York."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes legislation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Eminent domain"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Real property"
+          },
+          {
+            "x": "Valuation"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Eminent domain."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00908749"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Real property"
+          },
+          {
+            "x": "Valuation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01091157"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Searles, Sidney Z.,"
+          },
+          {
+            "d": "1914-"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Joint Committee on Continuing Legal Education (U.S.)"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Practical guide to the legal and appraisal aspects of condemnation."
+          },
+          {
+            "b": "[1st ed.]."
+          },
+          {
+            "d": "Philadelphia, Joint Committee on Continuing Legal Education of the American Law Institute and the American Bar Association [1970? c1969]"
+          },
+          {
+            "w": "(OCoLC)745955130"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 128 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016203"
+          }
+        ]
+      }
+    }
+  ]
+}

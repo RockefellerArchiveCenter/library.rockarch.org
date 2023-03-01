@@ -1,0 +1,671 @@
+{
+  "leader": "03056cam a2200505 a 4500",
+  "fields": [
+    {
+      "001": "ocm00013056\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106112019.0"
+    },
+    {
+      "008": "690811s1969\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   69018845 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LAS"
+          },
+          {
+            "d": "NIE"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "MUM"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000001921016"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "976746979"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0809617285"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780809617289"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)13056"
+          },
+          {
+            "z": "(OCoLC)976746979"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HD6275.N4"
+          },
+          {
+            "b": "E45 1969"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "331.34097471"
+          },
+          {
+            "b": "EMP"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Employment and educational services in the Mobilization for Youth experience /"
+          },
+          {
+            "c": "edited by Harold H. Weissman."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Association Press,"
+          },
+          {
+            "c": "\u00a91969."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "224 pages ;"
+          },
+          {
+            "c": "21 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New social work ;"
+          },
+          {
+            "v": "3"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "Part I. Employment opportunities --"
+          },
+          {
+            "t": "Overview of employment opportunities /"
+          },
+          {
+            "r": "Harold H. Weissman --"
+          },
+          {
+            "t": "The processing of the trainee /"
+          },
+          {
+            "r": "Fred Lorber --"
+          },
+          {
+            "t": "Work crews and dispersed work ;"
+          },
+          {
+            "t": "Advanced and postraining programs /"
+          },
+          {
+            "r": "Burton Weinstein --"
+          },
+          {
+            "t": "A demonstration prevocational program /"
+          },
+          {
+            "r": "Fred Lorber --"
+          },
+          {
+            "t": "Vocational counseling of trainees /"
+          },
+          {
+            "r": "Harold H. Weissman and Burton Weinstein --"
+          },
+          {
+            "t": "Remedial education in a work-training program ;"
+          },
+          {
+            "t": "The problem of job placement /"
+          },
+          {
+            "r": "Burton Weinstein --"
+          },
+          {
+            "t": "An appraisal of youth employment programs /"
+          },
+          {
+            "r": "Harold H. Weissman --"
+          },
+          {
+            "g": "Part II. Educational opportunities --"
+          },
+          {
+            "t": "Overview of educational opportunities /"
+          },
+          {
+            "r": "Harold H. Weissman --"
+          },
+          {
+            "t": "Parent education program /"
+          },
+          {
+            "r": "Henry Heifetz --"
+          },
+          {
+            "t": "School-community relations /"
+          },
+          {
+            "r": "Hettie Jones --"
+          },
+          {
+            "t": "The reading programs ;"
+          },
+          {
+            "t": "Guidance and attendance programs ;"
+          },
+          {
+            "t": "Improving the quality of teaching /"
+          },
+          {
+            "r": "Harold H. Weissman --"
+          },
+          {
+            "t": "The homework helper program /"
+          },
+          {
+            "r": "Robert D. Cloward and Welton Smith --"
+          },
+          {
+            "t": "The higher education program /"
+          },
+          {
+            "r": "Henry Heifetz --"
+          },
+          {
+            "t": "Educational innovation : the case of an external innovating organization /"
+          },
+          {
+            "r": "Harold H. Weissman."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mobilization for Youth."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Youth"
+          },
+          {
+            "x": "Employment"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Occupational training"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Mobilization for Youth."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00510157"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902499"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Occupational training."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01043313"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Youth"
+          },
+          {
+            "x": "Employment."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01183412"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204333"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Weissman, Harold H.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Mobilization for Youth."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Employment and educational services in the Mobilization for Youth experience."
+          },
+          {
+            "d": "New York, Association Press [1969]"
+          },
+          {
+            "w": "(OCoLC)569742373"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New social work ;"
+          },
+          {
+            "v": "3."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 307 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014853"
+          }
+        ]
+      }
+    }
+  ]
+}

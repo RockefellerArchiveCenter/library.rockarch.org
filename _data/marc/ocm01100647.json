@@ -1,0 +1,407 @@
+{
+  "leader": "01402cam a2200325 i 4500",
+  "fields": [
+    {
+      "001": "ocm01100647\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707111949.0"
+    },
+    {
+      "008": "741206s1949\\\\\\\\miu\\\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a  51004359 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York Univ. Wash. Sq. Library"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "OUN"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "WOO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "PHA"
+          },
+          {
+            "d": "CHUNN"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "907368"
+          },
+          {
+            "a": "33184237"
+          },
+          {
+            "a": "80312415"
+          },
+          {
+            "a": "1026657874"
+          },
+          {
+            "a": "1248481836"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1100647"
+          },
+          {
+            "z": "(OCoLC)907368"
+          },
+          {
+            "z": "(OCoLC)33184237"
+          },
+          {
+            "z": "(OCoLC)80312415"
+          },
+          {
+            "z": "(OCoLC)1026657874"
+          },
+          {
+            "z": "(OCoLC)1248481836"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "AS911.F6"
+          },
+          {
+            "b": "A45 1949"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "061"
+          },
+          {
+            "b": "FOR"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ford Foundation,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Report of the study for the Ford Foundation on policy and program /"
+          },
+          {
+            "c": "[prepared by the Study Committee]."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Detroit, Mich. :"
+          },
+          {
+            "b": "Ford Foundation,"
+          },
+          {
+            "c": "1949."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "139 pages ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Ford Foundation"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Foundations"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909854"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Ford Foundation."
+          },
+          {
+            "t": "Report of the study for the Ford Foundation on policy and program."
+          },
+          {
+            "d": "Detroit, 1949"
+          },
+          {
+            "w": "(OCoLC)609057864"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 262 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019147"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,681 @@
+{
+  "leader": "02005cam a2200457 a 4500",
+  "fields": [
+    {
+      "001": "ocm07461739\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104100604.0"
+    },
+    {
+      "008": "810413s1981\\\\\\\\nyu\\\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   81003764 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "010391378"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1201949509"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0070178933"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780070178939"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7461739"
+          },
+          {
+            "z": "(OCoLC)1201949509"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OKH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "HN#"
+          },
+          {
+            "d": "ALMSI"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CCH"
+          },
+          {
+            "d": "CEF"
+          },
+          {
+            "d": "TKN"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "MUO"
+          },
+          {
+            "d": "HCO"
+          },
+          {
+            "d": "FQG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NAM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "JDP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "QE2"
+          },
+          {
+            "d": "KNM"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "KOTUI"
+          },
+          {
+            "d": "CWY"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "EUQ"
+          },
+          {
+            "d": "FWR"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "MTU"
+          },
+          {
+            "d": "IOG"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "YOU"
+          },
+          {
+            "d": "DCHUA"
+          },
+          {
+            "d": "CANPU"
+          },
+          {
+            "d": "GDC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EZC"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "PUG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UWW"
+          },
+          {
+            "d": "DKC"
+          },
+          {
+            "d": "GZN"
+          },
+          {
+            "d": "AZM"
+          },
+          {
+            "d": "GZW"
+          },
+          {
+            "d": "VXO"
+          },
+          {
+            "d": "CNMTR"
+          },
+          {
+            "d": "CN9N6"
+          },
+          {
+            "d": "IBR"
+          },
+          {
+            "d": "TJC"
+          },
+          {
+            "d": "NJT"
+          },
+          {
+            "d": "ZQP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "GN27"
+          },
+          {
+            "b": ".D8"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "GN 27"
+          },
+          {
+            "b": "D817c 1981"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "302"
+          },
+          {
+            "b": "DUB"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Dubos, Rene\u0301 J."
+          },
+          {
+            "q": "(Rene\u0301 Jules),"
+          },
+          {
+            "d": "1901-1982."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Celebrations of life /"
+          },
+          {
+            "c": "by Rene\u0301 Dubos."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "McGraw-Hill,"
+          },
+          {
+            "c": "\u00a91981."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 260 pages ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "590": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Library holds translation of this title in: Swedish \"Hyllningar till livet\"."
+          }
+        ]
+      }
+    },
+    {
+      "590": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Library holds translation of this title in: French \"Les celebrations de la vie\"."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human beings."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human ecology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Ecology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Sociology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human beings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00962832"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human ecology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00962941"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Dubos, Rene\u0301 J. (Rene\u0301 Jules), 1901-1982."
+          },
+          {
+            "t": "Celebrations of life."
+          },
+          {
+            "d": "New York : McGraw-Hill, \u00a91981"
+          },
+          {
+            "w": "(OCoLC)563063978"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1048 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014949"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014965"
+          },
+          {
+            "b": "French"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014929"
+          },
+          {
+            "b": "Swedish"
+          }
+        ]
+      }
+    }
+  ]
+}

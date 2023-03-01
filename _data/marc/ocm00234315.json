@@ -1,0 +1,522 @@
+{
+  "leader": "02227cam a2200457 i 4500",
+  "fields": [
+    {
+      "001": "ocm00234315\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104175601.0"
+    },
+    {
+      "008": "720204s1958\\\\\\\\txuaf\\\\\\\\\\\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   58014417 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "WSU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "MTG"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGCBL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "HTC"
+          },
+          {
+            "d": "SYB"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "492696294"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)234315"
+          },
+          {
+            "z": "(OCoLC)492696294"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HD9079.A6"
+          },
+          {
+            "b": "G3"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "AP2"
+          },
+          {
+            "b": ".T35 Suppl. v.1 no.4"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "923.73"
+          },
+          {
+            "b": "GAR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Garwood, Ellen,"
+          },
+          {
+            "d": "1903-1993,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Will Clayton :"
+          },
+          {
+            "b": "a short biography /"
+          },
+          {
+            "c": "by Ellen Clayton Garwood."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Austin :"
+          },
+          {
+            "b": "University of Texas Press,"
+          },
+          {
+            "c": "[1958]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91958"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 164 pages, 17 unnumbered pages of plates :"
+          },
+          {
+            "b": "illustrations, plates, portraits ;"
+          },
+          {
+            "c": "26 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Supplement to the Texas quarterly ;"
+          },
+          {
+            "v": "Volume 1, Number 4"
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Presents the life and accomplishments of successful businessman Will Clayton."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Part one. Government service. The Marshall Plan and multilateral trade -- Reactions to the Clayton theme -- Part two. Youth. Work and romance -- A period of preparation in New York -- Part three. Maturity. From New York to Oklahoma Territory -- Houston and Washington -- Appendixes. The Marshall Plan: the speech and some pertinent documents -- Chronology of events, 1880-1958."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Clayton, Will,"
+          },
+          {
+            "d": "1880-1966."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Anderson, Clayton & Co."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Marshall Plan."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Clayton, Will,"
+          },
+          {
+            "d": "1880-1966."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00308891"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Marshall Plan."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00606082"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Anderson, Clayton & Co."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00702695"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Texas Quarterly."
+          },
+          {
+            "b": "Supplement."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Garwood, Ellen, 1903-"
+          },
+          {
+            "t": "Will Clayton, a short biography."
+          },
+          {
+            "d": "Austin, University of Texas Press [\u00a91958]"
+          },
+          {
+            "w": "(OCoLC)575608010"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Supplement to the Texas quarterly ;"
+          },
+          {
+            "v": "v. 1, no. 4"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 262 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015708"
+          }
+        ]
+      }
+    }
+  ]
+}

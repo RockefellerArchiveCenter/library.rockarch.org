@@ -1,0 +1,492 @@
+{
+  "leader": "01683cam a2200421   4500",
+  "fields": [
+    {
+      "001": "ocm00207046\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211008160738.0"
+    },
+    {
+      "008": "711112s1971\\\\\\\\mdua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   71029779 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "LLU"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OKH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "PHUST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1305577"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "14430484"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)207046"
+          },
+          {
+            "z": "(OCoLC)14430484"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC930"
+          },
+          {
+            "b": ".M87"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WE 141"
+          },
+          {
+            "b": "M983r 1971"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.7107572"
+          },
+          {
+            "b": "MUR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Murray, Ronald O."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The radiology of skeletal disorders;"
+          },
+          {
+            "b": "exercises in diagnosis /"
+          },
+          {
+            "c": "[by] Ronald O. Murray [and] Harold G. Jacobson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Baltimore,"
+          },
+          {
+            "b": "Williams and Wilkins,"
+          },
+          {
+            "c": "1971."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 1320 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Bones"
+          },
+          {
+            "x": "Radiography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Joints"
+          },
+          {
+            "x": "Radiography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Diagnosis, Differential."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Arthrography."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D001175"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Bone and Bones"
+          },
+          {
+            "x": "diagnostic imaging."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D001842Q000000981"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Radiography."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D011859"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Bones"
+          },
+          {
+            "x": "Radiography."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00836032"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Diagnosis, Differential."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00892302"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Joints"
+          },
+          {
+            "x": "Radiography."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00983921"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Jacobson, Harold G."
+          },
+          {
+            "q": "(Harold Gordon),"
+          },
+          {
+            "d": "1912-"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 45 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

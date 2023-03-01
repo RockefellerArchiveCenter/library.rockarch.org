@@ -1,0 +1,646 @@
+{
+  "leader": "04504cam  2200601 a 4500",
+  "fields": [
+    {
+      "001": "ocm28471552\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211118095041.0"
+    },
+    {
+      "008": "940421s1993\\\\\\\\dcua\\\\\\\\\\b\\\\\\o000\\0\\eng\\\\"
+    },
+    {
+      "007": "cr\\cnu||||||||"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   93084552 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "NRZ"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "COU"
+          },
+          {
+            "d": "TMV"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "COF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9416681"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "30915802"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780309049405"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0309049407"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)28471552"
+          },
+          {
+            "z": "(OCoLC)30915802"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RJ240"
+          },
+          {
+            "b": ".C48 1993"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WS 135"
+          },
+          {
+            "b": "C536 1993"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "614.47083"
+          },
+          {
+            "b": "CHI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Children's vaccine initiative :"
+          },
+          {
+            "b": "achieving the vision /"
+          },
+          {
+            "c": "Violaine S. Mitchell, Nalini M. Philipose, and Jay P. Sanford, editors."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "National Academy Press,"
+          },
+          {
+            "c": "1993."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 221 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Support provided by the Agency for International Development, the Dept. of Health and Human Services, the Pharmaceutical Manufacturers Association, the United Nations Development Program, and the World Health Organization, Children's Vaccine Initiative."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also available online."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Why a children's vaccine initiative -- Progress toward universal childhood immunization -- Limits of the expanded program on immunization -- Children's vaccine initiative -- Characteristics of CVI vaccines -- Concerns about the CVI -- Relevance of the CVI to the U.S. immunization efforts -- Status of immunization efforts in the United States -- Role for the CVI in the United States -- Resources and infrastructure -- Resources in the United States -- U.S. federal agencies and programs -- U.S. state vaccine manufacturers -- U.S.-based pharmaceutical firms -- Development-stage companies -- Nongovernmental organizations -- International resources -- Multilateral organizations -- Public-sector resources -- Private-sector resources -- Nongovernmental organizations -- Vaccine demand and supply -- Global demand and supply -- Demand and supply in the United States -- Investing in new and improved vaccines -- Market considerations -- Liability -- Stages of vaccine development -- Priority setting -- Basic and applied research -- Clinical evaluation -- Licensure -- Production -- Recommendations for use."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(cont) Procurement -- Distribution and delivery -- Surveillance -- Strategy to enhance U.S. participation in the children's vaccine initiative -- National vaccine authority -- Relevant Intellectual Property Rights Law -- National Vaccine Injury Compensation Program -- Regulatory aspects of vaccine development, manufacture and distribution -- Strategies for achieving full U.S. participation in the children's vaccine initiative -- Public Health Service Act (1944) -- National vaccine program legislation -- Immunization schedules -- Historical record of vaccine product license holders in the United States -- Working group participants -- Committee and staff biographies -- Acronyms."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vaccination of children."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vaccines."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Immunization of children."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Immunization Programs."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D017589"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Vaccination."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D014611"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Child."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D002648"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Immunization Schedule."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D007115"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Infant."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D007223"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Immunization of children."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00967905"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Vaccination of children."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01163560"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Vaccines."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01163573"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Mitchell, Violaine S."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Philipose, Nalini M."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sanford, Jay P.,"
+          },
+          {
+            "d": "1928-1996."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Institute of Medicine (U.S.)."
+          },
+          {
+            "b": "Committee on the Children's Vaccine Initiative: Planning Alternative Strategies Toward Full U.S. Participation."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "National Academies Press"
+          },
+          {
+            "u": "http://books.nap.edu/books/0309049407/html/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "National Academies Press"
+          },
+          {
+            "u": "http://www.nap.edu/catalog/2224.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "u": "http://www.ncbi.nlm.nih.gov/books/NBK236425/"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "u": "https://www.ncbi.nlm.nih.gov/books/NBK236425/"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 195 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012234"
+          }
+        ]
+      }
+    }
+  ]
+}

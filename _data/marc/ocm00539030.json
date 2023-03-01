@@ -1,0 +1,434 @@
+{
+  "leader": "01668cam a2200397 i 4500",
+  "fields": [
+    {
+      "001": "ocm00539030\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221228094643.0"
+    },
+    {
+      "008": "721215s1972\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   72087341 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)539030"
+          }
+        ]
+      }
+    },
+    {
+      "041": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "eng"
+          },
+          {
+            "a": "spa"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "s-ck---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "S475.C6"
+          },
+          {
+            "b": "S77 1972"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "577.5509861"
+          },
+          {
+            "b": "STR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Streeter, Carroll P."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Colombia: agricultural change: the men and the methods ="
+          },
+          {
+            "b": "Colombia: cambios en la agricultura: el hombre y los me\u0301todos /"
+          },
+          {
+            "c": "written and reported by Carroll P. Streeter ;photographed by Ted Spiegel."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Colombia: cambios en la agricultura: el hombre y los me\u0301tods"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Rockefeller Foundation,"
+          },
+          {
+            "c": "[1972]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "102 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "31 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "English and Spanish."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A special report from the Rockefeller Foundation."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller Foundation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Agriculture"
+          },
+          {
+            "z": "Colombia."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockefeller Foundation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00528303"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Agriculture."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00801355"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Colombia."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205916"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rockefeller Foundation."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Streeter, Carroll P."
+          },
+          {
+            "t": "Colombia: agricultural change: the men and the methods."
+          },
+          {
+            "d": "New York, Rockefeller Foundation, 1972]"
+          },
+          {
+            "w": "(OCoLC)609165414"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 98 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011748"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "leader": "01479cam a2200397Ia 4500",
+  "fields": [
+    {
+      "001": "ocm01358912\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105114624.0"
+    },
+    {
+      "008": "750529s1975\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "   75007538 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "OHI"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "OHI"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "AWC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "WEA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "V5E"
+          },
+          {
+            "d": "NAG"
+          },
+          {
+            "d": "AGL"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1511918"
+          },
+          {
+            "a": "16626155"
+          },
+          {
+            "a": "1222954113"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1358912"
+          },
+          {
+            "z": "(OCoLC)1511918"
+          },
+          {
+            "z": "(OCoLC)16626155"
+          },
+          {
+            "z": "(OCoLC)1222954113"
+          }
+        ]
+      }
+    },
+    {
+      "041": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "eng"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HD9502.U52"
+          },
+          {
+            "b": "T42"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "TJ153.T3"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "620.9"
+          },
+          {
+            "b": "T274"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "333.790973"
+          },
+          {
+            "b": "TEL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Teller, Edward,"
+          },
+          {
+            "d": "1908-2003."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Energy, a plan for action :"
+          },
+          {
+            "b": "a report /"
+          },
+          {
+            "c": "by Edward Teller to the Energy Panel of the Commission on Critical Choices for Americans."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[New York?] :"
+          },
+          {
+            "b": "The Commission,"
+          },
+          {
+            "c": "[1975?]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "80 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cover title."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Power resources"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Energy policy"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Energy policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00910200"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Power resources."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01074275"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Commission on Critical Choices for Americans."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 167 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015511"
+          }
+        ]
+      }
+    }
+  ]
+}

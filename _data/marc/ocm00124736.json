@@ -1,0 +1,543 @@
+{
+  "leader": "02063cam a2200457 i 4500",
+  "fields": [
+    {
+      "001": "ocm00124736\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211115170353.0"
+    },
+    {
+      "008": "710305s1968\\\\\\\\iluabk\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   73627309 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "CUN"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "IAD"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "470384713"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)124736"
+          },
+          {
+            "z": "(OCoLC)470384713"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-il"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RA440.3.U5"
+          },
+          {
+            "b": "C29"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "W18"
+          },
+          {
+            "b": "I29e 1968"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "610.711773"
+          },
+          {
+            "b": "CAM"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Campbell, James A.,"
+          },
+          {
+            "d": "1917-1983."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education in the health fields for State of Illinois /"
+          },
+          {
+            "c": "[prepared for] Board of Higher Education [by James A. Campbell, W. Randolph Tucker, and Irene R. Turner]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Springfield :"
+          },
+          {
+            "b": "[Board of Higher Education],"
+          },
+          {
+            "c": "1968."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2 volumes :"
+          },
+          {
+            "b": "illustrations, forms, maps ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical education"
+          },
+          {
+            "z": "Illinois."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public health personnel"
+          },
+          {
+            "x": "Education"
+          },
+          {
+            "z": "Illinois."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Education, Medical"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Public Health"
+          },
+          {
+            "x": "education"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Illinois"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014024"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public health personnel"
+          },
+          {
+            "x": "Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01082400"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Illinois."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205143"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Tucker, W. Randolph"
+          },
+          {
+            "q": "(Wilson Randolph),"
+          },
+          {
+            "d": "1929-"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Turner, Irene R.,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Illinois."
+          },
+          {
+            "b": "Board of Higher Education."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Campbell, James A., 1917-"
+          },
+          {
+            "t": "Education in the health fields for State of Illinois."
+          },
+          {
+            "d": "Springfield, Board of Higher Education] 1968"
+          },
+          {
+            "w": "(OCoLC)599291857"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Campbell, James A., 1917-"
+          },
+          {
+            "t": "Education in the health fields for State of Illinois."
+          },
+          {
+            "d": "Springfield, Board of Higher Education] 1968"
+          },
+          {
+            "w": "(OCoLC)609753139"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 31 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

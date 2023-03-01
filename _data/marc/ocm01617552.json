@@ -1,0 +1,412 @@
+{
+  "leader": "01456cam a22003731  4500",
+  "fields": [
+    {
+      "001": "ocm01617552\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211008102712.0"
+    },
+    {
+      "008": "820221s1950\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   50009352 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "44820430R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "314519170"
+          },
+          {
+            "a": "978232849"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1617552"
+          },
+          {
+            "z": "(OCoLC)314519170"
+          },
+          {
+            "z": "(OCoLC)978232849"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "FQG"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "QE2"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RC602"
+          },
+          {
+            "b": ".R43"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "RC439.5"
+          },
+          {
+            "b": ".R43 1950"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WM 450"
+          },
+          {
+            "b": "R416v 1950"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.8"
+          },
+          {
+            "b": "REN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rennie, Thomas A. C."
+          },
+          {
+            "q": "(Thomas Alexander Cumming),"
+          },
+          {
+            "d": "1904-1956."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vocational rehabilitation of psychiatric patients /"
+          },
+          {
+            "c": "[by] Thomas A.C. Rennie [and others]."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Commonwealth Fund,"
+          },
+          {
+            "c": "1950."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "133 pages"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 120-125) and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mentally ill"
+          },
+          {
+            "x": "Rehabilitation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Disabled Persons"
+          },
+          {
+            "x": "rehabilitation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Mental Disorders."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Mentally ill"
+          },
+          {
+            "x": "Rehabilitation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01016757"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Rennie, Thomas A.C."
+          },
+          {
+            "t": "Vocational rehabilitation of psychiatric patients."
+          },
+          {
+            "d": "New York, Commonwealth Fund, 1950"
+          },
+          {
+            "w": "(OCoLC)599073040"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 152 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

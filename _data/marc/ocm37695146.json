@@ -1,0 +1,637 @@
+{
+  "leader": "03144cam a2200517 a 4500",
+  "fields": [
+    {
+      "001": "ocm37695146\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220711105644.0"
+    },
+    {
+      "008": "970915s1998\\\\\\\\mdu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   97040121 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "LAS"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "491222243"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0847689697"
+          },
+          {
+            "q": "(cloth ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780847689699"
+          },
+          {
+            "q": "(cloth ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0847689700"
+          },
+          {
+            "q": "(pbk. ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780847689705"
+          },
+          {
+            "q": "(pbk. ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)37695146"
+          },
+          {
+            "z": "(OCoLC)491222243"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV16"
+          },
+          {
+            "b": ".W58 1998"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "361.763209"
+          },
+          {
+            "b": "WIT"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "With us always :"
+          },
+          {
+            "b": "a history of private charity and public welfare /"
+          },
+          {
+            "c": "edited by Donald T. Critchlow and Charles H. Parker."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lanham, MD :"
+          },
+          {
+            "b": "Rowman & Littlefield,"
+          },
+          {
+            "c": "\u00a91998."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vi, 270 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Charity and poor relief in early modern Europe -- Poor relief and community in the early Dutch Republic / Charles H. Parker -- Religious charity and cultural norms in counter-reformation France / Kathryn Norberg -- The provision of work as assistance and correction in France, 1534-1848 / Thomas M. Adams -- Good government and Christian charity in early modern Italy / Brian Pullan -- Private charity and the 1834 Poor Law / Anthony Brundage -- United States relief and welfare in the nineteenth and twentieth centuries -- Orphanages vs. adoption : the triumph of biological kinship, 1800-1933 / E. Wayne Carp -- Claiming the poor / Elizabeth McKeown -- Herbert Hoover, associationalism, and the Great Depression relief crisis of 1930-1933 / Ellis W. Hawley -- Neither charity nor relief : the War on Poverty and the effort to redefine the basis of social provision / Alice O'Connor -- Implementing family planning policy : philanthropic foundations and the modern welfare state / Donald T. Critchlow -- \"Reforming\" relief and welfare : thoughts on 1834 and 1996 / James T. Patterson."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Charities"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Poor"
+          },
+          {
+            "x": "Services for"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public welfare"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Non-governmental organizations"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Charities"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Social Welfare"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Poverty"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Charities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00852404"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Non-governmental organizations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01038524"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Poor"
+          },
+          {
+            "x": "Services for."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071142"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public welfare."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01083250"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Critchlow, Donald T.,"
+          },
+          {
+            "d": "1948-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Parker, Charles H.,"
+          },
+          {
+            "d": "1958-"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "With us always."
+          },
+          {
+            "d": "Lanham, MD : Rowman & Littlefield, \u00a91998"
+          },
+          {
+            "w": "(OCoLC)605328754"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 275 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013811"
+          }
+        ]
+      }
+    }
+  ]
+}

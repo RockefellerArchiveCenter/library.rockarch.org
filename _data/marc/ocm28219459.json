@@ -1,0 +1,526 @@
+{
+  "leader": "02095cam a2200445 a 4500",
+  "fields": [
+    {
+      "001": "ocm28219459\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230105105949.0"
+    },
+    {
+      "008": "930128r19361853nyuab\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   93108948 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "UAT"
+          },
+          {
+            "d": "TEU"
+          },
+          {
+            "d": "Z5G"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "COD"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "010249121"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "184742771"
+          },
+          {
+            "a": "220949000"
+          },
+          {
+            "a": "1032776549"
+          },
+          {
+            "a": "1059802053"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)28219459"
+          },
+          {
+            "z": "(OCoLC)184742771"
+          },
+          {
+            "z": "(OCoLC)220949000"
+          },
+          {
+            "z": "(OCoLC)1032776549"
+          },
+          {
+            "z": "(OCoLC)1059802053"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "e-uk---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC133.G6"
+          },
+          {
+            "b": "S63 1936"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "614.514"
+          },
+          {
+            "b": "SNO"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Snow, John,"
+          },
+          {
+            "d": "1813-1858."
+          }
+        ]
+      }
+    },
+    {
+      "240": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "On the mode of communication of cholera"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Snow on cholera :"
+          },
+          {
+            "b": "being a reprint of two papers /"
+          },
+          {
+            "c": "by John Snow ; together with a biographical memoir by B.W. Richardson ; and an introduction by Wade Hampton Frost."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Commonwealth Fund,"
+          },
+          {
+            "c": "1936."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xlviii, viii, 191 pages, 2 folded leaves :"
+          },
+          {
+            "b": "illustrations, maps ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "First work originally published: On the mode of communication of cholera. London : J. Churchill, 1855."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Second work originally published: On continuous molecular changes. London, J. Churchill, 1853."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The principal writings of John Snow, M.D.\": pages 187-191."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cholera"
+          },
+          {
+            "z": "Great Britain."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cholera."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Cholera"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Cholera."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00858405"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Great Britain."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204623"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Frost, Wade Hampton,"
+          },
+          {
+            "d": "1880-1938."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Richardson, Benjamin Ward,"
+          },
+          {
+            "d": "1828-1896."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Snow, John,"
+          },
+          {
+            "d": "1813-1858."
+          },
+          {
+            "t": "On continuous molecular changes."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Snow, John, 1813-1858."
+          },
+          {
+            "s": "On the mode of communication of cholera."
+          },
+          {
+            "t": "Snow on cholera."
+          },
+          {
+            "d": "New York : Commonwealth Fund, 1936"
+          },
+          {
+            "w": "(OCoLC)952425232"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 48 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011928"
+          }
+        ]
+      }
+    }
+  ]
+}

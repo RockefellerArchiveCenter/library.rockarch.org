@@ -1,0 +1,390 @@
+{
+  "leader": "01531cam a22003491i 4500",
+  "fields": [
+    {
+      "001": "ocm00474224\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221209090721.0"
+    },
+    {
+      "008": "711115s1967\\\\\\\\ii\\abe\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "sa 68005109 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "CNCCA"
+          },
+          {
+            "d": "ZZAND"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "ZAP"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "318135560"
+          },
+          {
+            "a": "829660080"
+          },
+          {
+            "a": "902719989"
+          }
+        ]
+      }
+    },
+    {
+      "025": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "PL480:I-E-9504"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)474224"
+          },
+          {
+            "z": "(OCoLC)318135560"
+          },
+          {
+            "z": "(OCoLC)829660080"
+          },
+          {
+            "z": "(OCoLC)902719989"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-ii---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HE365.I44"
+          },
+          {
+            "b": "C35 1967"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "711.7095414"
+          },
+          {
+            "b": "CAL"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Calcutta Metropolitan Planning Organisation."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Traffic and transportation plan for the Calcutta metropolitan district, 1966-1986 /"
+          },
+          {
+            "c": "Calcutta Metropolitan Planning Organization."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Calcutta] :"
+          },
+          {
+            "b": "Calcutta Metropolitan Planning Organisation, Development and Planning (T & CP) Dept., Govt. of West Bengal, "
+          },
+          {
+            "c": "[1967]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 178 pages :"
+          },
+          {
+            "b": "illustrations, maps (some folded color), plans ;"
+          },
+          {
+            "c": "25 x 33 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Transportation"
+          },
+          {
+            "z": "India"
+          },
+          {
+            "z": "Kolkata Metropolitan Area."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Traffic engineering"
+          },
+          {
+            "z": "India"
+          },
+          {
+            "z": "Kolkata Metropolitan Area."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Traffic engineering."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01154087"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Transportation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01155007"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "India"
+          },
+          {
+            "z": "Kolkata Metropolitan Area."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01802298"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 58 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000021423"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,685 @@
+{
+  "leader": "03199cam a2200517 a 4500",
+  "fields": [
+    {
+      "001": "ocm12214642\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106170430.0"
+    },
+    {
+      "008": "850606s1985\\\\\\\\gau\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   85013744 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "IDA"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "EUM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "492041563"
+          },
+          {
+            "a": "1044593077"
+          },
+          {
+            "a": "1056273689"
+          },
+          {
+            "a": "1060771853"
+          },
+          {
+            "a": "1074933149"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0865541698"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780865541696"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)12214642"
+          },
+          {
+            "z": "(OCoLC)492041563"
+          },
+          {
+            "z": "(OCoLC)1044593077"
+          },
+          {
+            "z": "(OCoLC)1056273689"
+          },
+          {
+            "z": "(OCoLC)1060771853"
+          },
+          {
+            "z": "(OCoLC)1074933149"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "BR115.H5"
+          },
+          {
+            "b": "W33 1985"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "230.61310924"
+          },
+          {
+            "b": "WAC"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wacker, Grant,"
+          },
+          {
+            "d": "1945-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Augustus H. Strong and the dilemma of historical consciousness /"
+          },
+          {
+            "c": "by Grant Wacker."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Macon, GA :"
+          },
+          {
+            "b": "Mercer University Press,"
+          },
+          {
+            "c": "\u00a91985."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xv, 206 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 179-202) and index."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"MUP/H159\"--Page 4 of cover."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The riddle of Augustus Strong -- Made in the image of history: the epistemic revolution of the late nineteenth century -- Breaking the shell of orthodox rationalism: the education of the old Strong -- Intimations of Christ in creation: beginnings of the new Strong -- The vision of divine immanence: the structure of historical process -- The (changing) spirit of the age: the response to Strong in American Protestantism -- The price of knowing: private crisis and public confrontation -- Tradition against history: Strong and the fundamentalist controversy -- Shadows of faith: the legacy of Augustus Strong -- Alternate altars: the forms of historical consciousness -- Orthodoxy and the modern world -- Historicism: a bibliographical note."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Strong, Augustus Hopkins,"
+          },
+          {
+            "d": "1836-1921."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Strong, Augustus Hopkins,"
+          },
+          {
+            "d": "1836-1921."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00070111"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "History"
+          },
+          {
+            "x": "Religious aspects"
+          },
+          {
+            "x": "Christianity"
+          },
+          {
+            "x": "History of doctrines"
+          },
+          {
+            "y": "19th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "History"
+          },
+          {
+            "x": "Religious aspects"
+          },
+          {
+            "x": "Christianity"
+          },
+          {
+            "x": "History of doctrines"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Baptists"
+          },
+          {
+            "x": "Doctrines"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "19th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Baptists"
+          },
+          {
+            "x": "Doctrines"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Theology, Doctrinal"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "19th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Theology, Doctrinal"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Baptists"
+          },
+          {
+            "x": "Doctrines."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00827301"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History"
+          },
+          {
+            "x": "Religious aspects"
+          },
+          {
+            "x": "Christianity"
+          },
+          {
+            "x": "History of doctrines."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00958275"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Theology, Doctrinal."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01149617"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1800-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Wacker, Grant, 1945-"
+          },
+          {
+            "t": "Augustus H. Strong and the dilemma of historical consciousness."
+          },
+          {
+            "d": "Macon, GA : Mercer University Press, \u00a91985"
+          },
+          {
+            "w": "(OCoLC)560242092"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 306 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016415"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "leader": "03907cam a2200409 a 4500",
+  "fields": [
+    {
+      "001": "ocm43186438\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220708125044.0"
+    },
+    {
+      "008": "000612s2000\\\\\\\\enka\\\\\\\\\\b\\\\\\\\100\\0\\eng\\\\"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "UKM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "UKM"
+          },
+          {
+            "d": "MIA"
+          },
+          {
+            "d": "ABC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1011966270"
+          },
+          {
+            "a": "1015459858"
+          },
+          {
+            "a": "1017772465"
+          },
+          {
+            "a": "1053006839"
+          },
+          {
+            "a": "1127680215"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1853395064"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781853395062"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)43186438"
+          },
+          {
+            "z": "(OCoLC)1011966270"
+          },
+          {
+            "z": "(OCoLC)1015459858"
+          },
+          {
+            "z": "(OCoLC)1017772465"
+          },
+          {
+            "z": "(OCoLC)1053006839"
+          },
+          {
+            "z": "(OCoLC)1127680215"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "d------"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HD75.8"
+          },
+          {
+            "b": ".B87 2000"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.91"
+          },
+          {
+            "b": "BUS"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Business development services :"
+          },
+          {
+            "b": "review of international experience /"
+          },
+          {
+            "c": "edited by Jacob Levitsky."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "London :"
+          },
+          {
+            "b": "Intermediate Technology,"
+          },
+          {
+            "c": "2000."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 325 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Papers from the international part of the Rio Conference i.e. the first two days, 2-3 March, 1999\"--Preface"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Preface -- Contributors -- List of acronyms -- 1. Summary report / Jacob Levitsky -- 2. The emerging strategy for building BDS markets / William F. Steel, Jim Tanburn and Kris Hallberg -- 3. The case of CEFE: a new look at entrepreneurship / Rainer Kolshorn and Uwe Weihert -- 4. The EMPRETEC Ghana Foundation / Alan Gibson -- 5. Development projects: a partnership experience in Chile / J.M. Benavente -- 6. High-impact, cost-effective BDS through NGOs / Kenneth E. Loucks -- 7. Comparing two west African BDS experiences / Michel Botzung -- 8. Swisscontact: business centre approach in Indonesia and the Philippines / Alan Gibson and Robert Hitchins -- 9. Enterprise development centres in Latin America / Antonio Garcia Tabuenca and Juan Jose\u0301 Llisterri -- 10. The operation of three Romanian Business Centres / Richard M. Kennedy, Philippe Scholtes and Casper Sonesson -- 11. Enterprise support services for Africa project / Mary M. Lynch and Kwame Young-Gyampo -- 12. Kenya Voucher Programme for training and BDS / Thyra A. Riley and William F. Steel -- 13. Matching grant schemes / Daniel Crisafulli -- 14. Business linkages in Zimbabwe: the Manicaland Project / John Grierson, Donald C. Mead and Edward Kakore -- 15. Global experience in industrial subcontracting and partnerships / Andre\u0301 de Crombrugghe and J.C. Montes -- 16. Clusters and network development in developing countries / Giovanna Ceglie and Marco Dini -- 17. Nurturing entrepreneurs: incubators in Brazil / Rustam Lalkaka and Daniel Shaffer -- 18. Russia: the Volkhov International Business Incubator / Ida F.S. Schmertz -- 19. AMKA, Tanzania: Export marketing development services / Alan Gibson and Leon Tomesen -- 20. Marketing micro and small enterprise in Latin America / Lene Mikkelsen -- 21. Business development and technology improvements services in India / Sanjay Sinha -- 22. A market-based approach to BDS: the FIT project / Jim Tanburn -- 23. The financial viability of BDS / Lara Goldmark -- 24. Measuring BDS performance: a summary framework / Mary McVay."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Economic development projects"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Business incubators"
+          },
+          {
+            "z": "Developing countries"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Business incubators."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00842711"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Economic development projects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901885"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Developing countries."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01242969"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Levitsky, Jacob."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Business development services."
+          },
+          {
+            "d": "London : Intermediate Technology, 2000"
+          },
+          {
+            "w": "(OCoLC)606431144"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 112 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018936"
+          }
+        ]
+      }
+    }
+  ]
+}

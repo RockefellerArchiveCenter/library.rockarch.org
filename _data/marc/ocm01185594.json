@@ -1,0 +1,486 @@
+{
+  "leader": "01747cam a2200385Ia 4500",
+  "fields": [
+    {
+      "001": "ocm01185594\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105140819.0"
+    },
+    {
+      "008": "750221s1955\\\\\\\\nyuabc\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   55011057 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "IKM"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "ISL"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "LUE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "CCH"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "AU@"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "318195819"
+          },
+          {
+            "a": "492461861"
+          },
+          {
+            "a": "978110575"
+          },
+          {
+            "a": "1127713723"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1185594"
+          },
+          {
+            "z": "(OCoLC)318195819"
+          },
+          {
+            "z": "(OCoLC)492461861"
+          },
+          {
+            "z": "(OCoLC)978110575"
+          },
+          {
+            "z": "(OCoLC)1127713723"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-usc--"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HD9569.S82"
+          },
+          {
+            "b": "I56"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "338.2728"
+          },
+          {
+            "b": "GID"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Giddens, Paul H."
+          },
+          {
+            "q": "(Paul Henry),"
+          },
+          {
+            "d": "1903-1984."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Standard Oil Company (Indiana) :"
+          },
+          {
+            "b": "oil pioneer of the Middle West /"
+          },
+          {
+            "c": "by Paul H. Giddens."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Appleton-Century-Crofts,"
+          },
+          {
+            "c": "\u00a91955."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xviii, 741 pages :"
+          },
+          {
+            "b": "illustrations, portraits, maps ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 721-726) and index."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151208"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Standard Oil Company (Ind.)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Petroleum industry and trade"
+          },
+          {
+            "z": "Middle West"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Petroleum industry and trade."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01059546"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Middle West."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01240052"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Giddens, Paul H. (Paul Henry), 1903-1984."
+          },
+          {
+            "t": "Standard Oil Company (Indiana)."
+          },
+          {
+            "d": "New York, Appleton-Century-Crofts [1955]"
+          },
+          {
+            "w": "(OCoLC)573322983"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 633 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015897"
+          }
+        ]
+      }
+    }
+  ]
+}

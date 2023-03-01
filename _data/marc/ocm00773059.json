@@ -1,0 +1,525 @@
+{
+  "leader": "01869cam a22004211i 4500",
+  "fields": [
+    {
+      "001": "ocm00773059\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220728125216.0"
+    },
+    {
+      "008": "740109s1945\\\\\\\\dcu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   45009893 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "CSU"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "MTG"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "NZ1"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "MNI"
+          },
+          {
+            "d": "MST"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OKX"
+          },
+          {
+            "d": "TKN"
+          },
+          {
+            "d": "HCO"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "977492689"
+          },
+          {
+            "a": "993429359"
+          },
+          {
+            "a": "1166602529"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)773059"
+          },
+          {
+            "z": "(OCoLC)977492689"
+          },
+          {
+            "z": "(OCoLC)993429359"
+          },
+          {
+            "z": "(OCoLC)1166602529"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "LB2371"
+          },
+          {
+            "b": ".H64"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "378.1553"
+          },
+          {
+            "b": "HOL"
+          }
+        ]
+      }
+    },
+    {
+      "049": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYRV"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hollis, Ernest V."
+          },
+          {
+            "q": "(Ernest Victor),"
+          },
+          {
+            "d": "1895-1965."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Toward improving Ph. D. programs /"
+          },
+          {
+            "c": "by Ernest V. Hollis, prepared for the Commission on Teacher Education."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "American Council on Education,"
+          },
+          {
+            "c": "1945."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 204 pages, 1 leaf ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151208"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Graduate work."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Degrees, Academic"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Degrees, Academic."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00889815"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Universities and colleges."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01161597"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Universities and colleges"
+          },
+          {
+            "x": "Graduate work."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01161785"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American Council on Education."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Hollis, Ernest V. (Ernest Victor), 1895-1965."
+          },
+          {
+            "t": "Toward improving Ph. D. programs."
+          },
+          {
+            "d": "Washington, D.C., American Council on Education, 1945"
+          },
+          {
+            "w": "(OCoLC)581312723"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019770"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "C0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    }
+  ]
+}

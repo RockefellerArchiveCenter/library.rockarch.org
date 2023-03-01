@@ -1,0 +1,474 @@
+{
+  "leader": "01670cam a22003851i 4500",
+  "fields": [
+    {
+      "001": "ocm14598663\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211116083640.0"
+    },
+    {
+      "008": "810815s1962\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "MCL"
+          },
+          {
+            "d": "NED"
+          },
+          {
+            "d": "VXL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "34611300R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "912122"
+          },
+          {
+            "a": "156004310"
+          },
+          {
+            "a": "976885967"
+          },
+          {
+            "a": "1157780497"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)14598663"
+          },
+          {
+            "z": "(OCoLC)912122"
+          },
+          {
+            "z": "(OCoLC)156004310"
+          },
+          {
+            "z": "(OCoLC)976885967"
+          },
+          {
+            "z": "(OCoLC)1157780497"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RC182"
+          },
+          {
+            "b": ".R4 W49 1962"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WC 220"
+          },
+          {
+            "b": "W751a 1962"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.991"
+          },
+          {
+            "b": "WIL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wilson, M. G."
+          },
+          {
+            "q": "(May Georgiana),"
+          },
+          {
+            "d": "1889-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Advances in rheumatic fever :"
+          },
+          {
+            "b": "1940-1961 /"
+          },
+          {
+            "c": "May G. Wilson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[New York] :"
+          },
+          {
+            "b": "Harper & Row,"
+          },
+          {
+            "c": "[\u00a91962]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 249 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "27 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A Commonwealth fund book"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Supplement to the author's Rheumatic fever, which covered the period 1916-1940."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "committed to retain"
+          },
+          {
+            "c": "20170930"
+          },
+          {
+            "d": "20421231"
+          },
+          {
+            "f": "HathiTrust"
+          },
+          {
+            "u": "https://www.hathitrust.org/shared_print_program"
+          },
+          {
+            "5": "PU"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rheumatic fever."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rheumatic fever."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01096995"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Rheumatic Fever."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wilson, M. G."
+          },
+          {
+            "q": "(May Georgiana),"
+          },
+          {
+            "d": "1889-"
+          },
+          {
+            "t": "Rheumatic fever."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Wilson, May Georgiana, 1889-"
+          },
+          {
+            "t": "Advances in rheumatic fever, 1940-1961."
+          },
+          {
+            "d": "[New York] Harper & Row [\u00a91962]"
+          },
+          {
+            "w": "(OCoLC)644771056"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 106 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "leader": "01733cam a22004091  4500",
+  "fields": [
+    {
+      "001": "ocm14798405\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20210803144048.0"
+    },
+    {
+      "008": "820128s1914\\\\\\\\nyuaf\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   16025714 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "LOA"
+          },
+          {
+            "d": "CUN"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "55110770R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)14798405"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-cc---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "R601"
+          },
+          {
+            "b": ".R68 1914"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WZ 70 JC6"
+          },
+          {
+            "b": "R6m 1914"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "610.951"
+          },
+          {
+            "b": "ROC"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rockefeller Foundation."
+          },
+          {
+            "b": "China medical commission."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medicine in China,"
+          },
+          {
+            "c": "by the China medical commission of the Rockefeller foundation."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York [Chicago],"
+          },
+          {
+            "b": "[Printed by the University of Chicago Press]"
+          },
+          {
+            "c": "1914."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 113 pages :"
+          },
+          {
+            "b": "illustrations, plates ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Will not digitize"
+          },
+          {
+            "c": "20190212"
+          },
+          {
+            "l": "scanned by another institution"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medicine"
+          },
+          {
+            "z": "China"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Missions, Medical"
+          },
+          {
+            "z": "China."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Medicine."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D008511"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "China."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D002681"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014893"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Missions, Medical."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01023909"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "China."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01206073"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Rockefeller foundation. China medical commission."
+          },
+          {
+            "t": "Medicine in China."
+          },
+          {
+            "d": "New York [Chicago, Printed by the University of Chicago press] 1914"
+          },
+          {
+            "w": "(OCoLC)647142680"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 31 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012413"
+          }
+        ]
+      }
+    }
+  ]
+}

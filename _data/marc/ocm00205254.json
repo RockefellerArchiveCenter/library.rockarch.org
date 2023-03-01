@@ -1,0 +1,769 @@
+{
+  "leader": "03112cam a2200625 a 4500",
+  "fields": [
+    {
+      "001": "ocm00205254\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230105113923.0"
+    },
+    {
+      "008": "711109s1970\\\\\\\\dcuac\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   73171590 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "ZZAND"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "YAM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "NAM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1310105"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "911596"
+          },
+          {
+            "a": "223043230"
+          },
+          {
+            "a": "318310404"
+          },
+          {
+            "a": "977044162"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)205254"
+          },
+          {
+            "z": "(OCoLC)911596"
+          },
+          {
+            "z": "(OCoLC)223043230"
+          },
+          {
+            "z": "(OCoLC)318310404"
+          },
+          {
+            "z": "(OCoLC)977044162"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ncpn---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC961.5"
+          },
+          {
+            "b": ".W75 1970"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.9883"
+          },
+          {
+            "b": "WRI"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wright, Willard H."
+          },
+          {
+            "q": "(Willard Hull),"
+          },
+          {
+            "d": "1894-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "40 years of tropical medicine research :"
+          },
+          {
+            "b": "a history of the Gorgas Memorial Institute of Tropical and Preventive Medicine, Inc. and the Gorgas Memorial Laboratory /"
+          },
+          {
+            "c": "by Willard H. Wright."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Forty years of tropical medicine research"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington :"
+          },
+          {
+            "b": "[publisher not identified],"
+          },
+          {
+            "c": "1970"
+          },
+          {
+            "e": "(Baltimore :"
+          },
+          {
+            "f": "Printed by Reese Press)"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 426 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Bibliography of papers emanating from the Gorgas Memorial Laboratory through December 31, 1969 ..., prepared by Lic. Manuel Victor de las Casas\": pages 333-394."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes indexes."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Errata sheet inserted."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gorgas Memorial Institute of Tropical and Preventive Medicine."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gorgas Memorial Laboratory."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gorgas, William Crawford,"
+          },
+          {
+            "d": "1854-1920."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tropical medicine"
+          },
+          {
+            "x": "Research."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medicine"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tropical medicine."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Gorgas Memorial Institute of Tropical and Preventive Medicine."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Gorgas Memorial Laboratory."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Communicable Disease Control"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History of Medicine"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Research"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Tropical Medicine"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Panama"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Tropical Medicine"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Gorgas, William Crawford,"
+          },
+          {
+            "d": "1854-1920"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00134680"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Gorgas Memorial Institute of Tropical and Preventive Medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00602555"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Gorgas Memorial Laboratory."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00566808"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Tropical medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01157469"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014893"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Tropical medicine"
+          },
+          {
+            "x": "Research."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01157474"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Wright, Willard Hull, 1894-"
+          },
+          {
+            "t": "40 years of tropical medicine research."
+          },
+          {
+            "d": "Washington, Printed by Reeves Press, Baltimore, 1970"
+          },
+          {
+            "w": "(OCoLC)599095830"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Wright, Willard Hull, 1894-"
+          },
+          {
+            "t": "40 years of tropical medicine research."
+          },
+          {
+            "d": "Washington, Printed by Reeves Press, Baltimore, 1970"
+          },
+          {
+            "w": "(OCoLC)609343957"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 151 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011882"
+          },
+          {
+            "b": "Copy 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011890"
+          },
+          {
+            "b": "Copy 2"
+          }
+        ]
+      }
+    }
+  ]
+}

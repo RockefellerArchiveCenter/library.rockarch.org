@@ -1,0 +1,603 @@
+{
+  "leader": "03317cam a2200529Ia 4500",
+  "fields": [
+    {
+      "001": "ocm62381607\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105165120.0"
+    },
+    {
+      "008": "051118s2006\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2005057522"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "CUV"
+          },
+          {
+            "d": "TSU"
+          },
+          {
+            "d": "UBY"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "ILU"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013462174"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1022715442"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "087154363X"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871543639"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871543639"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)62381607"
+          },
+          {
+            "z": "(OCoLC)1022715442"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HA181"
+          },
+          {
+            "b": ".H37 2006"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "317.3"
+          },
+          {
+            "b": "HAR"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The hard count :"
+          },
+          {
+            "b": "the political and social challenges of census mobilization /"
+          },
+          {
+            "c": "D. Sunshine Hillygus [and others]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a92006."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 156 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 140-148) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The social context and the political climate -- The civic mobilization campaign -- Privacy concerns and census cooperation -- Census cooperation : community and household -- Conclusions and consequences."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"American democracy relies on an accurate census to fairly allocate political representation and billions of dollars in federal funds. Declining participation in previous censuses and a general waning of civic engagement in society raised the possibility that the 2000 count would miss many Americans - disproportionately ethnic and racial minorities - depriving them of their share of influence in American society and yielding an unfair distribution of federal resources. Faced with this possibility, the Census Bureau launched a massive mobilization campaign to encourage Americans to complete and return their census forms. In The Hard Count, former Census Bureau director Kenneth Prewitt, D. Sunshine Hillygus, Norman H."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Nie, and Heili Pals present a rigorous evaluation of this campaign. Can a busy, mobile, and disengaged public be motivated to participate in this civic activity? Using a rich set of data and drawing on theories of civic mobilization, political persuasion, and media effects, the authors assess the factors that influenced participation in the 2000 census.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Census."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Population"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Census, 2000."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Census."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00850587"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Population."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071476"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "2000"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Census data."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411644"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hillygus, D. Sunshine."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Hard count."
+          },
+          {
+            "d": "New York : Russell Sage Foundation, \u00a92006"
+          },
+          {
+            "w": "(OCoLC)654462689"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/2005057522-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/2005057522-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 259 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000039726"
+          }
+        ]
+      }
+    }
+  ]
+}

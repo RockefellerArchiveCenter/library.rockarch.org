@@ -1,0 +1,774 @@
+{
+  "leader": "03164cam a2200529 a 4500",
+  "fields": [
+    {
+      "001": "ocm11043774\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221205111406.0"
+    },
+    {
+      "008": "840726s1985\\\\\\\\pauc\\\\\\\\\\b\\\\\\\\000\\0ceng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   83046153 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "YHM"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "DCHUA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EXG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OKS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "NKM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "8601623"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "008106299"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "16468854"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0838750524"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780838750520"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)11043774"
+          },
+          {
+            "z": "(OCoLC)16468854"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QL26"
+          },
+          {
+            "b": ".L43 1985"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "EE224"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "QL26.L43"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "591.51"
+          },
+          {
+            "b": "LEA"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Leaders in the study of animal behavior :"
+          },
+          {
+            "b": "autobiographical perspectives /"
+          },
+          {
+            "c": "edited by Donald A. Dewsbury."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lewisburg [Pa.] :"
+          },
+          {
+            "b": "Bucknell University Press ;"
+          },
+          {
+            "a": "London :"
+          },
+          {
+            "b": "Associated University Presses,"
+          },
+          {
+            "c": "\u00a91985."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "512 pages :"
+          },
+          {
+            "b": "portraits ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Animal behavior series"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Two pillars of wisdom /"
+          },
+          {
+            "r": "Gerard P. Baerends --"
+          },
+          {
+            "t": "Curiosity, milieu, and era /"
+          },
+          {
+            "r": "Vincent G. Dethier --"
+          },
+          {
+            "t": "\"Fishy, fishy, fishy\" : autobiographical sketches /"
+          },
+          {
+            "r": "Irena\u0308us Eibl-Eibesfeldt --"
+          },
+          {
+            "t": "Of dogs, mice, people, and me /"
+          },
+          {
+            "r": "John Langworthy Fuller --"
+          },
+          {
+            "t": "Reflections of an experimental naturalist /"
+          },
+          {
+            "r": "Donald R. Griffin --"
+          },
+          {
+            "t": "A lifelong attempt to understand animals /"
+          },
+          {
+            "r": "Heini Hediger --"
+          },
+          {
+            "t": "Wild-goose chase /"
+          },
+          {
+            "r": "Eckhard H. Hess --"
+          },
+          {
+            "t": "Ethology in relation to other disciplines /"
+          },
+          {
+            "r": "Robert A. Hinde --"
+          },
+          {
+            "t": "Those critical periods of social reinforcement /"
+          },
+          {
+            "r": "John A. King --"
+          },
+          {
+            "t": "Cat who walks by himself /"
+          },
+          {
+            "r": "Paul Leyhausen --"
+          },
+          {
+            "t": "My family and other animals /"
+          },
+          {
+            "r": "Konrad Z. Lorenz --"
+          },
+          {
+            "t": "Ontogeny of an ethologist /"
+          },
+          {
+            "r": "Aubrey Manning --"
+          },
+          {
+            "t": "Hark ye to the birds : autobiographical marginalia /"
+          },
+          {
+            "r": "Peter Marler --"
+          },
+          {
+            "t": "In Haldane's footsteps /"
+          },
+          {
+            "r": "John Maynard Smith --"
+          },
+          {
+            "t": "It's a long long way to Tipperary, the land of my genes /"
+          },
+          {
+            "r": "Curt P. Richter --"
+          },
+          {
+            "t": "Investigative behavior : toward a science of sociality /"
+          },
+          {
+            "r": "John Paul Scott --"
+          },
+          {
+            "t": "Watching and wondering /"
+          },
+          {
+            "r": "Niko Tinbergen --"
+          },
+          {
+            "t": "In the queendom of ants : a brief autobiography /"
+          },
+          {
+            "r": "Edward O. Wilson --"
+          },
+          {
+            "t": "Backstage and upstage with \"animal dispersion\" /"
+          },
+          {
+            "r": "Vero C. Wynne-Edwards."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ethologists"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Animal behavior."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Dewsbury, Donald A.,"
+          },
+          {
+            "d": "1939-"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Ethology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Animal behavior."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00809079"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ethologists."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00916210"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Personal Narrative"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Biography"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Personal narratives."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423843"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Personal narratives."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Dewsbury, Donald A.,"
+          },
+          {
+            "d": "1939-"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Animal behavior series (Lewisburg, Pa.)"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 327 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012739"
+          }
+        ]
+      }
+    }
+  ]
+}

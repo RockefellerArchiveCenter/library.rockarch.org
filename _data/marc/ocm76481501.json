@@ -1,0 +1,642 @@
+{
+  "leader": "02505cam a22005294a 4500",
+  "fields": [
+    {
+      "001": "ocm76481501\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211007171707.0"
+    },
+    {
+      "008": "061115s2007\\\\\\\\enka\\\\\\\\\\b\\\\\\\\001\\0beng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2006038375"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DNLM/DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "CHVBK"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "WAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "COUDR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "101292762"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013684153"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "880998522"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781845191832"
+          },
+          {
+            "q": "(h/b ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1845191838"
+          },
+          {
+            "q": "(h/b ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2509170"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)76481501"
+          },
+          {
+            "z": "(OCoLC)880998522"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC961.5.D37"
+          },
+          {
+            "b": "C53 2007"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "2007 G-880"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WZ 100"
+          },
+          {
+            "b": "D219C 2007"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.98830092"
+          },
+          {
+            "b": "CHA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chaves-Carballo, E."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The tropical world of Samuel Taylor Darling :"
+          },
+          {
+            "b": "parasites, pathology and philanthropy /"
+          },
+          {
+            "c": "E. Chaves-Carballo."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Brighton ;"
+          },
+          {
+            "a": "Portland :"
+          },
+          {
+            "b": "Sussex Academic Press,"
+          },
+          {
+            "c": "2007."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xx, 260 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 232-247) and indexes."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Scottish ancestry -- New century -- College of Physicians and Surgeons of Baltimore -- Isthmian explorations -- Lure of Panama -- Ancon Hospital -- Board of Health Laboratories -- Rand mines, South Africa -- Uncinariasis Commission to the Far East -- Institute of Hygiene, Sa\u0303o Paulo, Brazil -- Darling's paralysis -- Station for Field Studies in Malaria, Leesburg, Georgia -- Malaria Commission, League of Nations -- Death near Beirut."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Darling, Samuel T."
+          },
+          {
+            "q": "(Samuel Taylor),"
+          },
+          {
+            "d": "1872-1925."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Darling, Samuel T"
+          },
+          {
+            "q": "(Samuel Taylor),"
+          },
+          {
+            "d": "1872-1925."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Darling, Samuel T."
+          },
+          {
+            "q": "(Samuel Taylor),"
+          },
+          {
+            "d": "1872-1925."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01758583"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tropical medicine"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Tropical Medicine"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Pathology"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Parasitology"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History, 20th Century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Tropical medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01157469"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/ecip075/2006038375.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 54 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012106"
+          }
+        ]
+      }
+    }
+  ]
+}

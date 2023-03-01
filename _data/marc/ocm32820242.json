@@ -1,0 +1,785 @@
+{
+  "leader": "02832cam a2200613 a 4500",
+  "fields": [
+    {
+      "001": "ocm32820242\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104144753.0"
+    },
+    {
+      "008": "950615s1995\\\\\\\\miu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   95032271 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MNM"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9608769"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "007917469"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1225716106"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0924304286"
+          },
+          {
+            "q": "(hard copy ;"
+          },
+          {
+            "q": "acid-free paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780924304286"
+          },
+          {
+            "q": "(hard copy ;"
+          },
+          {
+            "q": "acid-free paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0924304332"
+          },
+          {
+            "q": "(pbk. ;"
+          },
+          {
+            "q": "acid-free paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780924304330"
+          },
+          {
+            "q": "(pbk. ;"
+          },
+          {
+            "q": "acid-free paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)32820242"
+          },
+          {
+            "z": "(OCoLC)1225716106"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-cc---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RA395.C53"
+          },
+          {
+            "b": "Y57 1995"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WA 11 JC6"
+          },
+          {
+            "b": "Y5h 1995"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "362.1095109043"
+          },
+          {
+            "b": "YIP"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Yip, Ka-che,"
+          },
+          {
+            "d": "1944-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Health and national reconstruction in Nationalist China :"
+          },
+          {
+            "b": "the development of modern health services, 1928-1937 /"
+          },
+          {
+            "c": "Ka-che Yip."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ann Arbor, Mich. :"
+          },
+          {
+            "b": "Association for Asian Studies,"
+          },
+          {
+            "c": "\u00a91995."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 289 pages ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Monograph and occasional paper series ;"
+          },
+          {
+            "v": "no. 50"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 245-274) and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical policy"
+          },
+          {
+            "z": "China"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National health services"
+          },
+          {
+            "z": "China"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public health administration"
+          },
+          {
+            "z": "China"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical education"
+          },
+          {
+            "z": "China"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Public Health"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Health Occupations"
+          },
+          {
+            "x": "education."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Health Policy"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History, 20th Century."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "China."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014024"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01014505"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National health services."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01033565"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public health administration."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01082334"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "China."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01206073"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Yip, Ka-che, 1944-"
+          },
+          {
+            "t": "Health and national reconstruction in Nationalist China."
+          },
+          {
+            "d": "Ann Arbor, Mich. : Association for Asian Studies, \u00a91995"
+          },
+          {
+            "w": "(OCoLC)605374469"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Yip, Ka-che, 1944-"
+          },
+          {
+            "t": "Health and national reconstruction in Nationalist China."
+          },
+          {
+            "d": "Ann Arbor, Mich. : Association for Asian Studies, \u00a91995"
+          },
+          {
+            "w": "(OCoLC)607927025"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Monograph and occasional paper series ;"
+          },
+          {
+            "v": "no. 50."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 157 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013439"
+          }
+        ]
+      }
+    }
+  ]
+}

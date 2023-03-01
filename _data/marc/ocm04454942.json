@@ -1,0 +1,446 @@
+{
+  "leader": "01488cam a2200397 i 4500",
+  "fields": [
+    {
+      "001": "ocm04454942\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230104165815.0"
+    },
+    {
+      "008": "781214s1963\\\\\\\\enkaf\\\\\\\\b\\\\\\\\101\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "EZN"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "EZN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "005573819"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)4454942"
+          }
+        ]
+      }
+    },
+    {
+      "041": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "eng"
+          },
+          {
+            "a": "fre"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "QP501"
+          },
+          {
+            "b": ".I58 1961"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "574.192"
+          },
+          {
+            "b": "INT"
+          }
+        ]
+      }
+    },
+    {
+      "111": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "International Congress of Biochemistry"
+          },
+          {
+            "n": "(5th :"
+          },
+          {
+            "d": "1961 :"
+          },
+          {
+            "c": "Moscow, Russia)"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Functional biochemistry of cell structures /"
+          },
+          {
+            "c": "edited by O. Lindberg."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Oxford ;"
+          },
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Symposium Publications Division, Pergamon Press,"
+          },
+          {
+            "c": "1963."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 302 pages, 9 unnumbered leaves of plates :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Its Proceedings ;"
+          },
+          {
+            "v": "v. 2"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "I.U.B. symposium series ;"
+          },
+          {
+            "v": "v. 22"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "English or French."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Biochemistry."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cytology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biochemistry."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00831961"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Cytology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00886282"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lindberg, Olov,"
+          },
+          {
+            "d": "1914-2001,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "I.U.B. symposium series ;"
+          },
+          {
+            "v": "v. 22."
+          }
+        ]
+      }
+    },
+    {
+      "811": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Its."
+          },
+          {
+            "t": "Proceedings ;"
+          },
+          {
+            "v": "v. 2."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 34 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013131"
+          }
+        ]
+      }
+    }
+  ]
+}

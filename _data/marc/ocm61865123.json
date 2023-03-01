@@ -1,0 +1,796 @@
+{
+  "leader": "03274cam a2200589 a 4500",
+  "fields": [
+    {
+      "001": "ocm61865123\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220705100726.0"
+    },
+    {
+      "008": "050922s2005\\\\\\\\nyuab\\\\\\\\\\\\\\\\\\001\\0aeng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2005052846"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "YDX"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "IXA"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "ILU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "EXG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0781811171"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780781811170"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)61865123"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          },
+          {
+            "a": "e------"
+          },
+          {
+            "a": "e-ic---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "D810.S8"
+          },
+          {
+            "b": "H38 2005"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "940.548673092"
+          },
+          {
+            "b": "HAU"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hauenstein, Ralph W."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Intelligence was my line :"
+          },
+          {
+            "b": "inside Eisenhower's other command /"
+          },
+          {
+            "c": "as told to Donald E. Markle by Ralph W. Hauenstein."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1st ed."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Hippocrene Books,"
+          },
+          {
+            "c": "2005."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xv, 182 pages :"
+          },
+          {
+            "b": "illustrations, maps ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Storm clouds : October 1940 --"
+          },
+          {
+            "t": "Civilian Conservation Corps (CCC) : May 1935 to November 1937 --"
+          },
+          {
+            "t": "Fort Sheridan : December 1940 to August 1941 --"
+          },
+          {
+            "t": "Iceland, general background : 1941 --"
+          },
+          {
+            "t": "Iceland base command : August 1941 to December 1941 --"
+          },
+          {
+            "t": "The United States enters war in Europe : December 1941 to August 1943 --"
+          },
+          {
+            "t": "European theater of operations, U.S. Army (ETOUSA) : organizational concepts --"
+          },
+          {
+            "t": "Duty in Europe, pre-OVERLORD : August 1943 to June 1944 --"
+          },
+          {
+            "t": "The British --"
+          },
+          {
+            "t": "Role of G-2 ETOUSA in the early campaign in Europe --"
+          },
+          {
+            "t": "Paris : August 1944 to May 1945 --"
+          },
+          {
+            "t": "The campaign continues in Europe --"
+          },
+          {
+            "t": "Final days : January 1945 to May 1945 --"
+          },
+          {
+            "t": "Postsurrender : May 1945 to July 1945 --"
+          },
+          {
+            "t": "Afterthoughts --"
+          },
+          {
+            "t": "Hauenstein's postwar accomplishments."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Hauenstein, Ralph W."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Army."
+          },
+          {
+            "b": "European Theater of Operations."
+          },
+          {
+            "b": "Intelligence Branch."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Army"
+          },
+          {
+            "x": "Officers"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "World War, 1939-1945"
+          },
+          {
+            "x": "Military intelligence"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "World War, 1939-1945"
+          },
+          {
+            "z": "Europe."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "World War, 1939-1945"
+          },
+          {
+            "z": "Iceland."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "World War, 1939-1945"
+          },
+          {
+            "v": "Personal narratives, American."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Hauenstein, Ralph W."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01623728"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Army."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00533532"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Army."
+          },
+          {
+            "b": "European Theater of Operations."
+          },
+          {
+            "b": "Intelligence Branch."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01624207"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Armed Forces"
+          },
+          {
+            "x": "Officers."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00814617"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Military intelligence."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01021270"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Europe."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01245064"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Iceland."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01210572"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "647": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "World War"
+          },
+          {
+            "d": "(1939-1945)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01180924"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1939 - 1945"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Personal narratives"
+          },
+          {
+            "v": "American."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01424071"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Markle, Donald E."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Hauenstein, Ralph W."
+          },
+          {
+            "t": "Intelligence was my line."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "New York : Hippocrene Books, 2005"
+          },
+          {
+            "w": "(OCoLC)607779623"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 99 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014010"
+          }
+        ]
+      }
+    }
+  ]
+}

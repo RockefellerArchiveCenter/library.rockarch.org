@@ -1,0 +1,366 @@
+{
+  "leader": "02234cam a2200349 i 4500",
+  "fields": [
+    {
+      "001": "on1112734686"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707121510.0"
+    },
+    {
+      "008": "190823s2006\\\\\\\\nyu\\\\\\\\f\\\\\\\\\\\\000\\0deng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "IUP"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "IUP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1112734686"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HV16"
+          },
+          {
+            "b": ".P69 2006"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "361.763209"
+          },
+          {
+            "b": "POW"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Powerful and innovative ideas for grantmakers, investors, and nonprofits :"
+          },
+          {
+            "b": "finding philanthropy's new sweet spot /"
+          },
+          {
+            "c": "edited by Donzelina A. Barroso."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Finding philanthropy's new sweet spot"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Rockefeller Philanthropy Advisors,"
+          },
+          {
+            "c": "\u00a92006"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "80 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"This text is adapted from the transcript of \"Finding philanthropy's new sweet spot : Powerful and innovative ideas for grantmakers, investors, and nonprofits,\" a public symposium convened and hosted by Rockefeller Philanthropy Advisors and the Stanford Social Innovation Review on May 16, 2006 at the Dahesh Museum in New York City.\""
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction / Perla Ni, Kevin Broderick. -- Issues and innovations for 21st century philanthropy / Peter Goldmark. -- Powerful new ideas and possibilities : Coupling a for-profit business model with innovation in youth development ; Fuel cell technology and for-profit business solutions serving public health problems: unlikely partners? ; Hybrid strategies for social enterprises / Kristen Burns, Benson P. Lee, Charly Kleissner, Eric Nee. -- Finding philanthropy's new sweet spot : an all asset approach to investing for social change / Melinda Tuan. -- Closing / Melissa A. Berman. -- Biographies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "x": "Finance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Institutional investments"
+          },
+          {
+            "x": "Social aspects."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "x": "Finance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909861"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Institutional investments"
+          },
+          {
+            "x": "Social aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00974312"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Barroso, Donzelina A.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rockefeller Philanthropy Advisors,"
+          },
+          {
+            "e": "issuing body."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013951"
+          },
+          {
+            "b": "Copy 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013947"
+          },
+          {
+            "b": "Copy 2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,651 @@
+{
+  "leader": "02870cam a2200529 i 4500",
+  "fields": [
+    {
+      "001": "ocm00801649\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221207130637.0"
+    },
+    {
+      "008": "740110s1974\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\101\\0beng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   74000678 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CUY"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "NYHOF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "ZIH"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1277093215"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0912882085"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780912882086"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)801649"
+          },
+          {
+            "z": "(OCoLC)1277093215"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "045": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v7w6"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "F128.44"
+          },
+          {
+            "b": "K55 1974"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "917.471033"
+          },
+          {
+            "b": "KNI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Knickerbocker tradition : Washington Irving's New York /"
+          },
+          {
+            "c": "edited by Andrew B. Myers."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Tarrytown, N.Y. :"
+          },
+          {
+            "b": "Sleepy Hollow Restorations"
+          },
+          {
+            "c": "[1974]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vi, 153 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Essays presented at a conference sponsored by Sleepy Hollow Restorations, inc. in Tarrytown, N.Y., Oct. 28, 1972."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 145-146)."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Essays presented at a conference sponsored by Sleepy Hollow Restorations, inc. in Tarrytown, N.Y., Oct. 28, 1972. Bibliography: p. 145-146."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction / A.B. Myers. -- The popularization of politics in Irving's New York / M. D'Innocenzo. -- New York society: high and low / J.F. Richardson. -- Religion and politics in Knickerbocker Times / J.L. Blau. -- Political satire in Knickerbocker's History / M.L. Black. -- Sunnyside: from saltbox to snuggery to shrine / A.B. Myers. -- New York: a city of constant change and accommodation / J. Judd."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Irving, Washington,"
+          },
+          {
+            "d": "1783-1859"
+          },
+          {
+            "x": "Knowledge"
+          },
+          {
+            "x": "New York (N. Y.)"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New York (N.Y.)"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "1775-1865"
+          },
+          {
+            "x": "Historiography"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "1775-1865"
+          },
+          {
+            "x": "Historiography"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "x": "In literature"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Irving, Washington,"
+          },
+          {
+            "d": "1783-1859."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00030025"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Historiography."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00958221"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Literature."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00999953"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01210280"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204333"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1775-1865"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Myers, Andrew B.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sleepy Hollow Restorations (Organization)"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Knickerbocker tradition: Washington Irving's New York."
+          },
+          {
+            "d": "Tarrytown, N.Y., Sleepy Hollow Restorations [1974]"
+          },
+          {
+            "w": "(OCoLC)579049374"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 399 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000017808"
+          }
+        ]
+      }
+    }
+  ]
+}

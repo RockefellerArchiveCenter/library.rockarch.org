@@ -1,0 +1,815 @@
+{
+  "leader": "03509cam a2200577 a 4500",
+  "fields": [
+    {
+      "001": "ocm07923018\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220708104950.0"
+    },
+    {
+      "008": "811013s1982\\\\\\\\nyuaf\\\\\\\\\\\\\\\\\\001\\0beng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   81016754 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "IXA"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "WVF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ICN"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "BRL"
+          },
+          {
+            "d": "YT6"
+          },
+          {
+            "d": "AQ3"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "JDP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "JX5"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NIU"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1023003837"
+          },
+          {
+            "a": "1024102189"
+          },
+          {
+            "a": "1166460133"
+          },
+          {
+            "a": "1166473070"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0671254189"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780671254186"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7923018"
+          },
+          {
+            "z": "(OCoLC)1023003837"
+          },
+          {
+            "z": "(OCoLC)1024102189"
+          },
+          {
+            "z": "(OCoLC)1166460133"
+          },
+          {
+            "z": "(OCoLC)1166473070"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          },
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E748.R673"
+          },
+          {
+            "b": ".P44 1982b"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "B R6822p"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "974.70430924"
+          },
+          {
+            "b": "PER"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Persico, Joseph E."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The imperial Rockefeller :"
+          },
+          {
+            "b": "a biography of Nelson A. Rockefeller /"
+          },
+          {
+            "c": "Joseph E. Persico."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Simon and Schuster,"
+          },
+          {
+            "c": "\u00a91982."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "314 pages, 16 unnumbered pages of plates :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Photo section follows page 160 -- Acknowledgement -- Preface -- I. At Court -- II. The Early Years -- III. Friends and Brothers -- IV Re-election and Rebirth -- V. Running for President -- VI. The Prince of Pocantioco -- VII. Mission for Nixon -- VIII. The People Around the Man -- IX. Fourth Term -- X. The Imperial Governor -- XI. Sons and Daughters -- XII. A brother's Death -- XIII. Money and Power -- XIV. The Leader -- XV. Art, The Faithful Mistress -- XVI. Working for a Rockefeller -- XVII. New York's Legacy -- XVIII. Critical Choices -- XIX. Hidden Handicap -- XX. Doubtful Price -- XXI. The Vice-Presidential Years -- XXII. The Last Campaign -- XXIII. Restless in Repose -- XXIV. The Last Days -- Index."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A biography of former New York governor and vice-president Nelson A. Rockefeller."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller, Nelson A."
+          },
+          {
+            "q": "(Nelson Aldrich),"
+          },
+          {
+            "d": "1908-1979."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Politics and government"
+          },
+          {
+            "y": "1974-1977."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "x": "Politics and government"
+          },
+          {
+            "y": "1951-"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vice-presidents"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Governors"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vice-presidents"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Bibliography."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockefeller, Nelson A."
+          },
+          {
+            "q": "(Nelson Aldrich),"
+          },
+          {
+            "d": "1908-1979."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00016746"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Governors."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00945704"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Vice-presidents."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01166246"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01210280"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Since 1951"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Biography"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Persico, Joseph E."
+          },
+          {
+            "t": "Imperial Rockefeller."
+          },
+          {
+            "d": "New York : Simon and Schuster, \u00a91982"
+          },
+          {
+            "w": "(OCoLC)559841142"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Persico, Joseph E."
+          },
+          {
+            "t": "Imperial Rockefeller."
+          },
+          {
+            "d": "New York : Simon and Schuster, \u00a91982"
+          },
+          {
+            "w": "(OCoLC)608364650"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/fy053/81016754.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1115 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

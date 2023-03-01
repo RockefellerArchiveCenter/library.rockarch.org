@@ -1,0 +1,578 @@
+{
+  "leader": "02115cam a2200469Ia 4500",
+  "fields": [
+    {
+      "001": "ocn659328926"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221220101631.0"
+    },
+    {
+      "008": "090821s2010\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2009034967"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HLS"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "HLS"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "MIX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CHVBK"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "015545156"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "942593163"
+          },
+          {
+            "a": "945788725"
+          },
+          {
+            "a": "948445787"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780199730773"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0199730776"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)659328926"
+          },
+          {
+            "z": "(OCoLC)942593163"
+          },
+          {
+            "z": "(OCoLC)945788725"
+          },
+          {
+            "z": "(OCoLC)948445787"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "ML200.8.B8"
+          },
+          {
+            "b": "L48 2010"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "780.7874797"
+          },
+          {
+            "b": "LEV"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Levine Packer, Rene\u0301e,"
+          },
+          {
+            "d": "1940-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "This life of sounds :"
+          },
+          {
+            "b": "evenings for new music in Buffalo /"
+          },
+          {
+            "c": "Rene\u0301e Levine Packer."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Oxford University Press,"
+          },
+          {
+            "c": "2010."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 244 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Rockefeller years, 1964-Spring 1968 -- Make it new, Fall 1968-1972 -- Feldman in Buffalo, Fall 1972 -- The final years, 1977-1980."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Music"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "Buffalo"
+          },
+          {
+            "y": "20th century"
+          },
+          {
+            "x": "History and criticism."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Concerts"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "Buffalo"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "State University of New York at Buffalo."
+          },
+          {
+            "b": "Center of the Creative and Performing Arts."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "State University of New York at Buffalo."
+          },
+          {
+            "b": "Center of the Creative and Performing Arts."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00700484"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Concerts."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00874069"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Music"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01030269"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "Buffalo."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205730"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Criticism, interpretation, etc."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411635"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 10 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018478"
+          },
+          {
+            "b": "Copy 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018479"
+          },
+          {
+            "b": "Copy 2"
+          }
+        ]
+      }
+    }
+  ]
+}

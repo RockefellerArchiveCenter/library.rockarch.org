@@ -1,0 +1,639 @@
+{
+  "leader": "03663cam a2200529 i 4500",
+  "fields": [
+    {
+      "001": "ocm05674642\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106115120.0"
+    },
+    {
+      "008": "791011s1980\\\\\\\\nyuc\\\\\\\\\\b\\\\\\\\011\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   79023234 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "MNY"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "CKK"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "KFH"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AZU"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "974742277"
+          },
+          {
+            "a": "1029390000"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0231046243"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780231046244"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)5674642"
+          },
+          {
+            "z": "(OCoLC)974742277"
+          },
+          {
+            "z": "(OCoLC)1029390000"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "BL51"
+          },
+          {
+            "b": ".H58"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "0",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "BL51"
+          },
+          {
+            "b": "H58"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "210"
+          },
+          {
+            "b": "HIS"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "History, religion, and spiritual democracy :"
+          },
+          {
+            "b": "essays in honor of Joseph L. Blau /"
+          },
+          {
+            "c": "Maurice Wohlgelernter, editor, James A. Martin, Jr. [and others] co-editors."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Columbia University Press,"
+          },
+          {
+            "c": "1980."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "lxxiv, 375 pages :"
+          },
+          {
+            "b": "portrait ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Joseph leaves Blau: a bibliography [by] Sam Dekay\": pages [341]-364."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction. Joseph L. Blau : four ways of religion and philosophy / Maurice Wohlgelernter -- [Pt.] I. Naturalism and supernaturalism revisited -- 1. John Dewey : the evolution of faith / Steven C. Rockefeller -- 2. \"The God of our children\" : the humanist reconstruction of God / Raymond F. Bulman -- 3. The supernatural in the naturalists / William M. Shea -- 4. The esthetic, the religious, and the natural / James A. Martin, Jr. -- [Pt.] II. Perspectives on the history of Judaism -- 5. Dating a Mishnah-tractate : the case of Tamid / Jacob Neusner -- 6. The creator and the computer / David R. Blumenthal -- 7. Martin Buber and the no-self perspective / Edith Wyschogrod -- [Pt.] III. American philosophical reflections -- 8. Asa Mahan and the Oberlin philosophy / Edward H. Madden -- 9. Spires of influence : the importance of Emerson for classical American philosophy / John J. McDermott -- 10. Santayana and the ideal of reason / Douglas Greenlee -- 11. The development of William James's epistemological realism / Peter H. Hare and Chandana Chakrabarti -- [Pt.] IV. The teacher as moral agent -- 12. The new censors of science / Paul Kurtz -- 13. Equality and excellence in the democratic ideal / David L. Norton -- 14. Toward a post-enlightenment doctrine of human rights / Roger L. Shinn -- 15. Schooling and the search for a usable politics / Howard B. Radest -- Joseph L. Blau : a bibliography / Sam DeKay."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Blau, Joseph L."
+          },
+          {
+            "q": "(Joseph Leon),"
+          },
+          {
+            "d": "1909-1986."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Religion"
+          },
+          {
+            "x": "Philosophy."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philosophy, American."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Political science."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Judaism."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Jewish philosophy."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Blau, Joseph L."
+          },
+          {
+            "q": "(Joseph Leon),"
+          },
+          {
+            "d": "1909-1986"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00043975"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Jewish philosophy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01730516"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Judaism."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00984280"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Philosophy, American."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01060855"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Political science."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01069781"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Religion"
+          },
+          {
+            "x": "Philosophy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01093794"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Blau, Joseph L."
+          },
+          {
+            "q": "(Joseph Leon),"
+          },
+          {
+            "d": "1909-1986."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wohlgelernter, Maurice."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=003248718&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 399 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016518"
+          }
+        ]
+      }
+    }
+  ]
+}

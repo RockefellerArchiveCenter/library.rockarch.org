@@ -1,0 +1,684 @@
+{
+  "leader": "07528cam a2200601 a 4500",
+  "fields": [
+    {
+      "001": "ocm37126722\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230127084709.0"
+    },
+    {
+      "008": "970616s1996\\\\\\\\mauab\\\\\\\\b\\\\\\\\010\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   98221657 "
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1008346731"
+          },
+          {
+            "a": "1166905683"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0878463909"
+          },
+          {
+            "q": "(set)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780878463909"
+          },
+          {
+            "q": "(set)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)37126722"
+          },
+          {
+            "z": "(OCoLC)1008346731"
+          },
+          {
+            "z": "(OCoLC)1166905683"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "GEU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "EMU"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DGW"
+          },
+          {
+            "d": "AVA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "IUL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "041": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "eng"
+          },
+          {
+            "a": "fre"
+          },
+          {
+            "a": "ger"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "lccopycat"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "f-ua---"
+          },
+          {
+            "a": "f-sj---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "DT60"
+          },
+          {
+            "b": ".S83 1996"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "DT61"
+          },
+          {
+            "b": ".S87 1996"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "932"
+          },
+          {
+            "b": "STU"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Studies in honor of William Kelly Simpson /"
+          },
+          {
+            "c": "Peter Der Manuelian, editor ; Rita E. Freed, project supervisor."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "William Kelly Simpson"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Boston :"
+          },
+          {
+            "b": "Dept. of Ancient Egyptian, Nubian, and Near Eastern Art, Museum of Fine Arts,"
+          },
+          {
+            "c": "1996."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2 volumes (xxxi, 877 pages) :"
+          },
+          {
+            "b": "illustrations, map ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "546": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "English, French, and German."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Bibliography of William Kelly Simpson\": v. 1, p. [xv]-xxxi."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vol. I: Some Theban officials of the early Middle Kingdom / James P. Allen -- Geburtsschrein und Geburtshaus / Hartwig Altenmu\u0308ller -- Hypostyle halls of the Old and Middle Kingdom? / Dieter Arnold -- Preservation and presentation of self in ancient Egyptian portraiture / Jan Assmann -- On the composition and inscriptions of the Vatican statue of Udjahorresne / John Baines -- The stela of Shemai, Chief of Police, of the Early Twelfth Dynasty, in the Cleveland Museum of Art / Lawrence M. Berman -- The Dolphin Vase from Lisht / Janine Bourriau -- An inventory list from \"Covington's Tomb\" and nomenclature for furniture in the Old Kingdom / Edward Brovarski -- Zur wunderbaren Zeugung des Horus nach Plutarch, De Iside Kap.9 / Emma Brunner-Traut."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The disjunction of text and image in Egyptian art / Betsy M. Bryan -- Three painted textiles in the collection of the Boston Athenaeum / Sue D'Auria -- Technical analysis of three painted textiles in the collection of the Boston Athenaeum / Margaret A. Leveque -- Egyptian regnal dating under Cambyses and the date of the Persian conquest / Leo Depuydt -- Les De\u0301esses et le Sema-Taouy / Ch. Desroches-Noblecourt -- Studien zu den Relieffragmenten aus dem Taltempel des Ko\u0308nigs Snofru / Elmar Edel -- A statue of a High Priest Menkheperreseneb in the Brooklyn Museum / Richard Fazzini -- Der beredte Bauer: die zweite Klage / Gerhard Fecht -- Notes on some texts of the Old Kingdom and later / Henry G. Fischer -- Sesostris I., \"Ko\u0308nig der beiden La\u0308nder\" und Demiurg in Elephantine / Detlef Franke."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Stela workshops of Early Dynasty 12 / Rita E. Freed -- Notions of cosmos in the Step Pyramid complex / Florence Dunn Friedman -- A special toast / Hans Goedicke -- A decorated protodynastic cult stand from Abydos / Stephen P. Harvey -- The discovery of the Satellite Pyramid of Khufu (GI-d) / Zahi Hawass -- Redating the Bat Capital in the Museum of Fine Arts, Boston / Joyce L. Haynes -- Zum ko\u0308niglichen Jenseits / Erik Hornung -- Howard Carter and Mrs Kingsmill Marrs / T.G.H. James."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vol. II: A portrait head of Psamtik I? / Jack A. Josephson -- Observations on time and work-discipline in ancient Egypt / Gerald E. Kadish -- Zwei weitere Hb-Hd.t-Belege / Werner Kaiser -- Fragments lost and found: two Kushite objects augmented / Timothy Kendall -- A masterpiece with three lives -- the Vatican's statue of Tuya / Arielle P. Kozloff -- A faience tile of the Old Kingdom / Peter Lacovara -- Remarques concernant l'inscription d'Imhotep grave\u0301e sur le socle de statue de l'Horus Neteri-Khet (roi Djoser) / Jean-Philippe Lauer -- Des confre\u0301ries religieuses a\u0300 Saqqara, a\u0300 la fin de la XIIe dynastie? / Jean Leclant and Catherine Berger -- Z500 and the Layer Pyramid of Zawiyet el-Aryan / Mark Lehner -- A Late Middle Kingdom stela in a private collection / Ronald J. Leprohon -- Loyalty to the King, to God, to oneself / Antonio Loprieno -- The \"Coregency relief\" of Akhenaten and Smenkhare from Memphis / Jaromir Malek."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Presenting the scroll: papyrus documents in tomb scenes of the Old Kingdom / Peter Der Manuelian -- A silver Uraeus ring from Meroe\u0308 / Yvonne Markowitz -- A Late Middle Kingdom Prince of Byblos / Geoffrey T. Martin -- Student exercises from Deir el-Medina: the dates / Andrea McDowell -- The wars against the Noba / N.B. Millet -- Mummies, modern sciences, and technology / Gamal Mokhtar -- Sexuality, statuary and the afterlife; scenes in the tomb-chapel of Pepyankh (Heny the Black). An interpretive essay / David O'Connor -- Zur Funktion einiger Rau\u0308me des Ramesseums / Ju\u0308rgen Osing -- Khakeperreseneb and traditional Belles Lettres / R.B. Parkinson -- Au plaisir des pale\u0301ographes. Papyrus Caire JE 52003 / Paule Posener-Krie\u0301ger -- Horn, feather and scale, and ships. On titles in the Middle Kingdom / Stephen Quirke -- Mendes & environs in the Middle Kingdom / Donald B. Redford."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The earliest attestation of the kpd-measure / Robert K. Ritner -- Abbreviated grids on two scenes in a Graeco-Roman tomb at Abydos / Gay Robins -- The Armand de Potter collection of ancient Egyptian art / James F. Romano -- The Kushite connection / Alan R. Schulman -- An Old Kingdom sculpture in the San Antonio Museum of Art / Gerry D. Scott, III -- Magical bricks of Hunuro / David P. Silverman -- A headless sphinx of Sesostris II from Heliopolis in the Egyptian Museum, Cairo, JE 37796 / Hourig Sourouzian -- From Esna to Ebers: an attempt at calendrical archaeology / Anthony Spalinger -- Palaeographic and epigraphic distinctions between texts of the so-called first intermediate period and the Early Twelfth Dynasty / Donald B. Spanel -- Origins and development of the Funerary complex of Djoser / Rainer Stadelmann."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Toshka and Arminna in the New Kingdom / Bruce G. Trigger -- Les Mine\u0301raux dans la naissance des Civilisations de la Valle\u0301e du Nil / Jean Vercoutter -- Mythological and decorative sculptures in colored stones from Egypt, Greece, North Africa, Asia Minor and Cyprus / Cornelius C. Vermeule -- Re\u0301fections et adaptations de l'ide\u0301ologie monarchique a\u0300 la Deuxie\u0300me Pe\u0301riode Interme\u0301diare: la ste\u0300le d'Antef-le-victorieux / Pascal Vernus -- Toward the establishment of a Pre-Islamic archaeological database / Kent R. Weeks -- A Goat for an Ailing Woman (Ostracon Wente) / Edward F. Wente -- Miscellanea Ptolemaica / Christiane Zivie-Coche."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Egypt"
+          },
+          {
+            "x": "Antiquities."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nubia"
+          },
+          {
+            "x": "Antiquities."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art, Egyptian."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Antiquities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00810745"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art, Egyptian."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00816211"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Africa"
+          },
+          {
+            "z": "Nubia."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01215273"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Egypt."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01208755"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Simpson, William Kelly,"
+          },
+          {
+            "e": "honouree."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Der Manuelian, Peter,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Freed, Rita E."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Museum of Fine Arts, Boston."
+          },
+          {
+            "b": "Department of Ancient Egyptian, Nubian, and Ancient Near Eastern Art,"
+          },
+          {
+            "e": "issuing body."
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 90 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018246"
+          },
+          {
+            "v": "v. 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018250"
+          },
+          {
+            "v": "v. 2"
+          }
+        ]
+      }
+    }
+  ]
+}

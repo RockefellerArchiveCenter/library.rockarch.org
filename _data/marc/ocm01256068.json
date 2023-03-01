@@ -1,0 +1,596 @@
+{
+  "leader": "02757cam a2200469 i 4500",
+  "fields": [
+    {
+      "001": "ocm01256068\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104115146.0"
+    },
+    {
+      "008": "750310s1975\\\\\\\\mdu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   74024399 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "LTU"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "RCJ"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LIBRO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UEJ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "AGM"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "RST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "080-18169"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "16288035"
+          },
+          {
+            "a": "624175177"
+          },
+          {
+            "a": "1114359684"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "080181698X"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780801816987"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "080181751X"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780801817519"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1256068"
+          },
+          {
+            "z": "(OCoLC)16288035"
+          },
+          {
+            "z": "(OCoLC)624175177"
+          },
+          {
+            "z": "(OCoLC)1114359684"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "SD565"
+          },
+          {
+            "b": ".C58"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "333.750973"
+          },
+          {
+            "b": "CLA"
+          }
+        ]
+      }
+    },
+    {
+      "088": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "74024399"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Clawson, Marion,"
+          },
+          {
+            "d": "1905-1998."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Forests for whom and for what? /"
+          },
+          {
+            "c": "Marion Clawson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Baltimore :"
+          },
+          {
+            "b": "Published for Resources for the Future by Johns Hopkins University Press,"
+          },
+          {
+            "c": "[1975]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 175 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 171-172) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Why concern ourselves with forest policy? --"
+          },
+          {
+            "t": "Pressing issues of forest policy --"
+          },
+          {
+            "t": "A framework analysis for forest policy --"
+          },
+          {
+            "t": "Forest characteristics and forest uses --"
+          },
+          {
+            "t": "Variability among forests --"
+          },
+          {
+            "t": "Physical and biological feasibility and consequences --"
+          },
+          {
+            "t": "Economic efficiency in forestry --"
+          },
+          {
+            "t": "Who gains and who pays --"
+          },
+          {
+            "t": "Social or cultural acceptability of forest uses --"
+          },
+          {
+            "t": "Operational or administrative practicality of forest policy --"
+          },
+          {
+            "t": "Forest policy formation in the United States --"
+          },
+          {
+            "t": "One man's conclusions on forest policy issues."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The 600 detainees in Cuba have been held in a legal black hole. Are they 'the hardest of the hard-core' Al Qaeda terrorsts, ruthless men 'involved in a plot to kill thousands of ordinary Americans', as the Bush administration has maintained. david Rose has visited the camp and conducted interviews of staff as well as prison commander."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Forest policy"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Forests and forestry"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Forest policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00932311"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Forests and forestry."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00932632"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Resources for the Future."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Clawson, Marion, 1905-1998."
+          },
+          {
+            "t": "Forests for whom and for what?"
+          },
+          {
+            "d": "Baltimore : Published for Resources for the Future by Johns Hopkins University Press, [1975]"
+          },
+          {
+            "w": "(OCoLC)903876455"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 738 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015607"
+          }
+        ]
+      }
+    }
+  ]
+}

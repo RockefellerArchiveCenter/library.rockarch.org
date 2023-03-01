@@ -1,0 +1,566 @@
+{
+  "leader": "03911cam a2200469 a 4500",
+  "fields": [
+    {
+      "001": "ocm27035545\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220630130511.0"
+    },
+    {
+      "008": "921030s1992\\\\\\\\flu\\\\\\\\\\\\\\\\\\\\\\100\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   92041396 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "KIJ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "WLU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "AZU"
+          },
+          {
+            "d": "EXG"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "010136635"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "772088858"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1560006803"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781560006800"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)27035545"
+          },
+          {
+            "z": "(OCoLC)772088858"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n------"
+          },
+          {
+            "a": "s------"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV25"
+          },
+          {
+            "b": ".P48 1992"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "361.7097"
+          },
+          {
+            "b": "PHI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philanthropy in the Americas :"
+          },
+          {
+            "b": "new directions and partnerships /"
+          },
+          {
+            "c": "edited by Bruce E. Henderson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Coral Gables, Fla. :"
+          },
+          {
+            "b": "North-South Center, University of Miami ;"
+          },
+          {
+            "a": "New Brunswick [N.J.] :"
+          },
+          {
+            "b": "Transaction Publishers [distributor],"
+          },
+          {
+            "c": "\u00a91992."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "162 pages ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Based on the symposium conducted jointly by USIA and the North-South Center of the University of Miami, held Feb. 5-7, 1992 in Coral Gables and Miami, Florida."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Charitable Giving North and South: A New Enterprise for the Americas? Opening Reception and Dinner: February 5. Summary of Speeches and Panel Discussions: February 6. Summary of Speeches and Panel Discussions: February 7. Background Paper for the North-South Center/USIA Symposium on Philanthropy -- Wednesday, February 5. Opening Remarks / Eugene Kopp. Dinner Address: A New Wind -- A New World / Gustavo Cisneros -- Thursday, February 6. Opening Remarks / Ambler H. Moss, Jr. Keynote Address: The Role of Philanthropy in Latin America / Manuel Arango. Panel Discussion: Private Philanthropy as an Underpinning of Cultural Institutions / Jose Mindlin, Roberto S. Mizrahi, Lorenzo Lazo Margain and Milton Rhodes -- Introduction / Lee Kimche McGrath. Luncheon Address / Hildy Simmons. Panel Discussion: Model Tax Provisions as an Incentive to Private Giving / Francisco Gil-Diaz, Robert C. Helander and Boyd J. Black."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Panel Discussion: Structure and Management of Foundations / Roy J. Nirschel, Jr., Paul Hirsch and Luis Fernando Cruz -- Friday, February 7. Panel Discussion: International Joint Programming / Maria Cristina Garcia Cepeda, Hector Vasconcelos, Kennette Benedict, Amparo Sinisterra de Carvajal and Stephen Viederman. Luncheon Address / William P. Glade. Panel Discussion: International Corporate Funding / Roberto Paulo Cezar de Andrade, Joseph Krakora, Maureen V. Gorman and Fernando Gastelbondo. Panel Discussion: Building Enduring Linkages / Eliana Vera, Thomas J. Trebat and Curtin Winsor, Jr."
+          }
+        ]
+      }
+    },
+    {
+      "546": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Based on the symposium conducted jointly by USIA and the North-South Center of the University of Miami, held Feb. 5-7, 1992 in Coral Gables and Miami, Florida."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Charities"
+          },
+          {
+            "z": "America"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Charities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00852404"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "America."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01239786"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Henderson, Bruce E.,"
+          },
+          {
+            "d": "1929-"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "United States Information Agency."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "University of Miami."
+          },
+          {
+            "b": "North-South Center."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Philanthropy in the Americas."
+          },
+          {
+            "d": "Coral Gables, Fla. : North-South Center, University of Miami : New Brunswick [N.J.] : Transaction Publishers [distributor], \u00a91992"
+          },
+          {
+            "w": "(OCoLC)609526274"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Philanthropy in the Americas."
+          },
+          {
+            "d": "Coral Gables, Fla. : North-South Center, University of Miami : New Brunswick [N.J.] : Transaction Publishers [distributor], \u00a91992"
+          },
+          {
+            "w": "(OCoLC)623267568"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 117 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013900"
+          }
+        ]
+      }
+    }
+  ]
+}

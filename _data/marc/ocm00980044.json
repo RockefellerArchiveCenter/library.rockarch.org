@@ -1,0 +1,811 @@
+{
+  "leader": "06811cam a2200625 a 4500",
+  "fields": [
+    {
+      "001": "ocm00980044\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230104163854.0"
+    },
+    {
+      "008": "740617s1973\\\\\\\\ne\\a\\\\\\\\\\b\\\\\\\\101\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   73081529 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0421155"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "010331490"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "014310780"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "929928"
+          },
+          {
+            "a": "13061920"
+          },
+          {
+            "a": "38242549"
+          },
+          {
+            "a": "60083036"
+          },
+          {
+            "a": "622340042"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0444105395"
+          },
+          {
+            "q": "(American Elsevier)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780444105394"
+          },
+          {
+            "q": "(American Elsevier)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0720441358"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780720441352"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)980044"
+          },
+          {
+            "z": "(OCoLC)929928"
+          },
+          {
+            "z": "(OCoLC)13061920"
+          },
+          {
+            "z": "(OCoLC)38242549"
+          },
+          {
+            "z": "(OCoLC)60083036"
+          },
+          {
+            "z": "(OCoLC)622340042"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "COU"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "CUY"
+          },
+          {
+            "d": "UKV3G"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YAM"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "QP623"
+          },
+          {
+            "b": ".R65 1973"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "574.873283"
+          },
+          {
+            "b": "ROL"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The role of RNA in reproduction and development :"
+          },
+          {
+            "b": "proceedings of the A.A.A.S. symposium, December 28-30, 1972 /"
+          },
+          {
+            "c": "edited by M.C. Niu and S.J. Segal."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Role of ribonucleic acid in reproduction and development"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Amsterdam :"
+          },
+          {
+            "b": "North-Holland ;"
+          },
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "American Elsevier,"
+          },
+          {
+            "c": "1973."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 357 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sponsored by the Division of Developmental Biology, American Society of Zoologists."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "First session: RNA metabolism in developing embryos and organs / chairman, Arthur Whiteley. Gene transcription and gene expression during sea urchin development / Paul R. Gross and Kenneth W. Gross ; Unbalanced growth and cell determination in frog embryos / Reed A. Flickinger ; Ovalbumin mRNA, complementary DNA and hormone regulation in chick oviduct / Robert T. Schimke, Robert E. Rhoads, Raphael Palacios and Drew Sullivan ; Regulation of albumin synthesis in cultured mouse hepatoma cells / John Papaconstantinou and Barry E. Ledford -- \"Manuscripts of the three papers in session two were not received.\" [Second session: RNA programmed protein synthesis in cell-free systems / chairman, Philip Leder. RNA mediated protein synthesis in eucaryotes / R.C. Huang ; Steroid hormone induction of specific translatable mTNAs / Gary Rosenfeld, A.R. Means and Bert W. O'Malley ; Translation and reverse transcription of purified mRNA / Philip Leder] -- Third session: RNA effects on in vivo synthesis of specific proteins / chairman, Vincent G. Allfrey. A hormone-controlled RNA fraction regulating enzyme development in plant cells / R. Kaur-Sawhney and A.W. Galston ; Effects of exogenous RNA on steroid metabolism in adrenals and gonads / Dorothy B. Villee and Ajit Goswami ; Thyrotropin-like activity of thyroid RNA in vitro / Jui-yun Mu ; In vivo uptake of RNA and its function in castrate uterus / M.C. Niu, L.C. Niu and S.F. Yang ; Injection of messenger RNA into living cells and its application to the study of gene action in Xenopus laevis / John S. Knowland, John B. Gurdon and R.A. Laskey -- Fourth session: Transfer of tissue specificity / chairman, Seldon J. Segal. The role of macrophage RNA in the immune response / Marvin Fishman ; Studies on biological potentiality of testis-RNA. 1, Induction of axial structures in whole and [e]xcised chick blastoderms / H. Lee and M.C. Niu ; Biological activity of RNA from estrogen-stimulated uterus / Paul Galand and N. Dupont ; Effects of exogenous polynucleotides on uterine enzymes / Claude A. Villee ; The role of RNA in the differentiation of presumptive ectoderm from urodele embryos / Naoi Sasaki and M.C. Niu -- Fifth session: Nucleic acid-induced chances in living systems / chairman, Marshall Nirenberg. Transforming RNA as a template directing RNA and DNA synthesis in bacteria / M. Beljanski and M. Plawecki ; RNA mediated transformation in Pneumococcus / Audrey Evans ; Requirement of informational molecules in heart formation / Amrut K. Desphande, L.C. Niu and M.C. Niu ; Intercellular communication during odontogenic epithelial-mesenchymal interactions : isolation of extracellular matrix vesicles containing RNA / Harold C. Slavkin and Richard Croissant ; Nucleic acid-induced changes in Neurospora / Nawin C. Mishra, G. Szabo and Edward L. Tatum ; Specific and heterospecific transfer of hormone action by mRNA / Sheldon J. Segal, R. Ige, M. Burgos, P. Tuohimaa and S.S. Koide -- Sixth session: Mechanism of RNA action / chairman, M.C. Niu. Appearance and decay of ribonucleic acids in the cytoplasm of salivary gland cells of Chironomus tentans / J.E. Edstrom ; Sequence composition and organization of the genome and of the nuclear RNA of higher organisms : an approach to understanding gene action / David S. Holmes and James Bonner ; Nonhistone proteins as gene derepressor molecules / T.Y. Wang and N.C. Kostraba ; RNA in gene de-repression / John H. Frenster and Paul R. Herstein ; RNA-directed DNA synthesis in viruses and normal cells : a possible mechanism in differentiation / C.-Y. Kang and Howard M. Temin."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RNA"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Developmental biology"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Reproduction"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RNA."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Molecular Biology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Reproduction"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "RNA"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Developmental biology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00891773"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Reproduction."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01094973"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "RNA."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01086244"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Congress"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Niu, M. C."
+          },
+          {
+            "q": "(Mann Chiang),"
+          },
+          {
+            "d": "1914-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Segal, Sheldon J."
+          },
+          {
+            "q": "(Sheldon Jerome),"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American Association for the Advancement of Science."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American Society of Zoologists."
+          },
+          {
+            "b": "Division of Developmental Biology."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "American Association for the Advancement of Science."
+          },
+          {
+            "t": "Role of RNA in reproduction and development."
+          },
+          {
+            "d": "Amsterdam, North-Holland Pub. Co.; New York, American Elsevier Pub. Co., 1973"
+          },
+          {
+            "w": "(OCoLC)595136757"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "American Association for the Advancement of Science."
+          },
+          {
+            "t": "Role of RNA in reproduction and development."
+          },
+          {
+            "d": "Amsterdam, North-Holland Pub. Co.; New York, American Elsevier Pub. Co., 1973"
+          },
+          {
+            "w": "(OCoLC)608608142"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "American Association for the Advancement of Science."
+          },
+          {
+            "t": "Role of RNA in reproduction and development."
+          },
+          {
+            "d": "Amsterdam, North-Holland Pub. Co.; New York, American Elsevier Pub. Co., 1973"
+          },
+          {
+            "w": "(OCoLC)613093855"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 241 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013126"
+          }
+        ]
+      }
+    }
+  ]
+}

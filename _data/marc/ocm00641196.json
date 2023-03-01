@@ -1,0 +1,542 @@
+{
+  "leader": "02816cam a2200397 i 4500",
+  "fields": [
+    {
+      "001": "ocm00641196\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221206104951.0"
+    },
+    {
+      "008": "730522s1972\\\\\\\\ne\\af\\\\\\\\b\\\\\\\\100\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   73159855 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "NZ1"
+          },
+          {
+            "d": "UMK"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1008339297"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9004036253"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9789004036253"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)641196"
+          },
+          {
+            "z": "(OCoLC)1008339297"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "fl120.00"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-ii---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "N7301"
+          },
+          {
+            "b": ".A85 1972"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "709.54"
+          },
+          {
+            "b": "ASP"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Aspects of Indian art."
+          },
+          {
+            "b": "Papers presented in a symposium at the Los Angeles County Museum of Art, October, 1970."
+          },
+          {
+            "c": "Edited by Pratapaditya Pal."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Leiden :"
+          },
+          {
+            "b": "Brill,"
+          },
+          {
+            "c": "1972."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xvi, 171 pages :"
+          },
+          {
+            "b": "illustrations, plates"
+          },
+          {
+            "c": "30 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Begram ivories and early Indian sculpture: a reconsideration of dates /"
+          },
+          {
+            "r": "by J.L. Davidson --"
+          },
+          {
+            "t": "A cruciform reliquary from Shaikhan Dheri /"
+          },
+          {
+            "r": "by F.R. Allchin --"
+          },
+          {
+            "t": "Gandha\u0304ra and Mathura: their cultural relationship /"
+          },
+          {
+            "r": "by J.E. van Lohuizen-de Leeuw --"
+          },
+          {
+            "t": "Western Indian sculpture and the so-called Gupta influence /"
+          },
+          {
+            "r": "by U.P. Shah --"
+          },
+          {
+            "t": "Ajanta: a brief history /"
+          },
+          {
+            "r": "by W. Spink --"
+          },
+          {
+            "t": "Some remarks on Bihar sculpture from the fourth to the ninth century /"
+          },
+          {
+            "r": "by P. Chandra --"
+          },
+          {
+            "t": "Some remarks on early western Ca\u0304lukya sculpture /"
+          },
+          {
+            "r": "by J.C. Harle --"
+          },
+          {
+            "t": "Ivories of north-west India /"
+          },
+          {
+            "r": "by V.P. Dwivedi --"
+          },
+          {
+            "t": "Rajasthani sculpture of the ninth and tenth centuries /"
+          },
+          {
+            "r": "by M.C. Lanius --"
+          },
+          {
+            "t": "The five protective goddesses of Buddhism /"
+          },
+          {
+            "r": "by D.C. Bhattacharyya --"
+          },
+          {
+            "t": "Nepali sculptures -new discoveries /"
+          },
+          {
+            "r": "by M. Slusser --"
+          },
+          {
+            "t": "Gu-ge bris: a stylistic amalgam /"
+          },
+          {
+            "r": "by J.C. Huntington --"
+          },
+          {
+            "t": "Later Mughal painting /"
+          },
+          {
+            "r": "by E. Binney, 3rd --"
+          },
+          {
+            "t": "Painting of the later eighteenth century at Bundi and Kota /"
+          },
+          {
+            "r": "by M.C. Beach --"
+          },
+          {
+            "t": "Of patronage and Pahari painting /"
+          },
+          {
+            "r": "by B.N. Goswamy --"
+          },
+          {
+            "t": "A preliminary study of the technique of Indian miniature painting /"
+          },
+          {
+            "r": "by B.B. Johnson --"
+          },
+          {
+            "t": "A decorative motif in Mughal art /"
+          },
+          {
+            "r": "by R. Skelton --"
+          },
+          {
+            "t": "A study of the development and use of the Mughal Patka\u0304 (sash), with reference to the Los Angeles Museum of Art Collection /"
+          },
+          {
+            "r": "by M.H. Kahlenberg --"
+          },
+          {
+            "t": "Indian painted and dyed cottons for the European market /"
+          },
+          {
+            "r": "by M.K. Brett."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art, Indic"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art, Indic."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00816391"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Pal, Pratapaditya,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Los Angeles County Museum of Art."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 337 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011169"
+          }
+        ]
+      }
+    }
+  ]
+}

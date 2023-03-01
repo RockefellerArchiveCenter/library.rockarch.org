@@ -1,0 +1,463 @@
+{
+  "leader": "01950cam a2200409Ia 4500",
+  "fields": [
+    {
+      "001": "ocm00958986\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707183133.0"
+    },
+    {
+      "008": "740723s1942\\\\\\\\nyuaf\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   42050500 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "001934603"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)958986"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "MDY"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "UIU"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "P51"
+          },
+          {
+            "b": ".K3"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "407.1273"
+          },
+          {
+            "b": "FOR"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Foreign languages and cultures in American education /"
+          },
+          {
+            "c": "edited by Walter V. Kaulfers ... Grayson N. Kefauver ... [and] Holland D. Roberts ..."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1st ed."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York ;"
+          },
+          {
+            "a": "London :"
+          },
+          {
+            "b": "McGraw-Hill Book Co.,"
+          },
+          {
+            "c": "1942."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 405 pages, plates :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "McGraw-Hill series in education"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Twenty reports of practice by teachers of foreign languages, English, and social studies, who participated in the experimental programs conducted by the Stanford language arts investigation during the triennium 1937-1940\"--Preface."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Language and languages"
+          },
+          {
+            "x": "Study and teaching."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Language and languages"
+          },
+          {
+            "x": "Study and teaching."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00992220"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Kaulfers, Walter Vincent,"
+          },
+          {
+            "d": "1904-"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Kefauver, Grayson Neikirk,"
+          },
+          {
+            "d": "1900-"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Roberts, Holland D."
+          },
+          {
+            "q": "(Holland De Witte),"
+          },
+          {
+            "d": "1895-1976,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Kaulfers, Walter Vincent, 1904-"
+          },
+          {
+            "t": "Foreign languages and cultures in American education."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "New York, London, McGraw-Hill Book Co., 1942"
+          },
+          {
+            "w": "(OCoLC)592206285"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "McGraw-Hill series in education."
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 228 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019572"
+          }
+        ]
+      }
+    }
+  ]
+}

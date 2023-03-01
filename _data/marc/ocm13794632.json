@@ -1,0 +1,744 @@
+{
+  "leader": "03355cam a2200505 a 4500",
+  "fields": [
+    {
+      "001": "ocm13794632\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104154452.0"
+    },
+    {
+      "008": "860605s1987\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\101\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   86014356 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "COF"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "JDP"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "UWW"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CZL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "011389314"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "214785185"
+          },
+          {
+            "a": "979898796"
+          },
+          {
+            "a": "995619000"
+          },
+          {
+            "a": "995777628"
+          },
+          {
+            "a": "1001988230"
+          },
+          {
+            "a": "1016417237"
+          },
+          {
+            "a": "1051559464"
+          },
+          {
+            "a": "1052930011"
+          },
+          {
+            "a": "1084913350"
+          },
+          {
+            "a": "1084913351"
+          },
+          {
+            "a": "1085111827"
+          },
+          {
+            "a": "1085111905"
+          },
+          {
+            "a": "1087480188"
+          },
+          {
+            "a": "1089787608"
+          },
+          {
+            "a": "1225242298"
+          },
+          {
+            "a": "1230157836"
+          },
+          {
+            "a": "1236892281"
+          },
+          {
+            "a": "1239738510"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0887064019"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780887064012"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0887064027"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780887064029"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)13794632"
+          },
+          {
+            "z": "(OCoLC)214785185"
+          },
+          {
+            "z": "(OCoLC)979898796"
+          },
+          {
+            "z": "(OCoLC)995619000"
+          },
+          {
+            "z": "(OCoLC)995777628"
+          },
+          {
+            "z": "(OCoLC)1001988230"
+          },
+          {
+            "z": "(OCoLC)1016417237"
+          },
+          {
+            "z": "(OCoLC)1051559464"
+          },
+          {
+            "z": "(OCoLC)1052930011"
+          },
+          {
+            "z": "(OCoLC)1084913350"
+          },
+          {
+            "z": "(OCoLC)1084913351"
+          },
+          {
+            "z": "(OCoLC)1085111827"
+          },
+          {
+            "z": "(OCoLC)1085111905"
+          },
+          {
+            "z": "(OCoLC)1087480188"
+          },
+          {
+            "z": "(OCoLC)1089787608"
+          },
+          {
+            "z": "(OCoLC)1225242298"
+          },
+          {
+            "z": "(OCoLC)1230157836"
+          },
+          {
+            "z": "(OCoLC)1236892281"
+          },
+          {
+            "z": "(OCoLC)1239738510"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "BR128.B8"
+          },
+          {
+            "b": "C465 1987"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "261.243"
+          },
+          {
+            "b": "CHR"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Christ and the Bodhisattva /"
+          },
+          {
+            "c": "edited by Donald S. Lopez, Jr., and Steven C. Rockefeller."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Albany :"
+          },
+          {
+            "b": "State University of New York Press,"
+          },
+          {
+            "c": "\u00a91987."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 274 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "SUNY series in Buddhist studies"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Collection of essays originally presented at the Middlebury College Symposium on the Christ and the Bodhisattva, held Sept. 27-30, 1984."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 267-269) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The Christ --"
+          },
+          {
+            "t": "The Bodhisattva --"
+          },
+          {
+            "t": "The dialogue --"
+          },
+          {
+            "g": "ch. 1."
+          },
+          {
+            "t": "Perspectives on the Buddhist-Christian dialogue /"
+          },
+          {
+            "r": "Malcolm David Eckel --"
+          },
+          {
+            "g": "ch. 2."
+          },
+          {
+            "t": "The Buddhist Messiahs : the magnificent deeds of the Bodhisattva /"
+          },
+          {
+            "r": "Robert A.F. Thurman --"
+          },
+          {
+            "t": "Who is Jesus Christ for us today? /"
+          },
+          {
+            "r": "Brother David Steindl-Rast --"
+          },
+          {
+            "t": "The God you touch /"
+          },
+          {
+            "r": "Ann Belford Ulanov --"
+          },
+          {
+            "t": "From the extraordinary to the ordinary: images of the Bodhisattva East Asia / Luis O. Gomez -- The meaning of Jesus the Christ / Langdon Gilkey -- The Dalai Lama of Tibet / Donald S. Lopez, Jr. --"
+          },
+          {
+            "t": "The practices of Bodhisattvas /"
+          },
+          {
+            "r": "His holiness Tenzin Gyatso, The Fourteenth Dalai Lama --"
+          },
+          {
+            "t": "Symposium Panel on the Christ and the Bodhisattva /"
+          },
+          {
+            "r": "Steven C. Rockefeller, moderator."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Christianity and other religions"
+          },
+          {
+            "x": "Buddhism"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Buddhism"
+          },
+          {
+            "x": "Relations"
+          },
+          {
+            "x": "Christianity"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Buddhism."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00840028"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Christianity."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00859599"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Interfaith relations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01353343"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lopez, Donald S.,"
+          },
+          {
+            "c": "Jr.,"
+          },
+          {
+            "d": "1952-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rockefeller, Steven C.,"
+          },
+          {
+            "d": "1936-"
+          }
+        ]
+      }
+    },
+    {
+      "711": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Middlebury College Symposium on the Christ and the Bodhisattva"
+          },
+          {
+            "d": "(1984)"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "SUNY series in Buddhist studies."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 423 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016354"
+          }
+        ]
+      }
+    }
+  ]
+}

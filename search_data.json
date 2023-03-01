@@ -2,38 +2,35 @@
 layout: null
 ---
 {
-  {% for item_hash in site.data.resource %}
+  {% for item_hash in site.data.marc %}
     {%- assign object = item_hash[1] -%}
     {%- assign id = item_hash[0] -%}
     {%- assign collection_id = object.uri | split:'/' | last -%}
 
-    {%- assign subjects = "" | split: ',' -%}
-    {%- for subject in object.subjects -%}
-      {%- capture subject_title -%}{%- include title_from_ref.html object=subject -%}{%- endcapture -%}
-      {%- assign subjects = subjects | push: subject_title -%}
-    {%- endfor -%}
+    {% capture note_configs %}{% include note_configs.html %}{% endcapture %}
+    {%- assign note_configs = note_configs | newline_to_br | split: '<br />' -%}
+    {%- assign note_content = "" | split: ',' -%}
 
-    {%- for agent in object.linked_agents -%}
-      {% if agent.role == "subject" %}
-        {%- capture agent_title -%}{%- include title_from_ref.html object=agent -%}{%- endcapture -%}
-        {%- assign subjects = subjects | push: agent_title -%}
+    {%- for config in note_configs -%}
+      {%- assign splitNote = config | split: ":" -%}
+      {%- assign field = splitNote[0] | strip -%}
+      {%- capture content -%}{% include note_content.html object=object field=field %}{%- endcapture -%}
+      {% if content.size > 1 %}
+        {% assign content = content | escape %}
+        {%- assign note_content = note_content | push: content -%}
       {% endif %}
     {%- endfor -%}
 
-    {%- assign notes = "" | split: ',' -%}
-    {%- for note in object.notes -%}
-      {%- capture content -%}{%- include note_content.html -%}{%- endcapture -%}
-      {%- assign notes = notes | push: content -%}
-    {%- endfor -%}
+    {%- capture publication_info -%}{%- include publication_info.html object=object -%}{%- endcapture -%}
 
   "/items/{{id}}/": {
-      "title": "{{- object.title | escape | strip_newlines | remove: '\' -}}",
+      "title": "{%- include title.html object=object -%}",
       "ref": "/items/{{id}}/",
       "url": "{{site.url}}/items/{{id}}/",
-      "author": "{%- include author_list.html -%}",
-      "subject": "{{- subjects | join: ', ' | strip_newlines | escape -}}",
-      "notes": "{{- notes | join: ', ' | strip_newlines | strip_html | strip | remove: '\' | escape -}}",
-      "dates": "{%- include date_list.html -%}",
-      "call_numbers": "{%- include call_numbers.html -%}"}{%- unless forloop.last -%},
+      "author": "{%- include author_list.html object=object separator=', ' -%}",
+      "subject": "{%- include subject_list.html object=object separator=', ' -%}",
+      "notes": "{{note_content | join: ', ' }}",
+      "dates": "{{publication_info | replace: '"', '\"'}}",
+      "call_number": "{%- include call_number.html object=object -%}"}{%- unless forloop.last -%},
   {% endunless %}
 {%- endfor -%} }

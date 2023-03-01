@@ -1,0 +1,564 @@
+{
+  "leader": "02742cam a2200493Ia 4500",
+  "fields": [
+    {
+      "001": "ocm53295773\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221208164011.0"
+    },
+    {
+      "008": "031027s2003\\\\\\\\vraa\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NTE"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NTE"
+          },
+          {
+            "d": "GUA"
+          },
+          {
+            "d": "IBS"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "UX0"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "SINLB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "PHCSB"
+          },
+          {
+            "d": "PHUST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DCT"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "53320829"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1876907312"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781876907310"
+          },
+          {
+            "q": "(hbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)53295773"
+          },
+          {
+            "z": "(OCoLC)53320829"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-hi"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "SB472.535.H3"
+          },
+          {
+            "b": "B45 2003"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "718"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "712.09969"
+          },
+          {
+            "b": "BEL"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Belt Collins /"
+          },
+          {
+            "c": "[edited by Fiona Gruber]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Mulgrave, Vic. :"
+          },
+          {
+            "b": "Images Pub. Group,"
+          },
+          {
+            "c": "2003."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "224 pages :"
+          },
+          {
+            "b": "illustrations (some color) ;"
+          },
+          {
+            "c": "30 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The master landscape architect series"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Waikiki : one of the world's great resorts -- The Kohala Coast of Hawai'i -- Asia/Pacific destination resorts -- Shangri-La hotels -- Recreational developments."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"During its fifty years of creating development projects - from barren lava fields along the Kohala Coast on the Big Island of Hawai'i to the lush, tropical jungles of Bali and thousands of places in between - Belt Collins, with its talented landscape architects, environmental specialists, physical planners and civil engineers, has served three masters, the land, the owners and the users, with great skill and sensitivity.\" \"Belt Collins works among some of the world's most interesting cultures and it takes a richness of understanding to design projects that assimilate the Chamoro in Guam, the Chinese in Hainan, the Aborigines in Australia, and the tremendous mix of cultures in Hawai'i - just to mention a few of the various peoples encompassed by the firm's wide-ranging work.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Belt Collins Hawaii (Firm)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Landscape architectural firms"
+          },
+          {
+            "z": "Hawaii."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Landscape architecture."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Landscape design."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Hotels"
+          },
+          {
+            "x": "Landscape architecture."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Belt Collins Hawaii (Firm)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00745925"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Landscape architectural firms."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991808"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Landscape architecture."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991814"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Landscape design."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00991884"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Hawaii."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01208724"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gruber, Fiona."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Belt Collins Hawaii (Firm)"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Master landscape architect series."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 111 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011150"
+          }
+        ]
+      }
+    }
+  ]
+}

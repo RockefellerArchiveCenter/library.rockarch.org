@@ -1,0 +1,585 @@
+{
+  "leader": "03350cam a2200529 a 4500",
+  "fields": [
+    {
+      "001": "ocm37465195\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220708131922.0"
+    },
+    {
+      "008": "970804s1997\\\\\\\\dcua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   97029209 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "VVC"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "ILU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LSD"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1565170075"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781565170070"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ZBWT00803889"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)37465195"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "d------"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HC60"
+          },
+          {
+            "b": ".P3927 1997"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HC60.P3927"
+          },
+          {
+            "b": "1997"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "E100"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "338.91091724"
+          },
+          {
+            "b": "PER"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Perspectives on aid and development /"
+          },
+          {
+            "c": "edited by Catherine Gwin and Joan M. Nelson ; [by] Elliot Berg [and others]."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "1",
+        "ind2": "8",
+        "subfields": [
+          {
+            "a": "Perspectives on aid"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, DC :"
+          },
+          {
+            "b": "Overseas Development Council ;"
+          },
+          {
+            "a": "Baltimore, MD :"
+          },
+          {
+            "b": "Distributed by the Johns Hopkins University Press,"
+          },
+          {
+            "c": "\u00a91997."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 98 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Policy essay ;"
+          },
+          {
+            "v": "no. 22"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Development and aid: new evidence and new issues / Catherine Gwin and Joan M. Nelson -- Equity and growth in developing countries: old and new perspectives on the policy issues / Michael Bruno, Martin Ravallion, and Lyn Squire -- The failure of conditionality / Paul Collier -- Dilemmas in donor aid strategies / Elliot Berg."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A growing consensus has emerged in recent years among donors, and between aid agencies and their developing country counterparts, on development strategies. Almost everybody now agrees that sustainable development requires macroeconomic stability, substantial integration into the global economy, better public sector management, more effective poverty alleviation, and greater attention to the private sector and to civil society in general."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "At the same time, it has become increasingly apparent that in many countries, particularly in the least developed that are the most heavily aided, much has gone awry. In Perspectives on Aid and Development, a distinguished group of policy experts offers perspectives on the lessons learned from development experience and how these lessons have been translated into new thinking on aid and development issues."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Economic assistance"
+          },
+          {
+            "z": "Developing countries."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Developing countries"
+          },
+          {
+            "x": "Economic policy."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Economic assistance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901592"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Economic policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902025"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Developing countries."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01242969"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gwin, Catherine."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Nelson, Joan M."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Berg, Elliot."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Perspectives on aid and development."
+          },
+          {
+            "d": "Washington, DC : Overseas Development Council ; Baltimore, MD : Distributed by the Johns Hopkins University Press, \u00a91997"
+          },
+          {
+            "w": "(OCoLC)654727866"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Policy essay ;"
+          },
+          {
+            "v": "no. 22."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/bios/jhu051/97029209.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/description/jhu052/97029209.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 194 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000026356"
+          }
+        ]
+      }
+    }
+  ]
+}

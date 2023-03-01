@@ -1,0 +1,517 @@
+{
+  "leader": "02462cam a2200445Ii 4500",
+  "fields": [
+    {
+      "001": "ocn993639998"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104144932.0"
+    },
+    {
+      "008": "170717t20172017pauab\\\\\\\\b\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2018285702"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "YDX"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "YDX"
+          },
+          {
+            "d": "WEA"
+          },
+          {
+            "d": "OBE"
+          },
+          {
+            "d": "NGU"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "NMW"
+          },
+          {
+            "d": "GUA"
+          },
+          {
+            "d": "NRC"
+          },
+          {
+            "d": "NAM"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "018815475"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780822965206"
+          },
+          {
+            "q": "(paperback)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0822965208"
+          },
+          {
+            "q": "(paperback)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)993639998"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-in"
+          },
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HD9569.S82"
+          },
+          {
+            "b": "W53 2017"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.762233820973"
+          },
+          {
+            "b": "WLA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wlasiuk, Jonathan,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Refining nature :"
+          },
+          {
+            "b": "Standard Oil and the limits of efficiency /"
+          },
+          {
+            "c": "Jonathan Wlasiuk."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Pittsburgh, Pa. :"
+          },
+          {
+            "b": "University of Pittsburgh Press,"
+          },
+          {
+            "c": "[2017]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a92017"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 182 pages :"
+          },
+          {
+            "b": "illustrations, maps ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "History of the urban environment"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 159-174) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Introduction --"
+          },
+          {
+            "t": "Improved earth --"
+          },
+          {
+            "t": "Fire --"
+          },
+          {
+            "t": "Water --"
+          },
+          {
+            "t": "Air --"
+          },
+          {
+            "t": "Efficient earth --"
+          },
+          {
+            "t": "Conclusion : a river burns through it."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The Standard Oil Company emerged out of obscurity in the 1860s to capture 90 percent of the petroleum refining industry in the United States during the Gilded Age ... Economic success masked the dark side of efficiency as Standard Oil dumped oil waste into public waterways, filled the urban atmosphere with acrid smoke, and created a consumer safety crisis by selling kerosene below Congressional standards ... Organized around the four classical elements at the core of Standard Oil's success (earth, air, fire, and water), Refining Nature provides an ecological context for the rise of one of the most important corporations in American history.\"--Back cover."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Standard Oil Company (Ind.)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Petroleum refineries"
+          },
+          {
+            "x": "Environmental aspects"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Standard Oil Company (Indiana)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00519951"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Petroleum refineries"
+          },
+          {
+            "x": "Environmental aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01059799"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "History of the urban environment."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 114 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

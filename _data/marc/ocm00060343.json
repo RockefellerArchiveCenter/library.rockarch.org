@@ -1,0 +1,739 @@
+{
+  "leader": "02765cam a2200553 i 4500",
+  "fields": [
+    {
+      "001": "ocm00060343\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104125524.0"
+    },
+    {
+      "008": "700316t19691969iluab\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   78108447 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "CCV"
+          },
+          {
+            "d": "VVW"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "COD"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "ERR"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "LHU"
+          },
+          {
+            "d": "MTU"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000001814873"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "3342607"
+          },
+          {
+            "a": "9260410"
+          },
+          {
+            "a": "491766176"
+          },
+          {
+            "a": "976838080"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)60343"
+          },
+          {
+            "z": "(OCoLC)3342607"
+          },
+          {
+            "z": "(OCoLC)9260410"
+          },
+          {
+            "z": "(OCoLC)491766176"
+          },
+          {
+            "z": "(OCoLC)976838080"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "5.95."
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "cl-----"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F1418"
+          },
+          {
+            "b": ".R74"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "R301.2973 R"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F1418.R74 1969"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "F1418.R74"
+          },
+          {
+            "b": "1969"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "X800"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "F1418 .R74"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "327.7308"
+          },
+          {
+            "b": "ROC"
+          }
+        ]
+      }
+    },
+    {
+      "096": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "F1418"
+          },
+          {
+            "b": "R682r 1969"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rockefeller, Nelson A."
+          },
+          {
+            "q": "(Nelson Aldrich),"
+          },
+          {
+            "d": "1908-1979."
+          }
+        ]
+      }
+    },
+    {
+      "240": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller report on Latin America"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Rockefeller report on the Americas :"
+          },
+          {
+            "b": "the official report of a United States Presidential mission for the Western Hemisphere /"
+          },
+          {
+            "c": "by Nelson A. Rockefeller ; with an introd. by Tad Szulc."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York Times ed."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chicago :"
+          },
+          {
+            "b": "Quadrangle Books,"
+          },
+          {
+            "c": "1969."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91969"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 144 pages :"
+          },
+          {
+            "b": "illustrations, maps ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A Quadrangle paperback ;"
+          },
+          {
+            "v": "QP214"
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151204"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Latin America"
+          },
+          {
+            "x": "Relations"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Relations"
+          },
+          {
+            "z": "Latin America."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Latin America"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "International relations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00977053"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Latin America."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01245945"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979."
+          },
+          {
+            "s": "Rockefeller report on Latin America."
+          },
+          {
+            "t": "Rockefeller report on the Americas."
+          },
+          {
+            "b": "New York Times ed."
+          },
+          {
+            "d": "Chicago, Quadrangle Books, 1969"
+          },
+          {
+            "w": "(OCoLC)591756415"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979."
+          },
+          {
+            "s": "Rockefeller report on Latin America."
+          },
+          {
+            "t": "Rockefeller report on the Americas."
+          },
+          {
+            "b": "New York Times ed."
+          },
+          {
+            "d": "Chicago, Quadrangle Books, 1969"
+          },
+          {
+            "w": "(OCoLC)604242606"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979."
+          },
+          {
+            "s": "Rockefeller report on Latin America."
+          },
+          {
+            "t": "Rockefeller report on the Americas."
+          },
+          {
+            "b": "New York Times ed."
+          },
+          {
+            "d": "Chicago, Quadrangle Books, 1969"
+          },
+          {
+            "w": "(OCoLC)609301021"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 898 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015269"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015273"
+          }
+        ]
+      }
+    }
+  ]
+}

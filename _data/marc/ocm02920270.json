@@ -1,0 +1,695 @@
+{
+  "leader": "02242cas a2200541 i 4500",
+  "fields": [
+    {
+      "001": "ocm02920270\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230127081700.0"
+    },
+    {
+      "008": "770427d19741979dcuar\\\\\\\\\\\\\\\\\\0\\\\\\a0eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   76644718 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "NST"
+          },
+          {
+            "d": "HUL"
+          },
+          {
+            "d": "NST"
+          },
+          {
+            "d": "IUL"
+          },
+          {
+            "d": "NST"
+          },
+          {
+            "d": "WAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "012": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2"
+          },
+          {
+            "i": "8403"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "015237893"
+          },
+          {
+            "2": "DE-101"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "985040-5"
+          },
+          {
+            "2": "DE-600"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "145379985"
+          },
+          {
+            "a": "604948543"
+          }
+        ]
+      }
+    },
+    {
+      "022": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0146-3446"
+          },
+          {
+            "l": "0146-3446"
+          },
+          {
+            "2": "1"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)2920270"
+          },
+          {
+            "z": "(OCoLC)145379985"
+          },
+          {
+            "z": "(OCoLC)604948543"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "b": "National Academy of Education, 11 Dupont Circle, Washington, DC 20036"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          },
+          {
+            "a": "nsdp"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "L13"
+          },
+          {
+            "b": ".N1616"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "370.6273"
+          },
+          {
+            "b": "NAT"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "National Academy of Education."
+          }
+        ]
+      }
+    },
+    {
+      "222": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Proceedings of the National Academy of Education"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Proceedings of the National Academy of Education."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Washington, D.C., etc.],"
+          },
+          {
+            "b": "[National Academy of Education]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "6 volumes"
+          },
+          {
+            "b": "illustrations"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "310": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Annual,"
+          },
+          {
+            "b": "<1976->"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "362": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v. 1-6; 1965/74-1979."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National Academy of Education"
+          },
+          {
+            "v": "Periodicals."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Periodicals."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National Academy of Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00530409"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902499"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Periodicals."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411641"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Periodicals."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "National Academy of Education."
+          },
+          {
+            "t": "Proceedings of the National Academy of Education"
+          },
+          {
+            "w": "(OCoLC)560922217"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "National Academy of Education."
+          },
+          {
+            "t": "Proceedings of the National Academy of Education"
+          },
+          {
+            "w": "(OCoLC)592779932"
+          }
+        ]
+      }
+    },
+    {
+      "850": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "AU"
+          },
+          {
+            "a": "CU-Riv"
+          },
+          {
+            "a": "DLC"
+          },
+          {
+            "a": "GEU"
+          },
+          {
+            "a": "IaAS"
+          },
+          {
+            "a": "IaU"
+          },
+          {
+            "a": "InU"
+          },
+          {
+            "a": "KMK"
+          },
+          {
+            "a": "MB"
+          },
+          {
+            "a": "MBU"
+          },
+          {
+            "a": "MH-Ed"
+          },
+          {
+            "a": "NjR"
+          },
+          {
+            "a": "NvU"
+          },
+          {
+            "a": "TxDaM"
+          },
+          {
+            "a": "TxHR"
+          },
+          {
+            "a": "ULA"
+          },
+          {
+            "a": "ViBlbV"
+          },
+          {
+            "a": "WaU"
+          }
+        ]
+      }
+    },
+    {
+      "936": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1965/74"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 161 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000024104"
+          },
+          {
+            "v": "v. 4"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000024103"
+          },
+          {
+            "v": "v. 5"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000024098"
+          },
+          {
+            "v": "v. 6"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,466 @@
+{
+  "leader": "02234cam a2200421 i 4500",
+  "fields": [
+    {
+      "001": "ocm00293135\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707175436.0"
+    },
+    {
+      "008": "720403s1972\\\\\\\\nyuaf\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   77151951 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "SEA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "VAMVE"
+          },
+          {
+            "d": "UWW"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000001285585"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "223230930"
+          },
+          {
+            "a": "977262212"
+          },
+          {
+            "a": "1086937217"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)293135"
+          },
+          {
+            "z": "(OCoLC)223230930"
+          },
+          {
+            "z": "(OCoLC)977262212"
+          },
+          {
+            "z": "(OCoLC)1086937217"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "SB482.A4E95"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "353.00863"
+          },
+          {
+            "b": "EVE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Everhart, William C."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The National Park Service /"
+          },
+          {
+            "c": "William C. Everhart ; foreword by George B. Hartzog, Jr."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Praeger Publishers,"
+          },
+          {
+            "c": "[\u00a91972]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 276 pages, 8 unnumbered pages of plates :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "22 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Praeger library of U.S. Government departments and agencies,"
+          },
+          {
+            "v": "no. 31"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 261-263) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "In the Beginning -- The New Bureau -- Organization -- Functions of the Park Service -- Preservation and/or Use -- The Matter of Protection -- Concessions -- How to Establish a National Park -- Life in a National Park -- Relationships with Congress -- Relationships with Other Federal Agencies -- Relationships with Conservation Organizations -- Yellowstone's Children -- A Look at the Future -- Appendix I: Career Opportunities -- Appendix II: The National Park System -- Bibliography -- Index."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "National Park Service."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National parks and reserves"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "National Park Service."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00530450"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National parks and reserves."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01033642"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hartzog, George B.,"
+          },
+          {
+            "c": " Jr.,"
+          },
+          {
+            "d": "1920-2008,"
+          },
+          {
+            "e": "writer of foreword."
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Praeger library of U.S. Government departments and agencies ;"
+          },
+          {
+            "v": "no. 31."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 576 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014275"
+          }
+        ]
+      }
+    }
+  ]
+}

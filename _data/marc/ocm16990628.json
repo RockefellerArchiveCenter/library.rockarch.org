@@ -1,0 +1,420 @@
+{
+  "leader": "01596cam a2200385 a 4500",
+  "fields": [
+    {
+      "001": "ocm16990628\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220728125324.0"
+    },
+    {
+      "008": "880810s1987\\\\\\\\dcuac\\\\\\\\\\\\\\\\\\000\\0deng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   87062371 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "PUL"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "PUL"
+          },
+          {
+            "d": "WVU"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "GIKBM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)16990628"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "LB2329.5"
+          },
+          {
+            "b": ".S478 1987"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "LB2329.5.S46"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "X800"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "378.73"
+          },
+          {
+            "b": "SER"
+          }
+        ]
+      }
+    },
+    {
+      "049": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYRV"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Serving the world :"
+          },
+          {
+            "b": "the people and ideas of America's state and land-grant universities."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "National Association of State Universities and Land-Grant Colleges,"
+          },
+          {
+            "c": "1987."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "622 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "31 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "State universities and colleges"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "State universities and colleges"
+          },
+          {
+            "x": "Alumni and alumnae"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education, Higher"
+          },
+          {
+            "x": "Social aspects"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education, Higher"
+          },
+          {
+            "x": "Social aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00903107"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "State universities and colleges."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01131923"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "National Association of State Universities and Land-Grant Colleges."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Serving the world."
+          },
+          {
+            "d": "Washington, D.C. : National Association of State Universities and Land-Grant Colleges, 1987"
+          },
+          {
+            "w": "(OCoLC)657304149"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019765"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "C0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    }
+  ]
+}

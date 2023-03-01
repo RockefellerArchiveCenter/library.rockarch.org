@@ -1,0 +1,722 @@
+{
+  "leader": "03591cam a2200541 i 4500",
+  "fields": [
+    {
+      "001": "ocm00609302\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106162006.0"
+    },
+    {
+      "008": "730330s1973\\\\\\\\maua\\\\\\\\\\b\\\\\\\\000\\0\\engs\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   72081804 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "EL{dollar}"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "DOS"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "IAD"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NAG"
+          },
+          {
+            "d": "UKROH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0376664"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CAT73388157"
+          },
+          {
+            "2": "DNAL"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "38238741"
+          },
+          {
+            "a": "976832533"
+          },
+          {
+            "a": "1120805218"
+          },
+          {
+            "a": "1145271081"
+          },
+          {
+            "a": "1153252366"
+          },
+          {
+            "a": "1166543204"
+          },
+          {
+            "a": "1224889356"
+          },
+          {
+            "a": "1231480499"
+          },
+          {
+            "a": "1289112230"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0262131439"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780262131438"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)609302"
+          },
+          {
+            "z": "(OCoLC)38238741"
+          },
+          {
+            "z": "(OCoLC)976832533"
+          },
+          {
+            "z": "(OCoLC)1120805218"
+          },
+          {
+            "z": "(OCoLC)1145271081"
+          },
+          {
+            "z": "(OCoLC)1153252366"
+          },
+          {
+            "z": "(OCoLC)1166543204"
+          },
+          {
+            "z": "(OCoLC)1224889356"
+          },
+          {
+            "z": "(OCoLC)1231480499"
+          },
+          {
+            "z": "(OCoLC)1289112230"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HD82"
+          },
+          {
+            "b": ".M424"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HB 851"
+          },
+          {
+            "b": "A392t 1973"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HD82.M424"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "9005"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "338.9"
+          },
+          {
+            "b": "MEA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Meadows, Dennis L.,"
+          },
+          {
+            "e": "compiler."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Toward global equilibrium :"
+          },
+          {
+            "b": "collected papers /"
+          },
+          {
+            "c": "edited by Dennis L. Meadows and Donella H. Meadows."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cambridge, Mass. :"
+          },
+          {
+            "b": "Wright-Allen Press,"
+          },
+          {
+            "c": "[1973]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 358 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "27 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Written by members of the System Dynamics Group in the Alfred P. Sloan School of Management at the Massachusetts Institute of Technology.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 351-358)."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Counterintuitive behavior of social systems / J.W. Forrester -- Introduction to the project / D.L. Meadows -- DDT movements in the global environment / J. Randers --System simulation to identify environmental research needs : mercury contamination / A.A. Anderson and J.M. Anderson -- The eutrophication of lakes / J.M. Anderson -- The dynamics of natural resource utilization / W.W. Behrens -- The dynamics of solid waste generation / J. Randers and D.L. Meadows -- The discovery life cycle of a finite resource : a case study of U.S. natural gas / R.F. Naill -- Population control mechanisms in a primitive agricultural society / S.B. Shantzis and W.W. Behrens -- Determinants of long-term resource availability / W.W. Behrens and D.L. Meadows -- Adding the time dimension to environmental policy / D.L. Meadows -- The carrying capacity of the global environment : a look at the ethical alternatives / J. Randers and D.H. Meadows -- Churches at the transition between growth and world equilibrium / J.W. Forrester."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151204"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Economic development"
+          },
+          {
+            "x": "Mathematical models."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Statics and dynamics (Social sciences)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Environmental policy."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Economic development"
+          },
+          {
+            "x": "Mathematical models."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00901841"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Environmental policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00913250"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Statics and dynamics (Social sciences)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01132032"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Environment"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Population Growth"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Essay"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Meadows, Donella H.,"
+          },
+          {
+            "e": "compiler."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sloan School of Management."
+          },
+          {
+            "b": "System Dynamics Group."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Meadows, Dennis L."
+          },
+          {
+            "t": "Toward global equilibrium: collected papers."
+          },
+          {
+            "d": "Cambridge, Mass., Wright-Allen Press [1973]"
+          },
+          {
+            "w": "(OCoLC)579791249"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 563 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018430"
+          }
+        ]
+      }
+    }
+  ]
+}

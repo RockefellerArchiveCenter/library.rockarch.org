@@ -1,0 +1,494 @@
+{
+  "leader": "04728cam a2200433 a 4500",
+  "fields": [
+    {
+      "001": "ocm27034449\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105113240.0"
+    },
+    {
+      "008": "921106s1993\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   92041592 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "PMC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "WLU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "I8M"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IDU"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "UKBTH"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1166976098"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871548402"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871548405"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)27034449"
+          },
+          {
+            "z": "(OCoLC)1166976098"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HM35"
+          },
+          {
+            "b": ".E96 1993"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "301:330"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "330:301"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "306.3"
+          },
+          {
+            "b": "EXP"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Explorations in economic sociology /"
+          },
+          {
+            "c": "Richard Swedberg, editor."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a91993."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxiv, 452 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The nature of economic relationships / Mark Granovetter -- On the relationship between economic theory and economic sociology in the work of Joseph Schumpeter / Richard Swedberg -- The social structure of competition / Ronald S. Burt -- Studied trust : building new forms of cooperation in a volatile economy / Charles F. Sabel -- Undoing the managerial revolution? : needed research on the decline of middle management and internal labor markets / Paul M. Hirsch -- Markets in production networks / Harrison C. White -- Auctions : from Walras to the real world / Charles W. Smith -- Making multiple monies / Viviana A. Zelizer -- Thomas Edison and the social construction of the early electricity industry in America / Patrick McGuire, Mark Granovetter, and Michael Schwartz -- Organizational design and the performance paradox / Marshall W. Meyer with Kenneth C. O'Shaughnessy."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Corporate financing : social and economic determinants / Linda Brewster Stearns and Mark S. Mizruchi -- Shareholder power and the struggle for corporate control / Michael Useem -- The coming of post-industrial society revisited : manufacturing and the prospects for a service-based economy / Frank P. Romo and Michael Schwartz -- Small firm networks / Charles Perrow -- Future alternatives of work reflected in the past : putting-out production in Modena / Mark Lazerson."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Since the mid-1980s, as public discourse has focused increasingly on the troubled economy, many social scientists have argued the need for more analysis of the social relationships that undergird economic life. The original essays in Explorations in Economic Sociology represent the most important work in this renewed field and employ a rich variety of research methods - theoretical, ethnographic, and historical - to illustrate its key concerns. Explorations in Economic Sociology forges innovative social theories of such economic institutions as money, markets, and industry. Although traditional economists have identified markets as driven solely by the forces of supply and demand, social factors frequently intervene. Sales at auction are determined not simply by the highest bidder, but also by a seller's personal knowledge of customers. Shareholder attitudes and employee organization influence everything from the way firms borrow money to the way corporate performance is measured. Firms themselves operate in social networks in which trust is a crucial factor in setting the terms for cooperation or competition. Throughout the essays in this volume, the contributors point the way to developing a healthier economy by fostering productive industrial networks, avoiding disintegration at management levels, and anticipating the consequences of the shift from manufacturing to service industries. Explorations in Economic Sociology is a pioneering work that bridges the gap between social theory and economic analysis and demonstrates the importance of this union in achieving an effective understanding of economic issues."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Economics"
+          },
+          {
+            "x": "Sociological aspects."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Economics"
+          },
+          {
+            "x": "Sociological aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902213"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Swedberg, Richard."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/hbz/toc/ht006247534.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=1168291&custom_att_2=simple_viewer"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/92041592-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/92041592-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 303 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014646"
+          }
+        ]
+      }
+    }
+  ]
+}

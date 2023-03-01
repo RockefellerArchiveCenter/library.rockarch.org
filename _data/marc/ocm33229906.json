@@ -1,0 +1,453 @@
+{
+  "leader": "01788cam a2200385 a 4500",
+  "fields": [
+    {
+      "001": "ocm33229906\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221206150629.0"
+    },
+    {
+      "008": "951002s1964\\\\\\\\nyuac\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a  65007771 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "COF"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "COF"
+          },
+          {
+            "d": "CIN"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "NNM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "233586"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)33229906"
+          },
+          {
+            "z": "(OCoLC)233586"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "TL539"
+          },
+          {
+            "b": ".D348 1964"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "629.130922"
+          },
+          {
+            "b": "PEN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Pendray, G. Edward"
+          },
+          {
+            "q": "(George Edward),"
+          },
+          {
+            "d": "1901-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Guggenheim medalists :"
+          },
+          {
+            "b": "architects of the age of flight /"
+          },
+          {
+            "c": "G. Edward Pendray (editor)."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Guggenheim Medal Board of Award of the United Engineering Trustees,"
+          },
+          {
+            "c": "1964."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "125 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Guggenheim medalists, 1929-1963.--Daniel Guggenheim and the age of flight.--The Daniel Guggenheim medal.--Biographical sketches [of] the Guggenheim medalists."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Guggenheim, Daniel,"
+          },
+          {
+            "d": "1856-1930."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Aeronautics"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Guggenheim, Daniel,"
+          },
+          {
+            "d": "1856-1930"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00088405"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Aeronautics."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00798293"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Daniel Guggenheim Medal Board of Award."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Pendray, G. Edward (George Edward), 1901-"
+          },
+          {
+            "t": "Guggenheim medalists."
+          },
+          {
+            "d": "New York : Guggenheim Medal Board of Award of the United Engineering Trustees, 1964"
+          },
+          {
+            "w": "(OCoLC)570640342"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 307 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011822"
+          }
+        ]
+      }
+    }
+  ]
+}

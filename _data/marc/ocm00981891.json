@@ -1,0 +1,783 @@
+{
+  "leader": "03123cam a2200565Ia 4500",
+  "fields": [
+    {
+      "001": "ocm00981891\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105133733.0"
+    },
+    {
+      "008": "740819s1902\\\\\\\\nyuac\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   02025775 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "CWR"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "XBM"
+          },
+          {
+            "d": "CSU"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "KRTAS"
+          },
+          {
+            "d": "KIJ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "NYNCC"
+          },
+          {
+            "d": "ZQP"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "S3O"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "SLR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPS"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EZC"
+          },
+          {
+            "d": "OSO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "009595370"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "492683"
+          },
+          {
+            "a": "517431658"
+          },
+          {
+            "a": "606615021"
+          },
+          {
+            "a": "1008178935"
+          },
+          {
+            "a": "1034967240"
+          },
+          {
+            "a": "1057924480"
+          },
+          {
+            "a": "1060531366"
+          },
+          {
+            "a": "1063301638"
+          },
+          {
+            "a": "1077898207"
+          },
+          {
+            "a": "1083378932"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0512007888"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780512007889"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)981891"
+          },
+          {
+            "z": "(OCoLC)492683"
+          },
+          {
+            "z": "(OCoLC)517431658"
+          },
+          {
+            "z": "(OCoLC)606615021"
+          },
+          {
+            "z": "(OCoLC)1008178935"
+          },
+          {
+            "z": "(OCoLC)1034967240"
+          },
+          {
+            "z": "(OCoLC)1057924480"
+          },
+          {
+            "z": "(OCoLC)1060531366"
+          },
+          {
+            "z": "(OCoLC)1063301638"
+          },
+          {
+            "z": "(OCoLC)1077898207"
+          },
+          {
+            "z": "(OCoLC)1083378932"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HV4046.N6"
+          },
+          {
+            "b": "R5"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "GN 635.J2 O38i 1984"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "301.441"
+          },
+          {
+            "b": "RII"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Riis, Jacob A."
+          },
+          {
+            "q": "(Jacob August),"
+          },
+          {
+            "d": "1849-1914."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The battle with the slum /"
+          },
+          {
+            "c": "by Jacob A. Riis."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Macmillan Co. ;"
+          },
+          {
+            "a": "London :"
+          },
+          {
+            "b": "Macmillan & Co.,"
+          },
+          {
+            "c": "1902."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 465 pages :"
+          },
+          {
+            "b": "illustrations, portrait ;"
+          },
+          {
+            "c": "21 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Nineteenth Century Collections Online (NCCO): Photography: The World through the Lens"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The battle with the slum\" is properly the sequel to \"How the other half lives\". Based upon the author's earlier work, A ten years' war, \"retaining all that still applied of the old volume\" with the addition of much new matter. cf. Pref."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Poor"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Slums"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tenement houses"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New York (N.Y.)"
+          },
+          {
+            "x": "Social conditions"
+          },
+          {
+            "y": "19th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Medicine, Traditional"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Anthropology, Cultural"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Japan"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Poor."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071040"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Slums."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01121194"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social conditions."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919811"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Tenement houses."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01147587"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204333"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1800-1899"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Riis, Jacob A. (Jacob August), 1849-1914."
+          },
+          {
+            "t": "Battle with the slum."
+          },
+          {
+            "d": "New York, Macmillan Co.; London, Macmillan & Co., 1902"
+          },
+          {
+            "w": "(OCoLC)647396107"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nineteenth Century Collections Online: Photography: The World through the Lens."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "u": "http://books.google.com/books?id=EdUZAAAAYAAJ&printsec=frontcover&dq=jacob+riis+the+battle+with&hl=en&ei=9BhlTb6yDYOglAeYz9iRBg&sa=X&oi=book_result&ct=book-preview-link&resnum=1&sqi=2&ved=0CCsQuwUwAA#v=onepage&q&f=false"
+          },
+          {
+            "z": "Connect to related website"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 444 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

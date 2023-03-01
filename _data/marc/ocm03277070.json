@@ -1,0 +1,541 @@
+{
+  "leader": "02022cam a22004451i 4500",
+  "fields": [
+    {
+      "001": "ocm03277070\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211116085732.0"
+    },
+    {
+      "008": "810815s1940\\\\\\\\nyuacf\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   40033111 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "ZXC"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "MBU"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "RBN"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "34611310R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "002635432"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "976981907"
+          },
+          {
+            "a": "988683009"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)3277070"
+          },
+          {
+            "z": "(OCoLC)976981907"
+          },
+          {
+            "z": "(OCoLC)988683009"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC182.R4"
+          },
+          {
+            "b": "W5"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WC 220"
+          },
+          {
+            "b": "W751r 1940"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.991"
+          },
+          {
+            "b": "WIL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wilson, M. G."
+          },
+          {
+            "q": "(May Georgiana),"
+          },
+          {
+            "d": "1889-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rheumatic fever :"
+          },
+          {
+            "b": "studies of the epidemiology, manifestations, diagnosis, and treatment of the disease during the first three decades /"
+          },
+          {
+            "c": "[by] May G. Wilson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "The Commonwealth fund; London, H. Milford, Oxford University Press,"
+          },
+          {
+            "c": "1940."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiv, 595 pages :"
+          },
+          {
+            "b": "illustrations, portraits, plates ;"
+          },
+          {
+            "c": "26 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rheumatic fever."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Children"
+          },
+          {
+            "x": "Diseases."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Heart"
+          },
+          {
+            "x": "Diseases."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Rheumatic Fever."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Children"
+          },
+          {
+            "x": "Diseases."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00854907"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Heart"
+          },
+          {
+            "x": "Diseases."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00953527"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rheumatic fever."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01096995"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Wilson, May G. (May Georgiana)."
+          },
+          {
+            "t": "Rheumatic fever."
+          },
+          {
+            "d": "New York, Commonwealth Fund; London, H. Milford, Oxford University Press, 1940"
+          },
+          {
+            "w": "(OCoLC)598678886"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Wilson, May G. (May Georgiana)."
+          },
+          {
+            "t": "Rheumatic fever."
+          },
+          {
+            "d": "New York, Commonwealth Fund; London, H. Milford, Oxford University Press, 1940"
+          },
+          {
+            "w": "(OCoLC)605939031"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 118 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode on first copy"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode on second copy"
+          }
+        ]
+      }
+    }
+  ]
+}

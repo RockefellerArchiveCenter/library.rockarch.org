@@ -1,0 +1,532 @@
+{
+  "leader": "02052cam a22004451i 4500",
+  "fields": [
+    {
+      "001": "ocm00449707\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221227155505.0"
+    },
+    {
+      "008": "710315s1968\\\\\\\\nyuab\\\\\\\\bc\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   68030798 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "EAU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SAB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YBM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1008050151"
+          },
+          {
+            "a": "1008486614"
+          },
+          {
+            "a": "1080832642"
+          },
+          {
+            "a": "1277094080"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)449707"
+          },
+          {
+            "z": "(OCoLC)1008050151"
+          },
+          {
+            "z": "(OCoLC)1008486614"
+          },
+          {
+            "z": "(OCoLC)1080832642"
+          },
+          {
+            "z": "(OCoLC)1277094080"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "a-cc---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "NK7983"
+          },
+          {
+            "b": ".R58 1968"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "739.5120951"
+          },
+          {
+            "b": "RIT"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ritual vessels of Bronze Age China /"
+          },
+          {
+            "c": "Max Loehr."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[New York] :"
+          },
+          {
+            "b": "Asia Society; distributed by New York Graphic Society [Greenwich, Conn.],"
+          },
+          {
+            "c": "[1968]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "183 pages :"
+          },
+          {
+            "b": "illustrations (some color), map ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"An Asia House Gallery publication.\""
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Catalogue of an exhibition selected by Dr. Max Loehr ... and shown in the Asia House Gallery in the fall of 1968 as an activity of the Asia Society.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 181-183)."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Bronzes"
+          },
+          {
+            "z": "China"
+          },
+          {
+            "v": "Exhibitions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Implements, utensils, etc."
+          },
+          {
+            "z": "China."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Bronzes."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00839541"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Implements, utensils, etc."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00968165"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "China."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01206073"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Exhibition catalogs."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01424028"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Exhibition catalogs."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Loehr, Max,"
+          },
+          {
+            "e": "compiler."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Asia Society."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Asia House Gallery."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Loehr, Max."
+          },
+          {
+            "t": "Ritual vessels of bronze age China."
+          },
+          {
+            "d": "[New York] Asia Society; distributed by New York Graphic Society [Greenwich, Conn., 1968]"
+          },
+          {
+            "w": "(OCoLC)593440056"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 580 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010637"
+          }
+        ]
+      }
+    }
+  ]
+}

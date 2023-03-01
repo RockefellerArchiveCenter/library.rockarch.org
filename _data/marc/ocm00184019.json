@@ -1,0 +1,516 @@
+{
+  "leader": "03181cam a22004211i 4500",
+  "fields": [
+    {
+      "001": "ocm00184019\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105134248.0"
+    },
+    {
+      "008": "711216s1950\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   49050406 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "HIN"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "KIJ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "IAK"
+          },
+          {
+            "d": "ANC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "001360882"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "68153264"
+          },
+          {
+            "a": "639859777"
+          },
+          {
+            "a": "1063106575"
+          },
+          {
+            "a": "1166941756"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)184019"
+          },
+          {
+            "z": "(OCoLC)68153264"
+          },
+          {
+            "z": "(OCoLC)639859777"
+          },
+          {
+            "z": "(OCoLC)1063106575"
+          },
+          {
+            "z": "(OCoLC)1166941756"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          },
+          {
+            "a": "cl-----"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F1418"
+          },
+          {
+            "b": ".G2"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "327.73098"
+          },
+          {
+            "b": "GAN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gantenbein, James W."
+          },
+          {
+            "q": "(James Watson),"
+          },
+          {
+            "d": "1900-1960,"
+          },
+          {
+            "e": "compiler,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The evolution of our Latin-American policy :"
+          },
+          {
+            "b": "a documentary record /"
+          },
+          {
+            "c": "compiled and edited by James W. Gantenbein."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Columbia University Press,"
+          },
+          {
+            "c": "1950."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxvii, 979 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "I. General principles. The headwaters of our Latin-American policy ; Recognition of independence ; Early relations with the new American nations ; Birth of the Pan-American organization ; Increasing inter-American relations ; Plan of a Pan-American Treaty, 1915-1917 ; The Harding-Coolidge-Hoover administration ; The Roosevelt-Truman administration -- II. The Monroe Doctrine. Background ; Enunciation of the doctrine ; Certain interpretations and applications in the nineteenth century ; Period of the \"Roosevelt Corollary\" ; Subsequent interpretations and applications -- III. Independence of Cuba -- IV. The Panama Canal concession -- V. Certain controversies with Mexico. War of 1846-1848 ; The period of 1911-1916 ; Agrarian and petroleum claims -- VI. Interventions in Nicaragua, Haiti, and the Dominican Republic. Nicaragua ; Haiti ; The Dominican Republic -- Appendix A: Certain agreements, resolutions, and conventions of various inter-American conferences -- Appendix B: Treaty signed by Argentina, Brazil, Chile, Mexico, Paraguay, and Uruguay -- Appendix C: Certain United States agreements regarding the inter-oceanic canals -- Appendix D: Certain treaties and agreements with Haiti and the Dominican Republic. Haiti ; The Dominican Republic."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Foreign relations"
+          },
+          {
+            "z": "Latin America."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Latin America"
+          },
+          {
+            "x": "Foreign relations"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Diplomatic relations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01907412"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Latin America."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01245945"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Gantenbein, James W. (James Watson), 1900-1960."
+          },
+          {
+            "t": "Evolution of our Latin-American policy."
+          },
+          {
+            "d": "New York, Columbia University Press, 1950"
+          },
+          {
+            "w": "(OCoLC)551238298"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Gantenbein, James W. (James Watson), 1900-1960."
+          },
+          {
+            "t": "Evolution of our Latin-American policy."
+          },
+          {
+            "d": "New York, Columbia University Press, 1950"
+          },
+          {
+            "w": "(OCoLC)607848236"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 386 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015337"
+          }
+        ]
+      }
+    }
+  ]
+}

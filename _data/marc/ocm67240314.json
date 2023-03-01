@@ -1,0 +1,819 @@
+{
+  "leader": "03445cam a2200637Ia 4500",
+  "fields": [
+    {
+      "001": "ocm67240314\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105154256.0"
+    },
+    {
+      "008": "060410s2007\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2006012053"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "COO"
+          },
+          {
+            "d": "PUL"
+          },
+          {
+            "d": "NPL"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "VP@"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "SMP"
+          },
+          {
+            "d": "CQU"
+          },
+          {
+            "d": "CO3"
+          },
+          {
+            "d": "UBY"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "NZAUC"
+          },
+          {
+            "d": "WSB"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ERL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "BDP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013736752"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013-63127"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013-73675"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "779887813"
+          },
+          {
+            "a": "1022731308"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1565847954"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781565847958"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781595583437"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1595583432"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781595583437"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781565847958"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)67240314"
+          },
+          {
+            "z": "(OCoLC)779887813"
+          },
+          {
+            "z": "(OCoLC)1022731308"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "P95.82.U6"
+          },
+          {
+            "b": "C479 2007"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "P95.82 U5"
+          },
+          {
+            "b": "C44"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "302.230973"
+          },
+          {
+            "b": "CHE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Chester, Jeff."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Digital destiny :"
+          },
+          {
+            "b": "new media and the future of democracy /"
+          },
+          {
+            "c": "Jeff Chester."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "New Press :"
+          },
+          {
+            "b": "Distributed by W.W. Norton,"
+          },
+          {
+            "c": "2007."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxi, 282 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 209-274) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Really \"meet\" the press -- Consolidation dance -- The Federal Conglomeration Commission -- The art of the front -- The Powell doctrine -- Showdown at the FCC -- The brandwashing of America -- Cable Costra Nostra -- The golden wire -- Supermedia monopolies -- A policy agenda for the broadband era."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"'Digital Destiny' explains clearly how our new media system functions, what is at stake, and what we can do to fight corporate media's plans - before it's too late\"--Publisher's description."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mass media"
+          },
+          {
+            "x": "Political aspects"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mass media"
+          },
+          {
+            "x": "Technological innovations."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Politics and government"
+          },
+          {
+            "y": "2001-2009."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Democracy"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Democracy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00890077"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Mass media"
+          },
+          {
+            "x": "Political aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01011278"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Mass media"
+          },
+          {
+            "x": "Technological innovations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01011322"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "2001-2009"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Chester, Jeff."
+          },
+          {
+            "t": "Digital destiny."
+          },
+          {
+            "d": "New York : New Press : Distributed by W.W. Norton, 2007"
+          },
+          {
+            "w": "(OCoLC)648238262"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/ecip0612/2006012053.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=015515879&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1408/2006012053-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1408/2006012053-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "3": "Klappentext"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=015515879&line_number=0002&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 718 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018955"
+          }
+        ]
+      }
+    }
+  ]
+}

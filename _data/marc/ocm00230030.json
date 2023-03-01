@@ -1,0 +1,460 @@
+{
+  "leader": "01649cam a22003731i 4500",
+  "fields": [
+    {
+      "001": "ocm00230030\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221229165350.0"
+    },
+    {
+      "008": "740410s1967\\\\\\\\caud\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   67011411 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "TBS"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "MTU"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "VVB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "ZQC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1182012114"
+          },
+          {
+            "a": "1201002878"
+          },
+          {
+            "a": "1201614697"
+          },
+          {
+            "a": "1202023116"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)230030"
+          },
+          {
+            "z": "(OCoLC)1182012114"
+          },
+          {
+            "z": "(OCoLC)1201002878"
+          },
+          {
+            "z": "(OCoLC)1201614697"
+          },
+          {
+            "z": "(OCoLC)1202023116"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HD59"
+          },
+          {
+            "b": "W35 1967"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "659.2"
+          },
+          {
+            "b": "WAL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Walton, Clarence C."
+          },
+          {
+            "q": "(Clarence Cyril),"
+          },
+          {
+            "d": "1915-2004."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Corporate social responsibilities /"
+          },
+          {
+            "c": "[by] Clarence C. Walton."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Belmont, Calif. :"
+          },
+          {
+            "b": "Wadsworth Pub. Co.,"
+          },
+          {
+            "c": "[\u00a91967]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 177 pages :"
+          },
+          {
+            "b": "charts ;"
+          },
+          {
+            "c": "22 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Problems in a business society"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social responsibility of business."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Industries"
+          },
+          {
+            "x": "Social aspects."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Industries"
+          },
+          {
+            "x": "Social aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00971967"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social responsibility of business."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01122851"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Walton, Clarence Cyril, 1915-"
+          },
+          {
+            "t": "Corporate social responsibilities."
+          },
+          {
+            "d": "Belmont, Calif., Wadsworth Pub. Co. [\u00a91967]"
+          },
+          {
+            "w": "(OCoLC)579772476"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Problems in a business society."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 368 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011631"
+          }
+        ]
+      }
+    }
+  ]
+}

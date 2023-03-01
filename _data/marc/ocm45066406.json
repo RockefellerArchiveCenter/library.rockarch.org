@@ -1,0 +1,744 @@
+{
+  "leader": "03578cam  22006014a 4500",
+  "fields": [
+    {
+      "001": "ocm45066406\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211115111421.0"
+    },
+    {
+      "008": "000920s2001\\\\\\\\enk\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   00048496 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "YDX"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "EXW"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "VGM"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKBTH"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "101095305"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "45338094"
+          },
+          {
+            "a": "1022645547"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0754603148"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780754603146"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "99945481145"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)45066406"
+          },
+          {
+            "z": "(OCoLC)45338094"
+          },
+          {
+            "z": "(OCoLC)1022645547"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "s-pe---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RA650.55.P5"
+          },
+          {
+            "b": "C843 2001"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "2001 F-450"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WA 11 DP6"
+          },
+          {
+            "b": "C965r 2001"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "616.9"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "614.49850904"
+          },
+          {
+            "b": "CUE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cueto, Marcos."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The return of epidemics :"
+          },
+          {
+            "b": "health and society in Peru during the twentieth century /"
+          },
+          {
+            "c": "Marcos Cueto."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Aldershot ;"
+          },
+          {
+            "a": "Burlington, VT :"
+          },
+          {
+            "b": "Ashgate,"
+          },
+          {
+            "c": "\ufffd2001."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 176 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The history of medicine in context"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Bibliography: \" p. [143]-164."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The Stigma of Bubonic Plague in Early Twentieth-Century Peru --"
+          },
+          {
+            "t": "Sanitation from Above: The Rockefeller Foundation and Yellow Fever --"
+          },
+          {
+            "t": "Public Health and the Community: Epidemic Typhus and Smallpox in the Andes --"
+          },
+          {
+            "t": "The Recurring Burden of Malaria --"
+          },
+          {
+            "t": "Blaming the Victims: The 1991 Cholera Outbreak."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Historians have long recognized epidemics to be a significant, though sometimes hidden, factor in the fortunes of societies and civilizations. The study of epidemics heightens our understanding of relationships between economic systems and living conditions. It illuminates the ideologies and religious beliefs of the affected community and illustrates the efforts and inadequacies of public health systems.\" \"This investigation of the history of epidemics in various parts of Peru during the twentieth century contributes both to an emerging field of Latin American studies, that is, the social history of health and disease, and to the history of medicine in postcolonial countries. These studies enable us to understand better the living conditions of people, the role of state authority and the dynamics of society in developing nations.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Epidemics"
+          },
+          {
+            "z": "Peru"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social medicine"
+          },
+          {
+            "z": "Peru"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Disease Outbreaks"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History, 20th Century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Socioeconomic Factors."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Peru"
+          },
+          {
+            "x": "epidemiology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Epidemics."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00914079"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social medicine."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01122637"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Peru."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205190"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Cueto, Marcos."
+          },
+          {
+            "t": "Return of epidemics."
+          },
+          {
+            "d": "Aldershot ; Burlington, VT : Ashgate, \ufffd2001"
+          },
+          {
+            "w": "(OCoLC)657175337"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "History of medicine in context."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&local_base=BVB01&doc_number=009462262&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 142 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012225"
+          }
+        ]
+      }
+    }
+  ]
+}

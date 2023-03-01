@@ -1,0 +1,595 @@
+{
+  "leader": "02999cam a22003731i 4500",
+  "fields": [
+    {
+      "001": "ocm01185684\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221206162121.0"
+    },
+    {
+      "008": "750221s1958\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   58005368 "
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1185684"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "ITD"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "CLU"
+          },
+          {
+            "d": "FYM"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "J9U"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "TL790"
+          },
+          {
+            "b": "S63 1958"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "629.4"
+          },
+          {
+            "b": "SPA"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Space research and exploration /"
+          },
+          {
+            "c": "editor: D. R. Bates, F. R.S. (professor of applied mathematics, the Queen's University of Belfast) ; associate editor: Patrick Moore ; contributors: A.C. Clarke [and others]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York,"
+          },
+          {
+            "b": "William Sloane Associates,"
+          },
+          {
+            "c": "1958."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "287 pages"
+          },
+          {
+            "b": "illustrations, diagrams, tables"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "Foreword /"
+          },
+          {
+            "r": "D.R. Bates --"
+          },
+          {
+            "g": "Introduction /A. C. Clarke --"
+          },
+          {
+            "t": "History /"
+          },
+          {
+            "r": "P.E. Cleator --"
+          },
+          {
+            "t": "Rockets and rocket propellants /"
+          },
+          {
+            "r": "J. humphries --"
+          },
+          {
+            "t": "Exploration of the upper atmosphere /"
+          },
+          {
+            "r": "D.R. bates -- Cosmetic radiation and space-flight /"
+          },
+          {
+            "r": "l. R. Shepherd --"
+          },
+          {
+            "t": "Metor hazards beyond the atmosphere /"
+          },
+          {
+            "r": "M.W. Ovenden --"
+          },
+          {
+            "t": "The Earth satellite program /"
+          },
+          {
+            "r": "H.S.W. Massey --"
+          },
+          {
+            "t": "The Manned sattlite station /"
+          },
+          {
+            "r": "D.F. Lawden --"
+          },
+          {
+            "t": "Interplanetary orbits /"
+          },
+          {
+            "r": "D. F> Lawden --"
+          },
+          {
+            "t": "Difficulties of space navigation /"
+          },
+          {
+            "r": "J.G. Porter --"
+          },
+          {
+            "t": "Medical and biological problems /"
+          },
+          {
+            "r": "A.E. Slater --"
+          },
+          {
+            "t": "Conditions on the moon and the nearer planets /"
+          },
+          {
+            "r": "Patrick Moore --"
+          },
+          {
+            "g": "Appendicies --"
+          },
+          {
+            "g": "(I.)"
+          },
+          {
+            "t": "Some theoretical aspects of rocket propulsion --"
+          },
+          {
+            "g": "(II.)"
+          },
+          {
+            "t": "Chemical, symbols and formulas --"
+          },
+          {
+            "g": "(III.)"
+          },
+          {
+            "t": "Theoretical considerations regarding the altitude distribution of the atmosphere --"
+          },
+          {
+            "g": "(IV.)"
+          },
+          {
+            "t": "Meteor penetration --"
+          },
+          {
+            "g": "(V.)"
+          },
+          {
+            "t": "The Magnitude distribution of meteors --"
+          },
+          {
+            "g": "(VI.)"
+          },
+          {
+            "t": "The Calculation of meteor masses --"
+          },
+          {
+            "g": "(VII.)"
+          },
+          {
+            "t": "Meteor statistics --"
+          },
+          {
+            "g": "(VIII.)"
+          },
+          {
+            "t": "Circular orbit-speed of projection and period --"
+          },
+          {
+            "g": "(IX.)"
+          },
+          {
+            "t": "Precision with which satellite must be projected --"
+          },
+          {
+            "g": "(X.)"
+          },
+          {
+            "t": "Effect of air resistance --"
+          },
+          {
+            "g": "(XI.)"
+          },
+          {
+            "t": "Life of satellite --"
+          },
+          {
+            "g": "(XII.)"
+          },
+          {
+            "t": "Rocket mass and thrust --"
+          },
+          {
+            "g": "(XIII.)"
+          },
+          {
+            "t": "Velocity and attraction --"
+          },
+          {
+            "g": "(XIV.)"
+          },
+          {
+            "t": "Escape velocities and orbital velocities of the planets --"
+          },
+          {
+            "g": "(XV.)"
+          },
+          {
+            "t": "Temperature scaales --"
+          },
+          {
+            "g": "(XVI.)"
+          },
+          {
+            "g": "Miscellaneous --"
+          },
+          {
+            "g": "(XVII.)"
+          },
+          {
+            "t": "Recent developments concerning artificial satellites --"
+          },
+          {
+            "g": "Concluding survey /"
+          },
+          {
+            "r": "D.R. Bates --"
+          },
+          {
+            "g": "Index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Space flight."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockets (Aeronautics)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Space Flight"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockets (Aeronautics)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01099341"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Space flight."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01127676"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bates, David R."
+          },
+          {
+            "q": "(David Robert),"
+          },
+          {
+            "d": "1916-1994,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Moore, Patrick,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Bates, David R. (David Robert), 1916-"
+          },
+          {
+            "t": "Space research and exploration."
+          },
+          {
+            "d": "New York, W. Sloane Associates, 1958"
+          },
+          {
+            "w": "(OCoLC)568903929"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 203 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011797"
+          }
+        ]
+      }
+    }
+  ]
+}

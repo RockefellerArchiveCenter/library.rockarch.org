@@ -1,0 +1,616 @@
+{
+  "leader": "04380cam a2200481 i 4500",
+  "fields": [
+    {
+      "001": "ocn890080187"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220301114730.0"
+    },
+    {
+      "008": "140805s2014\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2014021339"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BKL"
+          },
+          {
+            "d": "SRC"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "TXBXL"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "FJD"
+          },
+          {
+            "d": "VP@"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "ZLM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TXJAM"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TXLAG"
+          },
+          {
+            "d": "JDP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "U3G"
+          },
+          {
+            "d": "BDP"
+          },
+          {
+            "d": "MOL"
+          },
+          {
+            "d": "ZQP"
+          },
+          {
+            "d": "S2H"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "AEUWD"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "873007821"
+          },
+          {
+            "a": "873739673"
+          },
+          {
+            "a": "896214855"
+          },
+          {
+            "a": "897719507"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781610394703"
+          },
+          {
+            "q": "(hardback)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1610394704"
+          },
+          {
+            "q": "(hardback)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "9781610394710"
+          },
+          {
+            "q": "(e-book)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)890080187"
+          },
+          {
+            "z": "(OCoLC)873007821"
+          },
+          {
+            "z": "(OCoLC)873739673"
+          },
+          {
+            "z": "(OCoLC)896214855"
+          },
+          {
+            "z": "(OCoLC)897719507"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "BF698.35.R47"
+          },
+          {
+            "b": "R63 2014"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "LC5219 C75 Z98"
+          },
+          {
+            "b": "R633"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "155.24"
+          },
+          {
+            "b": "ROD"
+          }
+        ]
+      }
+    },
+    {
+      "049": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYRV"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rodin, Judith,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The resilience dividend :"
+          },
+          {
+            "b": "being strong in a world where things go wrong /"
+          },
+          {
+            "c": "Judith Rodin."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "First edition."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "PublicAffairs,"
+          },
+          {
+            "c": "[2014]"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a92014"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 368 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction: Why resilience matters -- The resilience framework: five characteristics -- A mindset: roots of the thinking -- A practice: readiness, responsiveness, revitalization -- Disruption: a world of stresses and shocks -- How crisis becomes disaster: the human factor -- Awareness: yes, it can happen here -- Readiness: we're all responsible -- Getting ahead of threats: addressing vulnerabilities -- Responsiveness: social cohesion is the first responder -- Leadership emerges: institutions and individuals step up -- After the crisis: bouncing forward -- Revitalization: energizing, affirming, sharing a vision -- Conclusion: Realizing the resilience dividend."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"New York. Athens. Boston. Tohoku. Newtown. Oslo. West. Wenzhou. New Orleans. Dhaka. Moore. Nairobi. These communities are just a few among the many that have been hit hard by one of the \"wicked problems\" of today's world: natural catastrophe, disease and contagion, systems or social collapse. If you haven't been directly touched by one of these disruptions yourself, you are sure to have been affected by them in some way. They harm people, destabilize communities, and threaten organizations and even whole societies. These problems have become such a part of our world that knowing how to prepare for them, how to respond when they happen, and how to recover from them should be essential skills of modern life for all of us. We have certainly made progress in this regard, especially in the years since 9/11, but we are still at greater risk than we should be. We can't anticipate every disruption that might come our way, but we can develop an overall approach for dealing with the wicked problems, and formulate specific plans for areas where we and our communities are particularly vulnerable. The Resilience Dividend is both timely and important as both the severity and frequency of disruptions are increase. We face extreme weather events, rapid population shifts, and global interconnectedness that make us vulnerable to disruptions wherever they take place. What's more, the list of global risks that we face in the coming years is truly daunting: from cyber-attacks to food shortage crises to extreme volatility in energy price. We can no longer assume we are immune to the world's wicked problems, no matter who we are and where we live. It develops both a way of thinking and practical tools for taking action for protecting the world's people and communities and shows how to create a blueprint for change.\"--"
+          },
+          {
+            "c": "Provided by publisher."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Resilience (Personality trait)"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Organizational resilience"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Disasters"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Disasters."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00894782"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Organizational resilience."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01894854"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Resilience (Personality trait)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01095573"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Case studies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423765."
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Case studies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "C0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    }
+  ]
+}

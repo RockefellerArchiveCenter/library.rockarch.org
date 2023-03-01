@@ -8,7 +8,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <h3>Request "{{object.title}}"</h3>
+        <h3>Request "{{page.title}}"</h3>
         <form method="post" action="https://raccess.rockarch.org/aeon.dll">
           <div class="modal-form__input-group">
             <input type="hidden" name="AeonForm" value="EADRequest">
@@ -18,11 +18,11 @@
             <input type="hidden" name="SubmitButton" value="Submit Request">
             <input type="hidden" name="UserReview" value="No">
             <!-- Item inputs -->
-            <input type="hidden" name="Request" value="{{object.uri}}">
-            <input type="hidden" name="ItemDate" value="{% include date_list.html object=object %}">
-            <input type="hidden" name="ItemTitle" value="{{object.title}}">
-            <input type="hidden" name="ItemAuthor" value="{% include author_list.html object=object %}">
-            <input type="hidden" name="CallNumber" value="{% include call_numbers.html object=object %}">
+            <input type="hidden" name="Request" value="{{page.permalink}}">
+            <input type="hidden" name="ItemDate" value="{% include publication_info.html object=include.object %}">
+            <input type="hidden" name="ItemTitle" value="{{page.title}}">
+            <input type="hidden" name="ItemAuthor" value="{% include author_list.html object=include.object separator=', ' %}">
+            <input type="hidden" name="CallNumber" value="{% include call_number.html object=include.object %}">
             <input type="hidden" name="ItemInfo3" value="{{site.url}}/items/{{page.id}}/">
             <div class="modal-form__input">
               <label id="datepickerLabel" for="datepicker">Scheduled date of visit (mm/dd/yyyy) *</label>

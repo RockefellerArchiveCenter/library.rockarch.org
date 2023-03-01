@@ -1,0 +1,428 @@
+{
+  "leader": "02278cam a2200361 i 4500",
+  "fields": [
+    {
+      "001": "ocm31270066\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221222141924.0"
+    },
+    {
+      "008": "941012s1928\\\\\\\\nyu\\\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   28025344 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ORX"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "ORX"
+          },
+          {
+            "d": "TOL"
+          },
+          {
+            "d": "UUM"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1494916"
+          },
+          {
+            "a": "228783341"
+          },
+          {
+            "a": "1156725839"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)31270066"
+          },
+          {
+            "z": "(OCoLC)1494916"
+          },
+          {
+            "z": "(OCoLC)228783341"
+          },
+          {
+            "z": "(OCoLC)1156725839"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "E169.1"
+          },
+          {
+            "b": ".P34 1928"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "973"
+          },
+          {
+            "b": "PAG"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Page, Kirby,"
+          },
+          {
+            "d": "1890-1957."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Recent gains in American civilization :"
+          },
+          {
+            "b": "by a group of distinguished critics of contemporary life /"
+          },
+          {
+            "c": "edited by Kirby Page (editor of \"The World Tomorrow\")."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Harcourt,"
+          },
+          {
+            "c": "[\u00a91928]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "357 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Recent gains in government, by C.A. Beard.--New outposts of business and industry, by S. Chase.--Recent gains in industrial relations, by Mary van Kleeck.--Advances in the quest for peace, by N. Thomas.--Recent improvements in race relations, by C.S. Johnson.--The bright side of the American press, by O.G. Villard.--Education goes ahead, by D.L. Sharp.--American literature moves on, by Mary Austin.--New influences in art, by R. Kent.--Recent advances in science, by D.S. Jordan.--Recent gains in religion, by H.E. Fosdick.--A critique of American civilization, by J. Dewey.--Progress or decadence? By H.F. Ward.--Is western civilization worth saving? By P.A. Schilpp.--An oriental evaluation of modern civilization, by Masaharu Anesaki."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Civilization"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Civilization."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00862898"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Page, Kirby, 1890-1957."
+          },
+          {
+            "t": "Recent gains in American civilization."
+          },
+          {
+            "d": "New York, Harcourt [\u00a91928]"
+          },
+          {
+            "w": "(OCoLC)557763133"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Page, Kirby, 1890-1957."
+          },
+          {
+            "t": "Recent gains in American civilization."
+          },
+          {
+            "d": "New York, Harcourt [\u00a91928]"
+          },
+          {
+            "w": "(OCoLC)613145987"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 288 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018076"
+          }
+        ]
+      }
+    }
+  ]
+}

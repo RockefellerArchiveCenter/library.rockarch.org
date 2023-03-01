@@ -1,0 +1,536 @@
+{
+  "leader": "01925cam a2200445 i 4500",
+  "fields": [
+    {
+      "001": "ocm00161572\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220630172932.0"
+    },
+    {
+      "008": "710907s1971\\\\\\\\azuc\\\\\\\\\\\\\\\\\\\\010\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   79636152 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "PGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "NMH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "KPS"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CEF"
+          },
+          {
+            "d": "TKN"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "MUO"
+          },
+          {
+            "d": "LHU"
+          },
+          {
+            "d": "FQG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UWW"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "VYM"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "150467502"
+          },
+          {
+            "a": "1006466027"
+          },
+          {
+            "a": "1087258903"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)161572"
+          },
+          {
+            "z": "(OCoLC)150467502"
+          },
+          {
+            "z": "(OCoLC)1006466027"
+          },
+          {
+            "z": "(OCoLC)1087258903"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "CB155"
+          },
+          {
+            "b": ".E77"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "AC5"
+          },
+          {
+            "b": ".D8"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "901.9"
+          },
+          {
+            "b": "ESS"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Essays in honor of David Lyall Patrick /"
+          },
+          {
+            "c": "Rene Jules Dubos, Germaine Bree [and] Louis B. Wright."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Tucson :"
+          },
+          {
+            "b": "University of Arizona,"
+          },
+          {
+            "c": "[1971]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 67 pages :"
+          },
+          {
+            "b": "portrait ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Foreword / Richard A. Harvill -- Civilizing technology / Rene\u0301 Jules Dubos -- Literature today / Germaine Bree -- Science and the humanities in the renaissance / Louis B. Wright."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Civilization."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Progress."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Science and the humanities."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Civilization."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00862898"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Progress."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01078723"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Science and the humanities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01108559"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Festschriften."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01941036"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Festschriften."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Patrick, David Lyall,"
+          },
+          {
+            "d": "1899-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Dubos, Rene\u0301 J."
+          },
+          {
+            "q": "(Rene\u0301 Jules),"
+          },
+          {
+            "d": "1901-1982."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bre\u0301e, Germaine."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Wright, Louis B."
+          },
+          {
+            "q": "(Louis Booker),"
+          },
+          {
+            "d": "1899-1984."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Essays in honor of David Lyall Patrick."
+          },
+          {
+            "d": "Tucson, University of Arizona [1971]"
+          },
+          {
+            "w": "(OCoLC)599945612"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 581 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019577"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "leader": "03022cam a2200457Ia 4500",
+  "fields": [
+    {
+      "001": "ocm50426467\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106151512.0"
+    },
+    {
+      "008": "020307s2001\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2002278119"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "J9U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)50426467"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "H11"
+          },
+          {
+            "b": ".S64 2001"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "300"
+          },
+          {
+            "b": "WOR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Worcester, Kent,"
+          },
+          {
+            "d": "1959-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social Science Research Council, 1923-1998 /"
+          },
+          {
+            "c": "by Kenton W. Worcester ; foreword by Craig Calhoun ; afterword by Kenneth Prewitt."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York, N.Y. :"
+          },
+          {
+            "b": "Social Science Research Council,"
+          },
+          {
+            "c": "\u00a92001."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "213 pages ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Social Science Research Council : the first fifty years / by Elbridge Sibley\": pages 129-213."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Machine generated contents note: FOREWORD BY CRAIG CALHOUN 5 -- INTRODUCTION 13 -- PART ONE 15 -- THE CAUSE OF EMPIRICAL RESEARCH 19 -- ORGANIZING ASSUMPTIONS 23 -- CHANGING POLITICAL TIDES 34 -- PART TWO 55 -- DIRECTION AND MANDATE 61 -- RESEARCH PLANNING IN THE 1970S 65 -- RESEARCH PLANNING IN THE 1980s 68 -- RESEARCH PLANNING IN THE 1990S 72 -- AREA AND INTERNATIONAL STUDIES 77 -- INTERNATIONAL PROGRAM REORGANIZATION 88 -- FELLOWSHIPS AND GRANTS 93 -- CONCLUSION 97 -- AFTERWORD BY KENNETH PREWITT 123 -- ACKNOWLEDGMENTS 125 -- SOCIAL SCIENCE RESEARCH COUNCIL: THE FIRST FIFTY YEARS BY ELBRIDGE SIBLEY 127 -- FOREWORD BY ELEANOR BERNET SHELDON 129 -- INTRODUCTION 131 -- MAJOR ISSUES OF POLICY 134 -- IMPROVING RESEARCH METHODS 142 -- SOME METHODOLOGICAL AND SUBSTANTIVE ACCOMPLISHMENTS 152 -- RESEARCH TRAINING AND SUPPORT 183 -- FOREIGN AREA TRAINING AND RESEARCH 190 -- THE COUNCIL AND THE FEDERAL GOVERNMENT 205 -- AFTERWORD BY ELEANOR BERNET SHELDON 211."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social Science Research Council (U.S.)"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social sciences"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Societies, etc."
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social sciences"
+          },
+          {
+            "x": "Research"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social Science Research Council (U.S.)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00549825"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social sciences"
+          },
+          {
+            "x": "Research."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01122944"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social sciences"
+          },
+          {
+            "x": "Societies, etc."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01122980"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Sibley, Elbridge,"
+          },
+          {
+            "d": "1903-1994."
+          },
+          {
+            "t": "Social Science Research Council."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Worcester, Kent, 1959-"
+          },
+          {
+            "t": "Social Science Research Council, 1923-1998."
+          },
+          {
+            "d": "New York, N.Y. : Social Science Research Council, \u00a92001"
+          },
+          {
+            "w": "(OCoLC)691091188"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/fy031/2002278119.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 10 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015063"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015059"
+          }
+        ]
+      }
+    }
+  ]
+}

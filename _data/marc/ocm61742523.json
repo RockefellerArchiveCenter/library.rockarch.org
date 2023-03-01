@@ -1,0 +1,427 @@
+{
+  "leader": "01582cam a2200409Ia 4500",
+  "fields": [
+    {
+      "001": "ocm61742523\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220302095737.0"
+    },
+    {
+      "008": "050609s2003\\\\\\\\nyuab\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "LGG"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "LGG"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "066": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "{dollar}1"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)61742523"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          },
+          {
+            "a": "ae-----"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "WZ 70 JA1"
+          },
+          {
+            "b": "G779c 2003"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "610"
+          },
+          {
+            "b": "GRA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gray, Lesley,"
+          },
+          {
+            "d": "active 2003,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The China Medical Board :"
+          },
+          {
+            "b": "history of institutions sponsored by China Medical Board, 2000 /"
+          },
+          {
+            "c": "Lesley Gray."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "6": "880-01"
+          },
+          {
+            "i": "Title also in Chinese:"
+          },
+          {
+            "a": "Meiguo Zhonghua yi xue ji jin hui suo zi zhu da xue xiao shi ( -2000)"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "China Medical Board of New York, Inc.,"
+          },
+          {
+            "c": "\u00a92003."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 256 pages :"
+          },
+          {
+            "b": "color illustrations, color map ;"
+          },
+          {
+            "c": "27 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "China Medical Board of New York."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "China Medical Board of New York."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Foundations"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Education, Medical"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Research Support"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Training Support"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Far East."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "China Medical Board of New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00566978"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "China Medical Board of New York."
+          }
+        ]
+      }
+    },
+    {
+      "880": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "6": "246-01/{dollar}1"
+          },
+          {
+            "i": "Title also in Chinese:"
+          },
+          {
+            "a": "\u7f8e\u56fd\u4e2d\u534e\u533b\u5b66\u57fa\u91d1\u4f1a\u6240\u8d44\u52a9\u5927\u5b66\u6821\u53f2 ( -2000)"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012397"
+          }
+        ]
+      }
+    }
+  ]
+}

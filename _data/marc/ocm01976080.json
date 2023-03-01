@@ -1,0 +1,1155 @@
+{
+  "leader": "05156cam  2200925 i 4500",
+  "fields": [
+    {
+      "001": "ocm01976080\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211115085738.0"
+    },
+    {
+      "008": "751212s1975\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\100\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   75044062 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7513590"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "38248110"
+          },
+          {
+            "a": "456467589"
+          },
+          {
+            "a": "811360696"
+          },
+          {
+            "a": "813665368"
+          },
+          {
+            "a": "1083763931"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0890720193"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780890720196"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1976080"
+          },
+          {
+            "z": "(OCoLC)38248110"
+          },
+          {
+            "z": "(OCoLC)456467589"
+          },
+          {
+            "z": "(OCoLC)811360696"
+          },
+          {
+            "z": "(OCoLC)813665368"
+          },
+          {
+            "z": "(OCoLC)1083763931"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "ZRS"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "HL8"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "SGE"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "QE2"
+          },
+          {
+            "d": "UCO"
+          },
+          {
+            "d": "UCDLL"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "ALMSI"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "EUM"
+          },
+          {
+            "d": "AZS"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Q11"
+          },
+          {
+            "b": ".N5 vol. 265"
+          },
+          {
+            "a": "QH438.7"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "W1"
+          },
+          {
+            "b": "AN626YL v.265 1976"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QH 442"
+          },
+          {
+            "b": "C741e 1975"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "340.634(08)"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "306.46"
+          },
+          {
+            "b": "ETH"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ethical and scientific issues posed by human uses of molecular genetics :"
+          },
+          {
+            "b": "[papers] /"
+          },
+          {
+            "c": "edited by Marc Lapp\ufffde and Robert S. Morison."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "New York Academy of Sciences,"
+          },
+          {
+            "c": "1976."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "208 pages ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Annals of the New York Academy of Sciences ;"
+          },
+          {
+            "v": "v. 265"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Conference sponsored by the New York Academy of Sciences and the Institute of Society, Ethics, and the Life Sciences."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Ethical responsibility in science in the face of uncertain consequences /"
+          },
+          {
+            "r": "Daniel Callahan --"
+          },
+          {
+            "t": "The prospects for gene therapy in humans /"
+          },
+          {
+            "r": "John F. Morrow --"
+          },
+          {
+            "t": "Ethical issues in priority-setting for the utilization of genetic technologies /"
+          },
+          {
+            "r": "Sumner B. Twiss, Jr. --"
+          },
+          {
+            "t": "Social and political uses of genetics in the United States : past and present /"
+          },
+          {
+            "r": "Jon Beckwith --"
+          },
+          {
+            "t": "Reflections on issues posed by recombinant DNA molecule technology I /"
+          },
+          {
+            "r": "Richard Roblin --"
+          },
+          {
+            "t": "Reflections on issues posed by recombinant DNA molecule technology II /"
+          },
+          {
+            "r": "Stanfield Rogers --"
+          },
+          {
+            "t": "Reflections on issues posed by recombinant DNA molecule technology III /"
+          },
+          {
+            "r": "Alexander Morgan Capron --"
+          },
+          {
+            "t": "Scientific optimism and societal concerns : a note on the psychology of scientists /"
+          },
+          {
+            "r": "Gerald Holton --"
+          },
+          {
+            "t": "Reflections on the cost of doing science /"
+          },
+          {
+            "r": "Marc Lapp\ufffde --"
+          },
+          {
+            "t": "A psychiatrist looks at scientists looking at science /"
+          },
+          {
+            "r": "Robert Michels --"
+          },
+          {
+            "t": "Philosophical considerations in the growing potential for human genetic control /"
+          },
+          {
+            "r": "Richard T. Hull --"
+          },
+          {
+            "t": "Panel discussion --"
+          },
+          {
+            "t": "\"Genetic medicine\" in pediatric practice now /"
+          },
+          {
+            "r": "William J. Mellman --"
+          },
+          {
+            "t": "The future for gene therapy : a reevaluation /"
+          },
+          {
+            "r": "Theodore Friedmann --"
+          },
+          {
+            "t": "Gene therapy and the ethics of genetic therapeutics /"
+          },
+          {
+            "r": "Robert Neville --"
+          },
+          {
+            "t": "Panel discussion --"
+          },
+          {
+            "t": "Law and genetic control : public-policy questions /"
+          },
+          {
+            "r": "Harold P. Green --"
+          },
+          {
+            "t": "Reflections and speculations on the regulation of molecular genetic research /"
+          },
+          {
+            "r": "J. Leslie Glick --"
+          },
+          {
+            "t": "Novel pressures on the advance of science /"
+          },
+          {
+            "r": "Bernard D. Davis --"
+          },
+          {
+            "t": "Closing Remarks /"
+          },
+          {
+            "r": "Robert Morison."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also available online."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Conference sponsored by the New York Academy of Sciences and the Institute of Society, Ethics, and the Life Sciences."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Genetic engineering"
+          },
+          {
+            "x": "Social aspects"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human genetics"
+          },
+          {
+            "x": "Social aspects"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Genetic Engineering."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Bioethics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Genetic engineering"
+          },
+          {
+            "x": "Social aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00940056"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human genetics"
+          },
+          {
+            "x": "Social aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00963092"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "gesteldheid"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "constitution"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "ethiek"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "ethics"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "evolutie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "evolution"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetische variatie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetic variation"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetica"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetics"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "immunogenetica"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "immunogenetics"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "overerving"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "inheritance"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "pathologie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "pathology"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "filosofie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "philosophy"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "soortvorming"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "speciation"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "moraal"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "moral"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "personen"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "persons"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philosophy (General)"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Filosofie (algemeen)"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Congress."
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lapp\ufffde, Marc."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Morison, Robert S.,"
+          },
+          {
+            "d": "1906-1986."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York Academy of Sciences."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Institute of Society, Ethics, and the Life Sciences."
+          }
+        ]
+      }
+    },
+    {
+      "711": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Conference on Ethical and Scientific Issues Posed by Human Uses of Molecular Genetics"
+          },
+          {
+            "d": "(1975 :"
+          },
+          {
+            "c": "New York, N.Y.)"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Annals of the New York Academy of Sciences ;"
+          },
+          {
+            "v": "v. 265."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "u": "http://www3.interscience.wiley.com/journal/119642868/issue"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "u": "http://www.blackwell-synergy.com/openurl?genre=journal&stitle=nyas"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 335 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode on first copy"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode on second copy"
+          }
+        ]
+      }
+    }
+  ]
+}

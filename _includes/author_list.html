@@ -1,9 +1,18 @@
-{% comment %}Creates a comma-separated list of author names{% endcomment %}
+{% comment %}Creates a delimited list of author names{% endcomment %}
+{%- assign everything = "" | split: ',' -%}
 {%- assign authors = "" | split: ',' -%}
-{%- for agent in object.linked_agents -%}
-  {% if agent.role == "creator" %}
-    {%- capture agent_title -%}{%- include title_from_ref.html object=agent -%}{%- endcapture -%}
-    {%- assign authors = authors | push: agent_title -%}
+{%- assign fields = "100,110,111" | split: "," -%}
+
+{%- for field in fields -%}
+  {%- assign list = include.object.fields | map: field  -%}
+  {%- assign everything = everything | concat: list -%}
+{%- endfor -%}
+
+{%- for item in everything -%}
+  {% if item %}
+    {% capture title %}{% include author_title.html object=item %}{% endcapture %}
+    {% assign authors = authors | push: title %}
   {% endif %}
 {%- endfor -%}
-{{- authors | join: ', ' | strip_newlines | escape -}}
+
+{{- authors | join: include.separator | strip_newlines | escape -}}

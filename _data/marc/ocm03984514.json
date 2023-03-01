@@ -1,0 +1,351 @@
+{
+  "leader": "01266cam a2200313Ii 4500",
+  "fields": [
+    {
+      "001": "ocm03984514\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105130456.0"
+    },
+    {
+      "008": "780619s1964\\\\\\\\alu\\\\\\\\j\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "APL"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "APL"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "VA@"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)3984514"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "CT275.R75"
+          },
+          {
+            "b": "G5"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.76223382092"
+          },
+          {
+            "b": "GIL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Gilbert, Miriam."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Money and mud :"
+          },
+          {
+            "b": "the life of John D. Rockefeller /"
+          },
+          {
+            "c": "by Miriam Gilbert."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "2",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "Money and mud :"
+          },
+          {
+            "b": "the story of John D. Rockefeller"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Montgomery, Ala.,"
+          },
+          {
+            "b": "American Southern"
+          },
+          {
+            "c": "[\u00a91964]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "95 pages ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller, John D."
+          },
+          {
+            "q": "(John Davison),"
+          },
+          {
+            "d": "1839-1937"
+          },
+          {
+            "v": "Juvenile literature."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockefeller, John D."
+          },
+          {
+            "q": "(John Davison),"
+          },
+          {
+            "d": "1839-1937."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00041401"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Juvenile works."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411637"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rockefeller, John D."
+          },
+          {
+            "q": "(John Davison),"
+          },
+          {
+            "d": "1839-1937."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Gilbert, Miriam."
+          },
+          {
+            "t": "Money and mud."
+          },
+          {
+            "d": "Montgomery, Ala., American Southern [\u00a91964]"
+          },
+          {
+            "w": "(OCoLC)988278831"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 17 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015867"
+          }
+        ]
+      }
+    }
+  ]
+}

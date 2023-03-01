@@ -1,0 +1,727 @@
+{
+  "leader": "05069cam a2200589 a 4500",
+  "fields": [
+    {
+      "001": "ocm08670455\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104094830.0"
+    },
+    {
+      "008": "820709s1983\\\\\\\\dcua\\\\\\\\\\b\\\\\\f101\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   82600233 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NOH"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YAM"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CTW"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "KKX"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UEJ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "FQG"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ASR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "8605808"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1171432757"
+          },
+          {
+            "a": "1201831656"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0874747260"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780874747263"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0874747252"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780874747256"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)8670455"
+          },
+          {
+            "z": "(OCoLC)1171432757"
+          },
+          {
+            "z": "(OCoLC)1201831656"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "GN365.9"
+          },
+          {
+            "b": ".H68 1983"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "EE1477"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "304.5"
+          },
+          {
+            "b": "HOW"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "How humans adapt :"
+          },
+          {
+            "b": "a biocultural odyssey /"
+          },
+          {
+            "c": "Donald J. Ortner, editor ; foreword by S. Dillon Ripley ; epilog by Wilton S. Dillon."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "Smithsonian Institution Press,"
+          },
+          {
+            "c": "\u00a91983."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxi, 560 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Smithsonian international symposia series"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Proceedings of the Smithsonian Institution's seventh international symposium, held Nov. 8-12, 1981, Washington, D.C."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Technological and social adaptations to the future / Rene\u0301 Dubos -- The natural past and the human future : an introductory essay / Stephen Toulmin. Commentary / Mary Catherine Bateson. Commentary / Wilton S. Dillon -- Parental investment : the hominid adaptation / Jane B. Lancaster and Chet S. Lancaster. Commentary / Anna K. Behrensmeyer -- Some base lines for human evolution and the genetic implications of recent cultural developments / James V. Neel. Commentary / Napoleon A. Chagnon -- The transition to agriculture and some of its consequences / L.L. Cavalli-Sforza. Commentary / John F. Eisenberg -- Biocultural interaction in human adaptation / Donald J. Ortner. Commentary / Mark N. Cohen. Commentary / Roger Masters. Commentary / James F. Danielli -- Explaining the course of human events / Betty J. Meggers. Commentary / John C. Ewers. Commentary / Roger Masters. Commentary / Bruce D. Smith -- Earth resources and population : an archeological perspective / Fekri A. Hassan. Commentary / J. Lawrence Angel. Commentary / Theodore Wertime -- Food : past, present, and future / Nevin S. Scrimshaw. Commentary / Claire Cassidy -- Food, energy, and technology : perspectives from developing countries / Edward S. Ayensu. Commentary / Napoleon A. Chagnon. Commentary / Stuart Marks -- Changing aspirations for mental and physical health / G.M. Carstairs. Commentary / Ido de Groot. Commentary / Audrey B. Davis -- Population growth : current issues and strategies / Geoffrey McNicoll and Moni Nag. Commentary / J. Lawrence Angel -- Demographic and microstructural history in relation to human adaptation : reflections on newly established evidence / Peter Laslett. Commentary / Nathan Reingold. Commentary / Mark N. Cohen -- The environment of the city / Asa Briggs. Commentary / Nathan Reingold. Commentary / Stephen Toulmin -- World society : the range of possible futures / Kenneth E. Boulding. Commentary / Wilfred Beckerman. Commentary / Andrzey Wiercinski -- The future of democracy / Richard J. Barnet. Commentary / Allen B. Bassing -- Education and adaptation for the future / John Passmore. Commentary / Marx Wartofsky. Commentary / Elizabeth Torre -- Ethical issues in the human future / James M. Gustafson. Commentary / Roy Branson. Commentary / Wilfred Beckerman -- Toward a new understanding of human nature : the limits of individualism / Mary Midgley. Commentary / Paula Thompson. Commentary / Marx Wartofsky -- Adaptability : a curse or a technique of survival? / Wilton S. Dillon."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Sociobiology"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Adaptation (Biology)"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human evolution"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human beings"
+          },
+          {
+            "x": "Effect of environment on"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Adaptation, Biological."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Cultural Evolution."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Culture."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Adaptation (Biology)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00796474"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human beings"
+          },
+          {
+            "x": "Effect of environment on."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00962843"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human evolution."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00963030"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Sociobiology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01123838"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Congress."
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ortner, Donald J."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Smithsonian Institution."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "How humans adapt."
+          },
+          {
+            "d": "Washington, D.C. : Smithsonian Institution Press, \u00a91983"
+          },
+          {
+            "w": "(OCoLC)562123533"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Smithsonian international symposia series."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 525 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014881"
+          }
+        ]
+      }
+    }
+  ]
+}

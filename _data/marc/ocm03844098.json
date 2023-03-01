@@ -1,0 +1,613 @@
+{
+  "leader": "02163cam a2200481 i 4500",
+  "fields": [
+    {
+      "001": "ocm03844098\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105142013.0"
+    },
+    {
+      "008": "780329s1978\\\\\\\\cou\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   78006722 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "PHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UCDLL"
+          },
+          {
+            "d": "UX0"
+          },
+          {
+            "d": "LRP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CPS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000000163560"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013855013"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "491166897"
+          },
+          {
+            "a": "1145231414"
+          },
+          {
+            "a": "1153187437"
+          },
+          {
+            "a": "1166485874"
+          },
+          {
+            "a": "1224883435"
+          },
+          {
+            "a": "1231473470"
+          },
+          {
+            "a": "1277091849"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "089158174X"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780891581741"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)3844098"
+          },
+          {
+            "z": "(OCoLC)491166897"
+          },
+          {
+            "z": "(OCoLC)1145231414"
+          },
+          {
+            "z": "(OCoLC)1153187437"
+          },
+          {
+            "z": "(OCoLC)1166485874"
+          },
+          {
+            "z": "(OCoLC)1224883435"
+          },
+          {
+            "z": "(OCoLC)1231473470"
+          },
+          {
+            "z": "(OCoLC)1277091849"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "JC571"
+          },
+          {
+            "b": ".H387"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "JC571"
+          },
+          {
+            "b": ".H387"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "coll1"
+          },
+          {
+            "2": "lacc"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "323"
+          },
+          {
+            "b": "HEN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Henkin, Louis."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The rights of man today /"
+          },
+          {
+            "c": "Louis Henkin."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Boulder, Colorado :"
+          },
+          {
+            "b": "Westview Press,"
+          },
+          {
+            "c": "1978."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiv, 173 pages ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Gottesman lectures"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Derives from lectures delivered at Yeshiva University as Benjamin Gottesman lectures.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Derives from lectures delivered at Yeshiva University as Benjamin Gottesman lectures.\""
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Civil rights."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human rights."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Civil rights."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00862627"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human rights."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00963285"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Henkin, Louis."
+          },
+          {
+            "t": "Rights of man today."
+          },
+          {
+            "d": "Boulder, Colo. : Westview Press, 1978"
+          },
+          {
+            "w": "(OCoLC)644261950"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Gottesman lectures."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/bowker/toc/9780891581741.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "French equivalent / E\u0301quivalent franc\u0327ais"
+          },
+          {
+            "u": "https://bac-lac.on.worldcat.org/oclc/422501076"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 726 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014417"
+          }
+        ]
+      }
+    }
+  ]
+}

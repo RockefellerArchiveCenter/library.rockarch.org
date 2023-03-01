@@ -1,0 +1,651 @@
+{
+  "leader": "02877cam a2200457 a 4500",
+  "fields": [
+    {
+      "001": "ocm00422615\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106135100.0"
+    },
+    {
+      "008": "670926s1967\\\\\\\\nyuac\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   66029721 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "HIN"
+          },
+          {
+            "d": "UBY"
+          },
+          {
+            "d": "OIP"
+          },
+          {
+            "d": "XER"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "WCM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "VTS"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "QGK"
+          },
+          {
+            "d": "SJE"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0114566"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "53955616"
+          },
+          {
+            "a": "320862311"
+          },
+          {
+            "a": "1000730532"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)422615"
+          },
+          {
+            "z": "(OCoLC)53955616"
+          },
+          {
+            "z": "(OCoLC)320862311"
+          },
+          {
+            "z": "(OCoLC)1000730532"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E185"
+          },
+          {
+            "b": ".P55"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E 185"
+          },
+          {
+            "b": "P729n 1967"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "E185.P5"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "973"
+          },
+          {
+            "b": "NEG"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Negro almanac /"
+          },
+          {
+            "c": "compiled and edited by Harry A. Ploski and Roscoe C. Brown, Jr."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1st edition."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Bellwether,"
+          },
+          {
+            "c": "\u00a91967."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 1012 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 946-965)."
+          }
+        ]
+      }
+    },
+    {
+      "506": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "031045 discarded 09/86; 063685 discarded 09/86."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Chronology: a historical review --"
+          },
+          {
+            "t": "Significant documents in American history --"
+          },
+          {
+            "t": "Historical landmarks of Negro Americana --"
+          },
+          {
+            "t": "Civil rights organizations and their leadership --"
+          },
+          {
+            "t": "The legal status of the Negro --"
+          },
+          {
+            "t": "Negro population growth and distribution --"
+          },
+          {
+            "t": "The Negro family --"
+          },
+          {
+            "t": "Employment, unemployment and the civilian labor force --"
+          },
+          {
+            "t": "Income, earnings, incidence of poverty and expenditure patterns --"
+          },
+          {
+            "t": "The Negro in the labor movement --"
+          },
+          {
+            "t": "Federal employment and government assistance programs --"
+          },
+          {
+            "t": "The American Negro and the vote --"
+          },
+          {
+            "t": "The Negro in public office --"
+          },
+          {
+            "t": "The Negro in education --"
+          },
+          {
+            "t": "The Negro in the military establishment --"
+          },
+          {
+            "t": "The Negro in sports --"
+          },
+          {
+            "t": "Famous Negro personalities --"
+          },
+          {
+            "t": "The Negro in films --"
+          },
+          {
+            "t": "The Negro religious tradition --"
+          },
+          {
+            "t": "National Negro organizations --"
+          },
+          {
+            "t": "Negro \"firsts\" --"
+          },
+          {
+            "t": "The Negro press --"
+          },
+          {
+            "t": "Slavery in the western hemisphere --"
+          },
+          {
+            "t": "Africa: the changing continent --"
+          },
+          {
+            "t": "The Negro in the western hemisphere --"
+          },
+          {
+            "t": "Negro recipes: \"soul food\" --"
+          },
+          {
+            "t": "Selected bibliography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "v": "Encyclopedias."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Almanacs as Topic"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "African Continental Ancestry Group"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "African Americans."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00799558"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Encyclopedias."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423798"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Encyclopedias."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ploski, Harry A.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Brown, Roscoe Conkling,"
+          },
+          {
+            "c": "Jr.,"
+          },
+          {
+            "d": "1922-2016,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Negro almanac."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "New York : Bellwether, \u00a91967"
+          },
+          {
+            "w": "(OCoLC)558477452"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Negro almanac."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "New York : Bellwether, \u00a91967"
+          },
+          {
+            "w": "(OCoLC)632022954"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 525 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014655"
+          }
+        ]
+      }
+    }
+  ]
+}

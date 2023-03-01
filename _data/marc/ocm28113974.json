@@ -1,0 +1,553 @@
+{
+  "leader": "04152cam a2200481 a 4500",
+  "fields": [
+    {
+      "001": "ocm28113974\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220103103215.0"
+    },
+    {
+      "008": "930427s1994\\\\\\\\kyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   93019857 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "TXN"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "LFM"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "317073721"
+          },
+          {
+            "a": "1166974957"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0813118522"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780813118529"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "081319072X"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780813190723"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)28113974"
+          },
+          {
+            "z": "(OCoLC)317073721"
+          },
+          {
+            "z": "(OCoLC)1166974957"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "BV1190"
+          },
+          {
+            "b": ".M43 1994"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "267.397308996073"
+          },
+          {
+            "b": "MJA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Mjagkij, Nina,"
+          },
+          {
+            "d": "1961-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Light in the darkness :"
+          },
+          {
+            "b": "African Americans and the YMCA, 1852-1946 /"
+          },
+          {
+            "c": "Nina Mjagkij."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lexington, Ky. :"
+          },
+          {
+            "b": "University Press of Kentucky,"
+          },
+          {
+            "c": "\u00a91994."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 198 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 179-189) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1. The Origins of Racial Divisions in the YMCA, 1852-1875 -- 2. White Supervision of African-American YMCA Work, 1875-1891 -- 3. Growth and Centralization under African-American Leadership, 1891-1898 -- 4. Recruitment and Training of African-American YMCA Secretaries, 1898-1943 -- 5. Philanthropists and the Construction of YMCA Buildings, 1901-1933 -- 6. Serving African-American Soldiers in World War I -- 7. Interracial Dialogue and Cooperation in the 1920s -- 8. From Depression to Desegregation, 1929-1946."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "From the time of its emergence in the United States in 1852, the Young Men's Christian Association excluded blacks from membership in white branches but encouraged them to form their own associations and to join the Christian brotherhood on \"separate but equal\" terms. Nina Mjagkij's book, the first comprehensive study of African Americans in the YMCA, is a compelling account of hope and success in the face of adversity."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "African American men, faced with emasculation through lynchings, disenfranchisement, race riots, and Jim Crow laws, hoped that separate YMCAs would provide the opportunity to exercise their manhood and joined in large numbers, particularly members of the educated elite. Although separate black YMCAs were the product of discrimination and segregation, to African Americans they symbolized the power of racial solidarity, representing a \"light in the darkness\" of racism. By the early twentieth century there existed a network of black-controlled associations that increasingly challenged the YMCA to end segregation. But not until World War II did the organization, in response to growing protest, pass a resolution urging white associations to end Jim Crowism."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "From previously untapped sources, Nina Mjagkij traces the YMCA's changing racial policies and practices and examines the evolution of African American associations and their leadership from slavery to desegregation. Here is a vivid and moving portrayal of African Americans struggling to build black-controlled institutions in their search for cultural self-determination. Light in the Darkness uncovers an important aspect of the struggle for racial advancement and makes a significant contribution to our understanding of the African American experience."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "YMCA of the USA."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "x": "Segregation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Race relations"
+          },
+          {
+            "x": "Religious aspects"
+          },
+          {
+            "x": "Christianity."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "YMCA of the USA."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00578335"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "x": "Segregation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00799695"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Race relations"
+          },
+          {
+            "x": "Religious aspects"
+          },
+          {
+            "x": "Christianity."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01086528"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Mjagkij, Nina, 1961-"
+          },
+          {
+            "t": "Light in the darkness."
+          },
+          {
+            "d": "Lexington, Ky. : University Press of Kentucky, \u00a91994"
+          },
+          {
+            "w": "(OCoLC)622086963"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/bowker/toc/9780813118529.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 333 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016484"
+          }
+        ]
+      }
+    }
+  ]
+}

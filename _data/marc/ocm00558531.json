@@ -1,0 +1,456 @@
+{
+  "leader": "01932cam a2200385Ia 4500",
+  "fields": [
+    {
+      "001": "ocm00558531\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220701140721.0"
+    },
+    {
+      "008": "730214s1955\\\\\\\\dcu\\\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   55061465 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "WSU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "KEN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "MUM"
+          },
+          {
+            "d": "JHE"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "VPI"
+          },
+          {
+            "d": "SHS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "003717501"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "29620619"
+          },
+          {
+            "a": "753078312"
+          },
+          {
+            "a": "1049371308"
+          },
+          {
+            "a": "1263977314"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)558531"
+          },
+          {
+            "z": "(OCoLC)29620619"
+          },
+          {
+            "z": "(OCoLC)753078312"
+          },
+          {
+            "z": "(OCoLC)1049371308"
+          },
+          {
+            "z": "(OCoLC)1263977314"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "S21"
+          },
+          {
+            "b": ".Z2 1955b"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.1"
+          },
+          {
+            "b": "UNI"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Commission on Intergovernmental Relations."
+          },
+          {
+            "b": "Study Committee on Federal Aid to Agriculture."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "A study committee report on Federal aid to agriculture /"
+          },
+          {
+            "c": "submitted to the Commission on Intergovernmental Relations by the Study Committee on Federal Aid to Agriculture."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Federal aid to agriculture"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "U.S. G.P.O.,"
+          },
+          {
+            "c": "1955."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vii, 38 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "U.S. Commission on Intergovernmental Relations. Publications. ;"
+          },
+          {
+            "v": "v. 2"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Agriculture and state"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Agriculture and state."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00801722"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "773": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "t": "Federal aid to agriculture, highways & welfare."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "United States. Commission on Intergovernmental Relations. Study Committee on Federal Aid to Agriculture."
+          },
+          {
+            "t": "Study committee report on Federal aid to agriculture."
+          },
+          {
+            "d": "[Washington, U.S. Govt. Print. Off.] 1955"
+          },
+          {
+            "w": "(OCoLC)595814984"
+          }
+        ]
+      }
+    },
+    {
+      "810": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Commission on Intergovernmental Relations."
+          },
+          {
+            "t": "Publications. June, 1955 ;"
+          },
+          {
+            "v": "v. 2."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 120 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014317"
+          }
+        ]
+      }
+    }
+  ]
+}

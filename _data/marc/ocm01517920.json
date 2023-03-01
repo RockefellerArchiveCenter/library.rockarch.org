@@ -1,0 +1,456 @@
+{
+  "leader": "02034cam a2200349Ii 4500",
+  "fields": [
+    {
+      "001": "ocm01517920\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220225132444.0"
+    },
+    {
+      "008": "750806s1925\\\\\\\\nyuac\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   26007672 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DZM"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "CLU"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "LUE"
+          },
+          {
+            "d": "EZC"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "316807738"
+          },
+          {
+            "a": "704561049"
+          },
+          {
+            "a": "1034979276"
+          },
+          {
+            "a": "1083401195"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1517920"
+          },
+          {
+            "z": "(OCoLC)316807738"
+          },
+          {
+            "z": "(OCoLC)704561049"
+          },
+          {
+            "z": "(OCoLC)1034979276"
+          },
+          {
+            "z": "(OCoLC)1083401195"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HD2769.O4"
+          },
+          {
+            "b": "T2 1925"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "338.27"
+          },
+          {
+            "b": "TAR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Tarbell, Ida M."
+          },
+          {
+            "q": "(Ida Minerva),"
+          },
+          {
+            "d": "1857-1944."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The history of the Standard Oil Company /"
+          },
+          {
+            "c": "by Ida M. Tarbell ..."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "The Macmillan Co.,"
+          },
+          {
+            "c": "1925."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volumes :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Published November, 1904. Reissued June, 1925."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The birth of an industry --"
+          },
+          {
+            "t": "The rise of The Standard Oil Company --"
+          },
+          {
+            "t": "The Oil War of 1872 --"
+          },
+          {
+            "t": "\"An Unholy Alliance\" --"
+          },
+          {
+            "t": "Laying the foundations of a trust --"
+          },
+          {
+            "t": "Strengthening the foundations --"
+          },
+          {
+            "t": "The Crisis of 1878 --"
+          },
+          {
+            "t": "The Compromise of 1880 --"
+          },
+          {
+            "t": "The fight for the seaboard pipe-line --"
+          },
+          {
+            "t": "Cutting to kill --"
+          },
+          {
+            "t": "The war on the rebate --"
+          },
+          {
+            "t": "The Buffalo Case --"
+          },
+          {
+            "t": "The Standard Oil Company and politics --"
+          },
+          {
+            "t": "The breaking up of the trust --"
+          },
+          {
+            "t": "A modern war for independence --"
+          },
+          {
+            "t": "The price of oil --"
+          },
+          {
+            "t": "The legitimate greatness of The Standard Oil Company --"
+          },
+          {
+            "t": "Conclusion."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Standard Oil Company."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Standard Oil Company."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00532578"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Tarbell, Ida M. (Ida Minerva), 1857-1944."
+          },
+          {
+            "t": "History of the Standard oil company."
+          },
+          {
+            "d": "New York, The Macmillan Co., 1925"
+          },
+          {
+            "w": "(OCoLC)894240928"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "u": "http://babel.hathitrust.org/cgi/pt?id=uc1.32106006216987"
+          },
+          {
+            "z": "Connect to related website"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 233 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015927"
+          },
+          {
+            "b": "v. 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015931"
+          },
+          {
+            "b": "v. 2"
+          }
+        ]
+      }
+    }
+  ]
+}

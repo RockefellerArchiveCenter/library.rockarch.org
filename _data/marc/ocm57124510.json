@@ -1,0 +1,586 @@
+{
+  "leader": "04370cam a2200517Ia 4500",
+  "fields": [
+    {
+      "001": "ocm57124510\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105111539.0"
+    },
+    {
+      "008": "041117s2005\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2004061462"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "USX"
+          },
+          {
+            "d": "IXA"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "ILU"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NMC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "013291625"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1022719220"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871543400"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871543400"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871543400"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)57124510"
+          },
+          {
+            "z": "(OCoLC)1022719220"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "LC191.4"
+          },
+          {
+            "b": ".S653 2005"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "306.432"
+          },
+          {
+            "b": "SOC"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The social organization of schooling /"
+          },
+          {
+            "c": "Larry V. Hedges and Barbara Schneider, editors."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a92005."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 366 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 321-355) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction : the social organization of schools / Barbara Schneider --PART 1 : the relationship between sociology and the study of education -- A sociological agenda for research on education / Charles E. Bidwell -- Ecosystems and the structuring of organizations / W. Richard Scott -- PART 2 : teaching as a profession -- Teaching and the competence of occupations / Robert Dreeben -- The prospects for teaching as a profession / Susan Moore Johnson -- The anomaly of educational organizations and the study of organizational control / Richard M. Ingersoll -- Professional community by design : building social capital through teacher professional development / Adam Gamoran, Ramona Gunter, and Tona Williams -- PART 3 : The microsociology of schools and classrooms -- The normative culture of a school and student socialization / Maureen T. Hallinan -- Why work when you can play? dynamics of formal and informal organization in classrooms / Daniel a. McFarland -- School organization, curricular structure, and the distribution and effects of instruction for tenth-grade science / Robert A. Petrin -- Subgroups as meso-level entities in the social organization of schools / Kenneth A. Frank and Yong Zhao -- PART 4 : change in social organizations -- The cross-national context of the gender gap in math and science / Catherine Riegle-Crumb -- Organizational coupling, control, and change : the role of higher-order models of control in educational reform / Christopher B. Swanson -- Achievement and equity / Chandra Muller and Kathryn S. Schiller -- School transition programs in organizational context : problems of recruitment, coordination, and integration / Kathryn S. Schiller -- Mobilizing community resources to reform failing schools / Lori Diane Hill."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Employing a variety of analytical methods, The Social Organization of Schooling provides a sound understanding of the social mechanisms at work in our educational system. This volume brings a fresh perspective to the many ongoing debates in education policy and is essential reading for anyone concerned with the future of America's children.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Schools"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Sociological aspects."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Educational sociology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "School management and organization"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Educational sociology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00903596"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "School management and organization."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01107575"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Schools"
+          },
+          {
+            "x": "Sociological aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01108033"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hedges, Larry V."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Schneider, Barbara L."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=014575217&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=1980622&custom_att_2=simple_viewer"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/2004061462-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy1602/2004061462-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 340 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000025264"
+          }
+        ]
+      }
+    }
+  ]
+}

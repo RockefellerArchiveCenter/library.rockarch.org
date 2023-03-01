@@ -1,0 +1,665 @@
+{
+  "leader": "05855cam a2200541 i 4500",
+  "fields": [
+    {
+      "001": "ocn822971479"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106092214.0"
+    },
+    {
+      "008": "121220s2013\\\\\\\\nyub\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2012046092"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "YDX"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CHVBK"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "RCE"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "VLW"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871549334"
+          },
+          {
+            "q": "(pb ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871549336"
+          },
+          {
+            "q": "(pb ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "9781610448024"
+          },
+          {
+            "q": "(ebook)"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "40022233568"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)822971479"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-tn"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F444.N29"
+          },
+          {
+            "b": "S758 2013"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "305.868073076855"
+          },
+          {
+            "b": "WIN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Winders, Jamie."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nashville in the new millennium :"
+          },
+          {
+            "b": "immigrant settlement, urban transformation, and social belonging /"
+          },
+          {
+            "c": "Jamie Winders."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "[2013]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xx, 318 pages :"
+          },
+          {
+            "b": "maps ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 283-307) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Nashville in the new millennium -- Putting new places on the map : how to study new immigrant destinations -- Two neighborhoods, two histories, two geographies : placing southeast Nashville -- Diversity at the door : understanding demographic change in the classroom -- Responding to diversity : multiculturalism, immigration politics, and southern history in the classroom -- Seeing immigrant Nashville : institutional visibility, urban governance, and immigrant incorporation -- Silent streets : assimilation, race, and place in the neighborhood -- Ma(r)king the neighborhood : new immigrants, old boundaries, new maps -- At the intersection of history and diversity."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Beginning in the 1990s, the geography of Latino migration to and within the United States started to shift. Immigrants from Central and South America increasingly bypassed the traditional gateway cities to settle in small cities, towns, and rural areas throughout the nation, particularly in the South. One popular new destination--Nashville, Tennessee--saw its Hispanic population increase by over 400 percent between 1990 and 2000. Nashville, like many other such new immigrant destinations, had little to no history of incorporating immigrants into local life. How did Nashville, as a city and society, respond to immigrant settlement? How did Latino immigrants come to understand their place in Nashville in the midst of this remarkable demographic change? In Nashville in the New Millennium, geographer Jamie Winders offers one of the first extended studies of the cultural, racial, and institutional politics of immigrant incorporation in a new urban destination. Moving from schools to neighborhoods to Nashville's wider civic institutions, Nashville in the New Millennium details how Nashville's long-term residents and its new immigrants experienced daily life as it transformed into a multicultural city with a new cosmopolitanism. Using an impressive array of methods, including archival work, interviews, and participant observation, Winders offers a fine-grained analysis of the importance of historical context, collective memories and shared social spaces in the process of immigrant incorporation. Lacking a shared memory of immigrant settlement, Nashville's long-term residents turned to local history to explain and interpret a new Latino presence. A site where Latino day laborers gathered, for example, became a flashpoint in Nashville's politics of immigration in part because the area had once been a popular gathering place for area teenagers in the 1960s and 1970s. Teachers also drew from local historical memories, particularly the busing era, to make sense of their newly multicultural student body. They struggled, however, to help immigrant students relate to the region's complicated racial past, especially during history lessons on the Jim Crow era and the Civil Rights movement. When Winders turns to life in Nashville's neighborhoods, she finds that many Latino immigrants opted to be quiet in public, partly in response to negative stereotypes of Hispanics across Nashville. Long-term residents, however, viewed this silence as evidence of a failure to adapt to local norms of being neighborly. Filled with voices from both long-term residents and Latino immigrants, Nashville in the New Millennium offers an intimate portrait of the changing geography of immigrant settlement in America. It provides a comprehensive picture of Latino migration's impact on race relations in the country and is an especially valuable contribution to the study of race and ethnicity in the South. -- Publisher."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Hispanic Americans"
+          },
+          {
+            "z": "Tennessee"
+          },
+          {
+            "z": "Nashville"
+          },
+          {
+            "x": "Social conditions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Hispanic Americans"
+          },
+          {
+            "x": "Cultural assimilation"
+          },
+          {
+            "z": "Tennessee"
+          },
+          {
+            "z": "Nashville."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Immigrants"
+          },
+          {
+            "z": "Tennessee"
+          },
+          {
+            "z": "Nashville."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Population geography"
+          },
+          {
+            "z": "Tennessee"
+          },
+          {
+            "z": "Nashville."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Assimilation (Sociology)"
+          },
+          {
+            "z": "Tennessee"
+          },
+          {
+            "z": "Nashville."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nashville (Tenn.)"
+          },
+          {
+            "x": "Emigration and immigration"
+          },
+          {
+            "x": "Government policy."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nashville (Tenn.)"
+          },
+          {
+            "x": "Population."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Assimilation (Sociology)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00819095"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Emigration and immigration"
+          },
+          {
+            "x": "Government policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00908700"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Hispanic Americans"
+          },
+          {
+            "x": "Cultural assimilation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00957541"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Hispanic Americans"
+          },
+          {
+            "x": "Social conditions."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00957600"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Immigrants."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00967712"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Population."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071476"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Population geography."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071591"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Tennessee"
+          },
+          {
+            "z": "Nashville."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204195"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 106 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000026211"
+          }
+        ]
+      }
+    }
+  ]
+}

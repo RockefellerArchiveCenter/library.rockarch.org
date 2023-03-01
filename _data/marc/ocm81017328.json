@@ -1,0 +1,475 @@
+{
+  "leader": "01619cam a2200409Ia 4500",
+  "fields": [
+    {
+      "001": "ocm81017328\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221205173747.0"
+    },
+    {
+      "008": "921116s1965\\\\\\\\pr\\a\\\\\\\\\\c\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NNMoMA"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "MZA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "ZZAND"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MAV"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "65991445"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)81017328"
+          },
+          {
+            "z": "(OCoLC)65991445"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "nwpr---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "N714"
+          },
+          {
+            "b": ".P58 1965"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "759.04"
+          },
+          {
+            "b": "PON"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ponce Art Museum."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Catalogue 1 :"
+          },
+          {
+            "b": "paintings of the European and American schools /"
+          },
+          {
+            "c": "by Julius S. Held."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Museo de Arte de Ponce/Fundacio\u0301n Luis A. Ferre\u0301 :"
+          },
+          {
+            "b": "Catalogue 1."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ponce :"
+          },
+          {
+            "b": "Museo de Arte de Ponce,"
+          },
+          {
+            "c": "1965."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 333 pages :"
+          },
+          {
+            "b": "illustrations"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Fundacio\u0301n Luis A. Ferre\u0301.\""
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ponce Art Museum"
+          },
+          {
+            "v": "Catalogs."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Painting, European"
+          },
+          {
+            "v": "Catalogs."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Painting, American"
+          },
+          {
+            "z": "Puerto Rico"
+          },
+          {
+            "z": "Ponce"
+          },
+          {
+            "v": "Catalogs."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ponce Art Museum."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00599048"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Painting, American."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01050648"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Painting, European."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01050808"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Puerto Rico"
+          },
+          {
+            "z": "Ponce."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01206019"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Catalogs."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423692"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Held, Julius S."
+          },
+          {
+            "q": "(Julius Samuel),"
+          },
+          {
+            "d": "1905-2002."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Ponce Art Museum."
+          },
+          {
+            "t": "Catalogue I."
+          },
+          {
+            "d": "Ponce, 1965"
+          },
+          {
+            "w": "(OCoLC)644537596"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 12 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000011283"
+          }
+        ]
+      }
+    }
+  ]
+}

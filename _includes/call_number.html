@@ -1,0 +1,3 @@
+{% comment %}Formats a call number{% endcomment %}
+{%- assign call_number_data = include.object.fields | map: "082" | map: "subfields" -%}
+{{- call_number_data | map: "a"}} {{call_number_data | map: "b" -}}

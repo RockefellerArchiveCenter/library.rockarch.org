@@ -1,0 +1,574 @@
+{
+  "leader": "02209cam a22004811i 4500",
+  "fields": [
+    {
+      "001": "ocm00234911\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220712135358.0"
+    },
+    {
+      "008": "720207s1942\\\\\\\\nyudfk\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   42017336 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "WSU"
+          },
+          {
+            "d": "NGU"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "UAB"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CTN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SHH"
+          },
+          {
+            "d": "LUE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CCH"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NZ1"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)234911"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "LB3051"
+          },
+          {
+            "b": ".S58 1942"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "LB3051"
+          },
+          {
+            "b": "S58"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "371.272"
+          },
+          {
+            "b": "SMI"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Smith, Eugene Randolph,"
+          },
+          {
+            "d": "1876-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Appraising and recording student progress /"
+          },
+          {
+            "c": "[by] Eugene R. Smith, Ralph W. Tyler and the Evaluation staff."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York ;"
+          },
+          {
+            "a": "London :"
+          },
+          {
+            "b": "Harper & Brothers,"
+          },
+          {
+            "c": "[1942]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxiii, 550 pages, 2 folded leaves :"
+          },
+          {
+            "b": "forms (some folded), charts ;"
+          },
+          {
+            "c": "21 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Progressive education association. Commission on the relation of school and college] Adventure in American education,"
+          },
+          {
+            "v": "vol. 3"
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Grading and marking (Students)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Educational tests and measurements."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education, Secondary."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Intelligence tests."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Educational Measurement"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Intelligence Tests"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Intelligence tests."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00975867"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education, Secondary."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00903252"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Educational tests and measurements."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00903660"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Grading and marking (Students)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00945795"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Tyler, Ralph W."
+          },
+          {
+            "q": "(Ralph Winfred),"
+          },
+          {
+            "d": "1902-1994,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Progressive Education Association (U.S.)."
+          },
+          {
+            "b": "Evaluation in the Eight Year Study."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Smith, Eugene Randolph, 1876-"
+          },
+          {
+            "t": "Appraising and recording student progress."
+          },
+          {
+            "d": "New York, London, Harper & brothers [1942]"
+          },
+          {
+            "w": "(OCoLC)582362266"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Adventure in American education ;"
+          },
+          {
+            "v": "v. 3."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 312 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019895"
+          }
+        ]
+      }
+    }
+  ]
+}

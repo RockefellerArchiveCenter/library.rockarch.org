@@ -1,0 +1,516 @@
+{
+  "leader": "01974cam a2200421Ma 4500",
+  "fields": [
+    {
+      "001": "ocm22841818\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211008113125.0"
+    },
+    {
+      "008": "900130s1989\\\\\\\\dcua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "PAU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "PAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "BRL"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "29588545"
+          },
+          {
+            "a": "1039417785"
+          },
+          {
+            "a": "1098322378"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)22841818"
+          },
+          {
+            "z": "(OCoLC)29588545"
+          },
+          {
+            "z": "(OCoLC)1039417785"
+          },
+          {
+            "z": "(OCoLC)1098322378"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "e------"
+          },
+          {
+            "a": "n-us-pa"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "LC5056.A2"
+          },
+          {
+            "b": "N68 1989b"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "370.11"
+          },
+          {
+            "b": "NOT"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Nothdurft, William E."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Schoolworks, reinventing public schools to create the workforce of the future :"
+          },
+          {
+            "b": "innovations in educationand job training from Sweden, West Germany, France, Great Britain ... and Philadelphia /"
+          },
+          {
+            "c": "William E. Nothdurft."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "German Marshall Fund of the United States,"
+          },
+          {
+            "c": "\u00a91989."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ix, 94 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "School improvement programs"
+          },
+          {
+            "z": "Europe"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "School improvement programs"
+          },
+          {
+            "z": "Pennsylvania"
+          },
+          {
+            "z": "Philadelphia"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vocational education"
+          },
+          {
+            "z": "Europe"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vocational education"
+          },
+          {
+            "z": "Pennsylvania"
+          },
+          {
+            "z": "Philadelphia"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Working class"
+          },
+          {
+            "x": "Education"
+          },
+          {
+            "z": "Europe"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Working class"
+          },
+          {
+            "x": "Education"
+          },
+          {
+            "z": "Pennsylvania"
+          },
+          {
+            "z": "Philadelphia"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "School improvement programs."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01107461"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Vocational education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01168486"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Working class"
+          },
+          {
+            "x": "Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01180443"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Europe."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01245064"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Pennsylvania"
+          },
+          {
+            "z": "Philadelphia."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204170"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Case studies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423765"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 11 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019864"
+          }
+        ]
+      }
+    }
+  ]
+}

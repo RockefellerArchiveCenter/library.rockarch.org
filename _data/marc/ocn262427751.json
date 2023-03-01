@@ -1,0 +1,640 @@
+{
+  "leader": "02962cam a2200481 a 4500",
+  "fields": [
+    {
+      "001": "ocn262427751"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105145837.0"
+    },
+    {
+      "008": "081009s2009\\\\\\\\enka\\\\\\\\\\bd\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "UKM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "UKM"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BWKUK"
+          },
+          {
+            "d": "BWK"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "TJC"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "KIJ"
+          },
+          {
+            "d": "ILU"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "BEDGE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "S3O"
+          },
+          {
+            "d": "MOR"
+          },
+          {
+            "d": "IRCJS"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "IPL"
+          },
+          {
+            "d": "GZM"
+          },
+          {
+            "d": "SEO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "UKOBU"
+          },
+          {
+            "d": "CEF"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "BUB"
+          },
+          {
+            "d": "EUM"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "UWO"
+          },
+          {
+            "d": "CWI"
+          },
+          {
+            "d": "ERD"
+          },
+          {
+            "d": "UKNRU"
+          },
+          {
+            "d": "FIE"
+          },
+          {
+            "d": "UK5EZ"
+          },
+          {
+            "d": "AZDAC"
+          },
+          {
+            "d": "UWK"
+          },
+          {
+            "d": "EUX"
+          },
+          {
+            "d": "UKROH"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UEJ"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "ZAQ"
+          },
+          {
+            "d": "UNITY"
+          },
+          {
+            "d": "Q2U"
+          },
+          {
+            "d": "UKQUB"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "ERL"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "066": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "{dollar}1"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "014794698"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1049781655"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781403992956"
+          },
+          {
+            "q": "(hbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1403992959"
+          },
+          {
+            "q": "(hbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)262427751"
+          },
+          {
+            "z": "(OCoLC)1049781655"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "JV6035"
+          },
+          {
+            "b": ".P35 2009"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "JZ1320"
+          },
+          {
+            "b": ".P35 2009"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "304.8203"
+          },
+          {
+            "b": "PAL"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Palgrave dictionary of transnational history /"
+          },
+          {
+            "c": "edited by Akira Iriye and Pierre-Yves Saunier."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Dictionary of transnational history"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Basingstoke [England] ;"
+          },
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Palgrave Macmillan,"
+          },
+          {
+            "c": "2009."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xli, 1226 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"From the mid-19th century to the present day\"--Cover."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes indexes."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and indexes."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"The Palgrave Dictionary of Transnational History is written by over 350 authors from 25 countries and numerous subject disciplines. They share the belief that modern world history must be understood, not simply as a sum of national histories or a chronical of inter-state affairs, but also as a story of connections and circulation, by people, goods, ideas and skills. These are not always confined to any particular country or region of the world, nor are they identifiable with states or governments. The essence of history can only be fully understood by following the flows, ties and appropriations they trigger across borders."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "8",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Even such familiar items as taxation, the Cold War or beauty take on fresh significance when they are viewed in the framework, not of national or international affairs but of transnational relations and interactions.\" \"This unique volume provides scholars and students with an easy-to-use reference tool of over 400 entries to further their understanding of modern world history.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Transnationalism"
+          },
+          {
+            "x": "History"
+          },
+          {
+            "v": "Dictionaries."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Globalization"
+          },
+          {
+            "v": "Dictionaries."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Globalization."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00943532"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Transnationalism."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01154884"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Dictionaries."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423826"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Iriye, Akira."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Saunier, Pierre-Yves."
+          }
+        ]
+      }
+    },
+    {
+      "880": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "6": "700-00/{dollar}1"
+          },
+          {
+            "a": "\u5165\u6c5f, \u662d(1934-)"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 223 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

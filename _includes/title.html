@@ -1,0 +1,6 @@
+{% comment %}Formats object title{% endcomment %}
+{%- assign title_info = include.object.fields | map: "245" | map: "subfields" | compact -%}
+{%- capture output -%}
+  {{title_info | map: "a" }} {{title_info | map: "b" }}
+{%- endcapture -%}
+{{- output | replace: '"', '\"' | remove: "/" | rstrip -}}

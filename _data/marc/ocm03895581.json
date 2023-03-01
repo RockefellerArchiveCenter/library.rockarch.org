@@ -1,0 +1,636 @@
+{
+  "leader": "02223cas a2200565 a 4500",
+  "fields": [
+    {
+      "001": "ocm03895581\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220302101248.0"
+    },
+    {
+      "008": "780515d18981979nyuar\\\\\\\\r\\\\\\\\0\\\\\\\\0eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   00001422 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "COO"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "NYG"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "012": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "i": "9211"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "41332039"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)3895581"
+          },
+          {
+            "z": "(OCoLC)41332039"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ny"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HG4058"
+          },
+          {
+            "b": ".N55"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "917.471"
+          },
+          {
+            "b": "DIR"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Directory of directors in the city of New York."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Directory of directors"
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "Directory of directors in the city of New York and suburbs"
+          },
+          {
+            "f": "1979"
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Audit Co.,"
+          },
+          {
+            "c": "-1979."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "68 volumes ;"
+          },
+          {
+            "c": "20-26 cm"
+          }
+        ]
+      }
+    },
+    {
+      "310": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Annual,"
+          },
+          {
+            "b": "1933-1979"
+          }
+        ]
+      }
+    },
+    {
+      "321": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Biennial,"
+          },
+          {
+            "b": "1908-<1930>"
+          }
+        ]
+      }
+    },
+    {
+      "321": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Annual,"
+          },
+          {
+            "b": "1898-1906"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "362": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Began with issue for 1898."
+          }
+        ]
+      }
+    },
+    {
+      "362": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "-1979 ed."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Published by: Directory of Directors Co., <1976>-1979."
+          }
+        ]
+      }
+    },
+    {
+      "515": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Issues for <1976>-1979 called also: <65th ed.>-68th ed."
+          }
+        ]
+      }
+    },
+    {
+      "588": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Description based on: 1899."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Directors of corporations"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "v": "Directories."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Corporations"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "v": "Directories."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Executives"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "v": "Directories."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Business enterprises"
+          },
+          {
+            "z": "New York (State)"
+          },
+          {
+            "z": "New York"
+          },
+          {
+            "v": "Directories."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Business enterprises."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00842519"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Corporations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00879777"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Directors of corporations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00894593"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Executives."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00917875"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "New York (State)"
+          },
+          {
+            "z": "New York."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204333"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Directories."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423796"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Directory of directors in the city of New York"
+          },
+          {
+            "w": "(OCoLC)620820068"
+          }
+        ]
+      }
+    },
+    {
+      "785": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Directory of directors in the city of New York and suburbs"
+          },
+          {
+            "w": "(DLC)   92649660"
+          },
+          {
+            "w": "(OCoLC)6705020"
+          }
+        ]
+      }
+    },
+    {
+      "850": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 82 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015835"
+          },
+          {
+            "v": "1960 ed."
+          }
+        ]
+      }
+    }
+  ]
+}

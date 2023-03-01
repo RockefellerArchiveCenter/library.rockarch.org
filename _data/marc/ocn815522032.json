@@ -1,0 +1,520 @@
+{
+  "leader": "03161cam a2200445 a 4500",
+  "fields": [
+    {
+      "001": "ocn815522032"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221220172658.0"
+    },
+    {
+      "008": "121031s2012\\\\\\\\nyua\\\\\\\\\\bc\\\\\\000\\0\\eng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2012946308"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HVC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "HVC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OSU"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "PMC"
+          },
+          {
+            "d": "UKTTE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "NYWWB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "EEM"
+          },
+          {
+            "d": "ZLM"
+          },
+          {
+            "d": "RCE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "016332970"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780615510934"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0615510930"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)815522032"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "N7359.S55"
+          },
+          {
+            "b": "A4 2012"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "709.2"
+          },
+          {
+            "b": "IKE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ikegami, Hiroko,"
+          },
+          {
+            "d": "1973-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Shinohara pops! :"
+          },
+          {
+            "b": "the avant-garde road, Tokyo/New York /"
+          },
+          {
+            "c": "Hiroko Ikegami, Reiko Tomii ; with contribution by Michael Lobel."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New Paltz, NY :"
+          },
+          {
+            "b": "Samuel Dorsky Museum of Art ;"
+          },
+          {
+            "a": "[Albany NY] :"
+          },
+          {
+            "b": "Distributed by State University of New York Press,"
+          },
+          {
+            "c": "\u00a92012."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "128 pages :"
+          },
+          {
+            "b": "illustrations (some color) ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"This publication accompanies the exhibition Shinohara Pops! The Avant-Garde Road, Tokyo/New York, curated by Hiroko Ikegami and Reiko Tomii and presented at the Sara Bedrick Gallery of the Samuel Dorsky Museum of Art at the State University of New York at New Paltz, from August 29 through December 16, 2012\"--Title page verso."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Shinohara pops! When Oiran rides a motorcycle, Wonder Woman swings a samurai sword / Hiroko Ikegami -- Ushio Shinohara's action in three modes : Boxing painting and beyond / Reiko Tomii -- Art of the motorcycle : Shinohara in the 1970s / Michael Lobel -- Shinohara speaks! / selected by Hiroko Ikegami, translated by Reiko Tomii."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"This catalogue, accompanying the exhibition of the same title at the Samuel Dorsky Museum of Art at SUNY New Paltz (August 29 through December 16, 2012), examines the fifty-year career of Ushio Shinohara, an indispensable player in the field of global contemporary history. Born in Japan in 1932, Shinohara was an enfant terrible of the Tokyo avant-garde art scene in the late 1950s with his \"action art.\" During the 1960s, he went on to invent such signature series as Boxing Painting, Imitation Art, and Oiran. After his move to New York in 1969, he continued with his versatile image-making endeavor, with Motorcycle Sculpture and drawings of street scenes, among other series. Taken together, this volume narrates a story of the inventive, imaginative, and skillful image-maker that is Ushio Shinohara.\"--SUNY Press."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Shinohara, Ushio,"
+          },
+          {
+            "d": "1932-"
+          },
+          {
+            "v": "Exhibitions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Sculpture, Japanese."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Shinohara, Ushio,"
+          },
+          {
+            "d": "1932-"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00176182"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Sculpture, Japanese."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01109739"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Exhibition catalogs."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01424028"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Shinohara, Ushio,"
+          },
+          {
+            "d": "1932-"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Tomii, Reiko."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Samuel Dorsky Museum of Art."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 124 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000020120"
+          }
+        ]
+      }
+    }
+  ]
+}

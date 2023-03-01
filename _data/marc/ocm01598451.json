@@ -1,0 +1,637 @@
+{
+  "leader": "02535cam a2200517 i 4500",
+  "fields": [
+    {
+      "001": "ocm01598451\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211117093748.0"
+    },
+    {
+      "008": "040202s1948\\\\\\\\gy\\a\\\\\\\\\\b\\\\\\f000\\0\\eng\\\\"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "GZH"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "FQG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "UAB"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "101704222"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "225335965"
+          },
+          {
+            "a": "877731190"
+          },
+          {
+            "a": "1197649211"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1598451"
+          },
+          {
+            "z": "(OCoLC)225335965"
+          },
+          {
+            "z": "(OCoLC)877731190"
+          },
+          {
+            "z": "(OCoLC)1197649211"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "s-gy---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RA640"
+          },
+          {
+            "b": ".G5"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "RA 643"
+          },
+          {
+            "b": "G45"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WC 765"
+          },
+          {
+            "b": "G459m 1948"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "614.4323"
+          },
+          {
+            "b": "GIG"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Giglioli, George,"
+          },
+          {
+            "d": "1897-1975,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Malaria, filariasis, and yellow fever in British Guiana :"
+          },
+          {
+            "b": "control by residual D.D.T. methods with special reference to progress made in eradicating A. darlingi and Aedea aegypti from the settled coastlands /"
+          },
+          {
+            "c": "by George Giglioli."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "British Guiana :"
+          },
+          {
+            "b": "Mosquito Control Service, Medical Department,"
+          },
+          {
+            "c": "1948."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 226 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "27 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cover title."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Mosquitoes"
+          },
+          {
+            "x": "Control"
+          },
+          {
+            "z": "Guyana."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Mosquitoes"
+          },
+          {
+            "x": "Control."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01026776"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Guyana."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01208722"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Malaria"
+          },
+          {
+            "x": "prevention & control."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D008288Q000517"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Mosquito Control"
+          },
+          {
+            "x": "methods."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D009032Q000379"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Filariasis"
+          },
+          {
+            "x": "prevention & control."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D005368Q000517"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Yellow Fever"
+          },
+          {
+            "x": "prevention & control."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D015004Q000517"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Anopheles"
+          },
+          {
+            "x": "drug effects."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D000852Q000187"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Aedes"
+          },
+          {
+            "x": "drug effects."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D000330Q000187"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "DDT."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D003634"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Guyana."
+          },
+          {
+            "0": "https://id.nlm.nih.gov/mesh/D006172"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Sorkin, Barbara C.,"
+          },
+          {
+            "e": "donor."
+          },
+          {
+            "5": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "McKenzie, F. Ellis,"
+          },
+          {
+            "c": "Jr.,"
+          },
+          {
+            "d": "-2016,"
+          },
+          {
+            "e": "former owner."
+          },
+          {
+            "5": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "British Guiana."
+          },
+          {
+            "b": "Mosquito Control Service,"
+          },
+          {
+            "e": "issuing body."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Giglioli, George."
+          },
+          {
+            "t": "Malaria, filariasia and yellow fever in British Guiana."
+          },
+          {
+            "d": "[Georgetown] British Guiana, Mosquito Control Service, Medical Dept., 1948"
+          },
+          {
+            "w": "(OCoLC)765006127"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 32 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

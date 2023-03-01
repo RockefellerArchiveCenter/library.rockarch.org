@@ -1,0 +1,576 @@
+{
+  "leader": "03288cam  22005294a 4500",
+  "fields": [
+    {
+      "001": "ocm56356493\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211112100700.0"
+    },
+    {
+      "008": "041203s2004\\\\\\\\bl\\ac\\\\\\\\b\\\\\\\\000\\0\\por\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2005341467"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "YUS"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "YUS"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "CLU"
+          },
+          {
+            "d": "UBY"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "LILAC"
+          },
+          {
+            "d": "NOC"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "101246080"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "8575410377"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9788575410370"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)56356493"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "cl-----"
+          },
+          {
+            "a": "cc-----"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RA450.5"
+          },
+          {
+            "b": ".C86 2004"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "2005 E-585"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WZ 70 DA15"
+          },
+          {
+            "b": "C966 2004"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "362.1098"
+          },
+          {
+            "b": "CUI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cuidar, controlar, curar :"
+          },
+          {
+            "b": "ensaios hist\ufffdoricos sobre sa\ufffdude e doen\ufffdca na Am\ufffderica Latina e Caribe /"
+          },
+          {
+            "c": "Gilberto Hochman e Diego Armus, organizadores."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rio de Janeiro :"
+          },
+          {
+            "b": "Editora Fiocruz,"
+          },
+          {
+            "c": "2004."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "567 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "23 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cole\ufffdc\ufffdao Hist\ufffdoria e sa\ufffdude"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Profiss\ufffdoes da sa\ufffdude e lutas de poder no M\ufffdexico, 1821-1917 / Ana Maria Carillo -- Febre amarela e a Institui\ufffdcao da Microbiologia no Brasil / Jaime Larry Benchimol -- Luta antialco\ufffdolica e higiene social na Col\ufffdombia, 1886-1948 / Carlos Ernesto Noguera -- Anemia, bruxas e vampiros: figuras para governanr a col\ufffdonia / Benigno Trigo -- Fragmentos de um mundo oculto: pr\ufffdaticas de cura no sul do Brasil / Beatriz Teixeira Weber -- Sa\ufffdude imperial e educa\ufffdc\ufffdao popular: a Funda\ufffdc\ufffdao Rockefeller na Costa Rica em uma perspectiva centro-americana, 1914-1921 / Steven Palmer --Poder, ideologias e sa\ufffdude no Brasil da Primeira Rep\ufffdublica: ensaio de sociologia hist\ufffdorica / Luiz Antonio de Castro Santos -- Tifo, var\ufffdiola e indegenismo: Manuel N\ufffdu\ufffdnez Butr\ufffdon e a medicina rural em Puno, Per\ufffdu / Marcos Cueto -- Eugenia no Brasil, 1917-1940 / Nancy Leys Stepan -- 'Quermos a vacina pueyo!!!\": incertezas biom\ufffdedicas, enfermos que protestam e a imprensa-- Argentina 1920-1940 / Diego Armus -- Estrat\ufffdegias anticoloniais: s\ufffdifilis, ra\ufffdca e identidade nacional no Brasil do entre-guerras / S\ufffdergio Carrara -- Doen\ufffdca mental e democracia na Bol\ufffdivia: o Manicomio Pacheco, 1935-1950 / Ann Zulawski -- \"Pouca sa\ufffdude e muita sa\ufffduva\": sanitarismo, interpreta\ufffdc\ufffdoes do pa\ufffdis e ci\ufffdencias sociais / N\ufffdisia Trinidade Lima e Gilberto Hochman -- Mandando doen\ufffdca: feiti\ufffdcario, pol\ufffditica e mudan\ufffdca nos conceitos da Aids no Haiti rural / Paul Farmer."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public health"
+          },
+          {
+            "z": "Latin America"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Medical care"
+          },
+          {
+            "z": "Latin America"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History of Medicine."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History, 19th Century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "History, 20th Century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "2",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Public Health"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Latin America."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Medical care."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01013753"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public health."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01082238"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Latin America."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01245945"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Hochman, Gilberto."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Armus, Diego."
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cole\ufffdc\ufffdao Hist\ufffdoria e sa\ufffdude."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 35 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012207"
+          }
+        ]
+      }
+    }
+  ]
+}

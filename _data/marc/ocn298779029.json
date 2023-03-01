@@ -1,0 +1,571 @@
+{
+  "leader": "05432cam a2200481 a 4500",
+  "fields": [
+    {
+      "001": "ocn298779029"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106155203.0"
+    },
+    {
+      "008": "090206s2009\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2009003527"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "VVC"
+          },
+          {
+            "d": "EDK"
+          },
+          {
+            "d": "MIX"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MUB"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871540522"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871540525"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)298779029"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-mi"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "F574.D49"
+          },
+          {
+            "b": "A6538 2009"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "305.8927073077434"
+          },
+          {
+            "b": "CIT"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Detroit Arab American Study Team."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Citizenship and crisis :"
+          },
+          {
+            "b": "Arab Detroit after 9/11 /"
+          },
+          {
+            "c": "Detroit Arab American Study Team."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a92009."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 299 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "About the authors -- Acknowledgments -- Introduction -- 1: Citizenship and crisis / Wayne Baker and Andrew Shryock -- Part 1: Community In Crisis -- 2: Arab American identities in question / Andrew Shryock and Ann Chih Lin -- 3: Aftermath of the 9/11 attacks / Sally Howell and Amaney Jamal -- Part 2: Beliefs And Bonds -- 4: Belief and belonging / Sally Howell and Amaney Jamal -- 5: Values and cultural membership / Wayne Baker and Amaney Jamal -- 6: Local and global social capital / Wayne Baker, Amaney Jamal, and Mark Tessler -- Part 3: Political Ideology -- 7: Civil liberties / Ronald R Stockton -- 8: Foreign policy / Ronald R Stockton -- Conclusion -- 9: Limits of citizenship / Andrew Shryock and Ann Chih Lin -- Index."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Product Description: Is citizenship simply a legal status or does it describe a sense of belonging to a national community? For Arab Americans, these questions took on new urgency after 9/11, as the cultural prejudices that have often marginalized their community came to a head. Citizenship and Crisis reveals that, despite an ever-shifting definition of citizenship and the ease with which it can be questioned in times of national crisis, the Arab communities of metropolitan Detroit continue to thrive. A groundbreaking study of social life, religious practice, cultural values, and political views among Detroit Arabs after 9/11, Citizenship and Crisis argues that contemporary Arab American citizenship and identity have been shaped by the chronic tension between social inclusion and exclusion that has been central to this population's experience in America. According to the landmark Detroit Arab American Study, which surveyed more than 1,000 Arab Americans and is the focus of this book, Arabs express pride in being American at rates higher than the general population. In nine wide-ranging essays, the authors of Citizenship and Crisis argue that the 9/11 backlash did not substantially transform the Arab community in Detroit, nor did it alter the identities that prevail there. The city's Arabs are now receiving more mainstream institutional, educational, and political support than ever before, but they remain a constituency defined as essentially foreign. The authors explore the role of religion in cultural integration and identity formation, showing that Arab Muslims feel more alienated from the mainstream than Arab Christians do. Arab Americans adhere more strongly to traditional values than do other Detroit residents, regardless of religion. Active participants in the religious and cultural life of the Arab American community attain higher levels of education and income, yet assimilation to the American mainstream remains important for achieving enduring social and political gains. The contradictions and dangers of being Arab and American are keenly felt in Detroit, but even when Arab Americans oppose U.S. policies, they express more confidence in U.S. institutions than do non-Arabs in the general population. The Arabs of greater Detroit, whether native-born, naturalized, or permanent residents, are part of a political and historical landscape that limits how, when, and to what extent they can call themselves American. When analyzed against this complex backdrop, the results of The Detroit Arab American Study demonstrate that the pervasive notion in American society that Arabs are not like \"us\" is simply inaccurate. Citizenship and Crisis makes a rigorous and impassioned argument for putting to rest this exhausted cultural and political stereotype."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Arab Americans"
+          },
+          {
+            "z": "Michigan"
+          },
+          {
+            "z": "Detroit."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Muslims"
+          },
+          {
+            "z": "Michigan"
+          },
+          {
+            "z": "Detroit."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "September 11 Terrorist Attacks, 2001."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Citizenship"
+          },
+          {
+            "z": "Michigan"
+          },
+          {
+            "z": "Detroit."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Detroit (Mich.)"
+          },
+          {
+            "x": "Ethnic relations."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Arab Americans."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00812200"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Citizenship."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00861909"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Ethnic relations."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00916005"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Muslims."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01031029"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Michigan"
+          },
+          {
+            "z": "Detroit."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205010"
+          }
+        ]
+      }
+    },
+    {
+      "647": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "September 11 Terrorist Attacks"
+          },
+          {
+            "d": "(2001)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01112794"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "2001"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Detroit Arab American Study Team."
+          },
+          {
+            "t": "Citizenship and crisis."
+          },
+          {
+            "d": "New York : Russell Sage Foundation, \u00a92009"
+          },
+          {
+            "w": "(OCoLC)653331395"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 206 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000026203"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "leader": "03624cam a2200529 a 4500",
+  "fields": [
+    {
+      "001": "ocm47756338\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20230104154653.0"
+    },
+    {
+      "008": "010723s2000\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\001\\0ceng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2001040625"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "EXW"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "48835191"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0823221423"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780823221424"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0823221431"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780823221431"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)47756338"
+          },
+          {
+            "z": "(OCoLC)48835191"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "CT220"
+          },
+          {
+            "b": ".O82 2001"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "973.90922"
+          },
+          {
+            "b": "OSH"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "O'Shaughnessy, William."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "It all comes back to me now :"
+          },
+          {
+            "b": "character portraits from the \"Golden Apple\" /"
+          },
+          {
+            "c": "William O'Shaughnessy."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "First edition."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Fordham University Press,"
+          },
+          {
+            "c": "2001."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxix, 637 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Communications and media studies series,"
+          },
+          {
+            "x": "1522-385X ;"
+          },
+          {
+            "v": "no. 7"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Foreword /"
+          },
+          {
+            "r": "Governor Mario Cuomo --"
+          },
+          {
+            "t": "Introduction /"
+          },
+          {
+            "r": "L.H. \"Hank\" Whittemore --"
+          },
+          {
+            "t": "Tributes and Essays --"
+          },
+          {
+            "t": "Malcolm --"
+          },
+          {
+            "t": "John Cardinal O'Connor --"
+          },
+          {
+            "t": "The Priest: An Appreciation of Monsignor Terence Attridge --"
+          },
+          {
+            "t": "JVL --"
+          },
+          {
+            "t": "Edward J. Hughes: The Journalist --"
+          },
+          {
+            "t": "Hugh Doyle: The Councilman Emeritus --"
+          },
+          {
+            "t": "William Butcher: The Escape Club Loses A Member --"
+          },
+          {
+            "t": "Joe Candrea --"
+          },
+          {
+            "t": "Frank: A Radio Tribute --"
+          },
+          {
+            "t": "A Farewell Tribute to Andrew P. O'Rourke --"
+          },
+          {
+            "t": "Edward Cardinal Egan --"
+          },
+          {
+            "t": "\"The Peacemaker\": A Salute to Michael J. Armiento, Police Commissioner --"
+          },
+          {
+            "t": "Presentation of the Coalition for Mutual Respect Yitzhak Rabin Peacemakers Award to Christopher Edley, Jr. --"
+          },
+          {
+            "t": "Bob Peebles: A Reminiscence --"
+          },
+          {
+            "t": "The Sum Total of a Tragedy --"
+          },
+          {
+            "t": "This Christmas: We Ask Three Wise Men --"
+          },
+          {
+            "t": "Interviews --"
+          },
+          {
+            "t": "Mario M. Cuomo --"
+          },
+          {
+            "t": "Matilda Cuomo --"
+          },
+          {
+            "t": "Andrew Cuomo --"
+          },
+          {
+            "t": "Malcolm Wilson --"
+          },
+          {
+            "t": "Nelson Rockefeller --"
+          },
+          {
+            "t": "Cary Reich --"
+          },
+          {
+            "t": "Larry Rockefeller --"
+          },
+          {
+            "t": "Robert Abplanalp --"
+          },
+          {
+            "t": "Joe Canzeri --"
+          },
+          {
+            "t": "Ogden Reid --"
+          },
+          {
+            "t": "Jonathan Bush --"
+          },
+          {
+            "t": "Mario Biaggi --"
+          },
+          {
+            "t": "Bill Plunkett --"
+          },
+          {
+            "t": "John F. Kennedy, Jr., and Andrew Cuomo --"
+          },
+          {
+            "t": "Robert Kennedy, Jr. --"
+          },
+          {
+            "t": "Jeanine Pirro --"
+          },
+          {
+            "t": "Hugh Price --"
+          },
+          {
+            "t": "Martin Stone --"
+          },
+          {
+            "t": "Lou Boccardi --"
+          },
+          {
+            "t": "Walter Isaacson --"
+          },
+          {
+            "t": "Terry Anderson --"
+          },
+          {
+            "t": "Ken Chandler --"
+          },
+          {
+            "t": "Terry Golway --"
+          },
+          {
+            "t": "Walter Anderson --"
+          },
+          {
+            "t": "Phil Reisman --"
+          },
+          {
+            "t": "Craig Watson --"
+          },
+          {
+            "t": "George Plimpton --"
+          },
+          {
+            "t": "Ernest D. Davis --"
+          },
+          {
+            "t": "Michael Carney --"
+          },
+          {
+            "t": "Hoagy Carmichael, Jr. --"
+          },
+          {
+            "t": "Robert Merrill --"
+          },
+          {
+            "t": "M. Paul Redd --"
+          },
+          {
+            "t": "Monsignor Terry Attridge --"
+          },
+          {
+            "t": "Rabbi Amiel Wohl --"
+          },
+          {
+            "t": "Monsignor Ed Connors --"
+          },
+          {
+            "t": "Brother John Driscoll --"
+          },
+          {
+            "t": "Dr. Richard Fraser --"
+          },
+          {
+            "t": "C.V. \"Jim\" Woolridge --"
+          },
+          {
+            "t": "E. Virgil Conway --"
+          },
+          {
+            "t": "Al Pirro, Jr. --"
+          },
+          {
+            "t": "Barry Slotnick."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "v": "Biography."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Biography"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Interviews"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Social life and customs"
+          },
+          {
+            "y": "1971-"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biography."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00832149"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Interviews."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00977644"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Manners and customs."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01007815"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Since 1900"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Biographies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919896"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Communications and media studies ;"
+          },
+          {
+            "v": "no. 7."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy0807/2001040625-b.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy0730/2001040625-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 110 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000025306"
+          }
+        ]
+      }
+    }
+  ]
+}

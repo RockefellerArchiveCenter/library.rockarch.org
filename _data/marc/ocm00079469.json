@@ -1,0 +1,794 @@
+{
+  "leader": "03635cam a2200541 i 4500",
+  "fields": [
+    {
+      "001": "ocm00079469\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707120040.0"
+    },
+    {
+      "008": "700609s1970\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   70109336 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ALMSI"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CCH"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "NZ1"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "VYM"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0255162"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "003060552"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1079138817"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0801405653"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780801405655"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)79469"
+          },
+          {
+            "z": "(OCoLC)1079138817"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "6.50"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV97.A3"
+          },
+          {
+            "b": "R44"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "AS 911"
+          },
+          {
+            "b": "R332f 1970"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "336.2944"
+          },
+          {
+            "b": "REE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Reeves, Thomas C.,"
+          },
+          {
+            "d": "1936-"
+          },
+          {
+            "e": "compiler."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Foundations under fire /"
+          },
+          {
+            "c": "Edited by Thomas C. Reeves."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ithaca [N.Y.] :"
+          },
+          {
+            "b": "Cornell University Press,"
+          },
+          {
+            "c": "[1970]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 235 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 221-227)."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "pt. 1."
+          },
+          {
+            "t": "Public responsibility:"
+          },
+          {
+            "t": "Reece report on tax-exempt foundations /"
+          },
+          {
+            "r": "House report no. 2681, 1954 --"
+          },
+          {
+            "t": "Corporation giving in a free society /"
+          },
+          {
+            "r": "Richard Eells --"
+          },
+          {
+            "t": "Foundation funds -whose money? /"
+          },
+          {
+            "r": "F. Emerson Andrews --"
+          },
+          {
+            "t": "Report of the president of the Carnegie Corporation, 1968 /"
+          },
+          {
+            "r": "Alan Pifer --"
+          },
+          {
+            "g": "pt. 2."
+          },
+          {
+            "t": "Venture capital:"
+          },
+          {
+            "t": "The role of philanthropy: an institutional view /"
+          },
+          {
+            "r": "Albert M. Sacks --"
+          },
+          {
+            "t": "Wealth and culture /"
+          },
+          {
+            "r": "Eduard C. Lindeman --"
+          },
+          {
+            "t": "Support for social research /"
+          },
+          {
+            "r": "Donald Young --"
+          },
+          {
+            "t": "A critique of American foundations /"
+          },
+          {
+            "r": "Burton Raffel --"
+          },
+          {
+            "g": "pt. 3."
+          },
+          {
+            "t": "Propaganda and politics:"
+          },
+          {
+            "t": "Foundations: their power and influence /"
+          },
+          {
+            "r": "Rene\u0301 A. Wormser --"
+          },
+          {
+            "t": "Freedom, education, and the fund /"
+          },
+          {
+            "r": "Robert M. Hutchins --"
+          },
+          {
+            "t": "Danger on the Right /"
+          },
+          {
+            "r": "Arnold Forster and Benjamin R. Epstein --"
+          },
+          {
+            "t": "Charity begins at home: foundations as a tax dodge /"
+          },
+          {
+            "r": "Fred J. Cook --"
+          },
+          {
+            "t": "Foundation pipe lines: the beneficent CIA /"
+          },
+          {
+            "r": "Robert G. Sherrill --"
+          },
+          {
+            "t": "U.S. philanthropic foundations: their history, structure, management, and record /"
+          },
+          {
+            "r": "Warren Weaver --"
+          },
+          {
+            "t": "The Rooney reform /"
+          },
+          {
+            "r": "Kenneth Crawford --"
+          },
+          {
+            "t": "Foundations under attack /"
+          },
+          {
+            "r": "Whitney M. Young, Jr. --"
+          },
+          {
+            "g": "pt. 4."
+          },
+          {
+            "t": "Business and taxes:"
+          },
+          {
+            "t": "House report on tax-exempt foundations and charitable trusts /"
+          },
+          {
+            "r": "Patman Report, 1962 --"
+          },
+          {
+            "t": "Foundations and the government: some observations on the future /"
+          },
+          {
+            "r": "Mortimer M. Caplin --"
+          },
+          {
+            "t": "Treasury department report on private foundations /"
+          },
+          {
+            "r": "Senate Committee on Finance --"
+          },
+          {
+            "t": "Views of the Treasury report /"
+          },
+          {
+            "r": "staff of the Russell Sage Foundation --"
+          },
+          {
+            "t": "The free-wheeling foundations /"
+          },
+          {
+            "r": "Wright Patman --"
+          },
+          {
+            "t": "Taxing the foundations /"
+          },
+          {
+            "r": "the Christian Science Monitor --"
+          },
+          {
+            "t": "Remarks before the House Committee on Ways and Means /"
+          },
+          {
+            "r": "George Meany --"
+          },
+          {
+            "t": "Taxing foundations is dangerous /"
+          },
+          {
+            "r": "John W. Gardner."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Economics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Politics, Practical."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Associations, institutions, etc."
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Tax exemption"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Economics"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Foundations"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Politics"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909854"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Festschriften."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01941036"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Festschriften."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Reeves, Thomas C., 1936-"
+          },
+          {
+            "t": "Foundations under fire."
+          },
+          {
+            "d": "Ithaca [N.Y.] Cornell University Press [1970]"
+          },
+          {
+            "w": "(OCoLC)654734899"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 574 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013963"
+          }
+        ]
+      }
+    }
+  ]
+}

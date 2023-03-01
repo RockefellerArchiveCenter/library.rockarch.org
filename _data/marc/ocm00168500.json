@@ -1,0 +1,543 @@
+{
+  "leader": "02407cam a22003851i 4500",
+  "fields": [
+    {
+      "001": "ocm00168500\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104134426.0"
+    },
+    {
+      "008": "740605s1967\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\110\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   67024864 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "NAUNA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "VYM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "COH"
+          },
+          {
+            "d": "ERD"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "KQW"
+          },
+          {
+            "d": "IL4J6"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "777128"
+          },
+          {
+            "a": "778191"
+          },
+          {
+            "a": "30275269"
+          },
+          {
+            "a": "742177853"
+          },
+          {
+            "a": "993284404"
+          },
+          {
+            "a": "1080821801"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)168500"
+          },
+          {
+            "z": "(OCoLC)777128"
+          },
+          {
+            "z": "(OCoLC)778191"
+          },
+          {
+            "z": "(OCoLC)30275269"
+          },
+          {
+            "z": "(OCoLC)742177853"
+          },
+          {
+            "z": "(OCoLC)993284404"
+          },
+          {
+            "z": "(OCoLC)1080821801"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HB501"
+          },
+          {
+            "b": ".F79"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "327.2"
+          }
+        ]
+      }
+    },
+    {
+      "080": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "330.824"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "330.122"
+          },
+          {
+            "b": "FUT"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The future of capitalism :"
+          },
+          {
+            "c": "a symposium of distinguished comment by internationally known leaders of industry, science, government, education, religion, and the arts delivered at the world convocation in New York City, September 19-21, 1966, on the occasion of the fiftieth anniversary of the National Industrial Conference Board."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Macmillan,"
+          },
+          {
+            "c": "[1967]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxi, 282 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "1."
+          },
+          {
+            "t": "Evolution of twentieth-century capitalism --"
+          },
+          {
+            "g": "2."
+          },
+          {
+            "t": "Labor looks at capitalism --"
+          },
+          {
+            "g": "3."
+          },
+          {
+            "t": "The public looks at labor --"
+          },
+          {
+            "g": "4."
+          },
+          {
+            "t": "Technological change and capitalism --"
+          },
+          {
+            "g": "5."
+          },
+          {
+            "t": "The future of capitalism in developing countries --"
+          },
+          {
+            "g": "6."
+          },
+          {
+            "t": "Free enterprise and the individual --"
+          },
+          {
+            "g": "7."
+          },
+          {
+            "t": "Capitalism, education, and the managerial discipline --"
+          },
+          {
+            "g": "8."
+          },
+          {
+            "t": "Business size and national economic growth --"
+          },
+          {
+            "g": "9."
+          },
+          {
+            "t": "Capitalism, culture, and the arts --"
+          },
+          {
+            "g": "10."
+          },
+          {
+            "t": "Capitalism, ethics, and morality --"
+          },
+          {
+            "g": "11."
+          },
+          {
+            "t": "Religious postulates of the economic-social order in freedom --"
+          },
+          {
+            "g": "12."
+          },
+          {
+            "t": "Capitalism -an agenda for the next half-century --"
+          },
+          {
+            "g": "13."
+          },
+          {
+            "t": "Capitalism and world monetary problems --"
+          },
+          {
+            "g": "14."
+          },
+          {
+            "t": "The outlook for freedom."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Capitalism."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Capitalism."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00846425"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Festschriften."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01941036"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Festschriften."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "National Industrial Conference Board."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 512 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015287"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,707 @@
+{
+  "leader": "03025cam  2200553 a 4500",
+  "fields": [
+    {
+      "001": "ocm26363821\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211118095234.0"
+    },
+    {
+      "007": "cr\\cnu||||||||"
+    },
+    {
+      "008": "920715s1992\\\\\\\\dcuab\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   92026480 "
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9313746"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "009399163"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "28677673"
+          },
+          {
+            "a": "900527633"
+          },
+          {
+            "a": "904553720"
+          },
+          {
+            "a": "907517114"
+          },
+          {
+            "a": "914132026"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0309047412"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780309047418"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)26363821"
+          },
+          {
+            "z": "(OCoLC)28677673"
+          },
+          {
+            "z": "(OCoLC)900527633"
+          },
+          {
+            "z": "(OCoLC)904553720"
+          },
+          {
+            "z": "(OCoLC)907517114"
+          },
+          {
+            "z": "(OCoLC)914132026"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "GZH"
+          },
+          {
+            "d": "COU"
+          },
+          {
+            "d": "VET"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "UAM"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UAA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "N4E"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "KGN"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RA643.5"
+          },
+          {
+            "b": ".E43 1992"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WA 110"
+          },
+          {
+            "b": "I59e 1992"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "RA643.5.E43"
+          },
+          {
+            "b": "1992"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "X380"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "362.1969"
+          },
+          {
+            "b": "EME"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Emerging infections :"
+          },
+          {
+            "b": "microbial threats to health in the United States /"
+          },
+          {
+            "c": "Joshua Lederberg, Robert E. Shope, and Stanley C. Oaks, Jr., editors."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "National Academy Press,"
+          },
+          {
+            "c": "1992."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 294 pages :"
+          },
+          {
+            "b": "illustrations, map ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Committee on Emerging Microbial Threats to Health, Division of Health Sciences Policy, Division of International Health, Institute of Medicine.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 170-191) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "1."
+          },
+          {
+            "t": "Background --"
+          },
+          {
+            "t": "Plague --"
+          },
+          {
+            "t": "Influenza --"
+          },
+          {
+            "t": "Optimism and Indifference --"
+          },
+          {
+            "t": "Trouble Ahead --"
+          },
+          {
+            "t": "Next Steps --"
+          },
+          {
+            "g": "2."
+          },
+          {
+            "t": "Factors in Emergence --"
+          },
+          {
+            "t": "Concept of Emergence --"
+          },
+          {
+            "t": "Human Demographics and Behavior --"
+          },
+          {
+            "t": "Technology and Industry --"
+          },
+          {
+            "t": "Economic Development and Land Use --"
+          },
+          {
+            "t": "International Travel and Commerce --"
+          },
+          {
+            "t": "Microbial Adaptation and Change --"
+          },
+          {
+            "t": "Breakdown of Public Health Measures --"
+          },
+          {
+            "g": "3."
+          },
+          {
+            "t": "Addressing the Threats --"
+          },
+          {
+            "t": "Recognition --"
+          },
+          {
+            "t": "Intervention."
+          },
+          {
+            "t": "A. Task Forces --"
+          },
+          {
+            "t": "B. Catalog of Emerging Infectious Disease Agents --"
+          },
+          {
+            "t": "C. Global Resources for Infectious Disease Surveillance --"
+          },
+          {
+            "t": "D. Committee and Staff Biographies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Emerging infectious diseases"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Communicable Diseases"
+          },
+          {
+            "x": "epidemiology."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "epidemiology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Emerging infectious diseases."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00908667"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lederberg, Joshua."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Shope, Robert E."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Oaks, S. C."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Institute of Medicine (U.S.)."
+          },
+          {
+            "b": "Committee on Emerging Microbial Threats to Health."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "National Academies Press"
+          },
+          {
+            "u": "http://www.nap.edu/catalog/2008.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "National Academies Press"
+          },
+          {
+            "u": "http://books.nap.edu/books/0309047412/html/index.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "u": "http://www.ncbi.nlm.nih.gov/books/NBK234855/"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "u": "https://www.ncbi.nlm.nih.gov/books/NBK234855/"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 393 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012237"
+          }
+        ]
+      }
+    }
+  ]
+}

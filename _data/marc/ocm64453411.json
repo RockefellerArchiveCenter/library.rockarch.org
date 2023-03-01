@@ -1,0 +1,845 @@
+{
+  "leader": "03487cam a2200613 a 4500",
+  "fields": [
+    {
+      "001": "ocm64453411\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220728125323.0"
+    },
+    {
+      "008": "060227s2007\\\\\\\\nyuab\\\\j\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2006006896"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "NYP"
+          },
+          {
+            "d": "NOR"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "WTX"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CHILD"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "DYJ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0816060622"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780816060627"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)64453411"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV4045"
+          },
+          {
+            "b": ".R44 2007"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "362.50973"
+          },
+          {
+            "b": "REE"
+          }
+        ]
+      }
+    },
+    {
+      "049": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYRV"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Reef, Catherine."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Poverty in America /"
+          },
+          {
+            "c": "Catherine Reef."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Facts on File,"
+          },
+          {
+            "c": "\u00a92007."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxix, 386 pages :"
+          },
+          {
+            "b": "illustrations, maps ;"
+          },
+          {
+            "c": "29 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American experience"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 357-369) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Introduction --"
+          },
+          {
+            "g": "ch. 1."
+          },
+          {
+            "t": "The deserving poor in colonial America : 1601-1775 --"
+          },
+          {
+            "g": "ch. 2."
+          },
+          {
+            "t": "Industrialization, immigration, and urban poverty : 1790-1864 --"
+          },
+          {
+            "g": "ch 3."
+          },
+          {
+            "t": "\"Who can describe their misery?\" : poverty and American slavery : 1619-1865 --"
+          },
+          {
+            "g": "ch. 4."
+          },
+          {
+            "t": "Charity reconsidered : 1865-1900 --"
+          },
+          {
+            "g": "ch. 5."
+          },
+          {
+            "t": "Social research and recommendations : 1900-1928 --"
+          },
+          {
+            "g": "ch. 6."
+          },
+          {
+            "t": "The poor take center stage : 1929-1941 --"
+          },
+          {
+            "g": "ch. 7."
+          },
+          {
+            "t": "The invisible mass : 1940-1962 --"
+          },
+          {
+            "g": "ch. 8."
+          },
+          {
+            "t": "The war on poverty and its aftermath : 1962-1980 --"
+          },
+          {
+            "g": "ch. 9."
+          },
+          {
+            "t": "The years of welfare reform : 1981-1996 --"
+          },
+          {
+            "g": "ch. 10."
+          },
+          {
+            "t": "Poverty endures : 1997-2006 --"
+          },
+          {
+            "t": "Appendix A : Documents --"
+          },
+          {
+            "t": "Appendix B : Biographies of major personalities --"
+          },
+          {
+            "t": "Appendix C : Maps --"
+          },
+          {
+            "t": "Appendix D : Graphs and tables --"
+          },
+          {
+            "t": "Glossary --"
+          },
+          {
+            "t": "Notes --"
+          },
+          {
+            "t": "Bibliography--"
+          },
+          {
+            "t": "Index."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "A history of poverty in the United States from the colonial era to the present chronicles the experiences of the poor, provides excerpts from writings about the problem, documents attitudes, and describes events."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Poor"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Poor"
+          },
+          {
+            "x": "Services for"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Volunteer workers in social service"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Case studies."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Minorities"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Social conditions"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "x": "Social conditions"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "x": "Economic conditions"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public welfare"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social service"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "x": "Economic conditions."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00799599"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "African Americans"
+          },
+          {
+            "x": "Social conditions."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00799698"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Minorities"
+          },
+          {
+            "x": "Social conditions."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01023228"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Poor."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071040"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Poor"
+          },
+          {
+            "x": "Services for."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01071142"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public welfare."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01083250"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Social service."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01123192"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Volunteer workers in social service."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01169103"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Case studies."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423765"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Case studies."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "American experience (Facts on File, Inc.)"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/ecip069/2006006896.html"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013448"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "C0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    }
+  ]
+}

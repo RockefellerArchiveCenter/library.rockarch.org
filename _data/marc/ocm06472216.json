@@ -1,0 +1,581 @@
+{
+  "leader": "02223cam a22005051  4500",
+  "fields": [
+    {
+      "001": "ocm06472216\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211103143951.0"
+    },
+    {
+      "008": "820626s1909\\\\\\\\gw\\\\\\\\\\\\\\b\\\\\\\\000\\0\\ger\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   09030127 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "CUN"
+          },
+          {
+            "d": "KKP"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "CASUM"
+          },
+          {
+            "d": "AOW"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "62130040R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1197654892"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)6472216"
+          },
+          {
+            "z": "(OCoLC)1197654892"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RB113"
+          },
+          {
+            "b": ".E5"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QZ"
+          },
+          {
+            "b": "E33b 1909"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "616.07"
+          },
+          {
+            "b": "EHR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ehrlich, Paul,"
+          },
+          {
+            "d": "1854-1915,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Beitra\u0308ge zur experimentellen pathologie und chemotherapie /"
+          },
+          {
+            "c": "von Paul Ehrlich ..."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Leipzig :"
+          },
+          {
+            "b": "Akademische verlagsgesellschaft m. b. h.,"
+          },
+          {
+            "c": "1909."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vii pages, 2 leaves, [3]-247 pages ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "561": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "APS copy bears the bookstamp of Paul E. Zillessen"
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "561": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "APS copy bears the bookplate of the Library of the Association of the Alumni of the College of Physicians and Surgeons in the City of New York"
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "541": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "Gift of"
+          },
+          {
+            "a": "Charles E. Rosenberg"
+          },
+          {
+            "d": "March 2017"
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "585": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Not yet exhibited"
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (Garrison-Morton (3rd ed.) 2565)."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Pathology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Therapeutics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Pathology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Therapeutics."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Pathology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01054964"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Therapeutics."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01149694"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Zillessen, Paul E."
+          },
+          {
+            "e": "former owner"
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Rosenberg, Charles E."
+          },
+          {
+            "e": "donor"
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Akademische Verlagsgesellschaft (Leipzig, Germany),"
+          },
+          {
+            "e": "publishers."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "College of Physicians and Surgeons in the City of New York."
+          },
+          {
+            "b": "Alumni Association,"
+          },
+          {
+            "e": "former owner."
+          },
+          {
+            "5": "AOW"
+          }
+        ]
+      }
+    },
+    {
+      "752": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Germany"
+          },
+          {
+            "b": "Saxony"
+          },
+          {
+            "d": "Leipzig"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Also issued on microfilm."
+          },
+          {
+            "d": "[Bethesda, Md.] : National Library of Medicine, 1997."
+          },
+          {
+            "h": "1 microfilm reel : negative ; 35 mm."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "u": "http://books.google.com/books?vid=Stanford24503313847&printsec=titlepage"
+          },
+          {
+            "y": "Fulltext"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 69 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012095"
+          }
+        ]
+      }
+    }
+  ]
+}
