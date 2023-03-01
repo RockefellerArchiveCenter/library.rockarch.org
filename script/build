@@ -2,7 +2,7 @@
 
 set -e # halt script on error
 
-python script/make_pages.py
+python3 script/make_pages.py
 
 if [ "$JEKYLL_ENV" = "production" ]; then
   bundle exec jekyll build --config _config.yml,_config_prod.yml
