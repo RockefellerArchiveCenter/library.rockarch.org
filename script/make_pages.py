@@ -13,12 +13,12 @@ PAGE_DIR = abspath(join(__file__, pardir, pardir, OBJ_PREFIX))
 def clean_string(string):
     """Removes unwanted characters from a string."""
     replaced = string.strip().replace("\n", "").replace('"', '\\"')
-    return replaced.encode("utf-8") if (sys.version_info[0] < 3) else replaced
+    return replaced.encode("utf-8")
 
 def dict_value_from_list(list, key):
     """Given a key, returns the value for that key in a list of dictionaries."""
     val = next((d for d in list if d.get(key)), {}).get(key, "")
-    return val
+    return val.encode("utf-8")
 
 def construct_title(field_data):
     """Constructs a display title."""
