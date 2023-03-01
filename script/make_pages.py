@@ -23,8 +23,8 @@ def dict_value_from_list(list, key):
 def construct_title(field_data):
     """Constructs a display title."""
     title_data = dict_value_from_list(field_data, "245")
-    title = dict_value_from_list(title_data['subfields'], 'a').rstrip(' /')
-    subtitle = dict_value_from_list(title_data['subfields'], 'b').rstrip(' /')
+    title = dict_value_from_list(title_data['subfields'], 'a').encode('utf-8').rstrip(' /')
+    subtitle = dict_value_from_list(title_data['subfields'], 'b').encode('utf-8').rstrip(' /')
     return "{} {}".format(title, subtitle) if subtitle else title
 
 def make_pages():
