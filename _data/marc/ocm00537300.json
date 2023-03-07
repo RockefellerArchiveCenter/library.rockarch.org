@@ -1,0 +1,645 @@
+{
+  "leader": "02617cam a2200457Ii 4500",
+  "fields": [
+    {
+      "001": "ocm00537300\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220701151025.0"
+    },
+    {
+      "008": "730115s1938\\\\\\\\enk\\\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   38027987 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "OUN"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "OUN"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CHUNN"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CAT10501520"
+          },
+          {
+            "2": "DNAL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "000776055"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "427486190"
+          },
+          {
+            "a": "492957378"
+          },
+          {
+            "a": "559151869"
+          },
+          {
+            "a": "948739179"
+          },
+          {
+            "a": "1064195971"
+          },
+          {
+            "a": "1221600897"
+          },
+          {
+            "a": "1248123957"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0836928431"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780836928433"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)537300"
+          },
+          {
+            "z": "(OCoLC)427486190"
+          },
+          {
+            "z": "(OCoLC)492957378"
+          },
+          {
+            "z": "(OCoLC)559151869"
+          },
+          {
+            "z": "(OCoLC)948739179"
+          },
+          {
+            "z": "(OCoLC)1064195971"
+          },
+          {
+            "z": "(OCoLC)1221600897"
+          },
+          {
+            "z": "(OCoLC)1248123957"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV97.A3"
+          },
+          {
+            "b": "C6 1938"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HV97 A3"
+          },
+          {
+            "b": "C6 1972"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "280"
+          },
+          {
+            "b": "C78"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "X700"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "361.70973"
+          },
+          {
+            "b": "COO"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Coon, Horace,"
+          },
+          {
+            "d": "1897-1961."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Money to burn :"
+          },
+          {
+            "b": "what the great American philanthropic foundations do with their money /"
+          },
+          {
+            "c": "by Horace Coon."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[1st ed.]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "London ;"
+          },
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Longmans, Green and Co.,"
+          },
+          {
+            "c": "1938."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vii, 352 pages ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "340": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "m": "8vo."
+          },
+          {
+            "2": "rdabf"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "ch. 1."
+          },
+          {
+            "t": "Perpetuities and the public --"
+          },
+          {
+            "g": "ch. 2."
+          },
+          {
+            "t": "The foundation idea --"
+          },
+          {
+            "g": "ch. 3."
+          },
+          {
+            "t": "Philanthropy with a purpose: the Rockefeller Foundation --"
+          },
+          {
+            "g": "ch. 4."
+          },
+          {
+            "t": "The science of giving ... and getting: the Carnegie Corporation --"
+          },
+          {
+            "g": "ch. 5."
+          },
+          {
+            "t": "Creating a profession: the Russell Sage Foundation --"
+          },
+          {
+            "g": "ch. 6."
+          },
+          {
+            "t": "Dollars advance science: the role of the foundations in scientific progress --"
+          },
+          {
+            "g": "ch. 7."
+          },
+          {
+            "t": "An endowment for war: the Carnegie Endowment for International Peace --"
+          },
+          {
+            "g": "ch. 8."
+          },
+          {
+            "t": "The promotion of education: the General Education Board --"
+          },
+          {
+            "g": "ch. 9."
+          },
+          {
+            "t": "Pensions and educational standards: the Carnegie Foundation for the Achievement of Teaching --"
+          },
+          {
+            "g": "ch. 10."
+          },
+          {
+            "t": "\"Educating\" the public --"
+          },
+          {
+            "g": "ch. 11."
+          },
+          {
+            "t": "Public health and private philanthropy --"
+          },
+          {
+            "g": "ch. 12."
+          },
+          {
+            "t": "Where the money comes from --"
+          },
+          {
+            "g": "ch. 13."
+          },
+          {
+            "t": "Who's who in foundations --"
+          },
+          {
+            "g": "ch. 14."
+          },
+          {
+            "t": "The function of foundations."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909854"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Coon, Horace, 1897-1961."
+          },
+          {
+            "t": "Money to burn."
+          },
+          {
+            "b": "[1st ed.]."
+          },
+          {
+            "d": "London, New York [etc.] Longmans, Green and Co., 1938"
+          },
+          {
+            "w": "(OCoLC)659510891"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 212 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013938"
+          }
+        ]
+      }
+    }
+  ]
+}

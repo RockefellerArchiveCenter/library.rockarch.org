@@ -1,0 +1,917 @@
+{
+  "leader": "05984cam a2200469 i 4500",
+  "fields": [
+    {
+      "001": "ocm00005242\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211230105301.0"
+    },
+    {
+      "008": "690408s1969\\\\\\\\maua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   69015029 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "LAS"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "MOF"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "IAD"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "JYJ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "I8M"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LHU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EOS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000001926798"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0222111"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "003365050"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "719594"
+          },
+          {
+            "a": "14495149"
+          },
+          {
+            "a": "59159827"
+          },
+          {
+            "a": "492803414"
+          },
+          {
+            "a": "844608201"
+          },
+          {
+            "a": "977440245"
+          },
+          {
+            "a": "1080700276"
+          },
+          {
+            "a": "1112891815"
+          },
+          {
+            "a": "1120800290"
+          },
+          {
+            "a": "1124103232"
+          },
+          {
+            "a": "1145207101"
+          },
+          {
+            "a": "1152938158"
+          },
+          {
+            "a": "1153211580"
+          },
+          {
+            "a": "1154191954"
+          },
+          {
+            "a": "1160079093"
+          },
+          {
+            "a": "1166505259"
+          },
+          {
+            "a": "1205541492"
+          },
+          {
+            "a": "1205551797"
+          },
+          {
+            "a": "1224872499"
+          },
+          {
+            "a": "1231471643"
+          },
+          {
+            "a": "1262030150"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)5242"
+          },
+          {
+            "z": "(OCoLC)719594"
+          },
+          {
+            "z": "(OCoLC)14495149"
+          },
+          {
+            "z": "(OCoLC)59159827"
+          },
+          {
+            "z": "(OCoLC)492803414"
+          },
+          {
+            "z": "(OCoLC)844608201"
+          },
+          {
+            "z": "(OCoLC)977440245"
+          },
+          {
+            "z": "(OCoLC)1080700276"
+          },
+          {
+            "z": "(OCoLC)1112891815"
+          },
+          {
+            "z": "(OCoLC)1120800290"
+          },
+          {
+            "z": "(OCoLC)1124103232"
+          },
+          {
+            "z": "(OCoLC)1145207101"
+          },
+          {
+            "z": "(OCoLC)1152938158"
+          },
+          {
+            "z": "(OCoLC)1153211580"
+          },
+          {
+            "z": "(OCoLC)1154191954"
+          },
+          {
+            "z": "(OCoLC)1160079093"
+          },
+          {
+            "z": "(OCoLC)1166505259"
+          },
+          {
+            "z": "(OCoLC)1205541492"
+          },
+          {
+            "z": "(OCoLC)1205551797"
+          },
+          {
+            "z": "(OCoLC)1224872499"
+          },
+          {
+            "z": "(OCoLC)1231471643"
+          },
+          {
+            "z": "(OCoLC)1262030150"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HM856"
+          },
+          {
+            "b": ".S53 1969"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "GF33 .S48 1969"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "3",
+        "subfields": [
+          {
+            "a": "hm 206"
+          },
+          {
+            "b": "s83"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QH 541"
+          },
+          {
+            "b": "S547s 1969"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "HM206.S5"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "301.3208084"
+          },
+          {
+            "b": "SHE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Shepard, Paul,"
+          },
+          {
+            "d": "1925-1996,"
+          },
+          {
+            "e": "compiler."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The subversive science :"
+          },
+          {
+            "b": "essays toward an ecology of man /"
+          },
+          {
+            "c": "edited by Paul Shepard and Daniel McKinley."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Boston :"
+          },
+          {
+            "b": "Houghton Mifflin,"
+          },
+          {
+            "c": "[1969]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "x, 453 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "The Human Revolution /"
+          },
+          {
+            "r": "Charles F. Hockett & Robert Ascher --"
+          },
+          {
+            "t": "The Human Population /"
+          },
+          {
+            "r": "Edward S. Deevey Jr. --"
+          },
+          {
+            "t": "Facts, Fables, and Fallacies on Feeding the World Population /"
+          },
+          {
+            "r": "Samuel Brody --"
+          },
+          {
+            "t": "The Inexorable Problem of Space /"
+          },
+          {
+            "r": "Paul B. Sears --"
+          },
+          {
+            "t": "Individual and Species : Biological Survival /"
+          },
+          {
+            "r": "Roscoe Spencer --"
+          },
+          {
+            "t": "Self-Regulating Systems in Populations of Animals /"
+          },
+          {
+            "r": "V.C. Wynne-Edwards --"
+          },
+          {
+            "t": "The Seeing Eye /"
+          },
+          {
+            "r": "Adolf Portmann --"
+          },
+          {
+            "t": "The Ecology of Imagination in Childhood /"
+          },
+          {
+            "r": "Edith Cobb --"
+          },
+          {
+            "t": "Remembered Landscapes /"
+          },
+          {
+            "r": "Grady Clay --"
+          },
+          {
+            "t": "The Individual as Man/World /"
+          },
+          {
+            "r": "Alan W. Watts --"
+          },
+          {
+            "t": "God's Acre /"
+          },
+          {
+            "r": "Erich Isaac --"
+          },
+          {
+            "t": "Ghosts at the Door /"
+          },
+          {
+            "r": "John B. Jackson --"
+          },
+          {
+            "t": "The Trees and Roofs of France /"
+          },
+          {
+            "r": "May Theilgaard Watts --"
+          },
+          {
+            "t": "Of Men and the Lower Animals /"
+          },
+          {
+            "r": "Paul L. Errington --"
+          },
+          {
+            "t": "On the Domestication of Cattle /"
+          },
+          {
+            "r": "Erich Isaac --"
+          },
+          {
+            "t": "Man Pressure /"
+          },
+          {
+            "r": "Colin Bertram --"
+          },
+          {
+            "t": "Fifty Years of Man in the Zoo /"
+          },
+          {
+            "r": "G. Evelyn Hutchinson --"
+          },
+          {
+            "t": "Second Thoughts on the Germ Theory /"
+          },
+          {
+            "r": "Rene\u0301 J. Dubos --"
+          },
+          {
+            "t": "A-Bombs, Bugbombs, and Us /"
+          },
+          {
+            "r": "G.M. Woodwell [and others] --"
+          },
+          {
+            "t": "Pesticides -- in Our Ecosystem /"
+          },
+          {
+            "r": "Frank E. Egler --"
+          },
+          {
+            "t": "The Impending Emergence of Ecological Thought /"
+          },
+          {
+            "r": "LaMont C. Cole --"
+          },
+          {
+            "t": "The Cybernetics of Competition : A Biologist's View of Society /"
+          },
+          {
+            "r": "Garrett Hardin --"
+          },
+          {
+            "t": "Irradiation and Human Evolution /"
+          },
+          {
+            "r": "Earle L. Reynolds --"
+          },
+          {
+            "t": "The Coming Solar Age /"
+          },
+          {
+            "r": "Peter van Dresser --"
+          },
+          {
+            "t": "The Ecological Approach to the Social Sciences /"
+          },
+          {
+            "r": "F. Fraser Darling --"
+          },
+          {
+            "t": "An Ecological Method for Landscape Architecture /"
+          },
+          {
+            "r": "Ian L. McHarg --"
+          },
+          {
+            "t": "The Preservation of Man's Environment /"
+          },
+          {
+            "r": "F. Raymond Fosberg --"
+          },
+          {
+            "t": "The Historical Roots of Our Ecologic Crisis /"
+          },
+          {
+            "r": "Lynn White Jr. --"
+          },
+          {
+            "t": "The New Mythology of Man in Nature /"
+          },
+          {
+            "r": "Daniel McKinley --"
+          },
+          {
+            "t": "The Modern Retreat from Function /"
+          },
+          {
+            "r": "Peter van Dresser --"
+          },
+          {
+            "t": "Land Use and Urban Development /"
+          },
+          {
+            "r": "George Macinko --"
+          },
+          {
+            "t": "Science and the Study of Mankind /"
+          },
+          {
+            "r": "Laura Thompson --"
+          },
+          {
+            "t": "The Steady State : Physical Law and Moral Choice /"
+          },
+          {
+            "r": "Paul B. Sears --"
+          },
+          {
+            "t": "The Land Ethic /"
+          },
+          {
+            "r": "Aldo Leopold --"
+          },
+          {
+            "t": "Fullness of Life Through Leisure /"
+          },
+          {
+            "r": "John Collier --"
+          },
+          {
+            "t": "A Woman as Great as the World /"
+          },
+          {
+            "r": "Jacquetta Hawkes."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151204"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Population explosion, pollution, suburban sprawl, death of the city, the vanishing wilderness we keep hearing of these threats but usually manage to ignore them. ... In this book we find instead a number of clear, calm discussions of environmental problems, providing information and ideas without excessive emotional appeal. ...The 37 papers, chosen from a wide variety of journals, such as Human Biology, Daedalus, Landscape, American Scientist, are obviously intended for the nonspecialist intelligent reader. They are divided into five groups, of which the first deals with population problems, both human and animal. \"The Environmental Encounter\" is the title of a group of papers discussing man's reaction to his environment, what he sees, and the way he feels about it. Here are included comments on American front yards, the shapes of roofs in different European countries, the importance of sacred places, and an essay by Alan Watts reprinted from The Psychedelic Review. The third and fourth sections are called \"Man and Other Organisms\" and \"Man in Ecosystems.\" Here we learn about the domestication of cattle, sidelights on evolution, Rene\u0301 Dubos' comments on the germ theory, the possible unexpected effects of pesticides and radiation. A hopeful note appears in a discussion of the use of solar energy. The final part, called \"Ethos, Ecos, and Ethics,\" includes more philosophical commentaries. Especially interesting is a discussion by Lynn White of the historical roots of our e\u0301ecologic crisis.\"-- from a review by Marjorie C. Meehan in ://jama.jamanetwork.com/article.aspx?articleid=345416."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Human ecology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Ecology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Human ecology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00962941"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Essay"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "McKinley, Daniel,"
+          },
+          {
+            "e": "compiler."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Shepard, Paul, 1925-1996."
+          },
+          {
+            "t": "Subversive science."
+          },
+          {
+            "d": "Boston, Houghton Mifflin [1969]"
+          },
+          {
+            "w": "(OCoLC)583264547"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1131 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014892"
+          }
+        ]
+      }
+    }
+  ]
+}

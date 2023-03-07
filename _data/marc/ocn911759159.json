@@ -1,0 +1,389 @@
+{
+  "leader": "05405cam a2200361Ia 4500",
+  "fields": [
+    {
+      "001": "ocn911759159"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106100736.0"
+    },
+    {
+      "008": "930121s1993\\\\\\\\nyua\\\\\\\\\\bt\\\\\\001\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   93012149 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "UAU"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "UAU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EYM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "LIP"
+          },
+          {
+            "d": "S3O"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "KFH"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UWO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871548445"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871548443"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871548453"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871548450"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)911759159"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HG4515.15"
+          },
+          {
+            "b": ".A38 1993"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "332.6019"
+          },
+          {
+            "b": "ADV"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Advances in behavioral finance /"
+          },
+          {
+            "c": "Richard H. Thaler, editor."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a91993."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxi, 597 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1. Noise / Fischer Black -- 2. Noise Trader Risk in Financial Markets / J. Bradford De Long, Andrei Shleifer, Lawrence H. Summers and Robert J. Waldmann -- 3. Investor Sentiment and the Closed-End Fund Puzzle / Charles M.C. Lee, Andrei Shleifer and Richard H. Thaler -- 4. Do Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends? / Robert J. Shiller -- 5. What Moves Stock Prices? / David M. Cutler, James M. Poterba and Lawrence H. Summers -- 6. Does the Stock Market Rationally Reflect Fundamental Values? / Lawrence H. Summers -- 7. Stock Prices and Social Dynamics / Robert J. Shiller -- 8. Stock Return Variances: The Arrival of Information and the Reaction of Traders / Kenneth R. French and Richard Roll -- 9. Does the Stock Market Overreact? / Werner F.M. De Bondt and Richard H. Thaler -- 10. Measuring Abnormal Performance: Do Stocks Overreact? / Navin Chopra, Josef Lakonishok and Jay R. Ritter -- 11. Stock Price Reactions to Earnings Announcements: A Summary of Recent Anomalous Evidence and Possible Explanations / Victor L. Bernard -- 12. Overreactions in the Options Market / Jeremy Stein -- 13. Forward Discount Bias: Is It an Exchange Risk Premium? / Kenneth A. Froot and Jeffrey A. Frankel -- 14. Investor Diversification and International Equity Markets / Kenneth R. French and James M. Poterba -- 15. Explaining Investor Preference for Cash Dividends / Hersh M. Shefrin and Meir Statman -- 16. Equilibrium Short Horizons of Investors and Firms / Andrei Shleifer and Robert W. Vishny -- 17. Hubris Hypothesis of Corporate Takeovers / Richard Roll -- 18. Long-Run Performance of Initial Public Offerings / Jay R. Ritter -- 19. Speculative Prices and Popular Models / Robert J. Shiller -- 20. Disposition to Sell Winners Too Early and Ride Losers Too Long: Theory and Evidence / Hersh M. Shefrin and Meir Statman -- 21. Failure of Competition in the Credit Card Market / Lawrence M. Ausubel."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Modern financial markets offer the real world's best approximation to the idealized price auction marker envisioned in economic theory. Nevertheless, as the increasingly exquisite and detailed financial data demonstrate, financial markets often fail to behave as they should if trading were truly dominated by the fully rational investors that populate financial theories. These market anomalies have spawned a new approach to finance, one which as editor Richard Thaler puts it, \"entertains the possibility that some of the agents in the economy behave less than fully rationally some of the time.\" Advances in Behavioral Finance collects together twenty-one percent articles that illustrate the power of this approach. More than just an assembly of exceptions to mainline theory, these papers illustrate how specific departures from fully rational decision making by individual market agents can provide explanations of otherwise puzzling market phenomena. To take several examples, Werner De Bondt and Thaler find an explanation for superior price performance of firms with poor recent earnings histories in the tendencies of investors to overreact to recent information. Richard Roll traces the negative effects of corporate takeovers on the stock prices of the acquiring firms to the overconfidence of managers, who fail to recognize the contributions of chance to their past successes. Andrei Shleifer and Robert Vishny show how the difficulty of establishing a reliable reputation for correctly assessing the value of long term capital projects can lead investment analysts, and hence corporate managers, to focus myopically on short term returns. The analyses in this wide-ranging collection demonstrate the growing success of behavioral approaches to understanding the behavior of financial markets. As a testing ground for assessing the empirical accuracy of behavioral theories, these successful studies of the stock market reach beyond the world of finance to suggest, very powerfully, the importance of pursuing behavioral approaches to other areas of economic life. Advances in Behavioral Finance is a solid beachhead for behavioral work in the financial arena and a clear promise of wider application for behavioral economics in the future."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Investments"
+          },
+          {
+            "x": "Psychological aspects."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Investments"
+          },
+          {
+            "x": "Psychological aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00978283"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Thaler, Richard H.,"
+          },
+          {
+            "d": "1945-"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 53 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015374"
+          }
+        ]
+      }
+    }
+  ]
+}

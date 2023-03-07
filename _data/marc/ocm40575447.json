@@ -1,0 +1,596 @@
+{
+  "leader": "04910cam a2200505Ia 4500",
+  "fields": [
+    {
+      "001": "ocm40575447\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220705122055.0"
+    },
+    {
+      "008": "981222s1999\\\\\\\\inua\\\\\\\\\\b\\\\\\s001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   98055922 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "IG#"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "EEM"
+          },
+          {
+            "d": "IPL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1022686404"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0253335000"
+          },
+          {
+            "q": "(cl ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780253335005"
+          },
+          {
+            "q": "(cl ;"
+          },
+          {
+            "q": "alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)40575447"
+          },
+          {
+            "z": "(OCoLC)1022686404"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV40.8.U6"
+          },
+          {
+            "b": "P55 1999"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "361.760973"
+          },
+          {
+            "b": "PHI"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philanthropic foundations :"
+          },
+          {
+            "b": "new scholarship, new possibilities /"
+          },
+          {
+            "c": "edited by Ellen Condliffe Lagemann."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bloomington, Ind. :"
+          },
+          {
+            "b": "Indiana University Press,"
+          },
+          {
+            "c": "\u00a91999."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xviii, 420 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Philanthropic studies"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 377-403) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction : Foundations in history : new possibilities for scholarship and practice / Ellen Condliffe Lagemann -- I. Foundations as organizations. 1. Resolving the dilemmas of democratic governance : the historical development of trusteeship in America, 1636-1996 / Peter Dobkin Hall -- 2. Foundations in the American polity, 1900-1950 / David C. Hammack -- 3. Private foundations as public institutions : regulation, professionalization, and the redefinition of organized philanthropy / Peter Frumkin -- II. Case studies in early-twentieth-century foundation philanthropy. 4. Constructing a new political economy : philanthropy, institution-building, and consumer capitalism in the early twentieth century / Meg Jacobs -- 5. Selling the public on public health : the Commonwealth and Milbank health demonstrations and the meaning of community health education / Elizabeth Toon -- 6. Constructing the normal child : the Rockefeller philanthropies and the science of child development, 1918-1940 / Julia Grant -- 7. Mary van Kleeck of the Russell Sage Foundation : religion, social science, and the ironies of parasitic modernity / Guy Alchon -- III. Foundations and recent social movements. 8. The Ford Foundation and philanthropic activism in the 1960s / Alice O'Connor -- 9. The Ford Foundation's war on poverty : private philanthropy and race relations in New York City, 1948-1968 / Gregory K. Raynor -- 10. Grassrooting the system? The development and impact of social movement philanthropy, 1953-1990 / J. Craig Jenkins, Abigail L. Halcli -- 11. When grantees become grantors : accountability, democracy, and social movement philanthropy / Susan A. Ostrander -- 12. The Ford Foundation and women's studies in American higher education : seeds of change? / Rosa Proietto -- IV. Writing the history of foundations. 13. Going for broke : the historian's commitment to philanthropy / Barry Dean Karl -- 14. In search of the Ford Foundation / Richard Magat -- 15. The history of philanthropy as life-history : a biographer's view of Mrs. Russell Sage / Ruth Crocker -- 16. Local philanthropy matters : pressing issues for research and practice / William S. McKersie -- 17. The future of foundation history : suggestions for research and practice / Lucy Bernholz -- Bibliography : Recent writings about foundations in history / Susan Kastan."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"This book presents new scholarship about foundations such as Ford, Carnegie, Rockefeller, and Russell Sage, their history, and their impact on American society. The essays in the first three parts of the book look at the diverse and multiple ways in which foundations have contributed to American society: as organizations, they help put into action the goals of many social movements; as cultural agents, they help shift attention to some of the most pressing issues facing the American public. The last part of the book focuses on researching and writing foundation history.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Charities"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Fund Raising"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Foundations"
+          },
+          {
+            "x": "history"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Charities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00852404"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909854"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lagemann, Ellen Condliffe,"
+          },
+          {
+            "d": "1945-"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Philanthropic foundations."
+          },
+          {
+            "d": "Bloomington, Ind. : Indiana University Press, \u00a91999"
+          },
+          {
+            "w": "(OCoLC)651816766"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philanthropic studies."
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Book review (H-Net)"
+          },
+          {
+            "u": "http://www.h-net.org/review/hrev-a0b3b0-aa"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 241 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          },
+          {
+            "b": "Copy 1"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013733"
+          },
+          {
+            "b": "Copy 2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{% comment %}Formats a display string for a subject{% endcomment %}
+{%- assign parts = "" | split: ',' -%}
+
+{% for subfield in include.object.subfields %}
+  {%- assign subfield_codes = "abcdefghijklmnopqrstuvwxyz" | split: "" -%}
+  {% for code in subfield_codes %}
+    {% assign parts = parts | push: subfield[code] %}
+  {% endfor %}
+{% endfor %}
+
+{{- parts | compact | join: " -- " -}}

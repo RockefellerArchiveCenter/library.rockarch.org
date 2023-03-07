@@ -1,0 +1,528 @@
+{
+  "leader": "01890cam a22003851  4500",
+  "fields": [
+    {
+      "001": "ocm00327846\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211007171115.0"
+    },
+    {
+      "008": "811121s1946\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "med47000294 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "MSC"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "GZH"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "DRB"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "SFB"
+          },
+          {
+            "d": "EUW"
+          },
+          {
+            "d": "VDB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "49830780R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "012838196"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "977552930"
+          },
+          {
+            "a": "1006232008"
+          },
+          {
+            "a": "1045836382"
+          },
+          {
+            "a": "1049544341"
+          },
+          {
+            "a": "1052831704"
+          },
+          {
+            "a": "1080592445"
+          },
+          {
+            "a": "1124293748"
+          },
+          {
+            "a": "1127779916"
+          },
+          {
+            "a": "1201583180"
+          },
+          {
+            "a": "1201619395"
+          },
+          {
+            "a": "1201805848"
+          },
+          {
+            "a": "1201851345"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)327846"
+          },
+          {
+            "z": "(OCoLC)977552930"
+          },
+          {
+            "z": "(OCoLC)1006232008"
+          },
+          {
+            "z": "(OCoLC)1045836382"
+          },
+          {
+            "z": "(OCoLC)1049544341"
+          },
+          {
+            "z": "(OCoLC)1052831704"
+          },
+          {
+            "z": "(OCoLC)1080592445"
+          },
+          {
+            "z": "(OCoLC)1124293748"
+          },
+          {
+            "z": "(OCoLC)1127779916"
+          },
+          {
+            "z": "(OCoLC)1201583180"
+          },
+          {
+            "z": "(OCoLC)1201619395"
+          },
+          {
+            "z": "(OCoLC)1201805848"
+          },
+          {
+            "z": "(OCoLC)1201851345"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RJ499"
+          },
+          {
+            "b": "W52"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WS 350"
+          },
+          {
+            "b": "W825p 1946"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "618.92"
+          },
+          {
+            "b": "WIT"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Witmer, Helen Leland."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Psychiatric interviews with children /"
+          },
+          {
+            "c": "Helen Leland Witmer, editor ..."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Commonwealth fund,"
+          },
+          {
+            "c": "1946."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "vii, 443 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "26 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Borzoi books"
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Committed to retain"
+          },
+          {
+            "c": "20170101"
+          },
+          {
+            "d": "20321231"
+          },
+          {
+            "f": "COPPUL SPAN Monograph"
+          },
+          {
+            "5": "BVAS"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Child psychiatry."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Child psychiatry."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00854531"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Child Guidance."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Witmer, Helen Leland."
+          },
+          {
+            "t": "Psychiatric interviews with children ."
+          },
+          {
+            "d": "New York, Commonwealth Fund, 1946"
+          },
+          {
+            "w": "(OCoLC)598771453"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Witmer, Helen Leland."
+          },
+          {
+            "t": "Psychiatric interviews with children ."
+          },
+          {
+            "d": "New York, Commonwealth Fund, 1946"
+          },
+          {
+            "w": "(OCoLC)608618355"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 359 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "leader": "03188cam a2200445 i 4500",
+  "fields": [
+    {
+      "001": "ocm03016036\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105154020.0"
+    },
+    {
+      "008": "770517s1977\\\\\\\\pauc\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   76050180 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "HRM"
+          },
+          {
+            "d": "ALMSI"
+          },
+          {
+            "d": "AOW"
+          },
+          {
+            "d": "UMK"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "2879883"
+          },
+          {
+            "a": "1167007583"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871691183"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871691187"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)3016036"
+          },
+          {
+            "z": "(OCoLC)2879883"
+          },
+          {
+            "z": "(OCoLC)1167007583"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Q11"
+          },
+          {
+            "b": ".P612 vol. 118"
+          },
+          {
+            "a": "E210"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "E210"
+          },
+          {
+            "b": ".A64 1977"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "973.3"
+          },
+          {
+            "b": "AME"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "American Philosophical Society."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Aspects of American liberty :"
+          },
+          {
+            "b": "philosophical, historical, and political : addresses presented at an observance of the Bicentennial year of American independence by the American Philosophical Society, April 22-24, 1976."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Philadelphia :"
+          },
+          {
+            "b": "The American Philosophical Society,"
+          },
+          {
+            "c": "1977."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 233 pages :"
+          },
+          {
+            "b": "portraits ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Memoirs of the American Philosophical Society ;"
+          },
+          {
+            "v": "v. 118,"
+          },
+          {
+            "x": "0065-9738"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Bicentennial of what? /"
+          },
+          {
+            "r": "Archibald MacLeish --"
+          },
+          {
+            "t": "Liberty in classical antiquity /"
+          },
+          {
+            "r": "Sir Ronald Syme --"
+          },
+          {
+            "t": "The rule of law /"
+          },
+          {
+            "r": "Joseph R. Strayer --"
+          },
+          {
+            "t": "The liberating influence of science in history /"
+          },
+          {
+            "r": "Charles C. Gillespie --"
+          },
+          {
+            "t": "The European Enlightenment in its American setting /"
+          },
+          {
+            "r": "Robert R. Palmer --"
+          },
+          {
+            "t": "Diversity in religion as a force for liberty: a quadricentennial view of the problem /"
+          },
+          {
+            "r": "Sydney E. Ahlstrom --"
+          },
+          {
+            "t": "The efforts of William Penn to lay a foundation for future ages /"
+          },
+          {
+            "r": "Caroline Robbins --"
+          },
+          {
+            "t": "Tentative moves toward intercolonial union /"
+          },
+          {
+            "r": "James H. Hutson --"
+          },
+          {
+            "t": "The problem of popular sovereignty /"
+          },
+          {
+            "r": "Edmund S. Morgan --"
+          },
+          {
+            "t": "The Declaration of Independence: philosophy of government in a free society /"
+          },
+          {
+            "r": "Cecelia M. Kenyon --"
+          },
+          {
+            "t": "The Articles of Confederation and the creation of a federal system /"
+          },
+          {
+            "r": "Harry W. Jones --"
+          },
+          {
+            "t": "Toward \"a more perfect union\": framing and implementing the distinctive nation-building elements of the Constitution /"
+          },
+          {
+            "r": "Gerald Gunther --"
+          },
+          {
+            "t": "Creative adaptations to the future /"
+          },
+          {
+            "r": "Rene\u0301 J. Dubos --"
+          },
+          {
+            "t": "Cab democratic government survive? /"
+          },
+          {
+            "r": "Robert H. Bork --"
+          },
+          {
+            "t": "The rebirth of a nation /"
+          },
+          {
+            "r": "David E. Lilienthal --"
+          },
+          {
+            "t": "George Washington: the evidence of the portraits /"
+          },
+          {
+            "r": "Edgar P. Richardson."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Politics and government"
+          },
+          {
+            "y": "1775-1783"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1775-1783"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "American Philosophical Society."
+          },
+          {
+            "t": "Aspects of American liberty."
+          },
+          {
+            "d": "Philadelphia : The Society, 1977"
+          },
+          {
+            "w": "(OCoLC)654706026"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Memoirs of the American Philosophical Society ;"
+          },
+          {
+            "v": "v. 118."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 583 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014463"
+          }
+        ]
+      }
+    }
+  ]
+}

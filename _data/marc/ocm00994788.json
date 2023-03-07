@@ -1,0 +1,757 @@
+{
+  "leader": "02326cam a2200733 i 4500",
+  "fields": [
+    {
+      "001": "ocm00994788\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211118142610.0"
+    },
+    {
+      "008": "740724s1974\\\\\\\\maua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   73088053 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "CHS"
+          },
+          {
+            "d": "IAV"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "WPG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKUOY"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0426611"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "000409117"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "623168869"
+          },
+          {
+            "a": "981862551"
+          },
+          {
+            "a": "1061603991"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0674634101"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780674634107"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)994788"
+          },
+          {
+            "z": "(OCoLC)623168869"
+          },
+          {
+            "z": "(OCoLC)981862551"
+          },
+          {
+            "z": "(OCoLC)1061603991"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QH491"
+          },
+          {
+            "b": ".B62"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QH 501"
+          },
+          {
+            "b": "B716o 1974"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "574.3"
+          },
+          {
+            "b": "BON"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bonner, John Tyler."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "On development :"
+          },
+          {
+            "b": "the biology of form /"
+          },
+          {
+            "c": "John Tyler Bonner."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Cambridge, Mass. :"
+          },
+          {
+            "b": "Harvard University Press,"
+          },
+          {
+            "c": "1974."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "282 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Commonwealth Fund book"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"A Commonwealth Fund book.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references and index."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Developmental biology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Biology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Developmental biology."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00891773"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "celcyclus"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "cell cycle"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "celdifferentiatie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "cell differentiation"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "evolutie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "evolution"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetische variatie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetic variation"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetica"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "genetics"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "immunogenetica"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "immunogenetics"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "ontogenie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "ontogeny"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "oorsprong"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "origin"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "fylogenetica"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "phylogenetics"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "fylogenie"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "phylogeny"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "soortvorming"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "speciation"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Genetics (General)"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ontogeny, Embryology"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Genetica (algemeen)"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Ontogenie, embryologie"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Bonner, John Tyler."
+          },
+          {
+            "t": "On development."
+          },
+          {
+            "d": "Cambridge, Mass., Harvard University Press, 1974"
+          },
+          {
+            "w": "(OCoLC)610488558"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 693 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode, second copy."
+          }
+        ]
+      }
+    }
+  ]
+}

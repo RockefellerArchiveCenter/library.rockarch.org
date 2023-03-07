@@ -1,0 +1,672 @@
+{
+  "leader": "03225cam a2200493Ia 4500",
+  "fields": [
+    {
+      "001": "ocm52990174\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220701103446.0"
+    },
+    {
+      "008": "030909s2003\\\\\\\\nyuc\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2003110262"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "PTR"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "PTR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "WYG"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1931923663"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781931923668"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)52990174"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HV6432.7"
+          },
+          {
+            "b": ".S478 2003"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "061"
+          },
+          {
+            "b": "SEP"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "September 11 :"
+          },
+          {
+            "b": "perspectives from the field of philanthropy."
+          },
+          {
+            "n": "Volume 2 /"
+          },
+          {
+            "c": "the Foundation Center ; contributing staff, Natalie Coe [and others]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York, NY :"
+          },
+          {
+            "b": "Foundation Center,"
+          },
+          {
+            "c": "\u00a92003."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 208 pages :"
+          },
+          {
+            "b": "portraits ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Compassion & competence: a non-philanthropist reflects on the contributions of philanthropy /"
+          },
+          {
+            "r": "Joshua Gorbaum --"
+          },
+          {
+            "t": "Nonprofits and 9/11: now the good news /"
+          },
+          {
+            "r": "Susan V. Berresford --"
+          },
+          {
+            "t": "Philanthropy and domestic terrorism /"
+          },
+          {
+            "r": "Nancy Anthony --"
+          },
+          {
+            "t": "Mobilizing resources to meet the needs of Pentagon families /"
+          },
+          {
+            "r": "Terri Lee Freeman --"
+          },
+          {
+            "t": "Helping undocumented immigrants in the wake of 9/11 /"
+          },
+          {
+            "r": "Teresa Garcia --"
+          },
+          {
+            "t": "Impact of 9/11 on low-income workers /"
+          },
+          {
+            "r": "David R. Jones --"
+          },
+          {
+            "t": "Forging connections in response to disaster /"
+          },
+          {
+            "r": "Jack Rosenthal --"
+          },
+          {
+            "t": "Helping the arts and artists recover in the wake of 9/11 /"
+          },
+          {
+            "r": "Theodore S. Berger --"
+          },
+          {
+            "t": "Working to expand access to higher education for all Americans /"
+          },
+          {
+            "r": "Martha Lamkin --"
+          },
+          {
+            "t": "Philanthropy in a post-9/11 world /"
+          },
+          {
+            "r": "Vartan Gregorian --"
+          },
+          {
+            "t": "Democracy as an antidote terrorism /"
+          },
+          {
+            "r": "Benjamin Barber --"
+          },
+          {
+            "t": "Development and democracy in post-9/11 Asia /"
+          },
+          {
+            "r": "William Fuller --"
+          },
+          {
+            "t": "Human rights in an age of terror /"
+          },
+          {
+            "r": "Ken Roth --"
+          },
+          {
+            "t": "September 11 and the Arab American community /"
+          },
+          {
+            "r": "James Zogby --"
+          },
+          {
+            "t": "Media response to 9/11 /"
+          },
+          {
+            "r": "Hodding Carter III --"
+          },
+          {
+            "t": "Media, charity, and philanthropy in the aftermath of September 11 /"
+          },
+          {
+            "r": "Paula DiPerna --"
+          },
+          {
+            "t": "Coordinating service delivery to victims of the World Trade Center attack /"
+          },
+          {
+            "r": "Stephen Solender --"
+          },
+          {
+            "t": "Meeting the long-term needs of individuals, families, and communities /"
+          },
+          {
+            "r": "Carol Kellerman --"
+          },
+          {
+            "t": "Oral history of 9/11 /"
+          },
+          {
+            "r": "Mary Marshall Clark."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "September 11 Terrorist Attacks, 2001."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Charities"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Philanthropists"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "v": "Interviews."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Disaster relief"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Victims of terrorism"
+          },
+          {
+            "x": "Services for"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Finance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Terrorism victims' families"
+          },
+          {
+            "x": "Services for"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Finance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Charities."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00852404"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Disaster relief."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00894731"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909854"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Philanthropists."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01060593"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "647": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "September 11 Terrorist Attacks"
+          },
+          {
+            "d": "(2001)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01112794"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "2001"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Interviews."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423832"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Coe, Natalie."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Foundation Center."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 36 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013787"
+          }
+        ]
+      }
+    }
+  ]
+}

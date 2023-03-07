@@ -1,0 +1,322 @@
+{
+  "leader": "01575cam a2200301Ii 4500",
+  "fields": [
+    {
+      "001": "ocm07697935\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220629150016.0"
+    },
+    {
+      "008": "810824s1941\\\\\\\\ctuc\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   42017859 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "KSU"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "NCJ"
+          },
+          {
+            "d": "WLU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7697935"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HV97.R6"
+          },
+          {
+            "b": "V5"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "370.8"
+          },
+          {
+            "b": "GEO"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "George Edgar Vincent, 1864-1941 :"
+          },
+          {
+            "b": "addresses delivered at the memorial services held on May the nineteenth, 1941, at the New York academy of medicine, to which are appended memorial tributes to Dr. Vincent."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Stamford, Conn. :"
+          },
+          {
+            "b": "Printed at the Overbrook Press,"
+          },
+          {
+            "c": "1941."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "4 preliminary leaves, [5]-54 pages, 1 leaf :"
+          },
+          {
+            "b": "frontispiece (portrait) ;"
+          },
+          {
+            "c": "21 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Three hundred and fifty copies have been printed.\""
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Chautauqua period, by A.E. Bestor.--The Chicago period, by J.R. Angeli.-The Minnesota period, by G.S. Ford.--The Rockefeller foundation period, by J.D. Rockefeller, jr.--A tribute, by Wallace Notestein.--My dean, by Harry Hansen."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Vincent, George E."
+          },
+          {
+            "q": "(George Edgar),"
+          },
+          {
+            "d": "1864-1941."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Vincent, George E."
+          },
+          {
+            "q": "(George Edgar),"
+          },
+          {
+            "d": "1864-1941."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00193932"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "George Edgar Vincent, 1864-1941."
+          },
+          {
+            "d": "Stamford, Conn., Printed at the Overbrook press, 1941"
+          },
+          {
+            "w": "(OCoLC)551387423"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 30 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013162"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "leader": "01983cam a2200433 a 4500",
+  "fields": [
+    {
+      "001": "ocm07735255\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221207144611.0"
+    },
+    {
+      "008": "810601s1981\\\\\\\\dcua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   81006534 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "XXH"
+          },
+          {
+            "d": "VVW"
+          },
+          {
+            "d": "HALAN"
+          },
+          {
+            "d": "VOV"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SGB"
+          },
+          {
+            "d": "CNGUL"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "MTG"
+          },
+          {
+            "d": "DDD"
+          },
+          {
+            "d": "NGA"
+          },
+          {
+            "d": "XY7"
+          },
+          {
+            "d": "X#7"
+          },
+          {
+            "d": "ALSOM"
+          },
+          {
+            "d": "AL5OZ"
+          },
+          {
+            "d": "ESU"
+          },
+          {
+            "d": "CD5"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CNO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "066": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "{dollar}1"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "795109821"
+          },
+          {
+            "a": "972049405"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0895990075"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780895990075"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0517545268"
+          },
+          {
+            "q": "(Harmony Books)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780517545263"
+          },
+          {
+            "q": "(Harmony Books)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7735255"
+          },
+          {
+            "z": "(OCoLC)795109821"
+          },
+          {
+            "z": "(OCoLC)972049405"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "AC5"
+          },
+          {
+            "b": ".B4225 1981"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "081"
+          },
+          {
+            "b": "BES"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The Best of Smithsonian :"
+          },
+          {
+            "b": "an anthology of the first decade of Smithsonian magazine."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1st ed."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Washington, D.C. :"
+          },
+          {
+            "b": "Smithsonian Exposition Books ;"
+          },
+          {
+            "a": "New York, N.Y. :"
+          },
+          {
+            "b": "Harmony Books,"
+          },
+          {
+            "c": "\u00a91981."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "320 pages :"
+          },
+          {
+            "b": "color illustrations ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Most of these articles have appeared in issues of Smithsonian magazine\"--Title page verso."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "View from the castle -- Introduction -- Phenomena, comment and notes -- Around the mall and beyond. Wildlife and Environment -- Energy and Technology -- People and History -- The Arts."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Articles with photographs on the subjects of wildlife and environment, energy and technology, people and history, and the arts. Selected from 1970-1978 Smithsonian magazines."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Smithsonian."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Museums."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Museums"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Museums."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01030128"
+          }
+        ]
+      }
+    },
+    {
+      "730": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Smithsonian."
+          }
+        ]
+      }
+    },
+    {
+      "880": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "6": "500-00/{dollar}1"
+          },
+          {
+            "a": "\u5176\u4ed6\u9898\u540d:An Anthology of the First Decade of Smithsonian Magazine."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 492 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013046"
+          }
+        ]
+      }
+    }
+  ]
+}

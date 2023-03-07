@@ -1,0 +1,553 @@
+{
+  "leader": "02426cam a2200409 i 4500",
+  "fields": [
+    {
+      "001": "ocm00384364\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221222135236.0"
+    },
+    {
+      "008": "680301s1968\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   68020358 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "VZD"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "PHUST"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "VI#"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "010308290"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1145227177"
+          },
+          {
+            "a": "1153232106"
+          },
+          {
+            "a": "1166516778"
+          },
+          {
+            "a": "1171424688"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)384364"
+          },
+          {
+            "z": "(OCoLC)1145227177"
+          },
+          {
+            "z": "(OCoLC)1153232106"
+          },
+          {
+            "z": "(OCoLC)1166516778"
+          },
+          {
+            "z": "(OCoLC)1171424688"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "nwht---"
+          },
+          {
+            "a": "nwdr---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "F1901"
+          },
+          {
+            "b": "L64 1968"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "972.93"
+          },
+          {
+            "b": "LOG"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Logan, Rayford Whittingham,"
+          },
+          {
+            "d": "1897-1982,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Haiti and the Dominican Republic /"
+          },
+          {
+            "c": "Rayford W. Logan."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Oxford University Press,"
+          },
+          {
+            "c": "1968."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "220 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Issued under the auspices of the Royal Institute of International Affairs.\""
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 205-213) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "pt. I. Land and The People:"
+          },
+          {
+            "t": "Land ;"
+          },
+          {
+            "t": "People --"
+          },
+          {
+            "g": "pt. II. History and Contemporary Politics:"
+          },
+          {
+            "t": "Santo Domingo and the Dominican Republic (1492-1905) ;"
+          },
+          {
+            "t": "Dominican Republic under United States control (1905-30) ;"
+          },
+          {
+            "t": "Era of Trujillo (1930-61) and its aftermath ;"
+          },
+          {
+            "t": "Saint-Domingue and Haiti to 1862 ;"
+          },
+          {
+            "t": "Haiti from the American Civil War to 1913 ;"
+          },
+          {
+            "t": "Wilsonian imperialism and the occupation of Haiti ;"
+          },
+          {
+            "t": "Haiti since 1934 --"
+          },
+          {
+            "g": "pt. III. Social and Economic Conditions:"
+          },
+          {
+            "t": "Health, education, and culture ;"
+          },
+          {
+            "t": "Religion ;"
+          },
+          {
+            "t": "Recent economy of the Dominican Republic and of Haiti ;"
+          },
+          {
+            "t": "Two countries compared --"
+          },
+          {
+            "g": "Appendices:"
+          },
+          {
+            "t": "Rulers and presidents of Haiti ;"
+          },
+          {
+            "t": "Presidents of the Dominican Republic."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Haiti"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Dominican Republic"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Dominican Republic."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01206148"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Haiti."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01205135"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Royal Institute of International Affairs,"
+          },
+          {
+            "e": "issuing body."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Logan, Rayford Whittingham, 1897-1982."
+          },
+          {
+            "t": "Haiti and the Dominican Republic."
+          },
+          {
+            "d": "New York, Oxford University Press, 1968"
+          },
+          {
+            "w": "(OCoLC)654132264"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 701 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018085"
+          }
+        ]
+      }
+    }
+  ]
+}

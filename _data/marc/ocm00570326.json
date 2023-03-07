@@ -1,0 +1,562 @@
+{
+  "leader": "02276cam a2200373 i 4500",
+  "fields": [
+    {
+      "001": "ocm00570326\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220701113802.0"
+    },
+    {
+      "008": "730306s1965\\\\\\\\nyu\\\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   65015655 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "WSU"
+          },
+          {
+            "d": "SER"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "UKM"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "RCJ"
+          },
+          {
+            "d": "AFQ"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CIRBC"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLE"
+          },
+          {
+            "d": "LGG"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "KSU"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "003713663"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "009011671"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "314867199"
+          },
+          {
+            "a": "493559317"
+          },
+          {
+            "a": "503966952"
+          },
+          {
+            "a": "844420660"
+          },
+          {
+            "a": "977123420"
+          },
+          {
+            "a": "988706640"
+          },
+          {
+            "a": "1145192828"
+          },
+          {
+            "a": "1153204519"
+          },
+          {
+            "a": "1166545366"
+          },
+          {
+            "a": "1221994238"
+          },
+          {
+            "a": "1224889172"
+          },
+          {
+            "a": "1229775823"
+          },
+          {
+            "a": "1231489567"
+          },
+          {
+            "a": "1275628474"
+          },
+          {
+            "a": "1275839499"
+          },
+          {
+            "a": "1298286455"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)570326"
+          },
+          {
+            "z": "(OCoLC)314867199"
+          },
+          {
+            "z": "(OCoLC)493559317"
+          },
+          {
+            "z": "(OCoLC)503966952"
+          },
+          {
+            "z": "(OCoLC)844420660"
+          },
+          {
+            "z": "(OCoLC)977123420"
+          },
+          {
+            "z": "(OCoLC)988706640"
+          },
+          {
+            "z": "(OCoLC)1145192828"
+          },
+          {
+            "z": "(OCoLC)1153204519"
+          },
+          {
+            "z": "(OCoLC)1166545366"
+          },
+          {
+            "z": "(OCoLC)1221994238"
+          },
+          {
+            "z": "(OCoLC)1224889172"
+          },
+          {
+            "z": "(OCoLC)1229775823"
+          },
+          {
+            "z": "(OCoLC)1231489567"
+          },
+          {
+            "z": "(OCoLC)1275628474"
+          },
+          {
+            "z": "(OCoLC)1275839499"
+          },
+          {
+            "z": "(OCoLC)1298286455"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "UA23"
+          },
+          {
+            "b": ".A41656 1965"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "353.05"
+          },
+          {
+            "b": "UNI"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "b": "Congress."
+          },
+          {
+            "b": "Senate."
+          },
+          {
+            "b": "Committee on Government Operations."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The National Security Council :"
+          },
+          {
+            "b": "Jackson subcommittee papers on policy-making at the Presidential level /"
+          },
+          {
+            "c": "edited by Henry M. Jackson."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Praeger,"
+          },
+          {
+            "c": "[1965]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xvi, 311 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Papers of the Subcommittee on National Policy Machinery, Subcommittee on National Security Staffing and Operations, and Subcommittee on National Security and International Operations of the Committee on Government Operations, U.S. Senate."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National Security Council (U.S.)"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National Security Council (U.S.)"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00533428"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Jackson, Henry M."
+          },
+          {
+            "q": "(Henry Martin),"
+          },
+          {
+            "d": "1912-1983,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "United States. Congress. Senate. Committee on Government Operations."
+          },
+          {
+            "t": "National Security Council."
+          },
+          {
+            "d": "New York : Praeger, [1965]"
+          },
+          {
+            "w": "(OCoLC)614034481"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 559 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014277"
+          }
+        ]
+      }
+    }
+  ]
+}

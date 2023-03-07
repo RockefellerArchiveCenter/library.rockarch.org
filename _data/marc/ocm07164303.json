@@ -1,0 +1,578 @@
+{
+  "leader": "02324cas a2200469 i 4500",
+  "fields": [
+    {
+      "001": "ocm07164303\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220713074517.0"
+    },
+    {
+      "008": "810227d19121931tnuar\\\\\\\\\\\\\\\\\\1\\\\\\a0eng\\c"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "sf 84007177 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NYG"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "NYG"
+          },
+          {
+            "d": "IUL"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "NST"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "IUL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NDD"
+          }
+        ]
+      }
+    },
+    {
+      "012": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "3"
+          },
+          {
+            "b": "3"
+          },
+          {
+            "i": "8412"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7311611"
+          },
+          {
+            "a": "8820094"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7164303"
+          },
+          {
+            "z": "(OCoLC)7311611"
+          },
+          {
+            "z": "(OCoLC)8820094"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-usu--"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "LB2301"
+          },
+          {
+            "b": ".S6"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "331.340975"
+          },
+          {
+            "b": "ASS"
+          }
+        ]
+      }
+    },
+    {
+      "110": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Association of Colleges and Secondary Schools of the Southern States (U.S.)."
+          },
+          {
+            "b": "Meeting."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Proceedings of the ... annual meeting /"
+          },
+          {
+            "c": "Association of Colleges and Secondary Schools of the Southern States."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "South Nashville, Tenn. :"
+          },
+          {
+            "b": "Pub. House of the Methodist Episcopal Church,"
+          },
+          {
+            "c": "1912-"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "2",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "1921"
+          },
+          {
+            "a": "Durham, North Carolina :"
+          },
+          {
+            "b": "Seeman Printery Incorporated."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "17 volumes ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "310": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Annual"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "362": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Began with: 18th (1912); ceased with 36th (1931)."
+          }
+        ]
+      }
+    },
+    {
+      "588": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Description based on: 20th (Oct. 22, 23, 1914)."
+          }
+        ]
+      }
+    },
+    {
+      "588": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "53rd (December, 1948)"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "z": "Southern States"
+          },
+          {
+            "v": "Congresses."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902499"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Southern States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01244550"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Conference papers and proceedings."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01423772"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Association of Colleges and Secondary Schools of the Southern States (U.S.). Meeting."
+          },
+          {
+            "t": "Proceedings of the ... annual meeting"
+          },
+          {
+            "w": "(OCoLC)654170757"
+          }
+        ]
+      }
+    },
+    {
+      "780": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Association of Colleges and Preparatory Schools of the Southern States. Meeting."
+          },
+          {
+            "t": "Proceedings of the ... annual meeting"
+          },
+          {
+            "w": "(DLC)sf 84007176"
+          },
+          {
+            "w": "(OCoLC)7311604"
+          }
+        ]
+      }
+    },
+    {
+      "785": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Southern Association of Colleges and Secondary Schools (U.S.). Meeting."
+          },
+          {
+            "t": "Proceedings of the ... Annual Meeting of the Southern Association of Colleges and Secondary Schools"
+          },
+          {
+            "w": "(DLC)sf 84007178"
+          },
+          {
+            "w": "(OCoLC)7164264"
+          }
+        ]
+      }
+    },
+    {
+      "850": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "AU"
+          },
+          {
+            "a": "DLC"
+          },
+          {
+            "a": "FU"
+          },
+          {
+            "a": "InU"
+          },
+          {
+            "a": "MnU"
+          },
+          {
+            "a": "NcD"
+          },
+          {
+            "a": "NcU"
+          },
+          {
+            "a": "NcRS"
+          },
+          {
+            "a": "ViBlbV"
+          },
+          {
+            "a": "ViW"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 115 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019789"
+          },
+          {
+            "v": "26th (1921)"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019750"
+          },
+          {
+            "v": "53rd (1948)"
+          }
+        ]
+      }
+    }
+  ]
+}

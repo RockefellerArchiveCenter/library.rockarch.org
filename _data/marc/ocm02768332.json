@@ -1,0 +1,611 @@
+{
+  "leader": "02602cam a22005051i 4500",
+  "fields": [
+    {
+      "001": "ocm02768332\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211122044522.0"
+    },
+    {
+      "008": "770301s1937\\\\\\\\nyu\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   37011380 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "ZXC"
+          },
+          {
+            "d": "SLU"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "GBVCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UX0"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TAL"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "HLS"
+          },
+          {
+            "d": "YHM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "001445913"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "226391515"
+          },
+          {
+            "a": "316338123"
+          },
+          {
+            "a": "978025459"
+          },
+          {
+            "a": "1000868727"
+          },
+          {
+            "a": "1116985731"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)2768332"
+          },
+          {
+            "z": "(OCoLC)226391515"
+          },
+          {
+            "z": "(OCoLC)316338123"
+          },
+          {
+            "z": "(OCoLC)978025459"
+          },
+          {
+            "z": "(OCoLC)1000868727"
+          },
+          {
+            "z": "(OCoLC)1116985731"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "e-uk---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "KD8220"
+          },
+          {
+            "b": ".G6 1937"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "345.4105"
+          },
+          {
+            "b": "GOE"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Goebel, Julius,"
+          },
+          {
+            "c": "Jr.,"
+          },
+          {
+            "d": "1892-1973,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Felony and misdemeanor :"
+          },
+          {
+            "b": "a study in the history of English criminal procedure /"
+          },
+          {
+            "c": "by Julius Goebel, Jr."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Commonwealth Fund ;"
+          },
+          {
+            "a": "London :"
+          },
+          {
+            "b": "H. Milford, Oxford University Press,"
+          },
+          {
+            "c": "1937."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxix, 455 pages ;"
+          },
+          {
+            "c": "25 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Publications of the Foundation for research in legal history, Columbia University School of Law"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Noted as \"Volume One\" on the title page, but no more were published."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The foundations of early enforcement -- Frankish crown procedure and the growth of public order -- The dispersal of jurisdiction and Norman reception of Frankish law -- Criminal procedure and feudal government -- God's peace and Duke's peace -- Anglo-Saxon institutions and Norman justice."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Criminal procedure"
+          },
+          {
+            "z": "Great Britain."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Law"
+          },
+          {
+            "z": "Great Britain"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Criminal procedure."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00883421"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Law."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00993678"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Great Britain."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204623"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Criminal justice, Administration of"
+          },
+          {
+            "a": "History"
+          },
+          {
+            "a": "England"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Criminal procedure"
+          },
+          {
+            "a": "Great Britain"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Criminal procedure"
+          },
+          {
+            "a": "History"
+          },
+          {
+            "a": "England"
+          }
+        ]
+      }
+    },
+    {
+      "653": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Law"
+          },
+          {
+            "a": "History"
+          },
+          {
+            "a": "Great Britain"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "740": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "History of English criminal procedure."
+          }
+        ]
+      }
+    },
+    {
+      "740": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "English criminal procedure."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Goebel, Julius, 1892-1973."
+          },
+          {
+            "t": "Felony and misdemeanor."
+          },
+          {
+            "d": "New York, the Commonwealth fund; London H. Milford, Oxford University Press, 1937-"
+          },
+          {
+            "w": "(OCoLC)903442394"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Publication of the Foundation for Research in Legal History, Columbia University School of Law."
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "No barcode."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "C0"
+          },
+          {
+            "b": "UTBLW"
+          }
+        ]
+      }
+    }
+  ]
+}

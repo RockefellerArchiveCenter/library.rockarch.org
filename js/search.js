@@ -11,7 +11,7 @@
              <h2 class="tile__title">
                <a class="tile__link" href="${item.url}">${item.title}</a>
              </h2>
-             <p class="tile__callnumber">${item.call_numbers}</p>
+             <p class="tile__callnumber">${item.call_number}</p>
              <p class="tile__authors"><strong>Author(s)</strong>: ${item.author}</p>
              <p class="tile__date"><strong>Published</strong>: ${item.dates}</p>
            </li>`;

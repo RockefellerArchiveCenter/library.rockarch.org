@@ -1,0 +1,597 @@
+{
+  "leader": "02483cam a2200385 i 4500",
+  "fields": [
+    {
+      "001": "ocm00115628\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221227155938.0"
+    },
+    {
+      "008": "710129s1969\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   76086420 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "NGA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CNUTO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "MTC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "QGE"
+          },
+          {
+            "d": "BOS"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CPS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "FWR"
+          },
+          {
+            "d": "DCT"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "LCY"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "977197068"
+          },
+          {
+            "a": "1008373257"
+          },
+          {
+            "a": "1020245247"
+          },
+          {
+            "a": "1170008259"
+          },
+          {
+            "a": "1193507040"
+          },
+          {
+            "a": "1200993634"
+          },
+          {
+            "a": "1201025492"
+          },
+          {
+            "a": "1201580222"
+          },
+          {
+            "a": "1201632899"
+          },
+          {
+            "a": "1201830374"
+          },
+          {
+            "a": "1201857381"
+          },
+          {
+            "a": "1201994844"
+          },
+          {
+            "a": "1202010300"
+          },
+          {
+            "a": "1251855281"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)115628"
+          },
+          {
+            "z": "(OCoLC)977197068"
+          },
+          {
+            "z": "(OCoLC)1008373257"
+          },
+          {
+            "z": "(OCoLC)1020245247"
+          },
+          {
+            "z": "(OCoLC)1170008259"
+          },
+          {
+            "z": "(OCoLC)1193507040"
+          },
+          {
+            "z": "(OCoLC)1200993634"
+          },
+          {
+            "z": "(OCoLC)1201025492"
+          },
+          {
+            "z": "(OCoLC)1201580222"
+          },
+          {
+            "z": "(OCoLC)1201632899"
+          },
+          {
+            "z": "(OCoLC)1201830374"
+          },
+          {
+            "z": "(OCoLC)1201857381"
+          },
+          {
+            "z": "(OCoLC)1201994844"
+          },
+          {
+            "z": "(OCoLC)1202010300"
+          },
+          {
+            "z": "(OCoLC)1251855281"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "{dollar}7.95"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "NB198"
+          },
+          {
+            "b": ".G65 1969"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "735.29"
+          },
+          {
+            "b": "GOL"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Goldwater, Robert,"
+          },
+          {
+            "d": "1907-1973."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "What is modern sculpture?"
+          },
+          {
+            "c": "[By] Robert Goldwater."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York,"
+          },
+          {
+            "b": "Museum of Modern Art; distributed by New York Graphic Society, Greenwich, Conn."
+          },
+          {
+            "c": "[\u00a91969]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "146, [2] pages"
+          },
+          {
+            "b": "117 illustrations"
+          },
+          {
+            "c": "24 x 25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (page 147)."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "583": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "commitment to retain"
+          },
+          {
+            "c": "20151204"
+          },
+          {
+            "2": "pda"
+          },
+          {
+            "5": "OTUTLD"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Human Figure -- The Torso -- The Reclining Figure -- The Head -- The Portrait -- Impressionism -- Symbolism -- Reactions to Rodin -- Cubism -- Futurism -- Dada and Surrealism -- Biomorphism -- Constructivism -- Space Drawing -- Expressionist Constructivism -- Assemblage -- Tendencies of the Sixties -- Relief -- Monuments -- Architecture as Sculpture."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Sculpture, Modern"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Sculpture, Modern."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Sculpture, Modern."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01109788"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Goldwater, Robert John, 1907-1973."
+          },
+          {
+            "t": "What is modern sculpture?"
+          },
+          {
+            "d": "New York, Museum of Modern Art; distributed by New York Graphic Society, Greenwich, Conn. [\u00a91969]"
+          },
+          {
+            "w": "(OCoLC)644892690"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1102 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010612"
+          }
+        ]
+      }
+    }
+  ]
+}

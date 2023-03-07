@@ -1,0 +1,469 @@
+{
+  "leader": "01752cam a22003851i 4500",
+  "fields": [
+    {
+      "001": "ocm00710751\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221223103028.0"
+    },
+    {
+      "008": "720107s1961\\\\\\\\nyuae\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   61013689 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "TBS"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "ZWQ"
+          },
+          {
+            "d": "IAD"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "NGA"
+          },
+          {
+            "d": "KKX"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ALEML"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MAFCI"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UWW"
+          },
+          {
+            "d": "U3G"
+          },
+          {
+            "d": "AJS"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "512727"
+          },
+          {
+            "a": "1087138291"
+          },
+          {
+            "a": "1152854302"
+          },
+          {
+            "a": "1200989828"
+          },
+          {
+            "a": "1201995853"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)710751"
+          },
+          {
+            "z": "(OCoLC)512727"
+          },
+          {
+            "z": "(OCoLC)1087138291"
+          },
+          {
+            "z": "(OCoLC)1152854302"
+          },
+          {
+            "z": "(OCoLC)1200989828"
+          },
+          {
+            "z": "(OCoLC)1201995853"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "NA680"
+          },
+          {
+            "b": ".S38 1961"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "724.9"
+          },
+          {
+            "b": "SCU"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Scully, Vincent,"
+          },
+          {
+            "c": "Jr.,"
+          },
+          {
+            "d": "1920-2017."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Modern architecture :"
+          },
+          {
+            "b": "the architecture of democracy /"
+          },
+          {
+            "c": "by Vincent Scully, Jr."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "George Braziller,"
+          },
+          {
+            "c": "1961."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "128 pages :"
+          },
+          {
+            "b": "illustrations, plans ;"
+          },
+          {
+            "c": "26 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The Great ages of world architecture"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"Bibliographical note\": pages 113-114. Bibliographical references included in \"Notes\" (p. 115-121)."
+          }
+        ]
+      }
+    },
+    {
+      "530": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Also issued online."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Traces the origin and development of modern architecture and evaluates its meaning in modern life."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Architecture, Modern"
+          },
+          {
+            "y": "20th century."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Architecture, Modern."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00813842"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Scully, Vincent Joseph, 1920-"
+          },
+          {
+            "t": "Modern architecture."
+          },
+          {
+            "d": "New York, G. Braziller, 1961"
+          },
+          {
+            "w": "(OCoLC)560714611"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Great ages of world architecture."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1000 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000010871"
+          }
+        ]
+      }
+    }
+  ]
+}

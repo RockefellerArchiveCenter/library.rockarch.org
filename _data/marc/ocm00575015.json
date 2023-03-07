@@ -1,0 +1,564 @@
+{
+  "leader": "03648cam a22004211i 4500",
+  "fields": [
+    {
+      "001": "ocm00575015\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106124247.0"
+    },
+    {
+      "008": "730308s1952\\\\\\\\enk\\\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   52012227 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "WSU"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "NZ1"
+          },
+          {
+            "d": "AUD"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "SGB"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UKSCO"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKOBU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "EUM"
+          },
+          {
+            "d": "AZU"
+          },
+          {
+            "d": "RWFNT"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "UWK"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "SUTRO"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000006290373"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "008579258"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1008047082"
+          },
+          {
+            "a": "1106170940"
+          },
+          {
+            "a": "1164679605"
+          },
+          {
+            "a": "1166172570"
+          },
+          {
+            "a": "1171612099"
+          },
+          {
+            "a": "1175718280"
+          },
+          {
+            "a": "1176270945"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)575015"
+          },
+          {
+            "z": "(OCoLC)1008047082"
+          },
+          {
+            "z": "(OCoLC)1106170940"
+          },
+          {
+            "z": "(OCoLC)1164679605"
+          },
+          {
+            "z": "(OCoLC)1166172570"
+          },
+          {
+            "z": "(OCoLC)1171612099"
+          },
+          {
+            "z": "(OCoLC)1175718280"
+          },
+          {
+            "z": "(OCoLC)1176270945"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "e-uk-en"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Z792.O94"
+          },
+          {
+            "b": "C82"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Z792.O94C82"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "027.742574"
+          },
+          {
+            "b": "CRA"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Craster, H. H. E."
+          },
+          {
+            "q": "(Herbert Henry Edmund),"
+          },
+          {
+            "d": "1879-1959,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "History of the Bodleian Library :"
+          },
+          {
+            "b": "1845-1945 /"
+          },
+          {
+            "c": "by Sir Edmund Craster."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Oxford :"
+          },
+          {
+            "b": "Clarendon Press,"
+          },
+          {
+            "c": "1952."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "371 pages ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Part 1 : The Bodleian in 1845. Library buildings -- Organization and personnel -- Part 2 : Bandinel and Coxe, 1845-81. Library administration -- Printed books, etc. -- Manuscripts and their catalogues -- Orientalia, prints, and coins -- The library fabric : old schools and camera -- The library fabric : renovation and extension -- Part 3 : Nicholson, 1882-1912. Administration, finance, and catalogues -- Printed books -- Western manuscripts -- Oriental and minor departments -- Store-rooms and reading-rooms -- Part 4 : Three librarians, 1912-45. Administration -- Accessions and catalogues -- Printed books -- Western manuscripts -- Oreintalia, art collections, manuscript catalogues -- Library extension (part I) -- Library extension (part II) -- Appendix : Three extension programmes."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "In this book the author describes how the Library has developed during the hundred years that ended with the close of the Second World War. Unlike Macray's Annals of the Bodleian, of which it is in some sort a continuation, it does not adopt a strictly chronological arrangement, but, after giving a sketch of the Library as it was in 1845, tells its history under successive librarians; first under Bandinel and Coxe; then under Nicholson; and finally under Nicholson's three successors in office. In each of these three sections there are separate chapters on administration, on accessions of printed books, on manuscripts, on Orientalia, and on building extension. Librarians and scholars will each find in them subjects that fall within their special fields, but it is hoped that the book as a whole will appeal to the wider circle of all who are interested in the history of Oxford and one of her greatest institutions. - Jacket flap."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Bodleian Library"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Bodleian Library."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00541485"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Craster, H.H.E. (Herbert Henry Edmund), 1879-1959."
+          },
+          {
+            "t": "History of the Bodleian Library, 1845-1945."
+          },
+          {
+            "d": "Oxford, Clarendon Press, 1952"
+          },
+          {
+            "w": "(OCoLC)577790463"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://digitool.hbz-nrw.de:1801/webclient/DeliveryManager?pid=2302244&custom_att_2=simple_viewer"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 422 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000016602"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,336 @@
+{
+  "leader": "01417nam a2200313Ii 4500",
+  "fields": [
+    {
+      "001": "bslw09837913"
+    },
+    {
+      "003": "UtOrBLW"
+    },
+    {
+      "005": "20221221095021.0"
+    },
+    {
+      "008": "221221s2009\\\\\\\\mauabe\\\\\\b\\\\\\\\000\\\\\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "UtOrBLW"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "UtOrBLW"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-me"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "TH4820"
+          },
+          {
+            "b": ".L44 2009"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "728.314"
+          },
+          {
+            "b": "LEE "
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Lee, James J.,"
+          },
+          {
+            "c": "III,"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "U. S. Naval radio station-apartment building (Bldg 1) :"
+          },
+          {
+            "b": "historic structure report, Acadia National Park, Bar Harbor, Maine /"
+          },
+          {
+            "c": "by James J. Lee III (architural conservator)."
+          }
+        ]
+      }
+    },
+    {
+      "246": {
+        "ind1": "3",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States Naval radio station-apartment building (Bldg 1)"
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Lowell, Massachusetts :"
+          },
+          {
+            "b": "Historic Architecture Program Northeast Region :"
+          },
+          {
+            "b": "National Park Service, U. S. Department of Interior,"
+          },
+          {
+            "c": "2009."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xvii, 258 pages :"
+          },
+          {
+            "b": "illustrations, maps, plans ;"
+          },
+          {
+            "c": "28 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Apartment houses"
+          },
+          {
+            "z": "Maine"
+          },
+          {
+            "z": "Bar Harbor."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Apartment houses"
+          },
+          {
+            "z": "Maine"
+          },
+          {
+            "z": "Acadia National Park."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Radio stations"
+          },
+          {
+            "z": "Maine and Bar Harbor."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Radio stations"
+          },
+          {
+            "z": "Maine"
+          },
+          {
+            "z": "Acadia National Park."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Apartment houses"
+          },
+          {
+            "x": "Design and construction"
+          },
+          {
+            "z": "Maine"
+          },
+          {
+            "z": "Bar Harbor."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Apartment houses"
+          },
+          {
+            "x": "Design and construction"
+          },
+          {
+            "z": "Maine"
+          },
+          {
+            "z": "Acadia National Park."
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000018498"
+          }
+        ]
+      }
+    }
+  ]
+}

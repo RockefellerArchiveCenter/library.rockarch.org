@@ -1,0 +1,404 @@
+{
+  "leader": "02879cam a2200361Ii 4500",
+  "fields": [
+    {
+      "001": "ocm01851647\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211116092554.0"
+    },
+    {
+      "008": "751124s1952\\\\\\\\pauac\\\\\\\\b\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   52002721 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "VRC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "VRC"
+          },
+          {
+            "d": "CHS"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NJR"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "GZH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "FQM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "WYU"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "TJC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7943653"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1851647"
+          },
+          {
+            "z": "(OCoLC)7943653"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "RA427"
+          },
+          {
+            "b": ".G62 1952"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "WA 540 G653i 1952"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "614.06"
+          },
+          {
+            "b": "GOO"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Goodman, Neville M."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "International health organizations and their work /"
+          },
+          {
+            "c": "by Neville M. Goodman."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Philadelphia :"
+          },
+          {
+            "b": "Blakiston,"
+          },
+          {
+            "c": "1952."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 327 pages :"
+          },
+          {
+            "b": "illustrations, portraits ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Why \"international\" health? -- Early efforts : the story of quarantine -- The story of quarantine since 1851 -- The International Office of Public Health -- The Health Organization of the League of Nations, 1921-1946 -- Health work of the United Nations Relief and Rehabilitation Administration (UNRRA) -- The World Health Organization : origins, world health conference, interim commission -- The World Health Organization (cont'd) -- Regional health organizations : old and new -- Other inter-governmental agencies concerned with health -- Voluntary agencies in the international health field -- Past, present, and future. -- APPENDICES. I. International sanitary conferences and conventions on quarantine of the 19th and 20th centuries -- II. Rome Agreement of 1907, establishing the International Office of Public Health -- III. Presidents and directors of the International Office of Public Health -- IV. Health Organization of the League of Nations : principal dates -- V. UNRRA : principal dates -- VI. Technical Preparatory Committee : members, advisers and observers -- VII. Officers, committees, chairmen and rapporteurs of the International Health Conference, New York, 1946 -- VIII. Constitution of the World Health Organization -- IX. Arrangement concluded by the governments represented at the International Health Conference (establishing an interim commission of WHO) -- X. Members of the interim commission -- XI. WHO budgets for 1949, 1950 and 1951 -- XII. Regional organizations : principal dates -- XIII. Inter-governmental agencies with health functions."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public health"
+          },
+          {
+            "x": "International cooperation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public health"
+          },
+          {
+            "x": "International cooperation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01082272"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "International Cooperation"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Public Health"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Societies, Medical"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 96 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012302"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,946 @@
+{
+  "leader": "04421cam a2200553 i 4500",
+  "fields": [
+    {
+      "001": "ocm49743393\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220706164441.0"
+    },
+    {
+      "008": "010813t20012001nyu\\\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2001094693"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "MNB"
+          },
+          {
+            "d": "VET"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "VXM"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "CQU"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "TXBXL"
+          },
+          {
+            "d": "TXCUE"
+          },
+          {
+            "d": "EEK"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "WIC"
+          },
+          {
+            "d": "TXMLI"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "XFF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "COF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "SHM"
+          },
+          {
+            "d": "CNCGM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "LNT"
+          },
+          {
+            "d": "ALJVP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSAIL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NZCMD"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EQF"
+          },
+          {
+            "d": "P@N"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "MTH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "MNLUT"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DUD"
+          },
+          {
+            "d": "BYV"
+          },
+          {
+            "d": "ILM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TXMIN"
+          },
+          {
+            "d": "XFH"
+          },
+          {
+            "d": "RC0"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSA"
+          },
+          {
+            "d": "JAO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MAFML"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "PX9"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "IWR"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "BUF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "QT4"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "IOG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "KIJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "VTU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CNO"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CCH"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "ANT"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "MST"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "S#L"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "INT"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "JDP"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "TCJ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SQP"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "TZ7"
+          },
+          {
+            "d": "QE2"
+          },
+          {
+            "d": "JST"
+          },
+          {
+            "d": "U3G"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "LU8"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "GZN"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "MQT"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "48567631"
+          },
+          {
+            "a": "732733934"
+          },
+          {
+            "a": "732821358"
+          },
+          {
+            "a": "732846845"
+          },
+          {
+            "a": "733765932"
+          },
+          {
+            "a": "1002365866"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1893007162"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781893007161"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1893007170"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781893007178"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0916856003"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780916856007"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)49743393"
+          },
+          {
+            "z": "(OCoLC)48567631"
+          },
+          {
+            "z": "(OCoLC)732733934"
+          },
+          {
+            "z": "(OCoLC)732821358"
+          },
+          {
+            "z": "(OCoLC)732846845"
+          },
+          {
+            "z": "(OCoLC)733765932"
+          },
+          {
+            "z": "(OCoLC)1002365866"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV5275"
+          },
+          {
+            "b": ".W15 2001"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "WM 274 W111 2001"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WM274"
+          },
+          {
+            "b": "A354 2001"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "362.292"
+          },
+          {
+            "b": "ALC"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Alcoholics Anonymous :"
+          },
+          {
+            "b": "the story of how many thousands of men and women have recovered from alcoholism."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Fourth edition."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "New York City :"
+          },
+          {
+            "b": "Alcoholics Anonymous World Services,"
+          },
+          {
+            "c": "2001."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a92001"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxxii, 575 pages ;"
+          },
+          {
+            "c": "22 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "380": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Book"
+          },
+          {
+            "2": "tlcgt"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Book jacket subtitle: This is the fourth edition of the Big Book, the basic text for Alcoholics Anonymous."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bill's story -- There is a solution -- More about alcoholism -- We agnostics -- How it works -- Into action -- Working with others -- To wives -- The family afterward -- To employers -- A vision for you -- Personal stories : pt. I. Pioneers of A.A. : Doctor Bob's nightmare ; Alcoholic anonymous number three ; Gratitude in action ; Women suffer too ; Our southern friend ; The vicious cycle ; Jim's story ; The man who mastered fear ; He sold himself short ; The keys of the kingdom -- pt. II. They stopped in time : The missing link ; Fear of fear ; The housewife who drank at home ; Physician, heal thyself! ; My chance to live ; Student of life ; Crossing the river of denial ; Because I'm an alcoholic ; It might have been worse ; Tightrope ; Flooded with feeling ; Winner takes all ; Me an alcoholic? ; The perpetual quest ; A drunk, like you ; Acceptance was the answer ; Window of opportunity -- pt. III. They lost nearly all : My bottle, my resentments, and me -- He lived only to drink ; Safe haven ; Listening to the wind ; Twice gifted ; Building a new life ; On the move ; A vision of recovery ; Gutter bravado ; Empty on the inside ; Grounded ; Another chance ; A late start ; Freedom from bondage ; A.A. taught him to handle sobriety -- Appendices : I. The A.A. tradition ; II. Spiritual experience ; III. The medical view on A.A. ; IV. The Lasker Award ; V. The religious view on A.A. ; VI. How to get in touch with A.A. ; VII. Twelve concepts (short form)."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The basic text of the Alcoholics Anonymous, which traces its roots, explores its precepts, and presents stories from participants that demonstrate the program's effectiveness."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Alcoholics Anonymous."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Alcoholics"
+          },
+          {
+            "x": "Rehabilitation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Alcoholism"
+          },
+          {
+            "x": "Treatment."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Social psychology."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Alcoholism"
+          },
+          {
+            "x": "therapy"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Psychology, Social"
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Alcoholics Anonymous."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00528423"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Alcoholics"
+          },
+          {
+            "x": "Rehabilitation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00804437"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Alcoholism"
+          },
+          {
+            "x": "Treatment."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00804565"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Nonfiction."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/enhancements/fy0727/2001094693-d.html"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 2389 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019252"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,455 @@
+{
+  "leader": "03082cam a2200397 i 4500",
+  "fields": [
+    {
+      "001": "ocm30400703\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707180129.0"
+    },
+    {
+      "008": "940420t19941994inua\\\\\\\\\\\\\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   94016110 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "UKV3G"
+          },
+          {
+            "d": "GEBAY"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GCD"
+          },
+          {
+            "d": "YCP"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "60200870"
+          },
+          {
+            "a": "123062035"
+          },
+          {
+            "a": "214538646"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "157034003X"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781570340031"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)30400703"
+          },
+          {
+            "z": "(OCoLC)60200870"
+          },
+          {
+            "z": "(OCoLC)123062035"
+          },
+          {
+            "z": "(OCoLC)214538646"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "E160"
+          },
+          {
+            "b": ".R45 1994"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "353.0086320973"
+          },
+          {
+            "b": "RID"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Ridenour, James M."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The National parks compromised :"
+          },
+          {
+            "b": "pork barrel politics & America's treasures /"
+          },
+          {
+            "c": "by James M. Ridenour."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Merrillville, Ind. :"
+          },
+          {
+            "b": "ICS Books,"
+          },
+          {
+            "c": "1994."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "c": "\u00a91994"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "254 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Introduction. Thinning the blood and blurring the lines. The birth of our national park system -- Thinning the blood -- Blurring the lines. 1. The human side of directing NPS. How do you get a job like that? -- Meeting the boss -- Secretary Lujan of New Mexico -- Global friends and colleagues -- Our dedicated park service people. 2. Management philosophy & goals of the NPS. Managing the NPS -the internal organization -- The seventy-fifth anniversary & the Vail agenda; strategic objective 1-6. 3. Money, power & politics. Dealing with Congress -- Boondoggle in North Carolina -- Interest groups -in whose interest? -- The deteriorating infrastructure of our parks -- Money -we always need money. 4. NPS & concessionaires. Concessions at your service -- Yosemite park and Curry Company. 5. The threatened ecology of our parks. The Everglades -- The Yellowstone fires, geysers and ecosystem -- Wolves in Yellowstone"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Oh, give me a home where the buffalo roam -- Alaska -- Air quality in the parks -- The Great Smoky Mountains National Park -- May I take your reservation? 6. Historical and cultural monuments & urban parks. Taking care of the White House -- Parks, monuments and malls -our nation's capital -- Quayle in the parks -- A hearing in Woodstock -- Fifty years after Pearl Harbor -- Time to go home. Appendices: James M. Ridenour's philosophical thoughts on national park service -- User fees -- Role of the concessionaire -- Land & water conservation fund -- Historic preservation -- Management style -- List of national parks."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National parks and reserves"
+          },
+          {
+            "x": "Government policy"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National parks and reserves"
+          },
+          {
+            "x": "Government policy."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01033659"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Ridenour, James M."
+          },
+          {
+            "t": "National parks compromised."
+          },
+          {
+            "d": "Merrillville, Ind. : ICS Books, \u00a91994"
+          },
+          {
+            "w": "(OCoLC)623045204"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 212 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014279"
+          }
+        ]
+      }
+    }
+  ]
+}

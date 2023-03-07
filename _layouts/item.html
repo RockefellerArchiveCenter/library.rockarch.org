@@ -3,14 +3,14 @@ layout: default
 ---
 
 {% capture object_id %}{{page.id}}{% endcapture %}
-{% assign object = site.data.resource[object_id] %}
+{% assign object = site.data.marc[object_id] %}
 
 <div class="wrapper item__header">
   <div class="item__header-left">
     <h1 class="page__title item__title">
-      {{ object.title }}
+      {{ page.title }}
     </h1>
-    <p class="item__callnumber">Call Number: {% include call_numbers.html object=object %}</p>
+    <p class="item__callnumber">Call Number: {% include call_number.html object=object %}</p>
   </div>
   <div class="item__header-right">
     <button class="btn btn--md btn--blue" data-micromodal-trigger="request_modal">
@@ -23,28 +23,37 @@ layout: default
   <div class="wrapper--flex-wrap wrapper--attributes">
     <div class="container item__attribute">
       <h2 class="item-details__label">Authors</h2>
+      {%- capture authors -%}{%- include author_list.html object=object separator="|" -%}{%- endcapture -%}
+      {%- assign authors = authors | split: "|" -%}
       <ul class="list--unstyled">
-      {% for agent in object.linked_agents %}
-        {% if agent.role == "creator" %}
-          <li>{%- include title_from_ref.html object=agent -%}</li>
-        {% endif %}
+      {% for author in authors %}
+        <li>{{authors}}</li>
       {% endfor %}
       </ul>
     </div>
-    {%- capture subjects -%}{%- include subject_list.html object=object -%}{%- endcapture -%}
+    {%- capture subjects -%}{%- include subject_list.html object=object separator="|" -%}{%- endcapture -%}
     {% if subjects.size > 0 %}
+    {% assign subjects = subjects | split: "|" %}
     <div class="container item__attribute">
       <h2 class="item-details__label">Subject Terms</h2>
-      {% include subject_list.html object=object %}
+      <ul class="list--unstyled">
+      {%- for subject in subjects -%}
+        <li>{{subject}}</li>
+      {%- endfor -%}
+      </ul>
     </div>
     {% endif %}
     <div class="container item__attribute">
       <h2 class="item-details__label">Published</h2>
-      {% include date_list.html object=object %}
+      {% include publication_info.html object=object %}
     </div>
   </div>
-  <h2 class="item-details__label">Notes</h2>
+
+  {% capture notes %}{% include note_list.html object=object %}{% endcapture %}
+  {% if notes.size > 1 %}
+    <h2 class="item-details__label">Notes</h2>
     <div class="wrapper--flex-wrap">
-      {% include note_list.html %}
+      {% include note_list.html object=object %}
     </div>
+  {% endif %}
 </div>

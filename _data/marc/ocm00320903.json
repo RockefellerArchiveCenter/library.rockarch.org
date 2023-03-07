@@ -1,0 +1,662 @@
+{
+  "leader": "02603cam a22004691i 4500",
+  "fields": [
+    {
+      "001": "ocm00320903\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105104943.0"
+    },
+    {
+      "008": "731207s1967\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   67030343 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "ONE"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "COF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "CSJ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "WURST"
+          },
+          {
+            "d": "CASUM"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "AGL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "8217414"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "014350642"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1345272"
+          },
+          {
+            "a": "610302362"
+          },
+          {
+            "a": "976924036"
+          },
+          {
+            "a": "1150854433"
+          },
+          {
+            "a": "1170027022"
+          },
+          {
+            "a": "1200993204"
+          },
+          {
+            "a": "1201016138"
+          },
+          {
+            "a": "1201614274"
+          },
+          {
+            "a": "1201625587"
+          },
+          {
+            "a": "1201821453"
+          },
+          {
+            "a": "1201845312"
+          },
+          {
+            "a": "1201995336"
+          },
+          {
+            "a": "1229305591"
+          },
+          {
+            "a": "1275651047"
+          },
+          {
+            "a": "1276641660"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "0087400051"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)320903"
+          },
+          {
+            "z": "(OCoLC)1345272"
+          },
+          {
+            "z": "(OCoLC)610302362"
+          },
+          {
+            "z": "(OCoLC)976924036"
+          },
+          {
+            "z": "(OCoLC)1150854433"
+          },
+          {
+            "z": "(OCoLC)1170027022"
+          },
+          {
+            "z": "(OCoLC)1200993204"
+          },
+          {
+            "z": "(OCoLC)1201016138"
+          },
+          {
+            "z": "(OCoLC)1201614274"
+          },
+          {
+            "z": "(OCoLC)1201625587"
+          },
+          {
+            "z": "(OCoLC)1201821453"
+          },
+          {
+            "z": "(OCoLC)1201845312"
+          },
+          {
+            "z": "(OCoLC)1201995336"
+          },
+          {
+            "z": "(OCoLC)1229305591"
+          },
+          {
+            "z": "(OCoLC)1275651047"
+          },
+          {
+            "z": "(OCoLC)1276641660"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "QP361"
+          },
+          {
+            "b": ".N48"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "CC1728"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "QP361.Q3"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "574.18"
+          },
+          {
+            "b": "NEU"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The neurosciences :"
+          },
+          {
+            "b": "a study program /"
+          },
+          {
+            "c": "planned and edited by Gardner C. Quarton, Theodore Melnechuk, Francis O. Schmitt, and the associates and staff of the Neurosciences Research Program."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Rockefeller University Press,"
+          },
+          {
+            "c": "1967."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xiii, 962 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "An outgrowth of the NRP's first intensive study program in the neurosciences held in the summer of 1966 at the University of Colorado."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bibliographical references included in \"Notes\" (p. 835-915)."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "An outgrowth of the NRP's first intensive study program in the neurosciences held in the summer of 1966 at the University of Colorado."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Neurosciences."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Nervous System"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Neurology"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Neurosciences."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01036509"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Quarton, Gardner C.,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Melnechuk, Theodore,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Schmitt, Francis Otto,"
+          },
+          {
+            "d": "1903-1995,"
+          },
+          {
+            "e": "editor."
+          }
+        ]
+      }
+    },
+    {
+      "710": {
+        "ind1": "2",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Neurosciences Research Program."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "t": "Neurosciences."
+          },
+          {
+            "d": "New York, Rockefeller University Press, 1967"
+          },
+          {
+            "w": "(OCoLC)755266446"
+          }
+        ]
+      }
+    },
+    {
+      "971": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Copy in hand has missing pages starting after page 926."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 504 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012272"
+          }
+        ]
+      }
+    }
+  ]
+}

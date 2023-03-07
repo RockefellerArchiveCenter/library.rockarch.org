@@ -1,0 +1,713 @@
+{
+  "leader": "03841cam a2200577 i 4500",
+  "fields": [
+    {
+      "001": "ocn905667625"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20221207101556.0"
+    },
+    {
+      "008": "150324s2015\\\\\\\\iau\\\\\\\\\\\\b\\\\\\s001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2015004900"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "e": "rda"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "YDX"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "NUI"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "COO"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "CHVBK"
+          },
+          {
+            "d": "PRC"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "VP@"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SFR"
+          },
+          {
+            "d": "DHA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "UKMGB"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "TXG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "017630035"
+          },
+          {
+            "2": "Uk"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "933724816"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781609383718"
+          },
+          {
+            "q": "(pbk. ;"
+          },
+          {
+            "q": "acid-free paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1609383710"
+          },
+          {
+            "q": "(pbk. ;"
+          },
+          {
+            "q": "acid-free paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "z": "9781609383725"
+          },
+          {
+            "q": "(e-book)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)905667625"
+          },
+          {
+            "z": "(OCoLC)933724816"
+          }
+        ]
+      }
+    },
+    {
+      "037": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "b": "Univ of Iowa Pr, C/O Chicago Distribution Center 11030 S Langley Ave, Chicago, IL, USA, 60628, (319)3843808"
+          },
+          {
+            "n": "SAN 202-5280"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "PS228.C58"
+          },
+          {
+            "b": "B46 2015"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "810.93582825"
+          },
+          {
+            "b": "BEN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Bennett, Eric,"
+          },
+          {
+            "d": "1975-"
+          },
+          {
+            "e": "author."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Workshops of Empire :"
+          },
+          {
+            "b": "Stegner, Engle, and American Creative Writing During the Cold War /"
+          },
+          {
+            "c": "Eric Bennett."
+          }
+        ]
+      }
+    },
+    {
+      "264": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "Iowa City :"
+          },
+          {
+            "b": "University of Iowa Press,"
+          },
+          {
+            "c": "[2015]"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xi, 232 pages ;"
+          },
+          {
+            "c": "24 cm."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The new American canon : the Iowa series in contemporary literature and culture"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 207-222) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The new humanism -- Liberalism and literature after the war -- The Rockefeller foundation and postwar internationalism -- Paul Engle: the creative writing cold warrior -- Wallace Stegner: the tragic centrist -- Canonical bedfellows: Ernest Hemingway and Henry James."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "During and just after World War II, an influential group of American writers and intellectuals projected a vision for literature that would save the free world. Novels, stories, plays, and poems, they believed, could inoculate weak minds against simplistic totalitarian ideologies, heal the spiritual wounds of global catastrophe, and just maybe prevent the like from happening again. As the Cold War began, high-minded and well-intentioned scholars, critics, and writers from across the political spectrum argued that human values remained crucial to civilization and that such values stood in dire need of formulation and affirmation. Creative writing emerged as a graduate discipline in the United States amid this astonishing swirl of grand conceptions. Workshops of Empire explores this history via the careers of Paul Engle at the University of Iowa and Wallace Stegner at Stanford. In the story of these founding fathers of the discipline, Eric Bennett discovers the cultural, political, literary, intellectual, and institutional underpinnings of creative writing programs within the university Book jacket."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Stegner, Wallace,"
+          },
+          {
+            "d": "1909-1993"
+          },
+          {
+            "x": "Criticism and interpretation."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Engle, Paul,"
+          },
+          {
+            "d": "1908-1991"
+          },
+          {
+            "x": "Criticism and interpretation."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "American literature"
+          },
+          {
+            "y": "20th century"
+          },
+          {
+            "x": "History and criticism."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Cold War in literature."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Creative writing."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Engle, Paul,"
+          },
+          {
+            "d": "1908-1991."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00040055"
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Stegner, Wallace,"
+          },
+          {
+            "d": "1909-1993."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01754578"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "American literature."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00807113"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Cold War (1945-1989) in literature."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00866988"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Creative writing."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00882489"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1900-1999"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Literature."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01921716"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Criticism, interpretation, etc."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411635"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Literature."
+          },
+          {
+            "2": "lcgft"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "New American canon."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 279 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

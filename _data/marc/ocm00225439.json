@@ -1,0 +1,545 @@
+{
+  "leader": "04192cam a2200409 i 4500",
+  "fields": [
+    {
+      "001": "ocm00225439\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220105155846.0"
+    },
+    {
+      "008": "680301s1968\\\\\\\\nyuah\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "007": "ta"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   68011015 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "LVB"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "RULAW"
+          },
+          {
+            "d": "FN2"
+          },
+          {
+            "d": "ZNL"
+          },
+          {
+            "d": "NIALS"
+          },
+          {
+            "d": "GVA"
+          },
+          {
+            "d": "VRC"
+          },
+          {
+            "d": "GDC"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "YT6"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BGU"
+          },
+          {
+            "d": "YBM"
+          },
+          {
+            "d": "IL4J6"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "EZ9"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "JTB"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000001953622"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "7790281"
+          },
+          {
+            "a": "15383757"
+          },
+          {
+            "a": "154344492"
+          },
+          {
+            "a": "502597729"
+          },
+          {
+            "a": "503654865"
+          },
+          {
+            "a": "977106068"
+          },
+          {
+            "a": "1152907507"
+          },
+          {
+            "a": "1154895855"
+          },
+          {
+            "a": "1166512658"
+          },
+          {
+            "a": "1166525330"
+          },
+          {
+            "a": "1243843910"
+          },
+          {
+            "a": "1277101578"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)225439"
+          },
+          {
+            "z": "(OCoLC)7790281"
+          },
+          {
+            "z": "(OCoLC)15383757"
+          },
+          {
+            "z": "(OCoLC)154344492"
+          },
+          {
+            "z": "(OCoLC)502597729"
+          },
+          {
+            "z": "(OCoLC)503654865"
+          },
+          {
+            "z": "(OCoLC)977106068"
+          },
+          {
+            "z": "(OCoLC)1152907507"
+          },
+          {
+            "z": "(OCoLC)1154895855"
+          },
+          {
+            "z": "(OCoLC)1166512658"
+          },
+          {
+            "z": "(OCoLC)1166525330"
+          },
+          {
+            "z": "(OCoLC)1243843910"
+          },
+          {
+            "z": "(OCoLC)1277101578"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "JK529"
+          },
+          {
+            "b": ".P4 1968"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "KF4886"
+          },
+          {
+            "b": ".P45 1968"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "JK529.P4 1968"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "324.63"
+          },
+          {
+            "b": "PEI"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Peirce, Neal R."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The people's President :"
+          },
+          {
+            "b": "the electoral college in American history and the direct-vote alternative /"
+          },
+          {
+            "c": "Neal R. Peirce ; with a foreword by Tom Wicker."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Simon and Schuster,"
+          },
+          {
+            "c": "1968."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "400 pages :"
+          },
+          {
+            "b": "illustrations, facsimiles ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 364-368) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The people's president -- The birth of the Electoral College. Basic issues ; The presidential election plans ; The ratification debates -- The first elections. The elections of 1792 and 1796 ; The election of 1800 ; The 12th Amendment ; Choosing electors: from variety to uniformity -- Years of controversy. The election of 1824 ; The election of 1876 ; The election of 1888 ; The election of 1916 ; The election of 1948 ; The election of 1960 -- Electing a president today. The popular campaign ; The Constitutional system ; Popular votes versus electoral votes ; Chances of a misfire -- Reform efforts of two centuries. The district system ; The proportional plan ; The automatic system ; Direct popular vote ; Hybrids and miscellaneous plans ; Contingent election ; Conclusion -- The right to vote in America. The expanding suffrage ; Remaining restrictions of the suffrage ; Who actually votes? ; The sanctity of the ballot ; The reapportionment revolution of the 1960s -- Today's alternative: direct vote or the status quo. Basic issues ; The nationalization of U.S. politics ; The direct vote and national politics ; Implementing the direct vote ; \"A more perfect union\" -- Appendices. A: The national vote for president, 1789-1964 -- B: The choice of presidential electors, 1788-1836 -- C: Electoral College membership -- D: Comparison of popular and electoral vote percentages, 1824-1964 -- E: Elections in which minor vote shifts could have changed the outcome -- F: The voter turnout by state for presidential elections, 1920-1964 -- G: Constitutional provisions relating to presidential election and succession and the elective franchise -- H: Federal law relating to the presidential election procedures ; I: Rules for election of a president in the House of Representatives -- J: State laws on ballots, elector nominations, residence requirements for voting -- K: Presidential election documents -- L: Proposed Constitutional amendments -- M: Allocation of electoral votes under alternative systems -- N: Gallup Poll on institution direct national vote -- O: Computer analysis of large- versus small-state power in the Electoral College."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Detailed statement of the case for reform of the allegedly outmoded system of electing the President of the United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Electoral college"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Electoral college."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00904387"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Peirce, Neal R."
+          },
+          {
+            "t": "People's President."
+          },
+          {
+            "d": "New York, Simon and Schuster [1968]"
+          },
+          {
+            "w": "(OCoLC)561016715"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 1394 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014402"
+          }
+        ]
+      }
+    }
+  ]
+}

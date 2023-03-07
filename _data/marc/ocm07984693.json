@@ -1,0 +1,581 @@
+{
+  "leader": "02741cam a2200433Ia 4500",
+  "fields": [
+    {
+      "001": "ocm07984693\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211117101120.0"
+    },
+    {
+      "008": "811210s1959\\\\\\\\nyuaf\\\\\\\\\\\\\\\\\\000\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "ICA"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "ICA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "P4I"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "WSL"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7984693"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "e------"
+          },
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "045": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "v-w-"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "N330.G7"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "759.05"
+          },
+          {
+            "b": "CAN"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Canaday, John,"
+          },
+          {
+            "d": "1907-1985."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The war of illusions :"
+          },
+          {
+            "b": "classicism vs. romanticism /"
+          },
+          {
+            "c": "by John Canaday."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[New York] :"
+          },
+          {
+            "b": "Metropolitan Museum of Art,"
+          },
+          {
+            "c": "\u00a91959."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "29 pages, 12 unnumbered leaves of plates :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "33 cm +"
+          },
+          {
+            "e": "9 plates present in pocket."
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "490": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Metropolitan seminars in art : great periods in painting ;"
+          },
+          {
+            "v": "portfolio H"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "12 plates in pocket."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "Separate color plates: (title of painting, artist, and owner or owning museum [at time of publication]): Plate H2."
+          },
+          {
+            "t": "Christine Boyer/"
+          },
+          {
+            "r": "Antoine Jean Gros"
+          },
+          {
+            "g": "(Louvre Museum, Paris) -- Plate H3."
+          },
+          {
+            "t": "The Rest on the Flight Into Egypt/"
+          },
+          {
+            "r": "Philipp Otto Runge"
+          },
+          {
+            "g": "(Kunsthalle, Hamburg) -- Plate H4."
+          },
+          {
+            "t": "The Entombment of Atala /"
+          },
+          {
+            "r": "Anne Louis Girodet de Roucy"
+          },
+          {
+            "g": "(Louvre Museum, Paris) -- Plate H5."
+          },
+          {
+            "t": "Francois Marius Granet /"
+          },
+          {
+            "r": "Jean Auguste Dominique Ingres"
+          },
+          {
+            "g": "(Granet Museum, Aix-en-Provence) -- Plate H6."
+          },
+          {
+            "t": "Jupiter and Thetis /"
+          },
+          {
+            "r": "Jean Auguste Dominique Ingres"
+          },
+          {
+            "g": "(Granet Museum, Aix-en-Provence) -- Plate H7."
+          },
+          {
+            "t": "Arab Rider Attacked by Lion/"
+          },
+          {
+            "r": "Eugene Delacroix"
+          },
+          {
+            "g": "(Art Institute of Chicago, Potter Palmer Collection) -- Plate H8."
+          },
+          {
+            "t": "Stoke-by-Nayland /"
+          },
+          {
+            "r": "John Constable"
+          },
+          {
+            "g": "(Art Institute of Chicago, Mr. and Mrs. W.W. Kimball Collection) -- Plate H9."
+          },
+          {
+            "t": "Coming from Evening Church /"
+          },
+          {
+            "r": "Samuel Palmer"
+          },
+          {
+            "g": "(Tate Gallery, London) -- Plate H10."
+          },
+          {
+            "t": "Interior at Petworth (unfinished)"
+          },
+          {
+            "r": "Joseph Mallord William Turner"
+          },
+          {
+            "g": "(National Gallery, London)."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art, Modern"
+          },
+          {
+            "y": "17th-18th centuries"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Art, Modern"
+          },
+          {
+            "y": "19th century"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Romanticism in art."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Classicism in art."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Art, Modern."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00816615"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Classicism in art."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00863562"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Romanticism in art."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01100145"
+          }
+        ]
+      }
+    },
+    {
+      "648": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "1600-1899"
+          },
+          {
+            "2": "fast"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Canaday, John, 1907-1985."
+          },
+          {
+            "t": "War of illusions."
+          },
+          {
+            "d": "[New York] : Metropolitan Museum of Art, \u00a91959"
+          },
+          {
+            "w": "(OCoLC)894672640"
+          }
+        ]
+      }
+    },
+    {
+      "830": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Metropolitan seminars in art : great periods in painting ;"
+          },
+          {
+            "v": "portfolio H."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 77 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "no barcode"
+          }
+        ]
+      }
+    }
+  ]
+}

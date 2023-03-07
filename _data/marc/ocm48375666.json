@@ -1,0 +1,970 @@
+{
+  "leader": "05398cam a2200589Ia 4500",
+  "fields": [
+    {
+      "001": "ocm48375666\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220106091214.0"
+    },
+    {
+      "008": "011017s2002\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2001052656"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "52398581"
+          },
+          {
+            "a": "459812559"
+          },
+          {
+            "a": "558694315"
+          },
+          {
+            "a": "680082627"
+          },
+          {
+            "a": "769465841"
+          },
+          {
+            "a": "911708910"
+          },
+          {
+            "a": "994015086"
+          },
+          {
+            "a": "995288869"
+          },
+          {
+            "a": "1002015014"
+          },
+          {
+            "a": "1002343489"
+          },
+          {
+            "a": "1004467020"
+          },
+          {
+            "a": "1004690968"
+          },
+          {
+            "a": "1005493829"
+          },
+          {
+            "a": "1016144562"
+          },
+          {
+            "a": "1022616270"
+          },
+          {
+            "a": "1101251949"
+          },
+          {
+            "a": "1107763797"
+          },
+          {
+            "a": "1111714507"
+          },
+          {
+            "a": "1166474318"
+          },
+          {
+            "a": "1166572022"
+          },
+          {
+            "a": "1201937562"
+          },
+          {
+            "a": "1230287143"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0767905334"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780767905336"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0767905342"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780767905343"
+          },
+          {
+            "q": "(pbk.)"
+          }
+        ]
+      }
+    },
+    {
+      "024": {
+        "ind1": "3",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780767905336"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)48375666"
+          },
+          {
+            "z": "(OCoLC)52398581"
+          },
+          {
+            "z": "(OCoLC)459812559"
+          },
+          {
+            "z": "(OCoLC)558694315"
+          },
+          {
+            "z": "(OCoLC)680082627"
+          },
+          {
+            "z": "(OCoLC)769465841"
+          },
+          {
+            "z": "(OCoLC)911708910"
+          },
+          {
+            "z": "(OCoLC)994015086"
+          },
+          {
+            "z": "(OCoLC)995288869"
+          },
+          {
+            "z": "(OCoLC)1002015014"
+          },
+          {
+            "z": "(OCoLC)1002343489"
+          },
+          {
+            "z": "(OCoLC)1004467020"
+          },
+          {
+            "z": "(OCoLC)1004690968"
+          },
+          {
+            "z": "(OCoLC)1005493829"
+          },
+          {
+            "z": "(OCoLC)1016144562"
+          },
+          {
+            "z": "(OCoLC)1022616270"
+          },
+          {
+            "z": "(OCoLC)1101251949"
+          },
+          {
+            "z": "(OCoLC)1107763797"
+          },
+          {
+            "z": "(OCoLC)1111714507"
+          },
+          {
+            "z": "(OCoLC)1166474318"
+          },
+          {
+            "z": "(OCoLC)1166572022"
+          },
+          {
+            "z": "(OCoLC)1201937562"
+          },
+          {
+            "z": "(OCoLC)1230287143"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "NOR"
+          },
+          {
+            "d": "BAKER"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "STF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BTN"
+          },
+          {
+            "d": "HEBIS"
+          },
+          {
+            "d": "ZWZ"
+          },
+          {
+            "d": "YUS"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TULIB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ANG"
+          },
+          {
+            "d": "MUQ"
+          },
+          {
+            "d": "GEQ"
+          },
+          {
+            "d": "UBA"
+          },
+          {
+            "d": "HVC"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "SGB"
+          },
+          {
+            "d": "DEBSZ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "AUY"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "UEJ"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "NMC"
+          },
+          {
+            "d": "XBE"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "GILDS"
+          },
+          {
+            "d": "CPO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TXBEL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "BDP"
+          },
+          {
+            "d": "CNCLB"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pcc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HC110.W4"
+          },
+          {
+            "b": "P484 2002"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "HC110 W4"
+          },
+          {
+            "b": "P45W"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "305.52340973"
+          },
+          {
+            "b": "PHI"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Phillips, Kevin,"
+          },
+          {
+            "d": "1940-"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Wealth and democracy :"
+          },
+          {
+            "b": "a political history of the American rich /"
+          },
+          {
+            "c": "Kevin Phillips."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "First edition."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Broadway Books,"
+          },
+          {
+            "c": "2002."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xxii, 473 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "25 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 447-455) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "pt. 1."
+          },
+          {
+            "t": "The great waves of American wealth --"
+          },
+          {
+            "g": "1."
+          },
+          {
+            "t": "The eighteenth and nineteenth centuries : from privateersmen to robber barons --"
+          },
+          {
+            "g": "2."
+          },
+          {
+            "t": "Serious money : the three twentieth-century wealth explosions --"
+          },
+          {
+            "g": "3."
+          },
+          {
+            "t": "Millennial plutographics : American fortunes and misfortunes at the turn of the century --"
+          },
+          {
+            "g": "pt. 2."
+          },
+          {
+            "t": "The origins, evolutions, and engines of wealth : government, global leadership, and technology --"
+          },
+          {
+            "g": "4."
+          },
+          {
+            "t": "The world is our oyster : the transformation of leading world economic powers --"
+          },
+          {
+            "g": "5. Friends in high places : government, political influence, and wealth --"
+          },
+          {
+            "g": "6."
+          },
+          {
+            "t": "Technology and the uncertain foundations of Anglo-American wealth --"
+          },
+          {
+            "g": "pt. 3."
+          },
+          {
+            "t": "Wealth and democracy : the rhythm of politics and confrontation --"
+          },
+          {
+            "g": "7."
+          },
+          {
+            "t": "Wealth and politics in the United States --"
+          },
+          {
+            "g": "8."
+          },
+          {
+            "t": "Wealth, money-culture ethics, and corruption --"
+          },
+          {
+            "g": "9."
+          },
+          {
+            "t": "The cup always runneth over : greed, speculative bubbles, and reform --"
+          },
+          {
+            "g": "10."
+          },
+          {
+            "t": "Great economic power decline and the politics of resentment --"
+          },
+          {
+            "g": "pt. 4."
+          },
+          {
+            "t": "Thinking ahead --"
+          },
+          {
+            "t": "Afterword : wealth and democracy : the United States and the new century."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "\"For more than thirty years, Kevin Phillips' insight into American politics and economics has helped to make history as well as record it. Now he turns his attention to the United States' history of great wealth and power, a sweeping cavalcade from the American Revolution to what he calls \"the Second Gilded Age\" at the turn of the twenty-first century.\" \"The Second Gilded Age has been staggering enough in its concentration of wealth to dwarf the original Gilded Age a hundred years earlier. However, the tech crash and then the horrible events of September 11, 2001, pointed out that great riches are as vulnerable as they have ever been. In Wealth and Democracy, Kevin Phillips charts the ongoing American saga of great wealth - how it has been accumulated, its shifting sources, and its ups and downs over more than two centuries. He explores how the rich and politically powerful have frequently worked together to create or perpetuate privilege, often at the expense of the national interest and usually at the expense of the middle and lower classes.\"--Jacket."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Wealth"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Political corruption"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Representative government and representation"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "United States"
+          },
+          {
+            "x": "Politics and government."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Political corruption."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01069240"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Politics and government"
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01919741"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Representative government and representation."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01094941"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Wealth."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01172973"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Phillips, Kevin, 1940-"
+          },
+          {
+            "t": "Wealth and democracy."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "New York : Broadway Books, 2002"
+          },
+          {
+            "w": "(OCoLC)654671170"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "ebrary"
+          },
+          {
+            "u": "http://site.ebrary.com/id/10039079"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Sample text"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/samples/random045/2001052656.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://www.gbv.de/dms/zbw/478587937.pdf"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Contributor biographical information"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/bios/random053/2001052656.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "2",
+        "subfields": [
+          {
+            "3": "Publisher description"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/description/random0414/2001052656.html"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 2011 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000014787"
+          }
+        ]
+      }
+    }
+  ]
+}

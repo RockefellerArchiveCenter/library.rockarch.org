@@ -1,0 +1,368 @@
+{
+  "leader": "01313cam a2200325Ia 4500",
+  "fields": [
+    {
+      "001": "ocm07833694\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220707152351.0"
+    },
+    {
+      "008": "811009s1981\\\\\\\\xxuach\\\\\\b\\\\\\\\010\\0\\eng\\d"
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "IGP"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "IGP"
+          },
+          {
+            "d": "TEU"
+          },
+          {
+            "d": "PAU"
+          },
+          {
+            "d": "IXA"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "UPM"
+          },
+          {
+            "d": "CUY"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "13617750"
+          },
+          {
+            "a": "18466286"
+          },
+          {
+            "a": "1273737887"
+          },
+          {
+            "a": "1300801662"
+          },
+          {
+            "a": "1301427166"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "c": "{dollar}10.00"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)7833694"
+          },
+          {
+            "z": "(OCoLC)13617750"
+          },
+          {
+            "z": "(OCoLC)18466286"
+          },
+          {
+            "z": "(OCoLC)1273737887"
+          },
+          {
+            "z": "(OCoLC)1300801662"
+          },
+          {
+            "z": "(OCoLC)1301427166"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us-ga"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "LC2853.A8"
+          },
+          {
+            "b": "G89 1981"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "378.7582"
+          },
+          {
+            "b": "GUY"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Guy-Sheftall, Beverly."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Spelman :"
+          },
+          {
+            "b": "a centennial celebration, 1881-1981 /"
+          },
+          {
+            "c": "Beverly Guy-Sheftall, Jo Moore Stewart."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[Place of publication not identified] :"
+          },
+          {
+            "b": "[publisher not identified],"
+          },
+          {
+            "c": "\u00a91981"
+          },
+          {
+            "e": "(Charlotte, N.C. :"
+          },
+          {
+            "f": "Delmar Co.)"
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "120 pages :"
+          },
+          {
+            "b": "illustrations, portraits, facsimiles ;"
+          },
+          {
+            "c": "29 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (page 120)."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Spelman College."
+          }
+        ]
+      }
+    },
+    {
+      "610": {
+        "ind1": "2",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Spelman College."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00577484"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Stewart, Jo Moore."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 60 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000019609"
+          }
+        ]
+      }
+    }
+  ]
+}

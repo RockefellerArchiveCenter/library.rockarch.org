@@ -1,0 +1,512 @@
+{
+  "leader": "02005cam a22003971i 4500",
+  "fields": [
+    {
+      "001": "ocm01252141\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220104165823.0"
+    },
+    {
+      "008": "750404s1957\\\\\\\\nyua\\\\\\\\\\\\\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   57005655 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BMC"
+          },
+          {
+            "d": "IQU"
+          },
+          {
+            "d": "CCV"
+          },
+          {
+            "d": "SYB"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "PHA"
+          },
+          {
+            "d": "FNN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "ZCU"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "TYC"
+          },
+          {
+            "d": "OCLCQ"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "706035888"
+          },
+          {
+            "a": "1042101491"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)1252141"
+          },
+          {
+            "z": "(OCoLC)706035888"
+          },
+          {
+            "z": "(OCoLC)1042101491"
+          }
+        ]
+      }
+    },
+    {
+      "042": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "premarc"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "SB482"
+          },
+          {
+            "b": ".A474"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "917.3"
+          },
+          {
+            "b": "NEW"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Newhall, Nancy Wynne."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "A contribution to the heritage of every American :"
+          },
+          {
+            "b": "the conservation activities of John D. Rockefeller, Jr. /"
+          },
+          {
+            "c": "Prologue by Fairfield Osborn; epilogue by Horace Marden Albright."
+          }
+        ]
+      }
+    },
+    {
+      "250": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "[1st ed.]."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Knopf,"
+          },
+          {
+            "c": "1957."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "179 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "33 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "pt. 1"
+          },
+          {
+            "t": "Places Near Home: Forest Hill Park --"
+          },
+          {
+            "t": "The Palisades --"
+          },
+          {
+            "t": "The Hudson valley --"
+          },
+          {
+            "g": "pt. 2.--"
+          },
+          {
+            "g": "National Parks --"
+          },
+          {
+            "t": "Acadia --"
+          },
+          {
+            "t": "Shenandoah --"
+          },
+          {
+            "t": "Great Smoky Mountains --"
+          },
+          {
+            "t": "Museums: Mesa Verde, Grand Canyon, Yellowstone --"
+          },
+          {
+            "g": "The"
+          },
+          {
+            "g": "rand Tetons --"
+          },
+          {
+            "t": "Yosemite --"
+          },
+          {
+            "t": "Virgin Islands --"
+          },
+          {
+            "g": "pt. 3. Triumphs of Nature and of Man:"
+          },
+          {
+            "t": "The Redwoods --"
+          },
+          {
+            "t": "Colonial Williamsburg."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Rockefeller, John D.,"
+          },
+          {
+            "c": "Jr."
+          },
+          {
+            "q": "(John Davison),"
+          },
+          {
+            "d": "1874-1960."
+          }
+        ]
+      }
+    },
+    {
+      "600": {
+        "ind1": "1",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Rockefeller, John D.,"
+          },
+          {
+            "c": "Jr."
+          },
+          {
+            "q": "(John Davison),"
+          },
+          {
+            "d": "1874-1960."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01844404"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "National parks and reserves"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "National parks and reserves."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01033642"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "740": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Heritage of every American."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Newhall, Nancy Wynne."
+          },
+          {
+            "t": "Contribution to the heritage of every American."
+          },
+          {
+            "b": "1st ed."
+          },
+          {
+            "d": "New York : Alfred A. Knopf, 1957"
+          },
+          {
+            "w": "(OCoLC)652298004"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 274 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000015504"
+          }
+        ]
+      }
+    }
+  ]
+}

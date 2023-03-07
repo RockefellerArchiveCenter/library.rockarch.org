@@ -1,0 +1,602 @@
+{
+  "leader": "03209cam a2200469 a 4500",
+  "fields": [
+    {
+      "001": "ocm32429932\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220706123610.0"
+    },
+    {
+      "008": "950412s1995\\\\\\\\inua\\\\\\\\\\b\\\\\\s000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   95016380 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "OCLCG"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "IDU"
+          },
+          {
+            "d": "YLS"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1884354033"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9781884354038"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)32429932"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "HV97.A3"
+          },
+          {
+            "b": "T35 1995"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "\\",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "KF731"
+          },
+          {
+            "b": ".T35 1995"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "361.763068"
+          },
+          {
+            "b": "TAK"
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Taking trusteeship seriously :"
+          },
+          {
+            "b": "essays on the history, dynamics, and practice of trusteeship /"
+          },
+          {
+            "c": "edited by Richard C. Turner."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Indianapolis :"
+          },
+          {
+            "b": "Indiana University Center on Philanthropy,"
+          },
+          {
+            "c": "\u00a91995."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "viii, 175 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "23 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references."
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "APPE gift."
+          },
+          {
+            "5": "InGrD"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "Pt. I."
+          },
+          {
+            "t": "Historical perspectives on trusteeship --"
+          },
+          {
+            "t": "Morals and ethics in the education of a trustee: Chester I. Barnard at the Rockefeller Foundation /"
+          },
+          {
+            "r": "Fred W. Beuttler --"
+          },
+          {
+            "t": "The evolution of control over philanthropic expenditures for public education in the south: the Rosenwald Fund in North Carolina /"
+          },
+          {
+            "r": "Barry Westin"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Trusteeship in difficult times: settlement house leaders during the Great Depression /"
+          },
+          {
+            "r": "Paul H. Stuart --"
+          },
+          {
+            "t": "Intimate connections: trusteeship in historical perspective: the Maternal Health Association and the Brush Foundation /"
+          },
+          {
+            "r": "Jimmy Elaine Wilkinson Meyer."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "Pt. II."
+          },
+          {
+            "t": "The dynamics of trusteeship --"
+          },
+          {
+            "t": "Taking trusteeship variably or why are there so many kinds of nonprofit boards? /"
+          },
+          {
+            "r": "Robert D. Herman --"
+          },
+          {
+            "t": "Trustees as stewards: secular insights from a sacred concept /"
+          },
+          {
+            "r": "Thomas H. Jeavons --"
+          },
+          {
+            "t": "Big linkers of the nonprofit sphere /"
+          },
+          {
+            "r": "J. Allen Whitt ... [et al.]"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "g": "Pt. III."
+          },
+          {
+            "t": "The practice of trusteeship --"
+          },
+          {
+            "t": "Trustees' impact on the fund-raising behavior of U.S. charitable organizations /"
+          },
+          {
+            "r": "Kathleen S. Kelly --"
+          },
+          {
+            "t": "Towards passionate pragmatism: building and sustaining board commitment /"
+          },
+          {
+            "r": "Kay Sprinkel Grace --"
+          },
+          {
+            "t": "Evolving legal standards and their implications /"
+          },
+          {
+            "r": "Janis Bragan Balda"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "t": "Current legal trends affecting trustees and directors of nonprofit corporations /"
+          },
+          {
+            "r": "Alice M. Stuart --"
+          },
+          {
+            "t": "Trusteeship and strategic planning: the catalyst for progress /"
+          },
+          {
+            "r": "Lael C. Carter, Elizabeth S. Pforzheimer, Nancy Raybin --"
+          },
+          {
+            "t": "Health care trustees: new game, new players /"
+          },
+          {
+            "r": "Kristina M. Young, Harry A. Sultz --"
+          },
+          {
+            "t": "Why boards don't govern /"
+          },
+          {
+            "r": "Jan Masaoka, Michael Allison."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Trusts and trustees"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Management."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Nonprofit organizations"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Management."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Endowments"
+          },
+          {
+            "x": "Management."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00909865"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Nonprofit organizations"
+          },
+          {
+            "x": "Management."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01038913"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Trusts and trustees."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01158201"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Turner, Richard C.,"
+          },
+          {
+            "d": "1944-"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 26 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000013688"
+          }
+        ]
+      }
+    }
+  ]
+}

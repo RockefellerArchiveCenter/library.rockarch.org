@@ -1,0 +1,11 @@
+{% comment %}Formats a display string for an author{% endcomment %}
+{%- assign parts = "" | split: ',' -%}
+
+{% for subfield in include.object.subfields %}
+  {%- assign subfield_codes = "adq" | split: "" -%}
+  {% for code in subfield_codes %}
+    {% assign parts = parts | push: subfield[code] %}
+  {% endfor %}
+{% endfor %}
+
+{{- parts | compact | join: " " -}}

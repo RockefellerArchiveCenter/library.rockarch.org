@@ -18,7 +18,7 @@ function buildIndex() {
           this.field('author')
           this.field('subject')
           this.field('notes')
-          this.field('call_numbers')
+          this.field('call_number')
 
           for (doc in documents) {
               this.add(documents[doc])

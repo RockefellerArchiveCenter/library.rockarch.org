@@ -1,0 +1,687 @@
+{
+  "leader": "03976cam  22004931  4500",
+  "fields": [
+    {
+      "001": "ocm14736938\\"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20211112101328.0"
+    },
+    {
+      "008": "810622s1931\\\\\\\\mdua\\\\\\\\\\b\\\\\\\\000\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "   31022926 "
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "NLM"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "NLM"
+          },
+          {
+            "d": "NLGGC"
+          },
+          {
+            "d": "AGL"
+          },
+          {
+            "d": "CGC"
+          },
+          {
+            "d": "AU@"
+          },
+          {
+            "d": "UBY"
+          },
+          {
+            "d": "NDD"
+          },
+          {
+            "d": "GTA"
+          },
+          {
+            "d": "OKD"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "CASUM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "NLC"
+          },
+          {
+            "d": "OCLCA"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "SNN"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "L2U"
+          },
+          {
+            "d": "NLM"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCA"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "CAT11018979"
+          },
+          {
+            "2": "DNAL"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "7",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "34220070R"
+          },
+          {
+            "2": "DNLM"
+          }
+        ]
+      }
+    },
+    {
+      "016": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(AMICUS)000007251067"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "768893"
+          },
+          {
+            "a": "977048035"
+          },
+          {
+            "a": "1019206378"
+          },
+          {
+            "a": "1021086737"
+          },
+          {
+            "a": "1045572568"
+          },
+          {
+            "a": "1048280793"
+          },
+          {
+            "a": "1051141061"
+          },
+          {
+            "a": "1054006008"
+          },
+          {
+            "a": "1055046988"
+          },
+          {
+            "a": "1055934889"
+          },
+          {
+            "a": "1056828278"
+          },
+          {
+            "a": "1059330900"
+          },
+          {
+            "a": "1066763925"
+          },
+          {
+            "a": "1088340411"
+          },
+          {
+            "a": "1089006519"
+          },
+          {
+            "a": "1089970847"
+          },
+          {
+            "a": "1090477446"
+          },
+          {
+            "a": "1091796488"
+          },
+          {
+            "a": "1096535957"
+          },
+          {
+            "a": "1097291050"
+          },
+          {
+            "a": "1099353047"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)14736938"
+          },
+          {
+            "z": "(OCoLC)768893"
+          },
+          {
+            "z": "(OCoLC)977048035"
+          },
+          {
+            "z": "(OCoLC)1019206378"
+          },
+          {
+            "z": "(OCoLC)1021086737"
+          },
+          {
+            "z": "(OCoLC)1045572568"
+          },
+          {
+            "z": "(OCoLC)1048280793"
+          },
+          {
+            "z": "(OCoLC)1051141061"
+          },
+          {
+            "z": "(OCoLC)1054006008"
+          },
+          {
+            "z": "(OCoLC)1055046988"
+          },
+          {
+            "z": "(OCoLC)1055934889"
+          },
+          {
+            "z": "(OCoLC)1056828278"
+          },
+          {
+            "z": "(OCoLC)1059330900"
+          },
+          {
+            "z": "(OCoLC)1066763925"
+          },
+          {
+            "z": "(OCoLC)1088340411"
+          },
+          {
+            "z": "(OCoLC)1089006519"
+          },
+          {
+            "z": "(OCoLC)1089970847"
+          },
+          {
+            "z": "(OCoLC)1090477446"
+          },
+          {
+            "z": "(OCoLC)1091796488"
+          },
+          {
+            "z": "(OCoLC)1096535957"
+          },
+          {
+            "z": "(OCoLC)1097291050"
+          },
+          {
+            "z": "(OCoLC)1099353047"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "RC207"
+          },
+          {
+            "b": ".C378 1931"
+          }
+        ]
+      }
+    },
+    {
+      "055": {
+        "ind1": "0",
+        "ind2": "1",
+        "subfields": [
+          {
+            "a": "RC207"
+          }
+        ]
+      }
+    },
+    {
+      "060": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "WC 11"
+          },
+          {
+            "b": "C323y 1931"
+          }
+        ]
+      }
+    },
+    {
+      "070": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "448"
+          },
+          {
+            "b": "C24"
+          }
+        ]
+      }
+    },
+    {
+      "072": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "X380"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "614.541"
+          },
+          {
+            "b": "CAR"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Carter, Henry Rose,"
+          },
+          {
+            "d": "1852-1925."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Yellow fever :"
+          },
+          {
+            "b": "an epidemiological and historical study of its place of origin,"
+          },
+          {
+            "c": "by Henry Rose Carter ; edited by Laura Armistead Carter and Wade Hampton Frost."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Baltimore,"
+          },
+          {
+            "b": "The Williams & Wilkins Company,"
+          },
+          {
+            "c": "1931."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xii, 308 pages"
+          },
+          {
+            "b": "illustrations"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "500": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "On cover: The early history of yellow fever."
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 272-289)."
+          }
+        ]
+      }
+    },
+    {
+      "510": {
+        "ind1": "4",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Garrison-Morton (5th ed.)"
+          },
+          {
+            "c": "5468"
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "pt. I, The epidemiology of yellow fever: -- Conditions requisite for the continued existence of yellow fever -- Dispersion and geographical distribution of Aedes Aegypti -- Dispersion and geographical distribution of yellow fever -- Relation of temperature and sociological conditions to the occurrence and persistence of yellow fever; -- pt. II, Diseases which have, or might have, been confused with yellow fever in the past; -- pt. III, The place of origin of yellow fever: -- General considerations -- Mexico: records -- Mexico: tierra fria -- Mexico: tierra caliente -- The Maya country: cultures and records of pestilences (Maya Cimlal and Xekik) -- The Maya country: coming of the Spaniards -- The Maya country: the epidemic of 1648 in Yucatan -- Hayti (Hispaniola) -- The isthmus of Panama: expeditions of Ojeda and Nicuesa -- The isthmus of Panama: the colony at Darien -- Guadeloupe: the coup de Barre, 1635 -- Yellow fever in American after 1648 -- Africa: general considerations -- West Africa: discovery and settlement -- Early records of sickness on the west African coast -- The island of Sao Thome -- The Cape Verde Islands -- The Canary Islands and the epidemic in Van der Does' expedition, 1599 -- Sickness in Africa considered to be certainly yellow fever -- The place of origin of yellow fever: summary."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "The disease yellow fever is defined, and using this definition, historical outbreaks of yellow fever are examined to determine if they really were yellow fever or not."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Yellow fever."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Yellow fever"
+          },
+          {
+            "x": "History."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "2",
+        "subfields": [
+          {
+            "a": "Yellow Fever"
+          },
+          {
+            "x": "history."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Yellow fever."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01182653"
+          }
+        ]
+      }
+    },
+    {
+      "655": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "History."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01411628"
+          }
+        ]
+      }
+    },
+    {
+      "700": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Carter, Laura Armistead,"
+          },
+          {
+            "d": "-1935."
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Also issued on microfilm."
+          },
+          {
+            "d": "[Bethesda, Md.] : National Library of Medicine, 1999."
+          },
+          {
+            "h": "1 microfilm reel : negative ; 35 mm."
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 140 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000012116"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,552 @@
+{
+  "leader": "05920cam a2200457 a 4500",
+  "fields": [
+    {
+      "001": "ocn244246657"
+    },
+    {
+      "003": "OCoLC"
+    },
+    {
+      "005": "20220629155131.0"
+    },
+    {
+      "008": "080815s2009\\\\\\\\nyua\\\\\\\\\\b\\\\\\\\001\\0\\eng\\\\"
+    },
+    {
+      "010": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "  2008036248"
+          }
+        ]
+      }
+    },
+    {
+      "040": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "DLC"
+          },
+          {
+            "b": "eng"
+          },
+          {
+            "c": "DLC"
+          },
+          {
+            "d": "BTCTA"
+          },
+          {
+            "d": "CDX"
+          },
+          {
+            "d": "YDXCP"
+          },
+          {
+            "d": "C#P"
+          },
+          {
+            "d": "BWX"
+          },
+          {
+            "d": "NSB"
+          },
+          {
+            "d": "DEBBG"
+          },
+          {
+            "d": "OCL"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "MIX"
+          },
+          {
+            "d": "BDX"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCO"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "OCLCF"
+          },
+          {
+            "d": "OCLCQ"
+          },
+          {
+            "d": "HN#"
+          },
+          {
+            "d": "OCLCO"
+          }
+        ]
+      }
+    },
+    {
+      "019": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "1022724790"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "9780871543660"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "020": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "0871543664"
+          },
+          {
+            "q": "(alk. paper)"
+          }
+        ]
+      }
+    },
+    {
+      "035": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "(OCoLC)244246657"
+          },
+          {
+            "z": "(OCoLC)1022724790"
+          }
+        ]
+      }
+    },
+    {
+      "043": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "n-us---"
+          }
+        ]
+      }
+    },
+    {
+      "050": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "LB2825"
+          },
+          {
+            "b": ".G838 2009"
+          }
+        ]
+      }
+    },
+    {
+      "082": {
+        "ind1": "0",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "370.110973"
+          },
+          {
+            "b": "GRU"
+          }
+        ]
+      }
+    },
+    {
+      "100": {
+        "ind1": "1",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Grubb, W. Norton."
+          }
+        ]
+      }
+    },
+    {
+      "245": {
+        "ind1": "1",
+        "ind2": "4",
+        "subfields": [
+          {
+            "a": "The money myth :"
+          },
+          {
+            "b": "school resources, outcomes, and equity /"
+          },
+          {
+            "c": "W. Norton Grubb."
+          }
+        ]
+      }
+    },
+    {
+      "260": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "New York :"
+          },
+          {
+            "b": "Russell Sage Foundation,"
+          },
+          {
+            "c": "\u00a92009."
+          }
+        ]
+      }
+    },
+    {
+      "300": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "xv, 400 pages :"
+          },
+          {
+            "b": "illustrations ;"
+          },
+          {
+            "c": "24 cm"
+          }
+        ]
+      }
+    },
+    {
+      "336": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "text"
+          },
+          {
+            "b": "txt"
+          },
+          {
+            "2": "rdacontent"
+          }
+        ]
+      }
+    },
+    {
+      "337": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "unmediated"
+          },
+          {
+            "b": "n"
+          },
+          {
+            "2": "rdamedia"
+          }
+        ]
+      }
+    },
+    {
+      "338": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "volume"
+          },
+          {
+            "b": "nc"
+          },
+          {
+            "2": "rdacarrier"
+          }
+        ]
+      }
+    },
+    {
+      "504": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Includes bibliographical references (pages 353-384) and index."
+          }
+        ]
+      }
+    },
+    {
+      "505": {
+        "ind1": "0",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Moving beyond money : the variety of educational resources -- Multiple resources, multiple outcomes : testing the improved school finance with the National Education Longitudinal Survey of the Class of 1988 -- When money does matter : explaining the weak effects of school funding -- Families as resources : the effects of family background and demographic variables -- Students as resources : the effects of connectedness to schooling -- Equity and inequality : from static to dynamic conceptions -- Dynamic inequality : schooling outcomes over time -- Correcting dynamic inequality in practice : exploring what schools do for low-performing students -- Making resources matter : implications for school-level practice -- Supporting the improved school finance : district, state, and federal roles -- The implications for litigation of the improved school finance -- The implications for reform : conceptions of schooling and the role of the welfare state."
+          }
+        ]
+      }
+    },
+    {
+      "520": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Can money buy high-quality education? Studies find only a weak relationship between public school funding and educational outcomes. In this book, the author proposes a powerful paradigm shift in the way we think about why some schools thrive and others fail. The greatest inequalities in America's schools lie in factors other than fiscal support. Fundamental differences in resources other than money, for example, in leadership, instruction, and tracking policies explain the deepening divide in the success of our nation's schoolchildren. This book establishes several principles for a bold new approach to education reform. Drawing on a national longitudinal dataset collected over twelve years, the author makes a crucial distinction between \"simple\" resources and those \"compound\", \"complex\", and \"abstract\" resources that cannot be readily bought. Money can buy simple resources such as higher teacher salaries and smaller class sizes, but these resources are actually some of the weakest predictors of educational outcomes. On the other hand, complex resources pertaining to school practices are astonishingly strong predictors of success. The author finds that tracking policies have the most profound and consistent impact on student outcomes over time. Schools often relegate low performing students, particularly minorities, to vocational, remedial, and special education tracks. So even in well funded schools, resources may never reach the students who need them most. He also finds that innovation in the classroom has a critical impact on student success. Here, too, America's schools are stratified. Teachers in underperforming schools tend to devote significant amounts of time to administration and discipline, while instructors in highly ranked schools dedicate the bulk of their time to \"engaged learning\", using varied pedagogical approaches. Effective schools distribute leadership among many instructors and administrators, and they foster a sense of both trust and accountability. These schools have a clear mission and coherent agenda for reaching goals. Underperforming schools, by contrast, implement a variety of fragmented reforms and practices without developing a unified plan. This phenomenon is perhaps most powerfully visible in the negative repercussions of No Child Left Behind. In a frantic attempt to meet federal standards and raise test scores quickly, more and more schools are turning to scripted \"off the shelf\" curricula. These practices discourage student engagement, suppress teacher creativity, and hold little promise of improving learning beyond the most basic skills. This work shows that infusions of money alone won't eradicate inequality in America's schools. We need to address the vast differences in the way school communities operate. By looking beyond school finance, this work gets to the core reasons why education in America is so unequal and provides clear recommendations for addressing this chronic national problem."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Finance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Public schools"
+          },
+          {
+            "z": "United States"
+          },
+          {
+            "x": "Finance."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "0",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "x": "Economic aspects"
+          },
+          {
+            "z": "United States."
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "x": "Economic aspects."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902610"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Education"
+          },
+          {
+            "x": "Finance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst00902637"
+          }
+        ]
+      }
+    },
+    {
+      "650": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "Public schools"
+          },
+          {
+            "x": "Finance."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01906287"
+          }
+        ]
+      }
+    },
+    {
+      "651": {
+        "ind1": "\\",
+        "ind2": "7",
+        "subfields": [
+          {
+            "a": "United States."
+          },
+          {
+            "2": "fast"
+          },
+          {
+            "0": "(OCoLC)fst01204155"
+          }
+        ]
+      }
+    },
+    {
+      "776": {
+        "ind1": "0",
+        "ind2": "8",
+        "subfields": [
+          {
+            "i": "Online version:"
+          },
+          {
+            "a": "Grubb, W. Norton."
+          },
+          {
+            "t": "Money myth."
+          },
+          {
+            "d": "New York : Russell Sage Foundation, \u00a92009"
+          },
+          {
+            "w": "(OCoLC)657305545"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://catdir.loc.gov/catdir/toc/ecip0826/2008036248.html"
+          }
+        ]
+      }
+    },
+    {
+      "856": {
+        "ind1": "4",
+        "ind2": "1",
+        "subfields": [
+          {
+            "3": "Table of contents"
+          },
+          {
+            "u": "http://bvbr.bib-bvb.de:8991/F?func=service&doc_library=BVB01&doc_number=017607610&line_number=0001&func_code=DB_RECORDS&service_type=MEDIA"
+          }
+        ]
+      }
+    },
+    {
+      "994": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "Z0"
+          },
+          {
+            "b": "NYRVC"
+          }
+        ]
+      }
+    },
+    {
+      "948": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "h": "NO HOLDINGS IN NYRVC - 395 OTHER HOLDINGS"
+          }
+        ]
+      }
+    },
+    {
+      "999": {
+        "ind1": "\\",
+        "ind2": "\\",
+        "subfields": [
+          {
+            "a": "00000000025282"
+          }
+        ]
+      }
+    }
+  ]
+}

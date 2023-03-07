@@ -1,6 +1,14 @@
-{% for note in object.notes %}
+{% capture notes %}{% include note_configs.html %}{% endcapture %}
+{%- assign notes = notes | newline_to_br | split: '<br />' -%}
+
+{% for note in notes %}
+  {%- assign splitNote = note | split: ":" -%}
+  {%- assign field = splitNote[0] | strip -%}
+  {%- capture note_content -%}{% include note_content.html object=include.object field=field %}{%- endcapture -%}
+  {%- if note_content.size > 1 -%}
   <div class="container item__note">
-    <h3>{{note.label}}</h3>
-    <p>{% include note_content.html %}</p>
+    <h3>{{splitNote[1]}}</h3>
+    <p>{{note_content}}</p>
   </div>
+  {%- endif -%}
 {% endfor %}
