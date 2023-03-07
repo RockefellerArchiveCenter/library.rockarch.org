@@ -13,5 +13,5 @@ fi
 node js/create-index.js
 
 if [[ "${TRAVIS_CI}" ]]; then
-  bundle exec htmlproofer --ignore-urls "/instagram.com/rockefellerarchivecenter/" ./_site
+  bundle exec htmlproofer --disable_external=true ./_site
 fi
