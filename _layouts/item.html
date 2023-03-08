@@ -27,13 +27,13 @@ layout: default
       {%- assign authors = authors | split: "|" -%}
       <ul class="list--unstyled">
       {% for author in authors %}
-        <li>{{authors}}</li>
+        <li>{{author}}</li>
       {% endfor %}
       </ul>
     </div>
     {%- capture subjects -%}{%- include subject_list.html object=object separator="|" -%}{%- endcapture -%}
     {% if subjects.size > 0 %}
-    {% assign subjects = subjects | split: "|" %}
+    {% assign subjects = subjects | split: "|" | uniq %}
     <div class="container item__attribute">
       <h2 class="item-details__label">Subject Terms</h2>
       <ul class="list--unstyled">
