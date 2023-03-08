@@ -1,7 +1,7 @@
 {% comment %}Creates a delimited list of author names{% endcomment %}
 {%- assign everything = "" | split: ',' -%}
 {%- assign authors = "" | split: ',' -%}
-{%- assign fields = "100,110,111" | split: "," -%}
+{%- assign fields = "100,110,111,700" | split: "," -%}
 
 {%- for field in fields -%}
   {%- assign list = include.object.fields | map: field  -%}
