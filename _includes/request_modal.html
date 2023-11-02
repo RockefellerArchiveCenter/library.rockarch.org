@@ -20,7 +20,7 @@
             <!-- Item inputs -->
             <input type="hidden" name="Request" value="{{page.permalink}}">
             <input type="hidden" name="ItemDate" value="{% include publication_info.html object=include.object %}">
-            <input type="hidden" name="ItemTitle" value="{{page.title}}">
+            <input type="hidden" name="ItemTitle" value="{{page.title | replace: '"', "'"}}">
             <input type="hidden" name="ItemAuthor" value="{% include author_list.html object=include.object separator=', ' %}">
             <input type="hidden" name="CallNumber" value="{% include call_number.html object=include.object %}">
             <input type="hidden" name="ItemInfo3" value="{{site.url}}/items/{{page.id}}/">
