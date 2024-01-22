@@ -37,11 +37,24 @@ Once the application starts successfully, you should be able to access the appli
 
 When you're done, shut down the application with `ctrl+c`.
 
+### Visual Regression Testing
+
+The repository includes [BackstopJS](https://github.com/garris/BackstopJS) to test visual changes to the site by comparing a set of reference images for different screen sizes. Anytime the CSS styles are changed, use BackstopJS to test locally:
+
+1. Build the site and start the application using `bundle exec jekyll serve`
+2. Run [Docker](https://www.docker.com/).
+3. In another terminal, run the BackstopJS tests: `npm run backstop-test`.
+4. Review the results in the browser and look at the diff of any failed tests.
+5. To update the reference image files with the results of the last test images use: `npm run backstop-approve`. Subsequent tests will be compared against these updated reference files.
+6. Commit any updated reference images to the repository so that future tests will be compared against the most recent images.
+
+To add or update reference images, edit the scenarios in `backstop.json` and run `npm run backstop-reference`.
+
 ## Updating Data
 
 On a periodic basis, it will be necessary to update the data contained in this site. Follow these steps to do that:
 1. Create a new branch based on `development`.
-2. Move or copy the updated data (which is expected to be in a single JSON file) to the `data/marc` directory. 
+2. Move or copy the updated data (which is expected to be in a single JSON file) to the `data/marc` directory.
 3. Run the `split_json.py` script in the root of this repository, passing in the filename of the updated data. This will create individual records for each item in the file, and will delete the original file after it has finished.
 4. Submit a pull request against the development branch. Request the review of someone on the Digital Strategies team.
 
