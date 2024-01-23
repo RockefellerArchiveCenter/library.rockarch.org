@@ -31,7 +31,7 @@ The `build` script bundles four commands into a single bash script
 
 Start the application locally from the project's root with
 
-    $ bundle exec jekyll serve
+    $ bundle exec jekyll serve --skip-initial-build
 
 Once the application starts successfully, you should be able to access the application in your browser at `http://localhost:4000`
 
