@@ -1,5 +1,5 @@
 {
-  "id": "backstop_default",
+  "id": "library.rockarch.org",
   "viewports": [
     {
       "label": "phone",
@@ -21,23 +21,25 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "BackstopJS Homepage",
-      "cookiePath": "backstop_data/engine_scripts/cookies.json",
-      "url": "https://garris.github.io/BackstopJS/",
-      "referenceUrl": "",
-      "readyEvent": "",
-      "readySelector": "",
-      "delay": 0,
-      "hideSelectors": [],
-      "removeSelectors": [],
-      "hoverSelector": "",
-      "clickSelector": "",
-      "postInteractionWait": 0,
-      "selectors": [],
-      "selectorExpansion": true,
-      "expect": 0,
-      "misMatchThreshold" : 0.1,
-      "requireSameDimensions": true
+      "label": "Homepage",
+      "url": "http://host.docker.internal:4000/"
+    },
+    {
+      "label": "Page Not Found",
+      "url": "http://host.docker.internal:4000/404"
+    },
+    {
+      "label": "Search Results",
+      "url": "http://host.docker.internal:4000/search/?query=apple&field="
+    },
+    {
+      "label": "Item",
+      "url": "http://host.docker.internal:4000/items/ocm45636873/"
+    },
+    {
+      "label": "Request in Reading Room Modal",
+      "url": "http://host.docker.internal:4000/items/ocm45636873/",
+      "clickSelector": "div.item__header-right > button"
     }
   ],
   "paths": {
