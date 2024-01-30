@@ -30,9 +30,9 @@ The `build` script bundles four commands into a single bash script
   * `bundle exec htmlproofer ./_site` will only run automatically in TravisCI builds. Validates HTML output with [htmlproofer](https://www.rubydoc.info/gems/html-proofer/1.3.0).
 
 Start the application locally from the project's root with
-
+```
     $ bundle exec jekyll serve --skip-initial-build
-
+```
 Once the application starts successfully, you should be able to access the application in your browser at `http://localhost:4000`
 
 When you're done, shut down the application with `ctrl+c`.
@@ -41,12 +41,11 @@ When you're done, shut down the application with `ctrl+c`.
 
 The repository includes [BackstopJS](https://github.com/garris/BackstopJS) to test visual changes to the site by comparing a set of reference images for different screen sizes. Anytime the CSS styles are changed, use BackstopJS to test locally:
 
-1. Build the site and start the application using `bundle exec jekyll serve`
-2. Run [Docker](https://www.docker.com/).
-3. In another terminal, run the BackstopJS tests: `npm run backstop-test`.
-4. Review the results in the browser and look at the diff of any failed tests.
-5. To update the reference image files with the results of the last test images use: `npm run backstop-approve`. Subsequent tests will be compared against these updated reference files.
-6. Commit any updated reference images to the repository so that future tests will be compared against the most recent images.
+1. Build the site and start the application using `bundle exec jekyll serve --skip-initial-build`
+2. In another terminal, run the BackstopJS tests: `npm run backstop-test`.
+3. Review the results in the browser and look at the diff of any failed tests.
+4. To update the reference image files with the results of the last test images use: `npm run backstop-approve`. Subsequent tests will be compared against these updated reference files.
+5. Commit any updated reference images to the repository so that future tests will be compared against the most recent images.
 
 To add or update reference images, edit the scenarios in `backstop.json` and run `npm run backstop-reference`.
 
