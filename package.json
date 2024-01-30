@@ -16,10 +16,9 @@
   },
   "scripts": {
     "test": "qunit",
-    "backstop-init": "backstop init",
     "backstop-approve": "backstop approve",
-    "backstop-test": "backstop test --docker",
-    "backstop-reference": "backstop reference --docker"
+    "backstop-test": "backstop test",
+    "backstop-reference": "backstop reference"
   },
   "author": "Rockefeller Archive Center staff",
   "license": "MIT",
