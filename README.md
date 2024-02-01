@@ -41,7 +41,7 @@ When you're done, shut down the application with `ctrl+c`.
 
 The repository includes [BackstopJS](https://github.com/garris/BackstopJS) to test visual changes to the site by comparing a set of reference images for different screen sizes. Anytime the CSS styles are changed, use BackstopJS to test locally:
 
-1. Build the site and start the application using `bundle exec jekyll serve --skip-initial-build`
+1. Build the site using the steps in the [Local Development section](#local-development) and start the application using `bundle exec jekyll serve --skip-initial-build`
 2. In another terminal, run the BackstopJS tests: `npm run backstop-test`.
 3. Review the results in the browser and look at the diff of any failed tests.
 4. To update the reference image files with the results of the last test images use: `npm run backstop-approve`. Subsequent tests will be compared against these updated reference files.
