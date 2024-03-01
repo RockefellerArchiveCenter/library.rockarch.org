@@ -22,7 +22,8 @@
   "scenarios": [
     {
       "label": "Homepage",
-      "url": "http://host.docker.internal:4000/"
+      "url": "http://host.docker.internal:4000/",
+      "delay": 3000
     },
     {
       "label": "Page Not Found",
@@ -42,7 +43,8 @@
     {
       "label": "Request in Reading Room Modal",
       "url": "http://host.docker.internal:4000/items/ocm45636873/",
-      "clickSelector": "div.item__header-right > button"
+      "clickSelector": "div.item__header-right > button",
+      "readySelector": "div.modal-form__input > button.ui-datepicker-trigger"
     }
   ],
   "paths": {
@@ -55,7 +57,10 @@
   "report": ["browser"],
   "engine": "puppeteer",
   "engineOptions": {
-    "args": ["--no-sandbox"]
+    "args": [
+      "--no-sandbox",
+      "--font-render-hinting=none"
+    ]
   },
   "asyncCaptureLimit": 1,
   "asyncCompareLimit": 50,
