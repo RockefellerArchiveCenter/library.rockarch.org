@@ -7,6 +7,7 @@
     "lunr": "^2.3.9"
   },
   "devDependencies": {
+    "backstopjs": "^6.3.21",
     "qunit": "^2.13.0"
   },
   "repository": {
@@ -14,7 +15,10 @@
     "url": "git+https://github.com/RockefellerArchiveCenter/library_discovery.git"
   },
   "scripts": {
-    "test": "qunit"
+    "test": "qunit",
+    "backstop-approve": "backstop approve",
+    "backstop-test": "backstop test --docker",
+    "backstop-reference": "backstop reference --docker"
   },
   "author": "Rockefeller Archive Center staff",
   "license": "MIT",
