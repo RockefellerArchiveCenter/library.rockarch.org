@@ -12,7 +12,7 @@ p, a {
   font-size: 16px;
   line-height: 26px;
   margin: 0 0 10px 0;
-  color: $dark-gray;
+  /*color: $dark-gray;*/
   @media screen and (min-width: $break-lg) {
     font-size: 17px;
     line-height: 28px;
@@ -290,7 +290,7 @@ small {
   color: $dark-gray;
 }
 
-.hero__text {
+/*.hero__text {
   font-family: $serif-stack;
   font-weight: 700;
   font-size: 18px;
@@ -307,7 +307,7 @@ small {
     line-height: 42px;
   }
 }
-
+*/
 .mylist__title {
   @include page-title;
   float: left;
