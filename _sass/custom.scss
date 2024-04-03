@@ -1,13 +1,14 @@
-.btn--blue {
-  background: $deep-blue;
-  color: $pure-white;
-  border: 1px solid $deep-blue;
-  &:hover {
-    background: $dark-blue;
-    border: 1px solid $dark-blue;
-  }
+.search {
+  background: #E3E1DD;
 }
 
+.modal__overlay {
+    display: none;
+}
+
+.modal__overlay.is-open {
+    display: block;
+}
 
 .not-found {
   margin-top: 100px;
@@ -15,160 +16,8 @@
   text-align: center;
 }
 
-.search--bar {
-  width: 100%;
-  background: $neutral-sand;
-  justify-content: center;
-  padding: 15px 0px;
-}
-
-.search--interior {
-  @include grid-column(12);
-  float: left;
-  display: flex;
-  justify-content: center;
-  & .input-group__search {
-    width: 50%;
-    margin: 0;
-  }
-}
-
-.select__search--wrapper::after {
-  // Makes the down arrow in the search bar clickable
-  pointer-events: none;
-}
-
-.item__header {
-  flex-wrap: wrap;
-}
-
-.item__header-left  {
-  @include grid-column(10);
-  @media screen and (min-width: $break-lg) {
-    @include grid-column(7);
-  }
-}
-
-.item__title  {
-  @include page-title;
-  font-size: 32px;
-  margin-bottom: 10px;
-  @media screen and (min-width: $break-lg) {
-    font-size: 36px;
-  }
-}
-
-.item__callnumber {
-  font-family: $sans-serif-stack;
-  font-size: 18px;
-}
-
-.item__header-right {
-  @include grid-column(10);
-  margin-top: 30px;
-  @media screen and (min-width: $break-lg) {
-    @include grid-column(3);
-    text-align: right;
-    margin-right: $gutters-default;
-  }
-}
-
 .wrapper--home {
   background: $off-white;
-}
-
-.wrapper--flex-wrap {
-  @extend .wrapper;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
-.item-details {
-  @include grid-column(10);
-  @include grid-push(1);
-  font-family: $sans-serif-stack;
-  padding-bottom: 80px;
-  margin-top: 20px;
-  & p, ul {
-    font-family: $sans-serif-stack;
-  }
-}
-
-.item-details__label {
-  margin-top: 0;
-  margin-bottom: 0;
-  border: none;
-}
-
-// overrides very specific rule
-h2:not(:first-child) {
-    margin-top: 30px;
-}
-
-.item__attribute {
-  @include grid-column(12);
-  box-sizing: border-box;
-  margin-left: 0;
-  padding-right: 15px;
-  @media screen and (min-width: $break-md) {
-    @include grid-column(4);
-    margin-left: 0;
-    padding-right: 15px;
-    text-align: left;
-  }
-}
-
-.item__note {
-  @include grid-column(12);
-  box-sizing: border-box;
-  margin-left: 0;
-  padding-right: 15px;
-}
-
-.list--unstyled {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.modal-overlay {
-  display: none;
-  &.is-open {
-    display: block;
-    height: 100%;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.15);
-    position: fixed;
-    top: 0;
-    left: 0;
-  }
-}
-
-.modal-overlay__close {
-  height: 100%;
-  width: 100%;
-}
-
-.modal-content {
-  width: 50%;
-  min-height: 50%;
-  background: #FFFFFF;
-  position: relative;
-  top: 25%;
-  left: 25%;
-}
-
-.modal-body {
-  padding: 0 25px 25px 25px;
-  box-sizing: border-box;
-}
-
-.results-wrapper {
-  @include grid-column(10);
-  @include grid-push(1);
-  margin-bottom: 40px;
-  min-height: 50vh;
 }
 
 .results__loading {
@@ -231,22 +80,6 @@ h2:not(:first-child) {
     color: $dark-gray;
   }
 }
-
-.tile__authors, .tile__callnumber {
-  @extend .tile__date;
-  line-height: normal;
-}
-
-.results__summary {
-  font-family: $sans-serif-stack;
-  font-size: 28px;
-  color: $deep-navy;
-  margin-left: $gutters-default;
-  margin-top: 31px;
-  margin-bottom: 18px;
-  font-weight: normal;
-}
-
 input[name=ScheduledDate] {
   width: 80%;
 }

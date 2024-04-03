@@ -6,7 +6,7 @@
   {%- assign field = splitNote[0] | strip -%}
   {%- capture note_content -%}{% include note_content.html object=include.object field=field %}{%- endcapture -%}
   {%- if note_content.size > 1 -%}
-  <div class="container item__note">
+  <div>
     <h3>{{splitNote[1]}}</h3>
     <p>{{note_content}}</p>
   </div>
