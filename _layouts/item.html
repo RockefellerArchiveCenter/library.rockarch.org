@@ -5,22 +5,22 @@ layout: default
 {% capture object_id %}{{page.id}}{% endcapture %}
 {% assign object = site.data.marc[object_id] %}
 
-<div class="wrapper item__header">
+<div class="wrapper item__header mt-30">
   <div class="item__header-left">
-    <h1 class="page__title item__title">
+    <h1>
       {{ page.title }}
     </h1>
-    <p class="item__callnumber">Call Number: {% include call_number.html object=object %}</p>
+    <p>Call Number: {% include call_number.html object=object %}</p>
   </div>
-  <div class="item__header-right">
+  <div class="mt-13">
     <button class="btn btn--blue btn--md" data-micromodal-trigger="modal__date">
       Request in Reading Room
     </button>
   </div>
 </div>
 
-<div class="grid">
-  <div class="p-10" style="grid-column: 1 / span 4">
+<div class="item__details mt-20 mb-20">
+  <div>
     <h2>Authors</h2>
     {%- capture authors -%}{%- include author_list.html object=object separator="|" -%}{%- endcapture -%}
     {%- assign authors = authors | split: "|" -%}
@@ -33,7 +33,7 @@ layout: default
   {%- capture subjects -%}{%- include subject_list.html object=object separator="|" -%}{%- endcapture -%}
   {% if subjects.size > 0 %}
   {% assign subjects = subjects | split: "|" | uniq %}
-  <div class="p-10" style="grid-column: 5 / span 4">
+  <div>
     <h2>Subject Terms</h2>
     <ul class="list--unstyled">
     {%- for subject in subjects -%}
@@ -42,16 +42,15 @@ layout: default
     </ul>
   </div>
   {% endif %}
-  <div class="p-10" style="grid-column: 9 / span 4">
+  <div>
     <h2>Published</h2>
     {% include publication_info.html object=object %}
   </div>
-
+</div>
+<div class="mb-40">
   {% capture notes %}{% include note_list.html object=object %}{% endcapture %}
   {% if notes.size > 1 %}
-  <div class="p-10" style="grid-column: 1 / span 4">
-    <h2>Notes</h2>
-    {% include note_list.html object=object %}
-  </div>
+  <h2>Notes</h2>
+  {% include note_list.html object=object %}
   {% endif %}
 </div>

@@ -2,11 +2,11 @@
 
 @mixin input-text {
   font-family: $sans-serif-stack;
-  color: $dark-gray;
+  color: $night-grey;
 }
 
 @mixin placeholder-text {
-  color: $med-gray;
+  color: $mortar-grey;
   font-size: 18px;
 }
 

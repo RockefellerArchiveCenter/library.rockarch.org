@@ -1,5 +1,91 @@
-.search {
-  background: #E3E1DD;
+// Breakpoints map
+$break-md: 580px;
+$break-lg: 1024px;
+
+@mixin md-up {
+  @media screen and (min-width: $break-md) { @content; }
+}
+
+@mixin lg-up {
+  @media screen and (min-width: $break-lg) { @content; }
+}
+
+#main {
+  grid-column: 2 / span 10;
+}
+
+.hero {
+  margin-top: 10px;
+  @include md-up {
+    margin-top: 113px;
+  }
+  @include lg-up {
+    margin-top: 103px;
+  }
+}
+
+h2 {
+  margin-top: 0;
+}
+
+.search--home {
+  justify-content: center;
+  @include md-up {
+    margin: 59px 75px 90px 75px;
+  }
+  @include lg-up {
+    margin: 64px 118px 90px 118px;
+  }
+}
+
+.input-group__search {
+  margin-top: 15px;
+  margin-bottom: 190px;
+}
+
+.search--bar {
+  width: 100%;
+  background: $wan-white-grey;
+  justify-content: center;
+  padding: 15px 0px;
+}
+
+.search--interior {
+  justify-content: center;
+  & .input-group__search {
+    width: 50%;
+    margin: 0;
+  }
+}
+
+.card-list {
+  @include md-up {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.item__header {
+  @include lg-up {
+    justify-content: space-between;
+    display: flex;
+  }
+  display: block;
+}
+
+.item__header-left h1 {
+  margin: 0; //removes the default h1 margins from the style library
+}
+
+.item__header-left {
+}
+
+.item__details {
+  display: block;
+  @include md-up {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+  }
 }
 
 .modal__overlay {
@@ -17,7 +103,7 @@
 }
 
 .wrapper--home {
-  background: $off-white;
+  background: $desert-grey;
 }
 
 .results__loading {
@@ -48,38 +134,6 @@
   flex-wrap: wrap;
 }
 
-.tile {
-  position: relative;
-  min-height: 120px;
-  @media screen and (min-width: $break-lg) {
-    min-height: 130px;
-  }
-}
-
-.tile__title {
-  border-bottom: none;
-  padding-bottom: 0;
-  margin: 0;
-}
-
-.tile__link {
-  min-height: 0;
-  font-size: inherit;
-  font-family: inherit;
-  color: $dark-gray;
-  &::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-  &:hover {
-    text-decoration: none;
-    color: $dark-gray;
-  }
-}
 input[name=ScheduledDate] {
   width: 80%;
 }
@@ -127,15 +181,15 @@ input[name=ScheduledDate] {
   border-radius: 3px;
   padding: 6px 8px;
   transition: $transition-default;
-  background: $off-white;
-  color: $med-gray;
-  border: 1px solid $light-med-gray;
+  background: $desert-grey;
+  color: $mortar-grey;
+  border: 1px solid $dark-grey;
   &:hover {
-    background: $lighter-gray;
-    color: $med-gray;
+    background: $desert-grey;
+    color: $mortar-grey;
   }
 }
 
 .ui-datepicker-header {
-  background: $neutral-sand;
+  background: $wan-white-grey;
 }

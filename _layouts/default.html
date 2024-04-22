@@ -11,7 +11,9 @@
     {% comment %}Shows search bar on interior pages{% endcomment %}
     {% if page.dir != "/" %}
       <div class="wrapper">
-        {% include search.html class="search--interior" %}
+        <div class="search--bar">
+          {% include search.html class="search--interior" %}
+        </div>
       </div>
       {% capture object_id %}{{page.id}}{% endcapture %}
       {% assign object = site.data.marc[object_id] %}
@@ -22,9 +24,11 @@
     {% else %}
     <div class="wrapper">
     {% endif %}
-      <main id="main">
-        {{content}}
-      </main>
+      <div class="container grid">
+        <main id="main">
+          {{content}}
+        </main>
+      </div>
     </div>
     {% include footer.html %}
     {% include request_modal.html object=object %}
