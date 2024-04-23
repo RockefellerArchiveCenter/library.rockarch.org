@@ -1,7 +1,3 @@
-// Breakpoints map
-$break-md: 580px;
-$break-lg: 1024px;
-
 @mixin md-up {
   @media screen and (min-width: $break-md) { @content; }
 }
@@ -65,22 +61,21 @@ h2 {
 }
 
 .item__header {
+  display: block;
+
   @include lg-up {
     justify-content: space-between;
     display: flex;
   }
-  display: block;
 }
 
 .item__header-left h1 {
   margin: 0; //removes the default h1 margins from the style library
 }
 
-.item__header-left {
-}
-
 .item__details {
   display: block;
+
   @include md-up {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -127,11 +122,6 @@ h2 {
     opacity: 0;
     transition: opacity 0.2s ease;
   }
-}
-
-.tile-list {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 input[name=ScheduledDate] {
