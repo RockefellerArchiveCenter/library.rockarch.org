@@ -69,6 +69,10 @@ h2 {
   }
 }
 
+.item__header-left {
+  max-width: 70%;
+}
+
 .item__header-left h1 {
   margin: 0; //removes the default h1 margins from the style library
 }
