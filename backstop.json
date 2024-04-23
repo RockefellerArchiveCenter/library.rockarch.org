@@ -33,7 +33,7 @@
       "label": "Search Results",
       "url": "http://host.docker.internal:4000/search/?query=apple&field=",
       "onBeforeScript": "create-index.js",
-      "readySelector": "ul.tile-list"
+      "readySelector": "ul.card-list"
 
     },
     {
@@ -43,7 +43,7 @@
     {
       "label": "Request in Reading Room Modal",
       "url": "http://host.docker.internal:4000/items/ocm45636873/",
-      "clickSelector": "div.item__header-right > button",
+      "clickSelector": "div.item__header > div.mt-13 > button",
       "readySelector": "div.modal-form__input > button.ui-datepicker-trigger"
     }
   ],
