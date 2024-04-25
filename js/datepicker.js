@@ -31,9 +31,9 @@ function dayTripper() {
       // Hide the entire page (except the date picker)
       // from screen readers to prevent document navigation
       // (by headings, etc.) while the popup is open
-      $("main").attr('id','dp-container');
+      // $("main").attr('id','dp-container'); //dp-container should include entire page behind modal
       $("#dp-container").attr('aria-hidden','true');
-      $("#skipnav").attr('aria-hidden','true');
+      // $("#skipnav").attr('aria-hidden','true');
 
       // Hide the "today" button because it doesn't do what
       // you think it supposed to do
@@ -200,7 +200,7 @@ function closeCalendar() {
 function removeAria() {
   // make the rest of the page accessible again:
   $("#dp-container").removeAttr('aria-hidden');
-  $("#skipnav").removeAttr('aria-hidden');
+  // $("#skipnav").removeAttr('aria-hidden');
 }
 
 ///////////////////////////////
