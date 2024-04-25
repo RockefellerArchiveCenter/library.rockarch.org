@@ -6,8 +6,16 @@
   @media screen and (min-width: $break-lg) { @content; }
 }
 
+h2 {
+  margin-top: 0;
+}
+
 #main {
   grid-column: 2 / span 10;
+}
+
+.wrapper--home {
+  background: $desert-grey;
 }
 
 .hero {
@@ -18,10 +26,6 @@
   @include lg-up {
     margin-top: 103px;
   }
-}
-
-h2 {
-  margin-top: 0;
 }
 
 .search--home {
@@ -37,6 +41,14 @@ h2 {
 .input-group__search {
   margin-top: 15px;
   margin-bottom: 190px;
+}
+
+.select__search--wrapper {
+  display: none;
+
+  @include lg-up {
+    display: inline-block;
+  }
 }
 
 .search--bar {
@@ -87,22 +99,10 @@ h2 {
   }
 }
 
-.modal__overlay {
-    display: none;
-}
-
-.modal__overlay.is-open {
-    display: block;
-}
-
 .not-found {
   margin-top: 100px;
   margin-bottom: 200px;
   text-align: center;
-}
-
-.wrapper--home {
-  background: $desert-grey;
 }
 
 .results__loading {
@@ -126,6 +126,14 @@ h2 {
     opacity: 0;
     transition: opacity 0.2s ease;
   }
+}
+
+.modal__overlay.is-open {
+  display: block;
+}
+
+.modal__overlay {
+  display: none;
 }
 
 input[name=ScheduledDate] {
