@@ -1,7 +1,7 @@
  /** Displays search results in the DOM */
  function displaySearchResults(results, displayQuery, searchField) {
    if (results.length) { // Are there any results?
-     var appendString = '<ul class="card-list list--unstyled">'
+     var appendString = '<ul class="card-list">'
 
      $.getJSON("/search_data.json", function(documents){
        for (r in results) {  // Iterate over the results
