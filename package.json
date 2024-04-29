@@ -4,7 +4,8 @@
   "description": "The Online Bibliographic Catalog of Rockefeller Archive Center",
   "main": "index.html",
   "dependencies": {
-    "lunr": "^2.3.9"
+    "lunr": "^2.3.9",
+    "micromodal": "^0.4.10"
   },
   "devDependencies": {
     "backstopjs": "^6.3.21",

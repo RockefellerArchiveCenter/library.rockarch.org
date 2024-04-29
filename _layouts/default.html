@@ -3,34 +3,34 @@
 <html>
   {% include head.html %}
   <body>
-    <nav>
+    <div id="dp-container">
       <a href="#main" class="skip-link visually-hidden">Jump directly to main content</a>
-    </nav>
-    {% include header.html %}
-    {% include scripts.html %}
-    {% comment %}Shows search bar on interior pages{% endcomment %}
-    {% if page.dir != "/" %}
+      {% include header.html %}
+      {% include scripts.html %}
+      {% comment %}Shows search bar on interior pages{% endcomment %}
+      {% if page.dir != "/" %}
+        <div class="wrapper">
+          <div class="search--bar">
+            {% include search.html class="search--interior" %}
+          </div>
+        </div>
+        {% capture object_id %}{{page.id}}{% endcapture %}
+        {% assign object = site.data.marc[object_id] %}
+      {% endif %}
+      {% comment %}Displays home page on root URL{% endcomment %}
+      {% if page.dir == "/" %}
+      <div class="wrapper--home">
+      {% else %}
       <div class="wrapper">
-        <div class="search--bar">
-          {% include search.html class="search--interior" %}
+      {% endif %}
+        <div class="container grid">
+          <main id="main">
+            {{content}}
+          </main>
         </div>
       </div>
-      {% capture object_id %}{{page.id}}{% endcapture %}
-      {% assign object = site.data.marc[object_id] %}
-    {% endif %}
-    {% comment %}Displays home page on root URL{% endcomment %}
-    {% if page.dir == "/" %}
-    <div class="wrapper--home">
-    {% else %}
-    <div class="wrapper">
-    {% endif %}
-      <div class="container">
-        <main id="main">
-          {{content}}
-        </main>
-      </div>
+      {% include footer.html %}
     </div>
-    {% include footer.html %}
     {% include request_modal.html object=object %}
   </body>
 </html>

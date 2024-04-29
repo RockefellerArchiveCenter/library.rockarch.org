@@ -1,13 +1,13 @@
-<div id="request_modal" class="modal-overlay" aria-hidden="true">
-  <div class="modal-overlay__close" data-micromodal-close>
-    <div class="modal-content" role="dialog">
-      <div class="modal-header">
-        <h2 tabindex="0" class="modal-header__title">Request in Reading Room</h2>
-        <button class="modal-header__button" aria-label="Close">
-          <span class="material-icons" aria-hidden="true" data-micromodal-close>close</span>
+<div id="modal__date" class="modal__overlay" aria-hidden="true">
+  <div data-micromodal-close>
+    <div class="modal" tabindex="-1" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <div class="modal__header">
+        <h2 id="modalTitle" class="modal__header-title">Request in Reading Room</h2>
+        <button class="modal__header-button" aria-label="Close" data-micromodal-close>
+          <span class="material-icon" aria-hidden="true">close</span>
         </button>
       </div>
-      <div class="modal-body">
+      <div class="modal__body">
         <h3>Request "{{page.title}}"</h3>
         <form method="post" action="https://raccess.rockarch.org/aeon.dll">
           <div class="modal-form__input-group">
@@ -25,12 +25,12 @@
             <input type="hidden" name="CallNumber" value="{% include call_number.html object=include.object %}">
             <input type="hidden" name="ItemInfo3" value="{{site.url}}/items/{{page.id}}/">
             <div class="modal-form__input">
-              <label id="datepickerLabel" for="datepicker">Scheduled date of visit (mm/dd/yyyy) *</label>
+              <label for="datepicker">Scheduled date of visit (mm/dd/yyyy) *</label>
               <input type="text" id="datepicker" name="ScheduledDate" pattern="\d{1,2}/\d{1,2}/\d{4}" required=required />
             </div>
             <div class="modal-form__buttons">
-              <button type="submit" class="btn btn--orange btn--sm">Request Item</button>
-              <button type="reset" class="btn btn--gray btn--sm" data-micromodal-close>Cancel</button>
+              <button type="submit" class="btn btn--sm btn--orange">Request Item</button>
+              <button type="reset" class="btn btn--sm btn--gray" data-micromodal-close>Cancel</button>
             </div>
           </div>
         </form>
