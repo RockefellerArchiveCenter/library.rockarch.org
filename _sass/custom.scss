@@ -128,6 +128,18 @@ h2 {
   }
 }
 
+.modal {
+  right: 20%;
+  left: 20%;
+  bottom: 40%;
+  overflow: hidden;
+  @include lg-up {
+    right: 30%;
+    left: 30%;
+    bottom: 40%;
+  }
+}
+
 .modal__overlay.is-open {
   display: block;
 }
@@ -194,18 +206,4 @@ input[name=ScheduledDate] {
 
 .ui-datepicker-header {
   background: $wan-white-grey;
-}
-
-$confirm-modal-content-margin: 10%;
-$confirm-modal-content-margin-lg: 30%;
-
-.modal {
-  top: $confirm-modal-content-margin;
-  left: $confirm-modal-content-margin;
-  right: $confirm-modal-content-margin;
-  @include lg-up {
-    top: $confirm-modal-content-margin-lg;
-    left: $confirm-modal-content-margin-lg;
-    right: $confirm-modal-content-margin-lg;
-  }
 }
