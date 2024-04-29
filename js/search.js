@@ -1,19 +1,19 @@
  /** Displays search results in the DOM */
  function displaySearchResults(results, displayQuery, searchField) {
    if (results.length) { // Are there any results?
-     var appendString = '<ul class="tile-list">'
+     var appendString = '<ul class="card-list">'
 
      $.getJSON("/search_data.json", function(documents){
        for (r in results) {  // Iterate over the results
          let item = documents[results[r].ref];
          appendString +=
-           `<li class="tile">
-             <h2 class="tile__title">
-               <a class="tile__link" href="${item.url}">${item.title}</a>
-             </h2>
-             <p class="tile__callnumber">${item.call_number}</p>
-             <p class="tile__authors"><strong>Author(s)</strong>: ${item.author}</p>
-             <p class="tile__date"><strong>Published</strong>: ${item.dates}</p>
+           `<li class="card">
+              <div class="card__body">
+                <a class="card__title" href="${item.url}">${item.title}</a>
+                <p class="card__body-text">${item.call_number}</p>
+                <p class="card__body-text"><strong>Author(s)</strong>: ${item.author}</p>
+                <p class="card__body-text"><strong>Published</strong>: ${item.dates}</p>
+              </div>
            </li>`;
        }
        appendString += '</ul>'

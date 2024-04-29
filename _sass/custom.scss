@@ -1,31 +1,64 @@
-.btn--blue {
-  background: $deep-blue;
-  color: $pure-white;
-  border: 1px solid $deep-blue;
-  &:hover {
-    background: $dark-blue;
-    border: 1px solid $dark-blue;
+@mixin md-up {
+  @media screen and (min-width: $break-md) { @content; }
+}
+
+@mixin lg-up {
+  @media screen and (min-width: $break-lg) { @content; }
+}
+
+h2 {
+  margin-top: 0;
+}
+
+#main {
+  grid-column: 2 / span 10;
+}
+
+.wrapper--home {
+  background: $desert-grey;
+}
+
+.hero {
+  margin-top: 10px;
+  @include md-up {
+    margin-top: 113px;
+  }
+  @include lg-up {
+    margin-top: 103px;
   }
 }
 
+.search--home {
+  justify-content: center;
+  @include md-up {
+    margin: 59px 75px 90px 75px;
+  }
+  @include lg-up {
+    margin: 64px 118px 90px 118px;
+  }
+}
 
-.not-found {
-  margin-top: 100px;
-  margin-bottom: 200px;
-  text-align: center;
+.input-group__search {
+  margin-top: 15px;
+  margin-bottom: 190px;
+}
+
+.select__search--wrapper {
+  display: none;
+
+  @include lg-up {
+    display: inline-block;
+  }
 }
 
 .search--bar {
   width: 100%;
-  background: $neutral-sand;
+  background: $wan-white-grey;
   justify-content: center;
   padding: 15px 0px;
 }
 
 .search--interior {
-  @include grid-column(12);
-  float: left;
-  display: flex;
   justify-content: center;
   & .input-group__search {
     width: 50%;
@@ -33,142 +66,43 @@
   }
 }
 
-.select__search--wrapper::after {
-  // Makes the down arrow in the search bar clickable
-  pointer-events: none;
+.card-list {
+  @include md-up {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .item__header {
-  flex-wrap: wrap;
-}
+  display: block;
 
-.item__header-left  {
-  @include grid-column(10);
-  @media screen and (min-width: $break-lg) {
-    @include grid-column(7);
+  @include lg-up {
+    justify-content: space-between;
+    display: flex;
   }
 }
 
-.item__title  {
-  @include page-title;
-  font-size: 32px;
-  margin-bottom: 10px;
-  @media screen and (min-width: $break-lg) {
-    font-size: 36px;
+.item__header-left {
+  max-width: 70%;
+}
+
+.item__header-left h1 {
+  margin: 0; //removes the default h1 margins from the style library
+}
+
+.item__details {
+  display: block;
+
+  @include md-up {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
   }
 }
 
-.item__callnumber {
-  font-family: $sans-serif-stack;
-  font-size: 18px;
-}
-
-.item__header-right {
-  @include grid-column(10);
-  margin-top: 30px;
-  @media screen and (min-width: $break-lg) {
-    @include grid-column(3);
-    text-align: right;
-    margin-right: $gutters-default;
-  }
-}
-
-.wrapper--home {
-  background: $off-white;
-}
-
-.wrapper--flex-wrap {
-  @extend .wrapper;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
-.item-details {
-  @include grid-column(10);
-  @include grid-push(1);
-  font-family: $sans-serif-stack;
-  padding-bottom: 80px;
-  margin-top: 20px;
-  & p, ul {
-    font-family: $sans-serif-stack;
-  }
-}
-
-.item-details__label {
-  margin-top: 0;
-  margin-bottom: 0;
-  border: none;
-}
-
-// overrides very specific rule
-h2:not(:first-child) {
-    margin-top: 30px;
-}
-
-.item__attribute {
-  @include grid-column(12);
-  box-sizing: border-box;
-  margin-left: 0;
-  padding-right: 15px;
-  @media screen and (min-width: $break-md) {
-    @include grid-column(4);
-    margin-left: 0;
-    padding-right: 15px;
-    text-align: left;
-  }
-}
-
-.item__note {
-  @include grid-column(12);
-  box-sizing: border-box;
-  margin-left: 0;
-  padding-right: 15px;
-}
-
-.list--unstyled {
-  list-style: none;
-  padding-left: 0;
-  margin-top: 0;
-  margin-bottom: 0;
-}
-
-.modal-overlay {
-  display: none;
-  &.is-open {
-    display: block;
-    height: 100%;
-    width: 100%;
-    background: rgba(0, 0, 0, 0.15);
-    position: fixed;
-    top: 0;
-    left: 0;
-  }
-}
-
-.modal-overlay__close {
-  height: 100%;
-  width: 100%;
-}
-
-.modal-content {
-  width: 50%;
-  min-height: 50%;
-  background: #FFFFFF;
-  position: relative;
-  top: 25%;
-  left: 25%;
-}
-
-.modal-body {
-  padding: 0 25px 25px 25px;
-  box-sizing: border-box;
-}
-
-.results-wrapper {
-  @include grid-column(10);
-  @include grid-push(1);
-  margin-bottom: 40px;
-  min-height: 50vh;
+.not-found {
+  margin-top: 100px;
+  margin-bottom: 200px;
+  text-align: center;
 }
 
 .results__loading {
@@ -194,57 +128,24 @@ h2:not(:first-child) {
   }
 }
 
-.tile-list {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-.tile {
-  position: relative;
-  min-height: 120px;
-  @media screen and (min-width: $break-lg) {
-    min-height: 130px;
+.modal {
+  right: 20%;
+  left: 20%;
+  bottom: 40%;
+  overflow: hidden;
+  @include lg-up {
+    right: 30%;
+    left: 30%;
+    bottom: 40%;
   }
 }
 
-.tile__title {
-  border-bottom: none;
-  padding-bottom: 0;
-  margin: 0;
+.modal__overlay.is-open {
+  display: block;
 }
 
-.tile__link {
-  min-height: 0;
-  font-size: inherit;
-  font-family: inherit;
-  color: $dark-gray;
-  &::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-  }
-  &:hover {
-    text-decoration: none;
-    color: $dark-gray;
-  }
-}
-
-.tile__authors, .tile__callnumber {
-  @extend .tile__date;
-  line-height: normal;
-}
-
-.results__summary {
-  font-family: $sans-serif-stack;
-  font-size: 28px;
-  color: $deep-navy;
-  margin-left: $gutters-default;
-  margin-top: 31px;
-  margin-bottom: 18px;
-  font-weight: normal;
+.modal__overlay {
+  display: none;
 }
 
 input[name=ScheduledDate] {
@@ -294,15 +195,15 @@ input[name=ScheduledDate] {
   border-radius: 3px;
   padding: 6px 8px;
   transition: $transition-default;
-  background: $off-white;
-  color: $med-gray;
-  border: 1px solid $light-med-gray;
+  background: $desert-grey;
+  color: $mortar-grey;
+  border: 1px solid $dark-grey;
   &:hover {
-    background: $lighter-gray;
-    color: $med-gray;
+    background: $desert-grey;
+    color: $mortar-grey;
   }
 }
 
 .ui-datepicker-header {
-  background: $neutral-sand;
+  background: $wan-white-grey;
 }
