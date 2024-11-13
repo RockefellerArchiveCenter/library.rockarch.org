@@ -11,8 +11,7 @@ jobs:
 
     env:
       NOKOGIRI_USE_SYSTEM_LIBRARIES: true
-      JEKYLL_ENV: development
-      TRAVIS_CI: true
+      JEKYLL_ENV: ci
 
     steps:
       - name: Checkout code
