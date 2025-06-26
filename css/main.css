@@ -1,10 +1,4 @@
-@mixin md-up {
-  @media screen and (min-width: $break-md) { @content; }
-}
-
-@mixin lg-up {
-  @media screen and (min-width: $break-lg) { @content; }
-}
+/* Local styles */
 
 h2 {
   margin-top: 0;
@@ -15,25 +9,28 @@ h2 {
 }
 
 .wrapper--home {
-  background: $desert-grey;
+  background: #f6f6f4;
 }
 
 .hero {
   margin-top: 10px;
-  @include md-up {
+
+  @media screen and (min-width: 580px) {
     margin-top: 113px;
   }
-  @include lg-up {
+  @media screen and (min-width: 1024px) {
     margin-top: 103px;
   }
 }
 
 .search--home {
   justify-content: center;
-  @include md-up {
+
+  @media screen and (min-width: 580px) {
     margin: 59px 75px 90px 75px;
   }
-  @include lg-up {
+
+  @media screen and (min-width: 1024px) {
     margin: 64px 118px 90px 118px;
   }
 }
@@ -46,28 +43,29 @@ h2 {
 .select__search--wrapper {
   display: none;
 
-  @include lg-up {
+  @media screen and (min-width: 1024px) {
     display: inline-block;
   }
 }
 
 .search--bar {
   width: 100%;
-  background: $wan-white-grey;
+  background: #e3e1dd;
   justify-content: center;
   padding: 15px 0px;
 }
 
 .search--interior {
   justify-content: center;
-  & .input-group__search {
+
+  .input-group__search {
     width: 50%;
     margin: 0;
   }
 }
 
 .card-list {
-  @include md-up {
+  @media screen and (min-width: 580px) {
     grid-template-columns: repeat(3, 1fr);
   }
 }
@@ -75,7 +73,7 @@ h2 {
 .item__header {
   display: block;
 
-  @include lg-up {
+  @media screen and (min-width: 1024px) {
     justify-content: space-between;
     display: flex;
   }
@@ -86,13 +84,13 @@ h2 {
 }
 
 .item__header-left h1 {
-  margin: 0; //removes the default h1 margins from the style library
+  margin: 0; /*removes the default h1 margins from the style library*/
 }
 
 .item__details {
   display: block;
 
-  @include md-up {
+  @media screen and (min-width: 580px) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
@@ -111,6 +109,7 @@ h2 {
   opacity: 0;
   height: 0;
   transition: opacity 0.2s ease;
+
   &.is-loading {
     margin-top: 4rem;
     opacity: 1;
@@ -122,6 +121,7 @@ h2 {
 .results__list {
   opacity: 1;
   transition: opacity 0.2s ease;
+
   &.is-loading {
     opacity: 0;
     transition: opacity 0.2s ease;
@@ -133,7 +133,8 @@ h2 {
   left: 20%;
   bottom: 40%;
   overflow: hidden;
-  @include lg-up {
+
+  @media screen and (min-width: 1024px) {
     right: 30%;
     left: 30%;
     bottom: 40%;
@@ -175,35 +176,35 @@ input[name=ScheduledDate] {
 }
 
 .ui-widget, .ui-widget a {
-  font-family: $sans-serif-stack;
+  font-family: 'Lato', sans-serif;
   font-size: 14px;
   line-height: 22px;
   margin: 0;
   vertical-align: unset;
 }
 
-// Center text in calendar days
 .ui-datepicker td span, .ui-datepicker td a {
   text-align: center;
 }
 
 .ui-datepicker .ui-datepicker-buttonpane button {
-  font-family: $sans-serif-stack;
+  font-family: 'Lato', sans-serif;
   font-weight: 700;
   font-size: 10px;
   text-transform: uppercase;
   border-radius: 3px;
   padding: 6px 8px;
-  transition: $transition-default;
-  background: $desert-grey;
-  color: $mortar-grey;
-  border: 1px solid $dark-grey;
+  transition: all 0.2s ease;
+  background: #f6f6f4;
+  color: #5c5c5c;
+  border: 1px solid #a8a8a8;
+  
   &:hover {
-    background: $desert-grey;
-    color: $mortar-grey;
+    background: #f6f6f4;
+    color: #5c5c5c;
   }
 }
 
 .ui-datepicker-header {
-  background: $wan-white-grey;
+  background: #e3e1dd;
 }
