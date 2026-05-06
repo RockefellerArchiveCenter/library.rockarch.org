@@ -15,10 +15,10 @@ h2 {
 .hero {
   margin-top: 10px;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin-top: 113px;
   }
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     margin-top: 103px;
   }
 }
@@ -26,11 +26,11 @@ h2 {
 .search--home {
   justify-content: center;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     margin: 59px 75px 90px 75px;
   }
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     margin: 64px 118px 90px 118px;
   }
 }
@@ -43,7 +43,7 @@ h2 {
 .select__search--wrapper {
   display: none;
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     display: inline-block;
   }
 }
@@ -65,7 +65,7 @@ h2 {
 }
 
 .card-list {
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     grid-template-columns: repeat(3, 1fr);
   }
 }
@@ -73,7 +73,7 @@ h2 {
 .item__header {
   display: block;
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     justify-content: space-between;
     display: flex;
   }
@@ -90,7 +90,7 @@ h2 {
 .item__details {
   display: block;
 
-  @media screen and (min-width: 580px) {
+  @media screen and (min-width: 36.25em) {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 20px;
@@ -134,7 +134,7 @@ h2 {
   bottom: 40%;
   overflow: hidden;
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: 64em) {
     right: 30%;
     left: 30%;
     bottom: 40%;

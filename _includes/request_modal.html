@@ -24,7 +24,7 @@
             <input type="hidden" name="ItemAuthor" value="{% include author_list.html object=include.object separator=', ' %}">
             <input type="hidden" name="CallNumber" value="{% include call_number.html object=include.object %}">
             <input type="hidden" name="ItemInfo3" value="{{site.url}}/items/{{page.id}}/">
-            <div class="modal-form__input">
+            <div class="modal-form__input input">
               <label for="datepicker">Scheduled date of visit (mm/dd/yyyy) *</label>
               <input type="text" id="datepicker" name="ScheduledDate" pattern="\d{1,2}/\d{1,2}/\d{4}" required=required />
             </div>
