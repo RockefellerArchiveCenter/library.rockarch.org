@@ -104,13 +104,12 @@ h2 {
 }
 
 .results__loading {
-  margin-top: 0;
-  text-align: center;
-  opacity: 0;
-  height: 0;
+  display: none;
   transition: opacity 0.2s ease;
 
   &.is-loading {
+    display: block;
+    text-align: center;
     margin-top: 4rem;
     opacity: 1;
     height: 100%;
