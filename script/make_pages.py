@@ -5,6 +5,7 @@ import sys
 from os import listdir, mkdir, pardir
 from os.path import abspath, basename, isdir, join
 
+SITE_TITLE = "Rockefeller Archive Center Library Catalog"
 OBJ_PREFIX = "items"
 DATA_DIR = abspath(join(__file__, pardir, pardir, "_data", "marc"))
 PAGE_DIR = abspath(join(__file__, pardir, pardir, OBJ_PREFIX))
@@ -37,11 +38,13 @@ def make_pages():
     for f in listdir(DATA_DIR):
         with open(join(DATA_DIR, f), "r") as df:
             data = json.load(df)
-            title = construct_title(data["fields"])
+            item_title = construct_title(data["fields"])
+            full_page_title = "{} - {}".format(item_title, SITE_TITLE)
             obj_id = dict_value_from_list(data["fields"], "001").rstrip("\\")
         with open(join(PAGE_DIR, "{}.md".format(obj_id)), "w") as page:
             page.write("---\nlayout: item\n")
-            page.write("title: \"{}\" \n".format(clean_string(title)))
+            page.write("item_title: \"{}\"\n".format(clean_string(item_title)))
+            page.write("title: \"{}\" \n".format(clean_string(full_page_title)))
             page.write("id: {}\n".format(obj_id))
             page.write("permalink: {}/{}/\n".format(OBJ_PREFIX, obj_id))
             page.write("---")
