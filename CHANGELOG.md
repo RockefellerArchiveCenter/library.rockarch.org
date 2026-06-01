@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.0.0...v1.0.1) (2026-06-01)
+
+
+### Bug Fixes
+
+* incorrect liquid syntax impacting form title data ([4a51479](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/4a51479b8215646caae28c3291becd90873bbe7d))
+* incorrect liquid syntax impacting form title data ([a054554](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/a05455406f0dd9dbf5638ab53b6fdd1837f9497d))
+* incorrect liquid syntax impacting title data ([b8391ec](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/b8391ec9ea6e8d0127500e69e1f8cb0745c18182))
+
 ## 1.0.0 (2026-05-28)
 
 
