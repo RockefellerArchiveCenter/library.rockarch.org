@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.2](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.0.1...v1.0.2) (2026-06-18)
+
+
+### Bug Fixes
+
+* update enforcer ([21fc565](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/21fc565459019f0625e5e18504dd3379260d39eb))
+* update release ([513cbf1](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/513cbf113d2b4620fb3e5532ac205073761276af))
+* update release ([14e90a7](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/14e90a798e2031438d30056e567e23f86498594c))
+* update workflows ([a3ebfc2](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/a3ebfc2f11714a9db2ba0dba40723a6340ac073a))
+* update workflows ([a3ebfc2](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/a3ebfc2f11714a9db2ba0dba40723a6340ac073a))
+* update workflows ([513cbf1](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/513cbf113d2b4620fb3e5532ac205073761276af))
+
 ## [1.0.1](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.0.0...v1.0.1) (2026-06-01)
 
 
