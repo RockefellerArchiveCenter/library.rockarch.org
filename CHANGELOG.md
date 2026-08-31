@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.0.4...v1.1.0) (2026-08-31)
+
+
+### Features
+
+* improve card list accessibility ([0eabd61](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/0eabd611f087619a0dd49d3aadbdd5fe2257cead))
+
 ## [1.0.4](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.0.3...v1.0.4) (2026-08-03)
 
 
