@@ -9,10 +9,10 @@
          appendString +=
            `<li class="card">
               <div class="card__body">
-                <a class="card__title" href="${item.url}">${item.title}</a>
-                <p class="card__body-text">${item.call_number}</p>
-                <p class="card__body-text"><strong>Author(s)</strong>: ${item.author}</p>
-                <p class="card__body-text"><strong>Published</strong>: ${item.dates}</p>
+                <h2 class="card__title"><a href="${item.url}">${item.title}</a></h2>
+                <p class="card__body-text"><span class="text--bold">Call Number</span>: ${item.call_number}</p>
+                <p class="card__body-text"><span class="text--bold">Author(s)</span>: ${item.author}</p>
+                <p class="card__body-text"><span class="text--bold">Published</span>: ${item.dates}</p>
               </div>
            </li>`;
        }
