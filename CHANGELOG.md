@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.1](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.0...v1.1.1) (2026-10-05)
+
+
+### Bug Fixes
+
+* **deps:** Dependency Updates ([f7af81b](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/f7af81b783289fd2c754c41e6ef76690dd989459))
+* **deps:** Dependency Updates ([f7af81b](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/f7af81b783289fd2c754c41e6ef76690dd989459))
+* **deps:** Dependency Updates ([e6166aa](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/e6166aa7fb6e27da497a6eea26e6442aafd7891b))
+* **deps:** Dependency Updates ([e6166aa](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/e6166aa7fb6e27da497a6eea26e6442aafd7891b))
+* **deps:** Scheduled dependency updates ([089cd9c](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/089cd9cb4ea140a4c2d62ad903e231f89266f97f))
+
 ## [1.1.0](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.0.4...v1.1.0) (2026-08-31)
 
 
