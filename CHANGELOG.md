@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.2](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.1...v1.1.2) (2026-10-19)
+
+
+### Bug Fixes
+
+* remove stray p tag ([e94a89d](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/e94a89d04d28e71e1628ff58b79f0ffeeb7d4e82))
+* update reading room hours in footer ([368ec3b](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/368ec3ba44a92d060dd674d62294cadca30cb2d4))
+* update reading room hours in footer ([137e47d](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/137e47db28474027a8ebcf58a3dde07f53668354))
+
 ## [1.1.1](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.0...v1.1.1) (2026-10-05)
 
 
