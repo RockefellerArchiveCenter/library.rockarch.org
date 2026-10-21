@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.1.3](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.2...v1.1.3) (2026-10-21)
+
+
+### Bug Fixes
+
+* update node ([06f1809](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/06f18094ea9da976e83b47466a477c39b50ccbd4))
+* update test workflow ([06f1809](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/06f18094ea9da976e83b47466a477c39b50ccbd4))
+* update test workflow ([573b969](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/573b969ad7086ae533956243403f7a3f4c143dc4))
+* update test workflow ([573b969](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/573b969ad7086ae533956243403f7a3f4c143dc4))
+* update test workflow ([deab2d2](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/deab2d2ce62486da541ccd2c073e16943de05825))
+
 ## [1.1.2](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.1...v1.1.2) (2026-10-19)
 
 
