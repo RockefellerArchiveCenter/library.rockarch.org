@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.5](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.4...v1.1.5) (2026-11-09)
+
+
+### Bug Fixes
+
+* a11y updates ([762b54d](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/762b54d52c5f08c3bfc8330ed1e2c6c00aa83b89))
+* a11y updates ([762b54d](https://github.com/RockefellerArchiveCenter/library.rockarch.org/commit/762b54d52c5f08c3bfc8330ed1e2c6c00aa83b89))
+
 ## [1.1.4](https://github.com/RockefellerArchiveCenter/library.rockarch.org/compare/v1.1.3...v1.1.4) (2026-11-02)
 
 
