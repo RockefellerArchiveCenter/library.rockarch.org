@@ -148,6 +148,7 @@ input[name=ScheduledDate] {
 }
 
 .ui-datepicker-trigger {
+  cursor: pointer;
   width: 20%;
   box-sizing: border-box;
   padding: 0 5%;
